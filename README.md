@@ -1,6 +1,13 @@
 # miniDSP BEQ
 
-Save files for movie BEQ for the miniDSP 2x4HD
+Save files for movie BEQ for the miniDSP 2x4HD. The BEQ settings are entered on both inputs' PEQ filters.  All other filters and settings are for left at a flat house curve for universal use.  
+
+## Save File Use
+In the miniDSP HD1 pluggin select the File Menu -> Load -> Load configuration to current slot.  An open dialog will appear. In it select the BEQ file for the movie you wish to load and press the open button.  The BEQ config is now loaded into the currently selected config slot.
+
+Note: Some files include a comment about a positive or negative gain in their name.  This is an adjustment that is made by increasing or decreasing your main volume.  
+
+![Load File](/images/loadFile.png)
 
 ## Git Setup
 Using git to clone the repositories has the advantage of easily updating the list as new BEQs are added and it will also update existing files if the BEQ for the movie has been updated. 
