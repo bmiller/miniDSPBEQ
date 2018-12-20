@@ -50,8 +50,8 @@
     <hex>00000002</hex>
   </item>
   <item name="MixerNxMSmoothed1_0_1_status" addr="7">
-    <dec>1</dec>
-    <hex>00000001</hex>
+    <dec>2</dec>
+    <hex>00000002</hex>
   </item>
   <item name="MixerNxMSmoothed1_0_2_status" addr="8">
     <dec>1</dec>
@@ -70,12 +70,12 @@
     <hex>00000002</hex>
   </item>
   <item name="MixerNxMSmoothed1_1_2_status" addr="12">
-    <dec>1</dec>
-    <hex>00000001</hex>
+    <dec>2</dec>
+    <hex>00000002</hex>
   </item>
   <item name="MixerNxMSmoothed1_1_3_status" addr="13">
-    <dec>1</dec>
-    <hex>00000001</hex>
+    <dec>2</dec>
+    <hex>00000002</hex>
   </item>
   <item name="FIR_3_0_status" addr="14">
     <dec>3</dec>
