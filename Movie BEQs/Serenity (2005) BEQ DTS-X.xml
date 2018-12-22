@@ -34,16 +34,16 @@
     <hex>00000002</hex>
   </item>
   <item name="DGain_4_0_status" addr="3">
-    <dec>1</dec>
-    <hex>00000001</hex>
+    <dec>2</dec>
+    <hex>00000002</hex>
   </item>
   <item name="DGain_5_0_status" addr="4">
-    <dec>1</dec>
-    <hex>00000001</hex>
+    <dec>2</dec>
+    <hex>00000002</hex>
   </item>
   <item name="DGain_6_0_status" addr="5">
-    <dec>1</dec>
-    <hex>00000001</hex>
+    <dec>2</dec>
+    <hex>00000002</hex>
   </item>
   <item name="MixerNxMSmoothed1_0_0_status" addr="6">
     <dec>2</dec>
