@@ -51,11 +51,14 @@ Press the new "New Branch button".  Then in the dialog that opens type in the na
 
 ### Committing
 
-Generate the xml save file from either BEQDesigner or from the miniDSP app and save it to the Movie or TV Shows folder of your local copy of the repository. In the GitHub app check the newBEQs branch is selected.  In the Changes tab on the left hand side of the screen it should be showing the xml file(s) that were saved. Check the checkbox next to the filename if it is not already checked.  Then in the Summary text box enter a note on what is being added.  The format I've been using is:
+
+Generate the xml save file from either BEQDesigner or from the miniDSP app and save it to the Movie or TV Shows folder of your local copy of the repository. In the GitHub app check the newBEQs branch is selected.  If you didn't just create the newBEQs branch, first update it by selecting "Update from Master" from the Branch menu.
+
+In the Changes tab on the left hand side of the screen it should be showing the xml file(s) that were saved. Check the checkbox next to the filename if it is not already checked.  Then in the Summary text box enter a note on what is being added.  The format I've been using is:
 
 ```
-Added: \<list of added movies\>
-Updated: \<list of updated movies\>
+Added: <list of added movies>
+Updated: <list of updated movies>
 ```
 	
 Once the note is added press the "Commit to newBEQs" button.  
