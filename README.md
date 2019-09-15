@@ -31,6 +31,34 @@ Press the Clone button.  This will download all of the BEQ files to your compute
 
 ### Load Updates
 
-After you clone the repository and when you relaunch GitHub Desktop the main windown will open and have the miniDSPBEQ repository selected.  To load any new BEQs or updates to existing ones press the "Fetch origin" button.  This will cause the app to check if any updates are available.  If updates are available the button will change to "Pull origin". Press it again to download the updates.  The folder on yoru computer with the save files is now updated to the latest BEQs.  
+After you clone the repository and when you relaunch GitHub Desktop the main window will open and have the miniDSPBEQ repository selected.  To load any new BEQs or updates to existing ones press the "Fetch origin" button.  This will cause the app to check if any updates are available.  If updates are available the button will change to "Pull origin". Press it again to download the updates.  The folder on your computer with the save files is now updated to the latest BEQs.  
 
 ![Fetch Updates](/images/fetchupdates.png)
+
+## Adding New BEQs
+
+Note: only authorized users can directly add to the repository
+
+### Create Branch
+
+First create a new branch called "newBEQs".  This only needs to be done the first time.  Start by selecting the branch selector.
+
+![Branch Switch](/images/branchSwitch.png)
+
+Press the new "New Branch button".  Then in the dialog that opens type in the name "newBEQs" and press the "Create" button.
+
+![New Branch](/images/newBranch.png)
+
+### Committing
+
+Generate the xml save file from either BEQDesigner or from the miniDSP app and save it to the Movie or TV Shows folder of your local copy of the repository. In the GitHub app check the newBEQs branch is selected.  In the Changes tab on the left hand side of the screen it should be showing the xml file(s) that were saved. Check the checkbox next to the filename if it is not already checked.  Then in the Summary text box enter a note on what is being added.  The format I've been using is:
+Added: \<list of added movies\>
+Updated: \<list of updated movies\>
+	
+Once the note is added press the "Commit to newBEQs" button.  
+
+![Commit](/images/commit.png)
+
+Finally, the new commit needs to be pushed to the server.  Press the "Push origin" button in in the window.  
+
+![Push](/images/push.png)
