@@ -802,13 +802,13 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>110</freq>
+    <freq>58</freq>
     <q>1</q>
-    <boost>0.7</boost>
+    <boost>1.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002891810469206,-1.993057087353402,0.9928195600454165,1.993057087353402,-0.9931087410923372,</dec>
-    <hex>3f80097a,bfff1c7f,3f7e296c,3fff1c7f,bf7e3c60,</hex>
+    <dec>1.000305723983465,-1.996489579936398,0.9961982410540033,1.996489579936398,-0.9965039650374683,</dec>
+    <hex>3f800a05,bfff8cf8,3f7f06d9,3fff8cf8,bf7f1ae2,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>1000</freq>
@@ -824,7 +824,7 @@
     <q>0.9</q>
     <boost>4</boost>
     <type>SL</type>
-    <bypass>0</bypass>
+    <bypass>1</bypass>
     <dec>1.000512684513757,-1.996037846267526,0.995545188899084,1.9960415417029707,-0.996054177977396,</dec>
     <hex>3f8010cd,bfff7e2b,3f7edc0d,3fff7e4a,bf7efd68,</hex>
   </filter>
@@ -887,18 +887,18 @@
     <q>0.9</q>
     <boost>3</boost>
     <type>SL</type>
-    <bypass>0</bypass>
+    <bypass>1</bypass>
     <dec>1.000075468907517,-1.9991992202320366,0.9991244841591181,1.9991993272457538,-0.9991998460529183,</dec>
     <hex>3f800279,bfffe5c3,3f7fc69f,3fffe5c3,bf7fcb90,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>110</freq>
+    <freq>58</freq>
     <q>1</q>
-    <boost>0.7</boost>
+    <boost>1.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002891810469206,-1.993057087353402,0.9928195600454165,1.993057087353402,-0.9931087410923372,</dec>
-    <hex>3f80097a,bfff1c7f,3f7e296c,3fff1c7f,bf7e3c60,</hex>
+    <dec>1.000305723983465,-1.996489579936398,0.9961982410540033,1.996489579936398,-0.9965039650374683,</dec>
+    <hex>3f800a05,bfff8cf8,3f7f06d9,3fff8cf8,bf7f1ae2,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>1000</freq>
@@ -914,7 +914,7 @@
     <q>0.9</q>
     <boost>4</boost>
     <type>SL</type>
-    <bypass>0</bypass>
+    <bypass>1</bypass>
     <dec>1.000512684513757,-1.996037846267526,0.995545188899084,1.9960415417029707,-0.996054177977396,</dec>
     <hex>3f8010cd,bfff7e2b,3f7edc0d,3fff7e4a,bf7efd68,</hex>
   </filter>
@@ -977,7 +977,7 @@
     <q>0.9</q>
     <boost>3</boost>
     <type>SL</type>
-    <bypass>0</bypass>
+    <bypass>1</bypass>
     <dec>1.000075468907517,-1.9991992202320366,0.9991244841591181,1.9991993272457538,-0.9991998460529183,</dec>
     <hex>3f800279,bfffe5c3,3f7fc69f,3fffe5c3,bf7fcb90,</hex>
   </filter>
