@@ -1,4 +1,4 @@
-<setting version="1.13">
+<setting version="1.14">
   <timestamp>0</timestamp>
   <dspversion>100</dspversion>
   <master_mute>0</master_mute>
@@ -851,7 +851,7 @@
     <q>0.8</q>
     <boost>4.7</boost>
     <type>SL</type>
-    <bypass>1</bypass>
+    <bypass>0</bypass>
     <dec>1.0001332405210175,-1.9991421971589436,0.9990097647909192,1.9991423660212113,-0.999142836449669,</dec>
     <hex>3f80045e,bfffe3e4,3f7fbf1b,3fffe3e6,bf7fc7d3,</hex>
   </filter>
@@ -941,7 +941,7 @@
     <q>0.8</q>
     <boost>4.7</boost>
     <type>SL</type>
-    <bypass>1</bypass>
+    <bypass>0</bypass>
     <dec>1.0001332405210175,-1.9991421971589436,0.9990097647909192,1.9991423660212113,-0.999142836449669,</dec>
     <hex>3f80045e,bfffe3e4,3f7fbf1b,3fffe3e6,bf7fc7d3,</hex>
   </filter>
