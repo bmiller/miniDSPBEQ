@@ -1416,6 +1416,7 @@
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
 		<beq_title>A Series of Unfortunate Events</beq_title>
+		<beq_sortTitle>A Series of Unfortunate Events</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL />
@@ -1426,9 +1427,10 @@
 		<beq_gain>+7.0 gain</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
-		<beq_author />
+		<beq_author>aron7awol</beq_author>
 		<beq_avs />
-		<beq_theMovieDB />
+		<beq_theMovieDB>65294</beq_theMovieDB>
+		<beq_poster>/qg7WXAatXyQq6zO3SnWnRJEayeZ.jpg</beq_poster>
 		<beq_audioTypes>
 			<value>DD 5.1</value>
 		</beq_audioTypes>
