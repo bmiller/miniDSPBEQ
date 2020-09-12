@@ -1416,10 +1416,10 @@
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
 		<beq_title>WALL·E</beq_title>
-		<beq_sortTitle>WALL·E</beq_sortTitle>
+		<beq_sortTitle>WALL-E</beq_sortTitle>
 		<beq_year>2008</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL />
+		<beq_spectrumURL>https://i.imgur.com/7h6n4XZ.jpg</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/sVRwyTV.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_season />
 		<beq_note />
@@ -1428,7 +1428,7 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs />
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57711596</beq_avs>
 		<beq_theMovieDB>10681</beq_theMovieDB>
 		<beq_poster>/Agc6lw8pb6BIGVeguvdjDT0p9Mb.jpg</beq_poster>
 		<beq_audioTypes>

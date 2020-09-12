@@ -1415,11 +1415,11 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>The Platform Master</beq_title>
-		<beq_sortTitle>Platform Master</beq_sortTitle>
+		<beq_title>The Platform</beq_title>
+		<beq_sortTitle>The Platform</beq_sortTitle>
 		<beq_year>2019</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL />
+		<beq_spectrumURL>https://i.imgur.com/HeoBEh8.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/jFHBlc8.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_season />
 		<beq_note />
@@ -1428,9 +1428,9 @@
 		<beq_language>Spanish</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs />
-		<beq_theMovieDB>660295</beq_theMovieDB>
-		<beq_poster>/vtQ8BS9htQ5TEVk3WDvnJFPOQdo.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59729136</beq_avs>
+		<beq_theMovieDB>619264</beq_theMovieDB>
+		<beq_poster>/8ZX18L5m6rH5viSYpRnTSbb9eXh.jpg</beq_poster>
 		<beq_audioTypes>
 			<value>DD+</value>
 		</beq_audioTypes>

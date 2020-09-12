@@ -1418,20 +1418,21 @@
 		<beq_title>Rogue One: A Star Wars Story</beq_title>
 		<beq_sortTitle>Rogue One: A Star Wars Story</beq_sortTitle>
 		<beq_year>2016</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL />
+		<beq_spectrumURL>https://i.imgur.com/2GuQ7bK.jpg</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/SgKWec5.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+6 gain</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Disc</beq_source>
+		<beq_source>Disney+</beq_source>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs />
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56834676</beq_avs>
 		<beq_theMovieDB>330459</beq_theMovieDB>
 		<beq_poster>/5jX3p0apUG5bkMHtnKZch0xpkBS.jpg</beq_poster>
 		<beq_audioTypes>
+			<value>DD+ Atmos</value>
 			<value>Atmos</value>
 		</beq_audioTypes>
 	</beq_metadata>

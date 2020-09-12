@@ -1416,10 +1416,10 @@
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
 		<beq_title>Raiders of the Lost Ark</beq_title>
-		<beq_sortTitle>Raiders of the Lost Ark</beq_sortTitle>
+		<beq_sortTitle>Indiana Jones and the Raiders of the Lost Ark</beq_sortTitle>
 		<beq_year>1981</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL />
+		<beq_spectrumURL>https://i.imgur.com/OTRA6Eg.jpg</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/3ncwmw2.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_season />
 		<beq_note />
@@ -1428,7 +1428,7 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs />
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57014778</beq_avs>
 		<beq_theMovieDB>85</beq_theMovieDB>
 		<beq_poster>/awUGN7ZCNq2EUTdpVaHDX23anOZ.jpg</beq_poster>
 		<beq_audioTypes>
