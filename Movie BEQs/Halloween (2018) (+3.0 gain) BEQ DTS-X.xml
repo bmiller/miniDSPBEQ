@@ -1431,8 +1431,13 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57394256</beq_avs>
 		<beq_theMovieDB>424139</beq_theMovieDB>
 		<beq_poster>/bXs0zkv2iGVViZEy78teg2ycDBm.jpg</beq_poster>
+		<beq_runtime>106</beq_runtime>
+		<beq_collection id="91361">Halloween Collection</beq_collection>
 		<beq_audioTypes>
-			<value>DTS-X</value>
+			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="27">Horror</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

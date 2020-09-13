@@ -1431,8 +1431,16 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58767198</beq_avs>
 		<beq_theMovieDB>454640</beq_theMovieDB>
 		<beq_poster>/ebe8hJRCwdflNQbUjRrfmqtUiNi.jpg</beq_poster>
+		<beq_runtime>96</beq_runtime>
+		<beq_collection id="531315">The Angry Birds Collection</beq_collection>
 		<beq_audioTypes>
-			<value>DTS-X</value>
+			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="10751">Family</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="16">Animation</genre>
+			<genre id="12">Adventure</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

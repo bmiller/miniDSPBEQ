@@ -1431,8 +1431,14 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56868774</beq_avs>
 		<beq_theMovieDB>259695</beq_theMovieDB>
 		<beq_poster>/bkd46T4RplawnDjpHoI8mhzTLks.jpg</beq_poster>
+		<beq_runtime>129</beq_runtime>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="80">Crime</genre>
+			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

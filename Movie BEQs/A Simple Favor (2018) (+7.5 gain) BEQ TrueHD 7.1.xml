@@ -1431,8 +1431,16 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57286058</beq_avs>
 		<beq_theMovieDB>484247</beq_theMovieDB>
 		<beq_poster>/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg</beq_poster>
+		<beq_runtime>117</beq_runtime>
 		<beq_audioTypes>
-			<value>TrueHD 7.1</value>
+			<audioType>TrueHD 7.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="80">Crime</genre>
+			<genre id="9648">Mystery</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56733956</beq_avs>
 		<beq_theMovieDB>316727</beq_theMovieDB>
 		<beq_poster>/ubLbY97m8lYJ3Fykh7nfiwB5eth.jpg</beq_poster>
+		<beq_runtime>105</beq_runtime>
+		<beq_collection id="256322">The Purge Collection</beq_collection>
 		<beq_audioTypes>
-			<value>DTS-X</value>
+			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
+			<genre id="27">Horror</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

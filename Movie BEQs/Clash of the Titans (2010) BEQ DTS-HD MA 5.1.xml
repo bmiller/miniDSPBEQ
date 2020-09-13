@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58302600</beq_avs>
 		<beq_theMovieDB>18823</beq_theMovieDB>
 		<beq_poster>/nzaolaRSo8ZIGjxnX89PEnpROae.jpg</beq_poster>
+		<beq_runtime>106</beq_runtime>
+		<beq_collection id="86780">Clash of the Titans Collection</beq_collection>
 		<beq_audioTypes>
-			<value>DTS-HD MA 5.1</value>
+			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="14">Fantasy</genre>
+			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

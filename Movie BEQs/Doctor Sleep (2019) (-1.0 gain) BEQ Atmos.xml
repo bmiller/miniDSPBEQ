@@ -1431,8 +1431,16 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59144452</beq_avs>
 		<beq_theMovieDB>501170</beq_theMovieDB>
 		<beq_poster>/p69QzIBbN06aTYqRRiCOY1emNBh.jpg</beq_poster>
+		<beq_runtime>152</beq_runtime>
+		<beq_collection id="530064">The Shining Collection</beq_collection>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="27">Horror</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="18">Drama</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1431,8 +1431,19 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57937710</beq_avs>
 		<beq_theMovieDB>280217</beq_theMovieDB>
 		<beq_poster>/QTESAsBVZwjtGJNDP7utiGV37z.jpg</beq_poster>
+		<beq_runtime>106</beq_runtime>
+		<beq_collection id="325470">The Lego Movie Collection</beq_collection>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="878">Science Fiction</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="16">Animation</genre>
+			<genre id="28">Action</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="10751">Family</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

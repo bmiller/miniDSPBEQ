@@ -1431,8 +1431,17 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57686214</beq_avs>
 		<beq_theMovieDB>324857</beq_theMovieDB>
 		<beq_poster>/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg</beq_poster>
+		<beq_runtime>117</beq_runtime>
+		<beq_collection id="573436">Spider-Man: Spider-Verse Collection</beq_collection>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="12">Adventure</genre>
+			<genre id="16">Animation</genre>
+			<genre id="28">Action</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="35">Comedy</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

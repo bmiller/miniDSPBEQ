@@ -1430,9 +1430,15 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59681298</beq_avs>
 		<beq_theMovieDB>581387</beq_theMovieDB>
-		<beq_poster>/z6TEH15QlGYP21WHe3APy6R4LMw.jpg</beq_poster>
+		<beq_poster>/zoeKREZ2IdAUnXISYCS0E6H5BVh.jpg</beq_poster>
+		<beq_runtime>128</beq_runtime>
 		<beq_audioTypes>
-			<value>TrueHD 5.1</value>
+			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="12">Adventure</genre>
+			<genre id="18">Drama</genre>
+			<genre id="28">Action</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

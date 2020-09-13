@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57965002</beq_avs>
 		<beq_theMovieDB>585</beq_theMovieDB>
 		<beq_poster>/sgheSKxZkttIe8ONsf2sWXPgip3.jpg</beq_poster>
+		<beq_runtime>92</beq_runtime>
+		<beq_collection id="137696">Monsters, Inc. Collection</beq_collection>
 		<beq_audioTypes>
-			<value>TrueHD 7.1</value>
+			<audioType>TrueHD 7.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="35">Comedy</genre>
+			<genre id="16">Animation</genre>
+			<genre id="10751">Family</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

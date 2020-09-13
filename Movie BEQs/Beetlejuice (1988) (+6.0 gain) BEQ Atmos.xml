@@ -1431,8 +1431,13 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60084209</beq_avs>
 		<beq_theMovieDB>4011</beq_theMovieDB>
 		<beq_poster>/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg</beq_poster>
+		<beq_runtime>92</beq_runtime>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="14">Fantasy</genre>
+			<genre id="35">Comedy</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

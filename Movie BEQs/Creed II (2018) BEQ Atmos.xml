@@ -1431,8 +1431,13 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57627084</beq_avs>
 		<beq_theMovieDB>480530</beq_theMovieDB>
 		<beq_poster>/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg</beq_poster>
+		<beq_runtime>130</beq_runtime>
+		<beq_collection id="553717">Creed Collection</beq_collection>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="18">Drama</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

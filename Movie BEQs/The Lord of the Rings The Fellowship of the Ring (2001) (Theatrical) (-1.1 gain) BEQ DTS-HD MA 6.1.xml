@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59397018</beq_avs>
 		<beq_theMovieDB>120</beq_theMovieDB>
 		<beq_poster>/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg</beq_poster>
+		<beq_runtime>178</beq_runtime>
+		<beq_collection id="119">The Lord of the Rings Collection</beq_collection>
 		<beq_audioTypes>
-			<value>DTS-HD MA 6.1</value>
+			<audioType>DTS-HD MA 6.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="28">Action</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

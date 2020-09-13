@@ -1431,8 +1431,12 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58772336</beq_avs>
 		<beq_theMovieDB>521777</beq_theMovieDB>
 		<beq_poster>/tximyCXMEnWIIyOy9STkOduUprG.jpg</beq_poster>
+		<beq_runtime>89</beq_runtime>
 		<beq_audioTypes>
-			<value>DTS-HD MA 5.1</value>
+			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="35">Comedy</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

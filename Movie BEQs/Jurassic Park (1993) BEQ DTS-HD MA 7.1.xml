@@ -1431,8 +1431,14 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57964114</beq_avs>
 		<beq_theMovieDB>329</beq_theMovieDB>
 		<beq_poster>/9i3plLl89DHMz7mahksDaAo7HIS.jpg</beq_poster>
+		<beq_runtime>127</beq_runtime>
+		<beq_collection id="328">Jurassic Park Collection</beq_collection>
 		<beq_audioTypes>
-			<value>DTS-HD MA 7.1</value>
+			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="878">Science Fiction</genre>
+			<genre id="12">Adventure</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

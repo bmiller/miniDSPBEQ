@@ -1431,8 +1431,15 @@
 		<beq_avs />
 		<beq_theMovieDB>65294</beq_theMovieDB>
 		<beq_poster>/qg7WXAatXyQq6zO3SnWnRJEayeZ.jpg</beq_poster>
+		<beq_runtime />
 		<beq_audioTypes>
-			<value>DD 5.1</value>
+			<audioType>DD 5.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="10751">Family</genre>
+			<genre id="18">Drama</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="10759">Action &amp; Adventure</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

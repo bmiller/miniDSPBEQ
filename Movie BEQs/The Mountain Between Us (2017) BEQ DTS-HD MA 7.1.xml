@@ -1431,8 +1431,14 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56753272</beq_avs>
 		<beq_theMovieDB>290512</beq_theMovieDB>
 		<beq_poster>/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg</beq_poster>
+		<beq_runtime>109</beq_runtime>
 		<beq_audioTypes>
-			<value>DTS-HD MA 7.1</value>
+			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="10749">Romance</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="18">Drama</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

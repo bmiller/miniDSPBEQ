@@ -1431,8 +1431,18 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59864990</beq_avs>
 		<beq_theMovieDB>446893</beq_theMovieDB>
 		<beq_poster>/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg</beq_poster>
+		<beq_runtime>91</beq_runtime>
+		<beq_collection id="489724">The Trolls Collection</beq_collection>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="10402">Music</genre>
+			<genre id="10751">Family</genre>
+			<genre id="16">Animation</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

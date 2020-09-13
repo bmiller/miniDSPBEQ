@@ -1431,8 +1431,14 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56745448</beq_avs>
 		<beq_theMovieDB>24</beq_theMovieDB>
 		<beq_poster>/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg</beq_poster>
+		<beq_runtime>111</beq_runtime>
+		<beq_collection id="2883">Kill Bill Collection</beq_collection>
 		<beq_audioTypes>
-			<value>DTS-HD MA 5.1</value>
+			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="80">Crime</genre>
+			<genre id="28">Action</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

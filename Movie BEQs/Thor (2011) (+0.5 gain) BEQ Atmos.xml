@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56811710</beq_avs>
 		<beq_theMovieDB>10195</beq_theMovieDB>
 		<beq_poster>/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg</beq_poster>
+		<beq_runtime>115</beq_runtime>
+		<beq_collection id="131296">Thor Collection</beq_collection>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="28">Action</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="12">Adventure</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

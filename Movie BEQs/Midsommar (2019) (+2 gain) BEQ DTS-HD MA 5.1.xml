@@ -1431,8 +1431,14 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58632030</beq_avs>
 		<beq_theMovieDB>530385</beq_theMovieDB>
 		<beq_poster>/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg</beq_poster>
+		<beq_runtime>148</beq_runtime>
 		<beq_audioTypes>
-			<value>DTS-HD MA 5.1</value>
+			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="27">Horror</genre>
+			<genre id="9648">Mystery</genre>
+			<genre id="18">Drama</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

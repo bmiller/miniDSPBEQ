@@ -1431,8 +1431,16 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56868576</beq_avs>
 		<beq_theMovieDB>98566</beq_theMovieDB>
 		<beq_poster>/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg</beq_poster>
+		<beq_runtime>101</beq_runtime>
+		<beq_collection id="401562">Teenage Mutant Ninja Turtles (Remake) Collection</beq_collection>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="12">Adventure</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="28">Action</genre>
+			<genre id="878">Science Fiction</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

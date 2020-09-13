@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58713422</beq_avs>
 		<beq_theMovieDB>2502</beq_theMovieDB>
 		<beq_poster>/7IYGiDrquvX3q7e9PV6Pejs6b2g.jpg</beq_poster>
+		<beq_runtime>108</beq_runtime>
+		<beq_collection id="31562">The Bourne Collection</beq_collection>
 		<beq_audioTypes>
-			<value>DTS-X</value>
+			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="28">Action</genre>
+			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

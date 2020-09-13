@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56841246</beq_avs>
 		<beq_theMovieDB>396422</beq_theMovieDB>
 		<beq_poster>/f7pn0VD3QpEXH8sETFNUow4o7hz.jpg</beq_poster>
+		<beq_runtime>109</beq_runtime>
+		<beq_collection id="402074">Annabelle Collection</beq_collection>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="53">Thriller</genre>
+			<genre id="9648">Mystery</genre>
+			<genre id="27">Horror</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

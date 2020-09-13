@@ -1431,8 +1431,12 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56800472</beq_avs>
 		<beq_theMovieDB>8769</beq_theMovieDB>
 		<beq_poster>/7O2osr2ZWYBMGbHP5p2yPi3lkQw.jpg</beq_poster>
+		<beq_runtime>110</beq_runtime>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="27">Horror</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

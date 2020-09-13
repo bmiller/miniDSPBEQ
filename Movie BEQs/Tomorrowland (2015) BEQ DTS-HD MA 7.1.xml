@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56847794</beq_avs>
 		<beq_theMovieDB>158852</beq_theMovieDB>
 		<beq_poster>/iHh0nVGVODAFduF6Q6njdSSCEfX.jpg</beq_poster>
+		<beq_runtime>130</beq_runtime>
 		<beq_audioTypes>
-			<value>DTS-HD MA 7.1</value>
+			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="878">Science Fiction</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="9648">Mystery</genre>
+			<genre id="10751">Family</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

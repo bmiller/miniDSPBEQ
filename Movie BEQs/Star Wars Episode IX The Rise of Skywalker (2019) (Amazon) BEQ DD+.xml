@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59421590</beq_avs>
 		<beq_theMovieDB>181812</beq_theMovieDB>
 		<beq_poster>/db32LaOibwEliAmSL2jjDF6oDdj.jpg</beq_poster>
+		<beq_runtime>142</beq_runtime>
+		<beq_collection id="10">Star Wars Collection</beq_collection>
 		<beq_audioTypes>
-			<value>DD+</value>
+			<audioType>DD+</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="12">Adventure</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

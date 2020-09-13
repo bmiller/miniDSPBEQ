@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59904238</beq_avs>
 		<beq_theMovieDB>1579</beq_theMovieDB>
 		<beq_poster>/cBFQsU1LDBEOl0Ik0cygeB6wCLE.jpg</beq_poster>
+		<beq_runtime>139</beq_runtime>
 		<beq_audioTypes>
-			<value>LPCM 5.1</value>
+			<audioType>LPCM 5.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="18">Drama</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

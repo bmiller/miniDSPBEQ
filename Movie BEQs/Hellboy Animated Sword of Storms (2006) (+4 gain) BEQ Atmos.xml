@@ -1431,8 +1431,19 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57867418</beq_avs>
 		<beq_theMovieDB>16774</beq_theMovieDB>
 		<beq_poster>/vUCrcikFCDsvA6IiS59kdfQkseU.jpg</beq_poster>
+		<beq_runtime>73</beq_runtime>
+		<beq_collection id="123203">Hellboy (Animated) Collection</beq_collection>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="14">Fantasy</genre>
+			<genre id="27">Horror</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="10770">TV Movie</genre>
+			<genre id="16">Animation</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

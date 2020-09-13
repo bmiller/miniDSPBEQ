@@ -1429,11 +1429,13 @@
 		<beq_source>Disc</beq_source>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs />
-		<beq_theMovieDB />
-		<beq_poster />
+		<beq_theMovieDB>9502</beq_theMovieDB>
+		<beq_poster>/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg</beq_poster>
+		<beq_runtime />
 		<beq_audioTypes>
-			<value>DTS-HD MA 5.1</value>
-			<value>TrueHD 5.1</value>
+			<audioType>DTS-HD MA 5.1</audioType>
+			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
+		<beq_genres />
 	</beq_metadata>
 </setting>

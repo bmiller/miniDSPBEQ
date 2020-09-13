@@ -1431,8 +1431,16 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56861116</beq_avs>
 		<beq_theMovieDB>36668</beq_theMovieDB>
 		<beq_poster>/7RSSkRpwvkNN5iKO8zACtBA0KhQ.jpg</beq_poster>
+		<beq_runtime>104</beq_runtime>
+		<beq_collection id="748">X-Men Collection</beq_collection>
 		<beq_audioTypes>
-			<value>DTS-HD MA 6.1</value>
+			<audioType>DTS-HD MA 6.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="878">Science Fiction</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

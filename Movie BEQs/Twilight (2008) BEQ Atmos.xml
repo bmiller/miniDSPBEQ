@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57019920</beq_avs>
 		<beq_theMovieDB>8966</beq_theMovieDB>
 		<beq_poster>/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg</beq_poster>
+		<beq_runtime>122</beq_runtime>
+		<beq_collection id="33514">The Twilight Collection</beq_collection>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="14">Fantasy</genre>
+			<genre id="10749">Romance</genre>
+			<genre id="18">Drama</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

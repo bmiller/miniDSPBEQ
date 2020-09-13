@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57741958</beq_avs>
 		<beq_theMovieDB>2024</beq_theMovieDB>
 		<beq_poster>/fWZd815QxUCUcrWQZwUkAp9ljG.jpg</beq_poster>
+		<beq_runtime>165</beq_runtime>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="36">History</genre>
+			<genre id="28">Action</genre>
+			<genre id="10752">War</genre>
+			<genre id="18">Drama</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

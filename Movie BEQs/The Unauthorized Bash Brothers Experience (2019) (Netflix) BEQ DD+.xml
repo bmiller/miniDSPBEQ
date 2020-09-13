@@ -1431,8 +1431,13 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58424314</beq_avs>
 		<beq_theMovieDB>604196</beq_theMovieDB>
 		<beq_poster>/dUrrHBV64W4BwXSzMlGdqjDdWIW.jpg</beq_poster>
+		<beq_runtime>30</beq_runtime>
 		<beq_audioTypes>
-			<value>DD+</value>
+			<audioType>DD+</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="35">Comedy</genre>
+			<genre id="10402">Music</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

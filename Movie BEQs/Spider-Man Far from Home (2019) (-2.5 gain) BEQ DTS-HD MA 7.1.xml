@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58570646</beq_avs>
 		<beq_theMovieDB>429617</beq_theMovieDB>
 		<beq_poster>/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg</beq_poster>
+		<beq_runtime>129</beq_runtime>
+		<beq_collection id="531241">Spider-Man (Avengers) Collection</beq_collection>
 		<beq_audioTypes>
-			<value>DTS-HD MA 7.1</value>
+			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

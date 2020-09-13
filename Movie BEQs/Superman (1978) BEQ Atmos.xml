@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57058826</beq_avs>
 		<beq_theMovieDB>1924</beq_theMovieDB>
 		<beq_poster>/9Dz1AAJYZea6u0el4gn8nJDWyTt.jpg</beq_poster>
+		<beq_runtime>143</beq_runtime>
+		<beq_collection id="8537">Superman Collection</beq_collection>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

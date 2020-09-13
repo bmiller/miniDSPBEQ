@@ -1431,8 +1431,16 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57617970</beq_avs>
 		<beq_theMovieDB>211672</beq_theMovieDB>
 		<beq_poster>/tMaGZ2HR8HAFwkx4YRib0CDVfNT.jpg</beq_poster>
+		<beq_runtime>91</beq_runtime>
+		<beq_collection id="544669">Minions Collection</beq_collection>
 		<beq_audioTypes>
-			<value>Atmos</value>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="16">Animation</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="10751">Family</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

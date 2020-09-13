@@ -1431,8 +1431,13 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58028072</beq_avs>
 		<beq_theMovieDB>77169</beq_theMovieDB>
 		<beq_poster>/eTMMU2rKpZRbo9ERytyhwatwAjz.jpg</beq_poster>
+		<beq_runtime />
 		<beq_audioTypes>
-			<value>AAC 5.1</value>
+			<audioType>AAC 5.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="18">Drama</genre>
+			<genre id="10759">Action &amp; Adventure</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>

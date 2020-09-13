@@ -1431,8 +1431,15 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58316866</beq_avs>
 		<beq_theMovieDB>76285</beq_theMovieDB>
 		<beq_poster>/y4j0oCo6v6G3GKCumMjy4QdFlmR.jpg</beq_poster>
+		<beq_runtime>106</beq_runtime>
+		<beq_collection id="179919">Percy Jackson Collection</beq_collection>
 		<beq_audioTypes>
-			<value>DTS-HD MA 7.1</value>
+			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
+		<beq_genres>
+			<genre id="10751">Family</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="12">Adventure</genre>
+		</beq_genres>
 	</beq_metadata>
 </setting>
