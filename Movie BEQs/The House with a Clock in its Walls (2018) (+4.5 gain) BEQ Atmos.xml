@@ -1416,6 +1416,7 @@
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
 		<beq_title>The House with a Clock in Its Walls</beq_title>
+		<beq_alt_title />
 		<beq_sortTitle>House with a Clock in Its Walls</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/IF2YmOr.jpg</beq_spectrumURL>
@@ -1436,10 +1437,10 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10751">Family</genre>
-			<genre id="35">Comedy</genre>
-			<genre id="27">Horror</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="10751">Family</genre>
+			<genre id="27">Horror</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

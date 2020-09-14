@@ -1416,6 +1416,7 @@
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
 		<beq_title>Marvel&apos;s The Punisher</beq_title>
+		<beq_alt_title />
 		<beq_sortTitle>Marvel&apos;s The Punisher</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
@@ -1436,9 +1437,9 @@
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
 			<genre id="10759">Action &amp; Adventure</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

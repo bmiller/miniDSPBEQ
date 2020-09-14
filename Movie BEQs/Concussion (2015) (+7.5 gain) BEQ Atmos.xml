@@ -1416,6 +1416,7 @@
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
 		<beq_title>Concussion</beq_title>
+		<beq_alt_title />
 		<beq_sortTitle>Concussion</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/dyQph5Z.jpg</beq_spectrumURL>

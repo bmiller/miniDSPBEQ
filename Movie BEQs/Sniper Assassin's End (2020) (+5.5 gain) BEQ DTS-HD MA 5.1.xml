@@ -1415,7 +1415,8 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Sniper: Assassin&apos;s End</beq_title>
+		<beq_title>Sniper 8 : Assassin&apos;s End</beq_title>
+		<beq_alt_title />
 		<beq_sortTitle>Sniper: Assassin&apos;s End</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/9FU4Mge.png</beq_spectrumURL>

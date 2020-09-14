@@ -1416,6 +1416,7 @@
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
 		<beq_title>The Lego Movie 2: The Second Part</beq_title>
+		<beq_alt_title />
 		<beq_sortTitle>Lego Movie 2: Second Part</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/uVSnUY3.jpg</beq_spectrumURL>
@@ -1438,12 +1439,12 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="878">Science Fiction</genre>
-			<genre id="12">Adventure</genre>
-			<genre id="14">Fantasy</genre>
 			<genre id="16">Animation</genre>
-			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
 			<genre id="35">Comedy</genre>
 			<genre id="10751">Family</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1416,6 +1416,7 @@
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
 		<beq_title>Sicario</beq_title>
+		<beq_alt_title />
 		<beq_sortTitle>Sicario</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/qD5DEU7.jpg</beq_spectrumURL>

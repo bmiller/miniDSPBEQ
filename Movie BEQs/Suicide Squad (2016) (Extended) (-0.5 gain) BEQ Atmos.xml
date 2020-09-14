@@ -1416,6 +1416,7 @@
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
 		<beq_title>Suicide Squad</beq_title>
+		<beq_alt_title />
 		<beq_sortTitle>Suicide Squad</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/XEk1qfv.jpg</beq_spectrumURL>
@@ -1437,11 +1438,11 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
+			<genre id="878">Science Fiction</genre>
 			<genre id="80">Crime</genre>
+			<genre id="12">Adventure</genre>
 			<genre id="14">Fantasy</genre>
 			<genre id="28">Action</genre>
-			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

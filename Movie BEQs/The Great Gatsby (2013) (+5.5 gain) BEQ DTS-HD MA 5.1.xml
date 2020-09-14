@@ -1416,6 +1416,7 @@
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
 		<beq_title>The Great Gatsby</beq_title>
+		<beq_alt_title />
 		<beq_sortTitle>Great Gatsby</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/ucm4jXt.png</beq_spectrumURL>

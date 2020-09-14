@@ -1416,6 +1416,7 @@
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
 		<beq_title>Hot Fuzz</beq_title>
+		<beq_alt_title />
 		<beq_sortTitle>Hot Fuzz</beq_sortTitle>
 		<beq_year>2007</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/a4t4xwC.png</beq_spectrumURL>
@@ -1437,8 +1438,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="35">Comedy</genre>
-			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

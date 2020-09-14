@@ -1416,6 +1416,7 @@
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
 		<beq_title>Titanic</beq_title>
+		<beq_alt_title />
 		<beq_sortTitle>Titanic</beq_sortTitle>
 		<beq_year>1997</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/XtekeBV.jpg</beq_spectrumURL>

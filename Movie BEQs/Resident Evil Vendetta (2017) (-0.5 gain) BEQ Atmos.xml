@@ -1416,6 +1416,7 @@
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
 		<beq_title>Resident Evil: Vendetta</beq_title>
+		<beq_alt_title>バイオハザード ヴェンデッタ</beq_alt_title>
 		<beq_sortTitle>Resident Evil: Vendetta</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/xZ0KQLw.jpg</beq_spectrumURL>
@@ -1438,10 +1439,10 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="878">Science Fiction</genre>
-			<genre id="27">Horror</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="16">Animation</genre>
 			<genre id="9648">Mystery</genre>
+			<genre id="27">Horror</genre>
 			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
