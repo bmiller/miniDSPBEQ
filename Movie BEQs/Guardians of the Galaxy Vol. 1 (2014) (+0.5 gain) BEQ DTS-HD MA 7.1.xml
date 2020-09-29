@@ -803,7 +803,7 @@
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
 		<freq>35</freq>
-		<q>1</q>
+		<q>1.0</q>
 		<boost>2.6</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -812,39 +812,39 @@
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>10</freq>
-		<q>7</q>
-		<boost>-4</boost>
+		<q>7.0</q>
+		<boost>-4.0</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
 		<dec>0.9999782814125523,-1.9998818693419604,0.9999040162724293,1.9998818693419604,-0.9998822976849817,</dec>
 		<hex>3f7ffe94,bffffc21,3f7ff9b6,3ffffc21,bf7ff849,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>38</freq>
-		<q>1</q>
-		<boost>1.6</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0002291337417968,-1.9977281364321509,0.9975051813172969,1.9977281364321509,-0.9977343150590937,</dec>
-		<hex>3f800782,bfffb58e,3f7f5c80,3fffb58e,bf7f6b84,</hex>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>4.0</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0000839319876031,-1.9993516344000324,0.9992682415213849,1.9993517338771325,-0.9993520740318875,</dec>
+		<hex>3f8002c0,bfffeac1,3f7fd00b,3fffeac2,bf7fd58a,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>10</freq>
 		<q>0.9</q>
-		<boost>4</boost>
+		<boost>4.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0000839319876031,-1.9993516344000324,0.9992682415213849,1.9993517338771325,-0.9993520740318875,</dec>
 		<hex>3f8002c0,bfffeac1,3f7fd00b,3fffeac2,bf7fd58a,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
-		<freq>10</freq>
-		<q>0.9</q>
-		<boost>4</boost>
+		<freq>19</freq>
+		<q>1.1</q>
+		<boost>4.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000839319876031,-1.9993516344000324,0.9992682415213849,1.9993517338771325,-0.9993520740318875,</dec>
-		<hex>3f8002c0,bfffeac1,3f7fd00b,3fffeac2,bf7fd58a,</hex>
+		<dec>1.0001403954875092,-1.999000011251007,0.9988615955009563,1.9990003977582222,-0.9990016044812502,</dec>
+		<hex>3f80049a,bfffdf3b,3f7fb565,3fffdf3f,bf7fbe92,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>19</freq>
@@ -883,17 +883,17 @@
 		<hex>3f80049a,bfffdf3b,3f7fb565,3fffdf3f,bf7fbe92,</hex>
 	</filter>
 	<filter addr="8325" name="PEQ_1_10">
-		<freq>19</freq>
-		<q>1.1</q>
-		<boost>4.3</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0001403954875092,-1.999000011251007,0.9988615955009563,1.9990003977582222,-0.9990016044812502,</dec>
-		<hex>3f80049a,bfffdf3b,3f7fb565,3fffdf3f,bf7fbe92,</hex>
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
 		<freq>35</freq>
-		<q>1</q>
+		<q>1.0</q>
 		<boost>2.6</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -902,39 +902,39 @@
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>10</freq>
-		<q>7</q>
-		<boost>-4</boost>
+		<q>7.0</q>
+		<boost>-4.0</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
 		<dec>0.9999782814125523,-1.9998818693419604,0.9999040162724293,1.9998818693419604,-0.9998822976849817,</dec>
 		<hex>3f7ffe94,bffffc21,3f7ff9b6,3ffffc21,bf7ff849,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>38</freq>
-		<q>1</q>
-		<boost>1.6</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0002291337417968,-1.9977281364321509,0.9975051813172969,1.9977281364321509,-0.9977343150590937,</dec>
-		<hex>3f800782,bfffb58e,3f7f5c80,3fffb58e,bf7f6b84,</hex>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>4.0</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0000839319876031,-1.9993516344000324,0.9992682415213849,1.9993517338771325,-0.9993520740318875,</dec>
+		<hex>3f8002c0,bfffeac1,3f7fd00b,3fffeac2,bf7fd58a,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>10</freq>
 		<q>0.9</q>
-		<boost>4</boost>
+		<boost>4.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0000839319876031,-1.9993516344000324,0.9992682415213849,1.9993517338771325,-0.9993520740318875,</dec>
 		<hex>3f8002c0,bfffeac1,3f7fd00b,3fffeac2,bf7fd58a,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
-		<freq>10</freq>
-		<q>0.9</q>
-		<boost>4</boost>
+		<freq>19</freq>
+		<q>1.1</q>
+		<boost>4.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000839319876031,-1.9993516344000324,0.9992682415213849,1.9993517338771325,-0.9993520740318875,</dec>
-		<hex>3f8002c0,bfffeac1,3f7fd00b,3fffeac2,bf7fd58a,</hex>
+		<dec>1.0001403954875092,-1.999000011251007,0.9988615955009563,1.9990003977582222,-0.9990016044812502,</dec>
+		<hex>3f80049a,bfffdf3b,3f7fb565,3fffdf3f,bf7fbe92,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>19</freq>
@@ -973,13 +973,13 @@
 		<hex>3f80049a,bfffdf3b,3f7fb565,3fffdf3f,bf7fbe92,</hex>
 	</filter>
 	<filter addr="8375" name="PEQ_2_10">
-		<freq>19</freq>
-		<q>1.1</q>
-		<boost>4.3</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0001403954875092,-1.999000011251007,0.9988615955009563,1.9990003977582222,-0.9990016044812502,</dec>
-		<hex>3f80049a,bfffdf3b,3f7fb565,3fffdf3f,bf7fbe92,</hex>
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8380" name="PEQ_3_1">
 		<freq>1000</freq>
@@ -1428,6 +1428,8 @@
 		<beq_gain>+0.5 gain</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
+		<beq_overview>Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.</beq_overview>
+		<beq_rating>PG-13</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57703514</beq_avs>
 		<beq_theMovieDB>118340</beq_theMovieDB>
@@ -1438,9 +1440,9 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="878">Science Fiction</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="28">Action</genre>
-			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

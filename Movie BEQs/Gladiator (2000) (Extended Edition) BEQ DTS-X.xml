@@ -803,7 +803,7 @@
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
 		<freq>85</freq>
-		<q>1</q>
+		<q>1.0</q>
 		<boost>0.7</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -812,7 +812,7 @@
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>19</freq>
-		<q>7</q>
+		<q>7.0</q>
 		<boost>-2.6</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -820,13 +820,13 @@
 		<hex>3f7ffe40,bffff930,3f7ff43a,3ffff930,bf7ff27b,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>1000</freq>
-		<q>0.7</q>
-		<boost>0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1,0,0,0,0,</dec>
-		<hex>3f800000,00000000,00000000,80000000,80000000,</hex>
+		<freq>13</freq>
+		<q>0.9</q>
+		<boost>4.8</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001310732026822,-1.999176190095561,0.9990460708419868,1.9991763925999075,-0.9991769415403228,</dec>
+		<hex>3f80044c,bfffe501,3f7fc17c,3fffe503,bf7fca0f,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>13</freq>
@@ -874,26 +874,26 @@
 		<hex>3f80044c,bfffe501,3f7fc17c,3fffe503,bf7fca0f,</hex>
 	</filter>
 	<filter addr="8320" name="PEQ_1_9">
-		<freq>13</freq>
-		<q>0.9</q>
-		<boost>4.8</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0001310732026822,-1.999176190095561,0.9990460708419868,1.9991763925999075,-0.9991769415403228,</dec>
-		<hex>3f80044c,bfffe501,3f7fc17c,3fffe503,bf7fca0f,</hex>
-	</filter>
-	<filter addr="8325" name="PEQ_1_10">
 		<freq>50</freq>
 		<q>1.1</q>
-		<boost>4</boost>
+		<boost>4.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0003440531982395,-1.9973410686051516,0.997010479644127,1.9973435530440797,-0.9973520484034383,</dec>
 		<hex>3f800b46,bfffa8df,3f7f3c14,3fffa8f4,bf7f5277,</hex>
 	</filter>
+	<filter addr="8325" name="PEQ_1_10">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
+	</filter>
 	<filter addr="8330" name="PEQ_2_1">
 		<freq>85</freq>
-		<q>1</q>
+		<q>1.0</q>
 		<boost>0.7</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -902,7 +902,7 @@
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>19</freq>
-		<q>7</q>
+		<q>7.0</q>
 		<boost>-2.6</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -910,13 +910,13 @@
 		<hex>3f7ffe40,bffff930,3f7ff43a,3ffff930,bf7ff27b,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>1000</freq>
-		<q>0.7</q>
-		<boost>0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1,0,0,0,0,</dec>
-		<hex>3f800000,00000000,00000000,80000000,80000000,</hex>
+		<freq>13</freq>
+		<q>0.9</q>
+		<boost>4.8</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001310732026822,-1.999176190095561,0.9990460708419868,1.9991763925999075,-0.9991769415403228,</dec>
+		<hex>3f80044c,bfffe501,3f7fc17c,3fffe503,bf7fca0f,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>13</freq>
@@ -964,22 +964,22 @@
 		<hex>3f80044c,bfffe501,3f7fc17c,3fffe503,bf7fca0f,</hex>
 	</filter>
 	<filter addr="8370" name="PEQ_2_9">
-		<freq>13</freq>
-		<q>0.9</q>
-		<boost>4.8</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0001310732026822,-1.999176190095561,0.9990460708419868,1.9991763925999075,-0.9991769415403228,</dec>
-		<hex>3f80044c,bfffe501,3f7fc17c,3fffe503,bf7fca0f,</hex>
-	</filter>
-	<filter addr="8375" name="PEQ_2_10">
 		<freq>50</freq>
 		<q>1.1</q>
-		<boost>4</boost>
+		<boost>4.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0003440531982395,-1.9973410686051516,0.997010479644127,1.9973435530440797,-0.9973520484034383,</dec>
 		<hex>3f800b46,bfffa8df,3f7f3c14,3fffa8f4,bf7f5277,</hex>
+	</filter>
+	<filter addr="8375" name="PEQ_2_10">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8380" name="PEQ_3_1">
 		<freq>1000</freq>
@@ -1428,6 +1428,8 @@
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
+		<beq_overview>In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army&apos;s most capable and trusted generals and a key advisor to the emperor.  As Marcus&apos; devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders.  Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.</beq_overview>
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56788070</beq_avs>
 		<beq_theMovieDB>98</beq_theMovieDB>
@@ -1437,9 +1439,9 @@
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
 			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

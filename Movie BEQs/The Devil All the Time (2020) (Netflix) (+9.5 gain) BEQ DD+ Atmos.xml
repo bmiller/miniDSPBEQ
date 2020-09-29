@@ -1428,11 +1428,13 @@
 		<beq_gain>+9.5 gain</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
+		<beq_overview>In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.</beq_overview>
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60132045</beq_avs>
 		<beq_theMovieDB>499932</beq_theMovieDB>
 		<beq_poster>/7G2VvG1lU8q758uOqU6z2Ds0qpA.jpg</beq_poster>
-		<beq_runtime>138</beq_runtime>
+		<beq_runtime>139</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>

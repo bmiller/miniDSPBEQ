@@ -1428,6 +1428,8 @@
 		<beq_gain>+7.5 gain</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
+		<beq_overview>Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain&apos;s top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.</beq_overview>
+		<beq_rating>PG-13</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60118999</beq_avs>
 		<beq_theMovieDB>205596</beq_theMovieDB>
@@ -1439,8 +1441,8 @@
 		<beq_genres>
 			<genre id="10752">War</genre>
 			<genre id="18">Drama</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="36">History</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

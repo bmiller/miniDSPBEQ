@@ -803,7 +803,7 @@
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
 		<freq>55</freq>
-		<q>1</q>
+		<q>1.0</q>
 		<boost>0.5</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -812,7 +812,7 @@
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>38</freq>
-		<q>8</q>
+		<q>8.0</q>
 		<boost>-2.4</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -820,22 +820,22 @@
 		<hex>3f7ffd2d,bffff41a,3f7feb6f,3ffff41a,bf7fe89d,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>1000</freq>
-		<q>0.7</q>
-		<boost>0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1,0,0,0,0,</dec>
-		<hex>3f800000,00000000,00000000,80000000,80000000,</hex>
-	</filter>
-	<filter addr="8295" name="PEQ_1_4">
 		<freq>14</freq>
 		<q>1.1</q>
-		<boost>2</boost>
+		<boost>2.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0000480072654778,-1.9992130634726168,0.9991659978854998,1.9992131603109424,-0.9992139083126518,</dec>
 		<hex>3f800193,bfffe637,3f7fc958,3fffe638,bf7fcc7c,</hex>
+	</filter>
+	<filter addr="8295" name="PEQ_1_4">
+		<freq>18</freq>
+		<q>0.8</q>
+		<boost>5.5</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.000234171069997,-1.998742315573467,0.9985100481635352,1.9987427620917415,-0.9987437727152575,</dec>
+		<hex>3f8007ac,bfffd6ca,3f7f9e5b,3fffd6ce,bf7fadac,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
 		<freq>18</freq>
@@ -883,17 +883,17 @@
 		<hex>3f8007ac,bfffd6ca,3f7f9e5b,3fffd6ce,bf7fadac,</hex>
 	</filter>
 	<filter addr="8325" name="PEQ_1_10">
-		<freq>18</freq>
-		<q>0.8</q>
-		<boost>5.5</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.000234171069997,-1.998742315573467,0.9985100481635352,1.9987427620917415,-0.9987437727152575,</dec>
-		<hex>3f8007ac,bfffd6ca,3f7f9e5b,3fffd6ce,bf7fadac,</hex>
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
 		<freq>55</freq>
-		<q>1</q>
+		<q>1.0</q>
 		<boost>0.5</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -902,7 +902,7 @@
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>38</freq>
-		<q>8</q>
+		<q>8.0</q>
 		<boost>-2.4</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -910,22 +910,22 @@
 		<hex>3f7ffd2d,bffff41a,3f7feb6f,3ffff41a,bf7fe89d,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>1000</freq>
-		<q>0.7</q>
-		<boost>0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1,0,0,0,0,</dec>
-		<hex>3f800000,00000000,00000000,80000000,80000000,</hex>
-	</filter>
-	<filter addr="8345" name="PEQ_2_4">
 		<freq>14</freq>
 		<q>1.1</q>
-		<boost>2</boost>
+		<boost>2.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0000480072654778,-1.9992130634726168,0.9991659978854998,1.9992131603109424,-0.9992139083126518,</dec>
 		<hex>3f800193,bfffe637,3f7fc958,3fffe638,bf7fcc7c,</hex>
+	</filter>
+	<filter addr="8345" name="PEQ_2_4">
+		<freq>18</freq>
+		<q>0.8</q>
+		<boost>5.5</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.000234171069997,-1.998742315573467,0.9985100481635352,1.9987427620917415,-0.9987437727152575,</dec>
+		<hex>3f8007ac,bfffd6ca,3f7f9e5b,3fffd6ce,bf7fadac,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
 		<freq>18</freq>
@@ -973,13 +973,13 @@
 		<hex>3f8007ac,bfffd6ca,3f7f9e5b,3fffd6ce,bf7fadac,</hex>
 	</filter>
 	<filter addr="8375" name="PEQ_2_10">
-		<freq>18</freq>
-		<q>0.8</q>
-		<boost>5.5</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.000234171069997,-1.998742315573467,0.9985100481635352,1.9987427620917415,-0.9987437727152575,</dec>
-		<hex>3f8007ac,bfffd6ca,3f7f9e5b,3fffd6ce,bf7fadac,</hex>
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8380" name="PEQ_3_1">
 		<freq>1000</freq>
@@ -1428,6 +1428,8 @@
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
+		<beq_overview>Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.</beq_overview>
+		<beq_rating>PG-13</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57688608</beq_avs>
 		<beq_theMovieDB>281338</beq_theMovieDB>
@@ -1438,9 +1440,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="18">Drama</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="10752">War</genre>
-			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

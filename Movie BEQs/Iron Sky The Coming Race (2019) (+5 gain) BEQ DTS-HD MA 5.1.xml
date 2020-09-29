@@ -803,7 +803,7 @@
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
 		<freq>40</freq>
-		<q>1</q>
+		<q>1.0</q>
 		<boost>1.1</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -811,15 +811,6 @@
 		<hex>3f80056e,bfffaf5a,3f7f544b,3fffaf5a,bf7f5f27,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>36</freq>
-		<q>2</q>
-		<boost>-3</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>0.9997956802795839,-1.9985952618817209,0.9988051293681366,1.9985952618817209,-0.9986008096477204,</dec>
-		<hex>3f7ff29c,bfffd1f8,3f7fb1b1,3fffd1f8,bf7fa44d,</hex>
-	</filter>
-	<filter addr="8290" name="PEQ_1_3">
 		<freq>50</freq>
 		<q>0.9</q>
 		<boost>-3.2</boost>
@@ -827,6 +818,15 @@
 		<bypass>0</bypass>
 		<dec>0.9996643069080967,-1.996010164182176,0.9963547470696572,1.996008184247924,-0.996021033912006,</dec>
 		<hex>3f7fea00,bfff7d43,3f7f111b,3fff7d32,bf7efb3c,</hex>
+	</filter>
+	<filter addr="8290" name="PEQ_1_3">
+		<freq>17</freq>
+		<q>0.9</q>
+		<boost>5.4</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001930153110097,-1.9989409470249173,0.9987496201528303,1.998941337871685,-0.9989422446170723,</dec>
+		<hex>3f800653,bfffdd4c,3f7fae0e,3fffdd4f,bf7fbaae,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>17</freq>
@@ -856,13 +856,13 @@
 		<hex>3f800653,bfffdd4c,3f7fae0e,3fffdd4f,bf7fbaae,</hex>
 	</filter>
 	<filter addr="8310" name="PEQ_1_7">
-		<freq>17</freq>
+		<freq>10</freq>
 		<q>0.9</q>
-		<boost>5.4</boost>
+		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001930153110097,-1.9989409470249173,0.9987496201528303,1.998941337871685,-0.9989422446170723,</dec>
-		<hex>3f800653,bfffdd4c,3f7fae0e,3fffdd4f,bf7fbaae,</hex>
+		<dec>1.0000923684042355,-1.9993590463618256,0.9992672296260537,1.9993591559894965,-0.9993594884026178,</dec>
+		<hex>3f800307,bfffeaff,3f7fcffa,3fffeb00,bf7fd606,</hex>
 	</filter>
 	<filter addr="8315" name="PEQ_1_8">
 		<freq>10</freq>
@@ -883,17 +883,17 @@
 		<hex>3f800307,bfffeaff,3f7fcffa,3fffeb00,bf7fd606,</hex>
 	</filter>
 	<filter addr="8325" name="PEQ_1_10">
-		<freq>10</freq>
+		<freq>1000</freq>
 		<q>0.9</q>
-		<boost>4.4</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0000923684042355,-1.9993590463618256,0.9992672296260537,1.9993591559894965,-0.9993594884026178,</dec>
-		<hex>3f800307,bfffeaff,3f7fcffa,3fffeb00,bf7fd606,</hex>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
 		<freq>40</freq>
-		<q>1</q>
+		<q>1.0</q>
 		<boost>1.1</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -901,15 +901,6 @@
 		<hex>3f80056e,bfffaf5a,3f7f544b,3fffaf5a,bf7f5f27,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>36</freq>
-		<q>2</q>
-		<boost>-3</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>0.9997956802795839,-1.9985952618817209,0.9988051293681366,1.9985952618817209,-0.9986008096477204,</dec>
-		<hex>3f7ff29c,bfffd1f8,3f7fb1b1,3fffd1f8,bf7fa44d,</hex>
-	</filter>
-	<filter addr="8340" name="PEQ_2_3">
 		<freq>50</freq>
 		<q>0.9</q>
 		<boost>-3.2</boost>
@@ -917,6 +908,15 @@
 		<bypass>0</bypass>
 		<dec>0.9996643069080967,-1.996010164182176,0.9963547470696572,1.996008184247924,-0.996021033912006,</dec>
 		<hex>3f7fea00,bfff7d43,3f7f111b,3fff7d32,bf7efb3c,</hex>
+	</filter>
+	<filter addr="8340" name="PEQ_2_3">
+		<freq>17</freq>
+		<q>0.9</q>
+		<boost>5.4</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001930153110097,-1.9989409470249173,0.9987496201528303,1.998941337871685,-0.9989422446170723,</dec>
+		<hex>3f800653,bfffdd4c,3f7fae0e,3fffdd4f,bf7fbaae,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>17</freq>
@@ -946,13 +946,13 @@
 		<hex>3f800653,bfffdd4c,3f7fae0e,3fffdd4f,bf7fbaae,</hex>
 	</filter>
 	<filter addr="8360" name="PEQ_2_7">
-		<freq>17</freq>
+		<freq>10</freq>
 		<q>0.9</q>
-		<boost>5.4</boost>
+		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001930153110097,-1.9989409470249173,0.9987496201528303,1.998941337871685,-0.9989422446170723,</dec>
-		<hex>3f800653,bfffdd4c,3f7fae0e,3fffdd4f,bf7fbaae,</hex>
+		<dec>1.0000923684042355,-1.9993590463618256,0.9992672296260537,1.9993591559894965,-0.9993594884026178,</dec>
+		<hex>3f800307,bfffeaff,3f7fcffa,3fffeb00,bf7fd606,</hex>
 	</filter>
 	<filter addr="8365" name="PEQ_2_8">
 		<freq>10</freq>
@@ -973,13 +973,13 @@
 		<hex>3f800307,bfffeaff,3f7fcffa,3fffeb00,bf7fd606,</hex>
 	</filter>
 	<filter addr="8375" name="PEQ_2_10">
-		<freq>10</freq>
+		<freq>1000</freq>
 		<q>0.9</q>
-		<boost>4.4</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0000923684042355,-1.9993590463618256,0.9992672296260537,1.9993591559894965,-0.9993594884026178,</dec>
-		<hex>3f800307,bfffeaff,3f7fcffa,3fffeb00,bf7fd606,</hex>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8380" name="PEQ_3_1">
 		<freq>1000</freq>
@@ -1428,6 +1428,8 @@
 		<beq_gain>+5 gain</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
+		<beq_overview>Twenty years after the events of Iron Sky, the former Nazi Moonbase has become the last refuge of mankind. Earth was devastated by a nuclear war, but buried deep under the wasteland lies a power that could save the last of humanity - or destroy it once and for all. An old enemy leads our heroes on an adventure into the Hollow Earth. To save humanity, they must fight the Vril, an ancient shapeshifting reptilian race and their army of dinosaurs.</beq_overview>
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58265300</beq_avs>
 		<beq_theMovieDB>302349</beq_theMovieDB>
@@ -1438,11 +1440,11 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="12">Adventure</genre>
-			<genre id="35">Comedy</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

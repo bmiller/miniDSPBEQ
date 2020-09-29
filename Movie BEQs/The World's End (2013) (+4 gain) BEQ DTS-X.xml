@@ -803,7 +803,7 @@
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
 		<freq>63</freq>
-		<q>1</q>
+		<q>1.0</q>
 		<boost>1.4</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -849,7 +849,7 @@
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>13</freq>
 		<q>0.9</q>
-		<boost>5</boost>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0001365718988078,-1.999180910072884,0.9990453031716751,1.9991811212426691,-0.9991816639006976,</dec>
@@ -858,7 +858,7 @@
 	<filter addr="8310" name="PEQ_1_7">
 		<freq>13</freq>
 		<q>0.9</q>
-		<boost>5</boost>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0001365718988078,-1.999180910072884,0.9990453031716751,1.9991811212426691,-0.9991816639006976,</dec>
@@ -867,7 +867,7 @@
 	<filter addr="8315" name="PEQ_1_8">
 		<freq>13</freq>
 		<q>0.9</q>
-		<boost>5</boost>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0001365718988078,-1.999180910072884,0.9990453031716751,1.9991811212426691,-0.9991816639006976,</dec>
@@ -876,7 +876,7 @@
 	<filter addr="8320" name="PEQ_1_9">
 		<freq>13</freq>
 		<q>0.9</q>
-		<boost>5</boost>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0001365718988078,-1.999180910072884,0.9990453031716751,1.9991811212426691,-0.9991816639006976,</dec>
@@ -885,7 +885,7 @@
 	<filter addr="8325" name="PEQ_1_10">
 		<freq>13</freq>
 		<q>0.9</q>
-		<boost>5</boost>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0001365718988078,-1.999180910072884,0.9990453031716751,1.9991811212426691,-0.9991816639006976,</dec>
@@ -893,7 +893,7 @@
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
 		<freq>63</freq>
-		<q>1</q>
+		<q>1.0</q>
 		<boost>1.4</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -939,7 +939,7 @@
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>13</freq>
 		<q>0.9</q>
-		<boost>5</boost>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0001365718988078,-1.999180910072884,0.9990453031716751,1.9991811212426691,-0.9991816639006976,</dec>
@@ -948,7 +948,7 @@
 	<filter addr="8360" name="PEQ_2_7">
 		<freq>13</freq>
 		<q>0.9</q>
-		<boost>5</boost>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0001365718988078,-1.999180910072884,0.9990453031716751,1.9991811212426691,-0.9991816639006976,</dec>
@@ -957,7 +957,7 @@
 	<filter addr="8365" name="PEQ_2_8">
 		<freq>13</freq>
 		<q>0.9</q>
-		<boost>5</boost>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0001365718988078,-1.999180910072884,0.9990453031716751,1.9991811212426691,-0.9991816639006976,</dec>
@@ -966,7 +966,7 @@
 	<filter addr="8370" name="PEQ_2_9">
 		<freq>13</freq>
 		<q>0.9</q>
-		<boost>5</boost>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0001365718988078,-1.999180910072884,0.9990453031716751,1.9991811212426691,-0.9991816639006976,</dec>
@@ -975,7 +975,7 @@
 	<filter addr="8375" name="PEQ_2_10">
 		<freq>13</freq>
 		<q>0.9</q>
-		<boost>5</boost>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0001365718988078,-1.999180910072884,0.9990453031716751,1.9991811212426691,-0.9991816639006976,</dec>
@@ -1428,6 +1428,8 @@
 		<beq_gain>+4 gain</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
+		<beq_overview>Five friends who reunite in an attempt to top their epic pub crawl from 20 years earlier unwittingly become humankind&apos;s only hope for survival.</beq_overview>
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58526424</beq_avs>
 		<beq_theMovieDB>107985</beq_theMovieDB>

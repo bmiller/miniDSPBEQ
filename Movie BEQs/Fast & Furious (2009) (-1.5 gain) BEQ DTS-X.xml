@@ -803,7 +803,7 @@
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
 		<freq>53</freq>
-		<q>1</q>
+		<q>1.0</q>
 		<boost>4.6</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -813,7 +813,7 @@
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>29</freq>
 		<q>1.1</q>
-		<boost>8</boost>
+		<boost>8.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0004014142354687,-1.9986263401930904,0.9982306317472887,1.9986280573300337,-0.9986303288458139,</dec>
@@ -822,7 +822,7 @@
 	<filter addr="8290" name="PEQ_1_3">
 		<freq>29</freq>
 		<q>1.1</q>
-		<boost>8</boost>
+		<boost>8.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0004014142354687,-1.9986263401930904,0.9982306317472887,1.9986280573300337,-0.9986303288458139,</dec>
@@ -831,7 +831,7 @@
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>29</freq>
 		<q>1.1</q>
-		<boost>8</boost>
+		<boost>8.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0004014142354687,-1.9986263401930904,0.9982306317472887,1.9986280573300337,-0.9986303288458139,</dec>
@@ -840,7 +840,7 @@
 	<filter addr="8300" name="PEQ_1_5">
 		<freq>29</freq>
 		<q>1.1</q>
-		<boost>8</boost>
+		<boost>8.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0004014142354687,-1.9986263401930904,0.9982306317472887,1.9986280573300337,-0.9986303288458139,</dec>
@@ -893,7 +893,7 @@
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
 		<freq>53</freq>
-		<q>1</q>
+		<q>1.0</q>
 		<boost>4.6</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
@@ -903,7 +903,7 @@
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>29</freq>
 		<q>1.1</q>
-		<boost>8</boost>
+		<boost>8.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0004014142354687,-1.9986263401930904,0.9982306317472887,1.9986280573300337,-0.9986303288458139,</dec>
@@ -912,7 +912,7 @@
 	<filter addr="8340" name="PEQ_2_3">
 		<freq>29</freq>
 		<q>1.1</q>
-		<boost>8</boost>
+		<boost>8.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0004014142354687,-1.9986263401930904,0.9982306317472887,1.9986280573300337,-0.9986303288458139,</dec>
@@ -921,7 +921,7 @@
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>29</freq>
 		<q>1.1</q>
-		<boost>8</boost>
+		<boost>8.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0004014142354687,-1.9986263401930904,0.9982306317472887,1.9986280573300337,-0.9986303288458139,</dec>
@@ -930,7 +930,7 @@
 	<filter addr="8350" name="PEQ_2_5">
 		<freq>29</freq>
 		<q>1.1</q>
-		<boost>8</boost>
+		<boost>8.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
 		<dec>1.0004014142354687,-1.9986263401930904,0.9982306317472887,1.9986280573300337,-0.9986303288458139,</dec>
@@ -1428,6 +1428,8 @@
 		<beq_gain>-1.5 gain</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
+		<beq_overview>When a crime brings them back to L.A., fugitive ex-con Dom Toretto reignites his feud with agent Brian O&apos;Conner. But as they are forced to confront a shared enemy, Dom and Brian must give in to an uncertain new trust if they hope to outmaneuver him. And the two men will find the best way to get revenge: push the limits of what&apos;s possible behind the wheel.</beq_overview>
+		<beq_rating>PG-13</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58204968</beq_avs>
 		<beq_theMovieDB>13804</beq_theMovieDB>
@@ -1438,10 +1440,10 @@
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
-			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
+			<genre id="28">Action</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
