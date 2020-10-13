@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Dustwalker</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Dustwalker</beq_sortTitle>
+		<beq_sortTitle>dustwalker</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/L956Rbo.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/E7lSqWL.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6 gain</beq_gain>
+		<beq_gain>+6</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>An alien spaceship crash-lands in an isolated town in the middle of the Australian desert, releasing an insidious parasite that attacks the brain of all creatures including humans, making them disorientated, unnaturally strong and violent. Sargeant Jo Sharp, readying for a return to the big city beat, wakes to find the township, her family and friends falling victim to an evil that is spreading faster than it can be contained.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Ragnarok</beq_title>
 		<beq_alt_title>Gåten Ragnarok</beq_alt_title>
-		<beq_sortTitle>Ragnarok</beq_sortTitle>
+		<beq_sortTitle>ragnarok</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/TIWqLoF.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/Ae0a0mZ.jpg</beq_pvaURL>
@@ -1425,11 +1425,11 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-3 gain</beq_gain>
+		<beq_gain>-3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Archaeologist Sigurd Svendsen discovers that the Oseberg ship hides a secret from the Viking Age. Along with his two children put Sigurd out on a quest to find the truth. The mystery leads them into &quot;No Man&apos;s Land&quot; between Norway and Russia where no man traveling in modern times. Old runes take on new meaning when the secret they uncover is more frightening than anyone could have imagined.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57669712</beq_avs>
 		<beq_theMovieDB>140818</beq_theMovieDB>

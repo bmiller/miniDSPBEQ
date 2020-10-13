@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Isle of Dogs</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Isle of Dogs</beq_sortTitle>
+		<beq_sortTitle>isle of dogs</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/WgwMUpy.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/7mbguhx.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1 gain</beq_gain>
+		<beq_gain>+1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island that&apos;s a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="16">Animation</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="16">Animation</genre>
 			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>

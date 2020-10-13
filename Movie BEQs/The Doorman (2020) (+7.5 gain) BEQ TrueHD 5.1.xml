@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Doorman</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Doorman</beq_sortTitle>
+		<beq_sortTitle>doorman</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/HMTqrQe.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/Qbww8Ij.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+7.5 gain</beq_gain>
+		<beq_gain>+7.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A former Marine turned doorman at a luxury New York City high-rise must outsmart and battle a group of art thieves and their ruthless leader — while struggling to protect her sister&apos;s family. As the thieves become increasingly desperate and violent, the doorman calls upon her deadly fighting skills to end the showdown.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Informer</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Informer</beq_sortTitle>
+		<beq_sortTitle>informer</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/HY2MEnv.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/0i3bT2j.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5 gain</beq_gain>
+		<beq_gain>+5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In New York, former convict Pete Koslow, related to the Polish mafia, must deal with both Klimek the General, his ruthless boss, and the twisted ambitions of two federal agents, as he tries to survive and protect the lives of his loved ones.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="53">Thriller</genre>
 			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
-			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

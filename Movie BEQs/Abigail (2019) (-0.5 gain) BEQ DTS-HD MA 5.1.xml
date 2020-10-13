@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Abigail</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Abigail</beq_sortTitle>
+		<beq_sortTitle>abigail</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/t7aoh3Z.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/R1iBOwm.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-0.5 gain</beq_gain>
+		<beq_gain>-0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A young girl Abigail lives in a city whose borders were closed many years ago because of an epidemic of a mysterious disease. Abby&apos;s father was one of the sick - and he was taken when she was six years old. Going against the authorities to find his father, Abby learns that her city is actually full of magic. And she discovers in herself extraordinary magical abilities.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

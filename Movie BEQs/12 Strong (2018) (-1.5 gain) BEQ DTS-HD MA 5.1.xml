@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>12 Strong</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>12 Strong</beq_sortTitle>
+		<beq_sortTitle>12 strong</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/p8lxGYG.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/wgl3TEe.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1.5 gain</beq_gain>
+		<beq_gain>-1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.</beq_overview>

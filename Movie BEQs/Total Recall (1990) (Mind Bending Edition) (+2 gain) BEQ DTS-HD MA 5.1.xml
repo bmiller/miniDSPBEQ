@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Total Recall</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Total Recall</beq_sortTitle>
+		<beq_sortTitle>total recall</beq_sortTitle>
 		<beq_year>1990</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/wjep121.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/bdNGvyR.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note>Mind Bending Edition</beq_note>
 		<beq_warning />
-		<beq_gain>+2 gain</beq_gain>
+		<beq_gain>+2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Construction worker Douglas Quaid discovers a memory chip in his brain during a virtual-reality trip. He also finds that his past has been invented to conceal a plot of planetary domination. Soon, he&apos;s off to Mars to find out who he is and who planted the chip.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

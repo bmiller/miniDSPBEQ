@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Adrift</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Adrift</beq_sortTitle>
+		<beq_sortTitle>adrift</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/srGXYxA.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/429300/moviethumb/adrift-5b17b3ad7af89.jpg</beq_pvaURL>
@@ -1429,7 +1429,7 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A true story of survival, as a young couple&apos;s chance encounter leads them first to love, and then on the adventure of a lifetime as they face one of the most catastrophic hurricanes in recorded history.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56720236</beq_avs>
 		<beq_theMovieDB>429300</beq_theMovieDB>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10749">Romance</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="10749">Romance</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Haunt</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Haunt</beq_sortTitle>
+		<beq_sortTitle>haunt</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/u1YQokw.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/P0KsTYq.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6.5 gain</beq_gain>
+		<beq_gain>+6.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>On Halloween, a group of friends encounter an &quot;extreme&quot; haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realization that some nightmares are real.</beq_overview>

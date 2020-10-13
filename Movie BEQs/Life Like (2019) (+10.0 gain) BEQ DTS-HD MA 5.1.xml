@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Life Like</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Life Like</beq_sortTitle>
+		<beq_sortTitle>life like</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/TdWMCJF.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/xrLQn4Y.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+10.0 gain</beq_gain>
+		<beq_gain>+10.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>An idealistic attractive young couple acquires a stunning, life-like robot for guilt free help, but as the three grow closer, their perception of humanity will be altered forever.</beq_overview>

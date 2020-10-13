@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Act of Valor</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Act of Valor</beq_sortTitle>
+		<beq_sortTitle>act of valor</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/SSh4nOa.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/75674/moviethumb/act-of-valor-505d978395535.jpg</beq_pvaURL>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="10752">War</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="10752">War</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

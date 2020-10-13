@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>1BR</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>1BR</beq_sortTitle>
+		<beq_sortTitle>1br</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/N1sC2KY.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/M9r9BEy.jpg</beq_pvaURL>
@@ -1425,11 +1425,11 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+7.5 gain</beq_gain>
+		<beq_gain>+7.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Angeles, she think she&apos;s hit the jackpot. It&apos;s got plenty of space, friendly tenants, group BBQs and even a cute neighbour next door. All is not what it seems: loud noises start keeping her awake at night; her cat is missing; everyone seems to be a little too helpful and friendly, except for the weirdo, Lester. Soon, Sarah learns she didn&apos;t choose this apartment — it chose her.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59711930</beq_avs>
 		<beq_theMovieDB>611605</beq_theMovieDB>

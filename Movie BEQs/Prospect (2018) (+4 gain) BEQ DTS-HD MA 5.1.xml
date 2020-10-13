@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Prospect</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Prospect</beq_sortTitle>
+		<beq_sortTitle>prospect</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/BkWXqbU.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/Q6sTJKH.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4 gain</beq_gain>
+		<beq_gain>+4</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A teenage girl and her father travel to a remote alien moon, aiming to strike it rich. They&apos;ve secured a contract to harvest a large deposit of the elusive gems hidden in the depths of the moon&apos;s toxic forest. But there are others roving the wilderness and the job quickly devolves into a fight to survive.</beq_overview>

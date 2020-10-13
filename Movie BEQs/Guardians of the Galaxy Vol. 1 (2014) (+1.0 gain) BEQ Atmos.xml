@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Guardians of the Galaxy</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Guardians of the Galaxy</beq_sortTitle>
+		<beq_sortTitle>guardians of the galaxy</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/q5yGmBv.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/AL9hRzz.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1.0 gain</beq_gain>
+		<beq_gain>+1.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
-			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

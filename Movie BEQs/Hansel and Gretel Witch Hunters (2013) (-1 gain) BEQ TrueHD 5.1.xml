@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Hansel &amp; Gretel: Witch Hunters</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hansel &amp; Gretel: Witch Hunters</beq_sortTitle>
+		<beq_sortTitle>hansel &amp; gretel: witch hunters</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/KUCeTiw.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/BsDWkWK.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1 gain</beq_gain>
+		<beq_gain>-1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>After getting a taste for blood as children, Hansel and Gretel have become the ultimate vigilantes, hell-bent on retribution. Now, unbeknownst to them, Hansel and Gretel have become the hunted, and must face an evil far greater than witches... their past.</beq_overview>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="27">Horror</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Shining</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Shining</beq_sortTitle>
+		<beq_sortTitle>shining</beq_sortTitle>
 		<beq_year>1980</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/goFd5m6.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/CyNnz9v.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6 gain</beq_gain>
+		<beq_gain>+6</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren&apos;t prepared for the madness that lurks within.</beq_overview>

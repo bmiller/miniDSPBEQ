@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Hamilton</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hamilton</beq_sortTitle>
+		<beq_sortTitle>hamilton</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/578gqze.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/ediWrOR.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4.5 gain</beq_gain>
+		<beq_gain>+4.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disney+</beq_source>
 		<beq_overview>Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.</beq_overview>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Deep Blue Sea</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Deep Blue Sea</beq_sortTitle>
+		<beq_sortTitle>deep blue sea</beq_sortTitle>
 		<beq_year>1999</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/AXzk6Is.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/Y7k4fuS.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1 gain</beq_gain>
+		<beq_gain>-1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Researchers on the undersea lab Aquatica have genetically altered the brains of captive sharks to develop a cure for Alzheimer&apos;s disease. But there&apos;s an unexpected side effect: the sharks got smarter, faster, and more dangerous. After a big storm damages their remote research facility, they must fight for their lives.</beq_overview>
@@ -1441,8 +1441,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="27">Horror</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Slaughterhouse Rulez</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Slaughterhouse Rulez</beq_sortTitle>
+		<beq_sortTitle>slaughterhouse rulez</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/SjkeRgX.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/1oG26iz.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2.5 gain</beq_gain>
+		<beq_gain>+2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Don Wallace arrives at Slaughterhouse, an elite boarding school in the English countryside where the children of the wealthiest are groomed to dominate society. But the monolithic rules of the British upper class change when greed and recklessness unleash an ancient power hidden for centuries and future predators become helpless prey.</beq_overview>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="35">Comedy</genre>
 			<genre id="27">Horror</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Babadook</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Babadook</beq_sortTitle>
+		<beq_sortTitle>babadook</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/nbOtPXb.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/E3Ujwig.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1.0 gain</beq_gain>
+		<beq_gain>+1.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A single mother, plagued by the violent death of her husband, battles with her son&apos;s fear of a monster lurking in the house, but soon discovers a sinister presence all around her.</beq_overview>

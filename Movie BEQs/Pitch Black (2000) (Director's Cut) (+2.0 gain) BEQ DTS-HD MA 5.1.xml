@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Pitch Black</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Pitch Black</beq_sortTitle>
+		<beq_sortTitle>pitch black</beq_sortTitle>
 		<beq_year>2000</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/aasUWGt.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2.0 gain</beq_gain>
+		<beq_gain>+2.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When their ship crash-lands on a remote planet, the marooned passengers soon learn that escaped convict Riddick isn&apos;t the only thing they have to fear. Deadly creatures lurk in the shadows, waiting to attack in the dark, and the planet is rapidly plunging into the utter blackness of a total eclipse. With the body count rising, the doomed survivors are forced to turn to Riddick with his eerie eyes to guide them through the darkness to safety. With time running out, there&apos;s only one rule: Stay in the light.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

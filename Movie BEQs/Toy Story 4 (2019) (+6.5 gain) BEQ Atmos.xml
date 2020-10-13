@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Toy Story 4</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Toy Story 4</beq_sortTitle>
+		<beq_sortTitle>toy story 4</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/5N2D7Bn.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/97Z4NqX.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6.5 gain</beq_gain>
+		<beq_gain>+6.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that&apos;s Andy or Bonnie. But when Bonnie adds a reluctant new toy called &quot;Forky&quot; to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.</beq_overview>
@@ -1440,11 +1440,11 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
-			<genre id="12">Adventure</genre>
-			<genre id="16">Animation</genre>
 			<genre id="10751">Family</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="16">Animation</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

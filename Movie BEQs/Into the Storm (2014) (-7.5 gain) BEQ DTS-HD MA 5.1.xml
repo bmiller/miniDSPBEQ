@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Into the Storm</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Into the Storm</beq_sortTitle>
+		<beq_sortTitle>into the storm</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/T8WPMFU.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/u6MTE9r.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-7.5 gain</beq_gain>
+		<beq_gain>-7.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>As a new day begins in the town of Silverton, its residents have little reason to believe it will be anything other than ordinary. Mother Nature, however has other plans. In the span of just a few hours, an unprecedented onslaught of powerful tornadoes ravages Silverton. Storm trackers predict that the worst is still to come, as terrified residents seek shelter, and professional storm-chasers run toward the danger, hoping to study the phenomenon close up and get a once-in-a-lifetime shot.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Hardcore Henry</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hardcore Henry</beq_sortTitle>
+		<beq_sortTitle>hardcore henry</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/TCEOgZi.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/bVdwPVs.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-3 gain</beq_gain>
+		<beq_gain>-3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Henry, a newly resurrected cyborg who must save his wife/creator from the clutches of a psychotic tyrant with telekinetic powers, AKAN, and his army of mercenaries. Fighting alongside Henry is Jimmy, who is Henry&apos;s only hope to make it through the day. Hardcore takes place over the course of one day, in Moscow, Russia.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="878">Science Fiction</genre>
-			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

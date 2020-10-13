@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Black Hawk Down</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Black Hawk Down</beq_sortTitle>
+		<beq_sortTitle>black hawk down</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/NXELYDi.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/43iFNyr.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-0.5 gain</beq_gain>
+		<beq_gain>-0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>LPCM 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="36">History</genre>
+			<genre id="28">Action</genre>
 			<genre id="10752">War</genre>
 		</beq_genres>
 	</beq_metadata>

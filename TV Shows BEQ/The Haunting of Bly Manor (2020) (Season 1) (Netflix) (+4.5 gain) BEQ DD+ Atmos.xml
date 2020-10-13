@@ -807,8 +807,8 @@
 		<boost>5.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0311053867350186,-1.8384950356835554,0.8394695729976865,1.846308720585038,-0.8627612748312226,</dec>
-		<hex>3f83fb43,bfeb53ce,3f56e77a,3fec53d8,bf5cddec,</hex>
+		<dec>1.0003051329090664,-1.9984598266939895,0.9981584294102781,1.9984607365776723,-0.9984626524356618,</dec>
+		<hex>3f800a00,bfffcd88,3f7f8750,3fffcd90,bf7f9b40,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>60</freq>
@@ -816,8 +816,8 @@
 		<boost>0.2</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0035858243086417,-1.573285318010401,0.6885254969487253,1.573285318010401,-0.6921113212573671,</dec>
-		<hex>3f807580,bfc9616a,3f304335,3fc9616a,bf312e35,</hex>
+		<dec>1.0000451244479436,-1.99611010016764,0.9960803670818985,1.99611010016764,-0.996125491529842,</dec>
+		<hex>3f80017b,bfff8089,3f7eff1f,3fff8089,bf7f0215,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
 		<freq>1000</freq>
@@ -897,8 +897,8 @@
 		<boost>5.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0311053867350186,-1.8384950356835554,0.8394695729976865,1.846308720585038,-0.8627612748312226,</dec>
-		<hex>3f83fb43,bfeb53ce,3f56e77a,3fec53d8,bf5cddec,</hex>
+		<dec>1.0003051329090664,-1.9984598266939895,0.9981584294102781,1.9984607365776723,-0.9984626524356618,</dec>
+		<hex>3f800a00,bfffcd88,3f7f8750,3fffcd90,bf7f9b40,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>60</freq>
@@ -906,8 +906,8 @@
 		<boost>0.2</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0035858243086417,-1.573285318010401,0.6885254969487253,1.573285318010401,-0.6921113212573671,</dec>
-		<hex>3f807580,bfc9616a,3f304335,3fc9616a,bf312e35,</hex>
+		<dec>1.0000451244479436,-1.99611010016764,0.9960803670818985,1.99611010016764,-0.996125491529842,</dec>
+		<hex>3f80017b,bfff8089,3f7eff1f,3fff8089,bf7f0215,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
 		<freq>1000</freq>
@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Haunting of Bly Manor</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>The Haunting of Bly Manor</beq_sortTitle>
+		<beq_sortTitle>haunting of bly manor</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/5ck4NlH.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4.5 gain</beq_gain>
+		<beq_gain>+4.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>After an au pair’s tragic death, Henry Wingrave hires a young American nanny to care for his orphaned niece and nephew who reside at Bly Manor with the estate’s chef Owen, groundskeeper Jamie and housekeeper, Mrs. Grose. But all is not as it seems at the manor, and centuries of dark secrets of love and loss are waiting to be unearthed in this chilling gothic romance. At Bly Manor, dead doesn’t mean gone.</beq_overview>

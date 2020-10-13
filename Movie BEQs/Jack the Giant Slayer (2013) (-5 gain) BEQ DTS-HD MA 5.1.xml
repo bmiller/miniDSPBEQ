@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Jack the Giant Slayer</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Jack the Giant Slayer</beq_sortTitle>
+		<beq_sortTitle>jack the giant slayer</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/FEUS5Np.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/In80CaQ.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-5 gain</beq_gain>
+		<beq_gain>-5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The story of an ancient war that is reignited when a young farmhand unwittingly opens a gateway between our world and a fearsome race of giants. Unleashed on the Earth for the first time in centuries, the giants strive to reclaim the land they once lost, forcing the young man, Jack into the battle of his life to stop them. Fighting for a kingdom, its people, and the love of a brave princess, he comes face to face with the unstoppable warriors he thought only existed in legend–and gets the chance to become a legend himself.</beq_overview>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="10751">Family</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="10751">Family</genre>
+			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

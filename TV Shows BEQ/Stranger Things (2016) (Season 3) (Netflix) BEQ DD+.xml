@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Stranger Things</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Stranger Things</beq_sortTitle>
+		<beq_sortTitle>stranger things</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/BSlOg4Q.jpg</beq_pvaURL>
@@ -1439,8 +1439,8 @@
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="9648">Mystery</genre>
 			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
+			<genre id="9648">Mystery</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Cargo</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Cargo</beq_sortTitle>
+		<beq_sortTitle>cargo</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/V8PKF8M.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/eAKEz4T.jpg</beq_pvaURL>
@@ -1429,7 +1429,7 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>After being infected in the wake of a violent pandemic and with only 48 hours to live, a father struggles to find a new home for his baby daughter.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57005116</beq_avs>
 		<beq_theMovieDB>425972</beq_theMovieDB>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
-			<genre id="53">Thriller</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="27">Horror</genre>
+			<genre id="18">Drama</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

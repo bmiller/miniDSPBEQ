@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Sputnik</beq_title>
 		<beq_alt_title>Спутник</beq_alt_title>
-		<beq_sortTitle>Sputnik</beq_sortTitle>
+		<beq_sortTitle>sputnik</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/CeY5xnU.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/JA13dbZ.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2.5 gain</beq_gain>
+		<beq_gain>+2.5</beq_gain>
 		<beq_language>Russian</beq_language>
 		<beq_source>Amazon</beq_source>
 		<beq_overview>At the height of the Cold War, a Soviet spacecraft crash lands after a mission gone awry, leaving the commander as its only survivor. After a renowned Russian psychologist is brought in to evaluate the commander’s mental state, it becomes clear that something dangerous may have come back to Earth with him…</beq_overview>

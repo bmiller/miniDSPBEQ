@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Happy Death Day</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Happy Death Day</beq_sortTitle>
+		<beq_sortTitle>happy death day</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/CCxhEkg.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/440021/moviethumb/happy-death-day-5a53d6eb97e0f.jpg</beq_pvaURL>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
 			<genre id="27">Horror</genre>
+			<genre id="35">Comedy</genre>
 			<genre id="9648">Mystery</genre>
 			<genre id="53">Thriller</genre>
 		</beq_genres>

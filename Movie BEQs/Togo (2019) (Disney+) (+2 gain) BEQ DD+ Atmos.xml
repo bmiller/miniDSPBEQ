@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Togo</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Togo</beq_sortTitle>
+		<beq_sortTitle>togo</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/QIGdH6p.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/z4z3Xjr.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2 gain</beq_gain>
+		<beq_gain>+2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disney+</beq_source>
 		<beq_overview>The untold true story set in the winter of 1925 that takes you across the treacherous terrain of the Alaskan tundra for an exhilarating and uplifting adventure that will test the strength, courage and determination of one man, Leonhard Seppala, and his lead sled dog, Togo.</beq_overview>
@@ -1439,10 +1439,10 @@
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
-			<genre id="36">History</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="36">History</genre>
 			<genre id="10751">Family</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Freaks</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Freaks</beq_sortTitle>
+		<beq_sortTitle>freaks</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/F1OUUNy.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/lprgVPF.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5.0 gain</beq_gain>
+		<beq_gain>+5.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Kept locked inside the house by her father, 7-year-old Chloe lives in fear and fascination of the outside world, where Abnormals create a constant threat - or so she believes. When a mysterious stranger offers her a glimpse of what&apos;s really happening outside, Chloe soon finds that while the truth isn&apos;t so simple, the danger is very real.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="9648">Mystery</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="53">Thriller</genre>
-			<genre id="9648">Mystery</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>

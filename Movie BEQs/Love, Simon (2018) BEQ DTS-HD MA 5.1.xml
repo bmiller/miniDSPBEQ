@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Love, Simon</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Love, Simon</beq_sortTitle>
+		<beq_sortTitle>love, simon</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/xYLuWEd.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/449176/moviethumb/simon-vs-the-homo-sapiens-agenda-5b149ad05b284.jpg</beq_pvaURL>
@@ -1429,7 +1429,7 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Everyone deserves a great love story. But for seventeen-year old Simon Spier it&apos;s a little more complicated: he&apos;s yet to tell his family or friends he&apos;s gay and he doesn&apos;t know the identity of the anonymous classmate he&apos;s fallen for online.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56819878</beq_avs>
 		<beq_theMovieDB>449176</beq_theMovieDB>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="35">Comedy</genre>
 			<genre id="10749">Romance</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

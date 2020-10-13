@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Defiant Ones</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Defiant Ones</beq_sortTitle>
+		<beq_sortTitle>defiant ones</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/ckTS1ZL.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season>1</beq_season>
 		<beq_note>Miniseries</beq_note>
 		<beq_warning />
-		<beq_gain>+7.5 gain</beq_gain>
+		<beq_gain>+7.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Amazon</beq_source>
 		<beq_overview>A four-part documentary series that tells the stories of Jimmy Iovine and Dr. Dre -- one the son of a Brooklyn longshoreman, the other straight out of Compton - -- and their improbable partnership and surprising leading roles in a series of transformative events in contemporary culture.</beq_overview>

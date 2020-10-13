@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Sleepless</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Sleepless</beq_sortTitle>
+		<beq_sortTitle>sleepless</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/HnFjvlX.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/1yMy6VT.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-0.5 gain</beq_gain>
+		<beq_gain>-0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Undercover Las Vegas police officer Vincent Downs, who has got a lot of enemies, is caught in a high stakes web of corrupt cops and the mob-controlled casino underground. When a heist goes wrong, a crew of homicidal gangsters gets T, Downs’ teenage son. In one sleepless night, he will have to rescue his son T (who they got), evade an internal affairs investigation and bring the kidnappers to justice.</beq_overview>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="80">Crime</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

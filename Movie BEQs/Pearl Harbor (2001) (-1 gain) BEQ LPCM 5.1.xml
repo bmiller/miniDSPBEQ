@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Pearl Harbor</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Pearl Harbor</beq_sortTitle>
+		<beq_sortTitle>pearl harbor</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/326LkH6.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/REVk9RV.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1 gain</beq_gain>
+		<beq_gain>-1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan&apos;s devastating attack on Pearl Harbor on Dec. 7, 1941.</beq_overview>
@@ -1439,10 +1439,10 @@
 			<audioType>LPCM 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="36">History</genre>
-			<genre id="10749">Romance</genre>
 			<genre id="10752">War</genre>
+			<genre id="36">History</genre>
 			<genre id="18">Drama</genre>
+			<genre id="10749">Romance</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

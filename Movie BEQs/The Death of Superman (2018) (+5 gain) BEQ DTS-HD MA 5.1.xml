@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Death of Superman</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Death of Superman</beq_sortTitle>
+		<beq_sortTitle>death of superman</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/7Gokazl.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/xQV6ZYR.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5 gain</beq_gain>
+		<beq_gain>+5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When a hulking monster arrives on Earth and begins a mindless rampage, the Justice League is quickly called in to stop it. But it soon becomes apparent that only Superman can stand against the monstrosity.</beq_overview>
@@ -1440,10 +1440,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="16">Animation</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="18">Drama</genre>
+			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
+			<genre id="16">Animation</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Extraction</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Extraction</beq_sortTitle>
+		<beq_sortTitle>extraction</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/2VnlnBN.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/HFktb5O.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+0.5 gain</beq_gain>
+		<beq_gain>+0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>Tyler Rake, a fearless mercenary who offers his services on the black market, embarks on a dangerous mission when he is hired to rescue the kidnapped son of a Mumbai crime lord…</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>

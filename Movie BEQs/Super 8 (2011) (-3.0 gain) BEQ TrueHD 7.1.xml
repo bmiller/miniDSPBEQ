@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Super 8</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Super 8</beq_sortTitle>
+		<beq_sortTitle>super 8</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/I9cmaAn.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/ueelVjN.jpg</beq_pvaURL>
@@ -1425,11 +1425,11 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-3.0 gain</beq_gain>
+		<beq_gain>-3.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In 1979 Ohio, several youngsters are making a zombie movie with a Super-8 camera. In the midst of filming, the friends witness a horrifying train derailment and are lucky to escape with their lives. They soon discover that the catastrophe was no accident, as a series of unexplained events and disappearances soon follows. Deputy Jackson Lamb, the father of one of the kids, searches for the terrifying truth behind the crash.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56916044</beq_avs>
 		<beq_theMovieDB>37686</beq_theMovieDB>
@@ -1439,9 +1439,9 @@
 			<audioType>TrueHD 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="9648">Mystery</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="878">Science Fiction</genre>
-			<genre id="9648">Mystery</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Dracula</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Dracula</beq_sortTitle>
+		<beq_sortTitle>dracula</beq_sortTitle>
 		<beq_year>1992</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/J4OuEfC.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/EOCLwyn.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3 gain</beq_gain>
+		<beq_gain>+3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When Dracula leaves the captive Jonathan Harker and Transylvania for London in search of Mina Harker, the reincarnation of Dracula&apos;s long-dead wife Elisabeta, obsessed vampire hunter Dr. Van Helsing sets out to end the madness.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
 			<genre id="10749">Romance</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

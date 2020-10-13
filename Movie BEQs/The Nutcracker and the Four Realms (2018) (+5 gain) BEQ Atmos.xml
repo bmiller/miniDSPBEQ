@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Nutcracker and the Four Realms</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Nutcracker and the Four Realms</beq_sortTitle>
+		<beq_sortTitle>nutcracker and the four realms</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/1sPWSYM.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/33AnbLB.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5 gain</beq_gain>
+		<beq_gain>+5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When Clara’s mother leaves her a mysterious gift, she embarks on a journey to four secret realms—where she discovers her greatest strength could change the world.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
-			<genre id="10751">Family</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="10751">Family</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

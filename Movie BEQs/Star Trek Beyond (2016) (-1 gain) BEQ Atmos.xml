@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Star Trek Beyond</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Star Trek Beyond</beq_sortTitle>
+		<beq_sortTitle>star trek beyond</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/KoiBtp9.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/RsA8Y7j.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1 gain</beq_gain>
+		<beq_gain>-1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The USS Enterprise crew explores the furthest reaches of uncharted space, where they encounter a mysterious new enemy who puts them and everything the Federation stands for to the test.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>

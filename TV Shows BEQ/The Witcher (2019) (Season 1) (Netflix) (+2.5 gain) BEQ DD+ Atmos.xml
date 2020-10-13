@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Witcher</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Witcher</beq_sortTitle>
+		<beq_sortTitle>witcher</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/4Qb5jg5.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2.5 gain</beq_gain>
+		<beq_gain>+2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.</beq_overview>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="10759">Action &amp; Adventure</genre>
-			<genre id="18">Drama</genre>
 			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

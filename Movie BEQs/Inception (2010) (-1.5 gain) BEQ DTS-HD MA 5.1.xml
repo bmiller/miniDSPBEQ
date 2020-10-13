@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Inception</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Inception</beq_sortTitle>
+		<beq_sortTitle>inception</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/RKgQTaY.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/5puxeO4.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1.5 gain</beq_gain>
+		<beq_gain>-1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: &quot;inception&quot;, the implantation of another person&apos;s idea into a target&apos;s subconscious.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>

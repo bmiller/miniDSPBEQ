@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Ferdinand</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Ferdinand</beq_sortTitle>
+		<beq_sortTitle>ferdinand</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/MyLhnYU.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/1QpydC1.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5 gain</beq_gain>
+		<beq_gain>+5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the &quot;biggest, fastest, roughest bull&quot; for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children&apos;s book by Munro Leaf.</beq_overview>
@@ -1439,10 +1439,10 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
-			<genre id="12">Adventure</genre>
-			<genre id="16">Animation</genre>
 			<genre id="10751">Family</genre>
+			<genre id="16">Animation</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

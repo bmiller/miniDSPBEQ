@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Dunkirk</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Dunkirk</beq_sortTitle>
+		<beq_sortTitle>dunkirk</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/yQdsnOw.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/ImTsoht.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-5 gain</beq_gain>
+		<beq_gain>-5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="10752">War</genre>
 			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
-			<genre id="10752">War</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

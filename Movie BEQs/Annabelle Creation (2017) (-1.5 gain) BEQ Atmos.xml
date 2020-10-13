@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Annabelle: Creation</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Annabelle: Creation</beq_sortTitle>
+		<beq_sortTitle>annabelle: creation</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/h35vLzy.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/d1fRqCF.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1.5 gain</beq_gain>
+		<beq_gain>-1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Several years after the tragic death of their little girl, a doll maker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the doll maker&apos;s possessed creation—Annabelle.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="53">Thriller</genre>
 			<genre id="9648">Mystery</genre>
 			<genre id="27">Horror</genre>
-			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

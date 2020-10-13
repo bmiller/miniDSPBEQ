@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Cold Pursuit</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Cold Pursuit</beq_sortTitle>
+		<beq_sortTitle>cold pursuit</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/3kFgbMR.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/vOOAPTu.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1 gain</beq_gain>
+		<beq_gain>+1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The quiet family life of Nels Coxman, a snowplow driver, is upended after his son&apos;s murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking&apos;s associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution.</beq_overview>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="80">Crime</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

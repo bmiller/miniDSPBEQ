@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Vivarium</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Vivarium</beq_sortTitle>
+		<beq_sortTitle>vivarium</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/c2GxHZQ.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/ncDnuL8.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2.5 gain</beq_gain>
+		<beq_gain>+2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A young woman and her fiancé are in search of the perfect starter home. After following a mysterious real estate agent to a new housing development, the couple finds themselves trapped in a maze of identical houses and forced to raise an otherworldly child.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="27">Horror</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Book of Eli</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Book of Eli</beq_sortTitle>
+		<beq_sortTitle>book of eli</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/18YQROy.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/tY8hcjS.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1.5 gain</beq_gain>
+		<beq_gain>+1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

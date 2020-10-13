@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Harry Potter and the Order of the Phoenix</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Harry Potter and the Order of the Phoenix</beq_sortTitle>
+		<beq_sortTitle>harry potter and the order of the phoenix</beq_sortTitle>
 		<beq_year>2007</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/MXbVdQQ.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/AIUnqmV.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+0.5 gain</beq_gain>
+		<beq_gain>+0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students – dubbed &apos;Dumbledore&apos;s Army&apos; – to defend themselves against the dark arts.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
 			<genre id="9648">Mystery</genre>
 		</beq_genres>
 	</beq_metadata>

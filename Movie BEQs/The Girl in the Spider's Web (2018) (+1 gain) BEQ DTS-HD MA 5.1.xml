@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Girl in the Spider&apos;s Web</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Girl in the Spider&apos;s Web</beq_sortTitle>
+		<beq_sortTitle>girl in the spider&apos;s web</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/vvQOBuw.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/pQUmZdk.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1 gain</beq_gain>
+		<beq_gain>+1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In Stockholm, Sweden, hacker Lisbeth Salander is hired by Frans Balder, a computer engineer, to retrieve a program that he believes it is too dangerous to exist.</beq_overview>
@@ -1440,10 +1440,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="80">Crime</genre>
-			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="18">Drama</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

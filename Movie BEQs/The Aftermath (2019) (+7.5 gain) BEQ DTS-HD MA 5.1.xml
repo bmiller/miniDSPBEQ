@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Aftermath</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Aftermath</beq_sortTitle>
+		<beq_sortTitle>aftermath</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/cNwGiTe.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/q0uxtTQ.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+7.5 gain</beq_gain>
+		<beq_gain>+7.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In the aftermath of World War II, a British colonel and his wife are assigned to live in Hamburg during the post-war reconstruction, but tensions arise with the German widower who lives with them.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="10752">War</genre>
 			<genre id="18">Drama</genre>
 			<genre id="10749">Romance</genre>
-			<genre id="10752">War</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

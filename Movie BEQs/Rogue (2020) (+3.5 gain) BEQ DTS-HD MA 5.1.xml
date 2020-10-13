@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Rogue</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Rogue</beq_sortTitle>
+		<beq_sortTitle>rogue</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/Ej2wYfw.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/G571Ll1.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3.5 gain</beq_gain>
+		<beq_gain>+3.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Battle-hardened O’Hara leads a lively mercenary team of soldiers on a daring mission: rescue hostages from their captors in remote Africa. But as the mission goes awry and the team is stranded, O’Hara’s squad must face a bloody, brutal encounter with a gang of rebels.</beq_overview>

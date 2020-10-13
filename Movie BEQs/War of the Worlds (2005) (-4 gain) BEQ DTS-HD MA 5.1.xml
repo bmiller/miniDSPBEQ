@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>War of the Worlds</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>War of the Worlds</beq_sortTitle>
+		<beq_sortTitle>war of the worlds</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/wfdaC7Z.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/i7lIC1B.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-4 gain</beq_gain>
+		<beq_gain>-4</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

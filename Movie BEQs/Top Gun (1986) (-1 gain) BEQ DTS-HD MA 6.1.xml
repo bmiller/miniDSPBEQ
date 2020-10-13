@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Top Gun</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Top Gun</beq_sortTitle>
+		<beq_sortTitle>top gun</beq_sortTitle>
 		<beq_year>1986</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/Nc73B2A.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/xHVOUOL.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1 gain</beq_gain>
+		<beq_gain>-1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>For Lieutenant Pete &apos;Maverick&apos; Mitchell and his friend and co-pilot Nick &apos;Goose&apos; Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete&apos;s dreams of becoming an ace pilot.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD MA 6.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

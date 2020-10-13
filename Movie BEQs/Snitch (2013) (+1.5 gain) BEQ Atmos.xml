@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Snitch</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Snitch</beq_sortTitle>
+		<beq_sortTitle>snitch</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/up0BDJp.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/lr4rqF2.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1.5 gain</beq_gain>
+		<beq_gain>+1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Construction company owner John Matthews learns that his estranged son, Jason, has been arrested for drug trafficking. Facing an unjust prison sentence for a first time offender courtesy of mandatory minimum sentence laws, Jason has nothing to offer for leniency in good conscience. Desperately, John convinces the DEA and the opportunistic DA Joanne Keeghan to let him go undercover to help make arrests big enough to free his son in return. With the unwitting help of an ex-con employee, John enters the narcotics underworld where every move could be his last in an operation that will demand all his resources, wits and courage to survive.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>

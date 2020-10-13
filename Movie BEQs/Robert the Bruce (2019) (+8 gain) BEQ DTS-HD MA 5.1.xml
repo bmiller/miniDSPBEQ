@@ -807,8 +807,8 @@
 		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0241178063429426,-1.8303441708111297,0.826928333649042,1.834458070411287,-0.8469322403918275,</dec>
-		<hex>3f83164b,bfea48b8,3f53b193,3feacf86,bf58d08d,</hex>
+		<dec>1.0002493526265437,-1.9982696116504635,0.998022690557935,1.9982700948454064,-0.998271559989536,</dec>
+		<hex>3f80082c,bfffc74c,3f7f7e6a,3fffc751,bf7f8eba,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>21</freq>
@@ -816,8 +816,8 @@
 		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0241178063429426,-1.8303441708111297,0.826928333649042,1.834458070411287,-0.8469322403918275,</dec>
-		<hex>3f83164b,bfea48b8,3f53b193,3feacf86,bf58d08d,</hex>
+		<dec>1.0002493526265437,-1.9982696116504635,0.998022690557935,1.9982700948454064,-0.998271559989536,</dec>
+		<hex>3f80082c,bfffc74c,3f7f7e6a,3fffc751,bf7f8eba,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
 		<freq>36</freq>
@@ -825,8 +825,8 @@
 		<boost>-0.6</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>0.994528840612778,-1.7892893888636825,0.8415307271930443,1.7892893888636825,-0.8360595678058224,</dec>
-		<hex>3f7e9971,bfe5076f,3f576e8f,3fe5076f,bf560800,</hex>
+		<dec>0.9999374462336598,-1.998120062630894,0.9981881628441601,1.998120062630894,-0.9981256090778198,</dec>
+		<hex>3f7ffbe7,bfffc266,3f7f8942,3fffc266,bf7f8529,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>1000</freq>
@@ -897,8 +897,8 @@
 		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0241178063429426,-1.8303441708111297,0.826928333649042,1.834458070411287,-0.8469322403918275,</dec>
-		<hex>3f83164b,bfea48b8,3f53b193,3feacf86,bf58d08d,</hex>
+		<dec>1.0002493526265437,-1.9982696116504635,0.998022690557935,1.9982700948454064,-0.998271559989536,</dec>
+		<hex>3f80082c,bfffc74c,3f7f7e6a,3fffc751,bf7f8eba,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>21</freq>
@@ -906,8 +906,8 @@
 		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0241178063429426,-1.8303441708111297,0.826928333649042,1.834458070411287,-0.8469322403918275,</dec>
-		<hex>3f83164b,bfea48b8,3f53b193,3feacf86,bf58d08d,</hex>
+		<dec>1.0002493526265437,-1.9982696116504635,0.998022690557935,1.9982700948454064,-0.998271559989536,</dec>
+		<hex>3f80082c,bfffc74c,3f7f7e6a,3fffc751,bf7f8eba,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
 		<freq>36</freq>
@@ -915,8 +915,8 @@
 		<boost>-0.6</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>0.994528840612778,-1.7892893888636825,0.8415307271930443,1.7892893888636825,-0.8360595678058224,</dec>
-		<hex>3f7e9971,bfe5076f,3f576e8f,3fe5076f,bf560800,</hex>
+		<dec>0.9999374462336598,-1.998120062630894,0.9981881628441601,1.998120062630894,-0.9981256090778198,</dec>
+		<hex>3f7ffbe7,bfffc266,3f7f8942,3fffc266,bf7f8529,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>1000</freq>
@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Robert the Bruce</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Robert the Bruce</beq_sortTitle>
+		<beq_sortTitle>robert the bruce</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/AyBYG55.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/vmnFyPg.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+8 gain</beq_gain>
+		<beq_gain>+8</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The story of nobleman-turned-outlaw hero who was was crowned king of Scots in the 14th century.</beq_overview>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Anna</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Anna</beq_sortTitle>
+		<beq_sortTitle>anna</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/Sw3qSU2.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/A25OGmc.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2.5 gain</beq_gain>
+		<beq_gain>+2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Beneath Anna Poliatova&apos;s striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world&apos;s most feared government assassins.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

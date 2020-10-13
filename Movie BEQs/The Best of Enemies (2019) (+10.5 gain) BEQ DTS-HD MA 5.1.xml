@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Best of Enemies</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Best of Enemies</beq_sortTitle>
+		<beq_sortTitle>best of enemies</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/wjk5DbS.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/vCflPgy.jpg</beq_pvaURL>
@@ -1425,11 +1425,11 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+10.5 gain</beq_gain>
+		<beq_gain>+10.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Centers on the unlikely relationship between Ann Atwater, an outspoken civil rights activist, and C.P. Ellis, a local Ku Klux Klan leader who reluctantly co-chaired a community summit, battling over the desegregation of schools in Durham, North Carolina during the racially-charged summer of 1971. The incredible events that unfolded would change Durham and the lives of Atwater and Ellis forever.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58266120</beq_avs>
 		<beq_theMovieDB>458131</beq_theMovieDB>

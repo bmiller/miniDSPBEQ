@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Dark Tower</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Dark Tower</beq_sortTitle>
+		<beq_sortTitle>dark tower</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/1FMCAtK.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/q2vCX4H.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1.0 gain</beq_gain>
+		<beq_gain>+1.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="14">Fantasy</genre>
-			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>

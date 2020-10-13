@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Huntsman: Winter&apos;s War</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Huntsman: Winter&apos;s War</beq_sortTitle>
+		<beq_sortTitle>huntsman: winter&apos;s war</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/YbxC9o9.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/PASjNNJ.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3 gain</beq_gain>
+		<beq_gain>+3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>As two evil sisters prepare to conquer the land, two renegades—Eric the Huntsman, who aided Snow White in defeating Ravenna in Snowwhite and the Huntsman, and his forbidden lover, Sara—set out to stop them.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>

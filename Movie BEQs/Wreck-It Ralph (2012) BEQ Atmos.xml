@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Wreck-It Ralph</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Wreck-It Ralph</beq_sortTitle>
+		<beq_sortTitle>wreck-it ralph</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/dN9de0h.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/l2NAO8v.jpg</beq_pvaURL>
@@ -1440,10 +1440,10 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
-			<genre id="12">Adventure</genre>
-			<genre id="16">Animation</genre>
 			<genre id="10751">Family</genre>
+			<genre id="16">Animation</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>A Series of Unfortunate Events</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>A Series of Unfortunate Events</beq_sortTitle>
+		<beq_sortTitle>a series of unfortunate events</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/59e2zEF.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season>3</beq_season>
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5.5 gain</beq_gain>
+		<beq_gain>+5.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>The orphaned Baudelaire children face trials, tribulations and the evil Count Olaf, all in their quest to uncover the secret of their parents&apos; death.</beq_overview>
@@ -1439,10 +1439,10 @@
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
 			<genre id="10751">Family</genre>
-			<genre id="10759">Action &amp; Adventure</genre>
 			<genre id="18">Drama</genre>
+			<genre id="10759">Action &amp; Adventure</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

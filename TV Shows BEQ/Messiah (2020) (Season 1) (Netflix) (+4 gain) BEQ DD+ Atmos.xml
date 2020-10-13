@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Messiah</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Messiah</beq_sortTitle>
+		<beq_sortTitle>messiah</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/2MVMcD7.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4 gain</beq_gain>
+		<beq_gain>+4</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>A wary CIA officer investigates a charismatic man who sparks a spiritual movement and stirs political unrest. Who exactly is he? And what does he want?</beq_overview>

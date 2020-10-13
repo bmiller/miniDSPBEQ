@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Penny Dreadful: City of Angels</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Penny Dreadful: City of Angels</beq_sortTitle>
+		<beq_sortTitle>penny dreadful: city of angels</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/mE4KVwm.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5.5 gain</beq_gain>
+		<beq_gain>+5.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Amazon</beq_source>
 		<beq_overview>Rooted in the conflict between characters connected to the deity Santa Muerte and others allied with the Devil, this saga explores an exciting mix of the supernatural and the combustible reality of 1938 Los Angeles, a time and place deeply infused with Mexican-American folklore and social tension.</beq_overview>
@@ -1439,10 +1439,10 @@
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="9648">Mystery</genre>
-			<genre id="80">Crime</genre>
-			<genre id="18">Drama</genre>
 			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
+			<genre id="18">Drama</genre>
+			<genre id="80">Crime</genre>
+			<genre id="9648">Mystery</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

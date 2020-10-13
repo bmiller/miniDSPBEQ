@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Serenity</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Serenity</beq_sortTitle>
+		<beq_sortTitle>serenity</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/06yFVZ4.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/y7Crl5p.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6 gain</beq_gain>
+		<beq_gain>+6</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The quiet life of Baker Dill, a fishing boat captain who lives on the isolated Plymouth Island, where he spends his days obsessed with capturing an elusive tuna while fighting his personal demons, is interrupted when someone from his past comes to him searching for help.</beq_overview>

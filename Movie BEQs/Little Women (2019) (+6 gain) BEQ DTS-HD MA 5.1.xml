@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Little Women</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Little Women</beq_sortTitle>
+		<beq_sortTitle>little women</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/gqicKPW.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/6XGLPMR.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6 gain</beq_gain>
+		<beq_gain>+6</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Four sisters come of age in America in the aftermath of the Civil War.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10749">Romance</genre>
 			<genre id="18">Drama</genre>
+			<genre id="10749">Romance</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

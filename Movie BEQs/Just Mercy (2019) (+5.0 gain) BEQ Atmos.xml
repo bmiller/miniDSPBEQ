@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Just Mercy</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Just Mercy</beq_sortTitle>
+		<beq_sortTitle>just mercy</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/yadPXWW.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/MCWJHQu.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5.0 gain</beq_gain>
+		<beq_gain>+5.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.</beq_overview>

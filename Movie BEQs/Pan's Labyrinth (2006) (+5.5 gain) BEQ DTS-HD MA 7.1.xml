@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Pan&apos;s Labyrinth</beq_title>
 		<beq_alt_title>El laberinto del fauno</beq_alt_title>
-		<beq_sortTitle>Pan&apos;s Labyrinth</beq_sortTitle>
+		<beq_sortTitle>pan&apos;s labyrinth</beq_sortTitle>
 		<beq_year>2006</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/pt271Jt.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/aHodfdY.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5.5 gain</beq_gain>
+		<beq_gain>+5.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Living with her tyrannical stepfather in a new home with her pregnant mother, 10-year-old Ofelia feels alone until she explores a decaying labyrinth guarded by a mysterious faun who claims to know her destiny. If she wishes to return to her real father, Ofelia must complete three terrifying tasks.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
-			<genre id="18">Drama</genre>
 			<genre id="10752">War</genre>
+			<genre id="18">Drama</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

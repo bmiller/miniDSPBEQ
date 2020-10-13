@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Men in Black 3</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Men in Black 3</beq_sortTitle>
+		<beq_sortTitle>men in black 3</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/puPn5Ub.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/ZHBQUsX.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1.5 gain</beq_gain>
+		<beq_gain>+1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Agents J and K are back...in time. J has seen some inexplicable things in his 15 years with the Men in Black, but nothing, not even aliens, perplexes him as much as his wry, reticent partner. But when K&apos;s life and the fate of the planet are put at stake, Agent J will have to travel back in time to put things right. J discovers that there are secrets to the universe that K never told him - secrets that will reveal themselves as he teams up with the young Agent K to save his partner, the agency, and the future of humankind.</beq_overview>
@@ -1441,8 +1441,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="35">Comedy</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

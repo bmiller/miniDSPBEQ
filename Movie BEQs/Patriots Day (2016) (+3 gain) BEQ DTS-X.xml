@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Patriots Day</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Patriots Day</beq_sortTitle>
+		<beq_sortTitle>patriots day</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/7UyEK4q.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/afTeiRH.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3 gain</beq_gain>
+		<beq_gain>+3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In the aftermath of an unspeakable act of terror, Police Sergeant Tommy Saunders joins courageous survivors, first responders and investigators in a race against the clock to hunt down the Boston Marathon bombers before they strike again.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="18">Drama</genre>
 			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
-			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

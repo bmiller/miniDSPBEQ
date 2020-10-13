@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Journey to China: The Mystery of Iron Mask</beq_title>
 		<beq_alt_title>Тайна Печати дракона</beq_alt_title>
-		<beq_sortTitle>Journey to China: The Mystery of Iron Mask</beq_sortTitle>
+		<beq_sortTitle>journey to china: the mystery of iron mask</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/VRthHoA.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/JjcwIN8.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6.0 gain</beq_gain>
+		<beq_gain>+6.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The Russian Czar Peter the Great commissions Jonathan Green, an English traveller, to map the Far East territories of the Russian Empire. Green sets off on yet another long journey, full of unbelievable adventures, which eventually leads him to China. On his way, the famous cartographer makes breath-taking discoveries, meets mysterious creatures, Chinese princesses, deadly masters of oriental martial arts, and even Lun Van, the King of Dragons, himself. What could be more perilous than looking into the eyes of Viy? Only meeting him again… What will prevail this time — the unflinching scepticism of the scientist or ancient black magic, which has already gained influence over the Far East Lands?</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

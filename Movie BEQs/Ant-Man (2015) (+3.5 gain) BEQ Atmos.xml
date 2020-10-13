@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Ant-Man</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Ant-Man</beq_sortTitle>
+		<beq_sortTitle>ant-man</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/kJOycKB.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/ubnxegz.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3.5 gain</beq_gain>
+		<beq_gain>+3.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

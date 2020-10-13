@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Crash</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Crash</beq_sortTitle>
+		<beq_sortTitle>crash</beq_sortTitle>
 		<beq_year>2004</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/DZqCG0G.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/1di1UW2.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+8.5 gain</beq_gain>
+		<beq_gain>+8.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In post-Sept. 11 Los Angeles, tensions erupt when the lives of a Brentwood housewife, her district attorney husband, a Persian shopkeeper, two cops, a pair of carjackers and a Korean couple converge during a 36-hour period.</beq_overview>

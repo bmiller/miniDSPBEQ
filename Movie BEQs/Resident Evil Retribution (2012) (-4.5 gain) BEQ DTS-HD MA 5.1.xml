@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Resident Evil: Retribution</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Resident Evil: Retribution</beq_sortTitle>
+		<beq_sortTitle>resident evil: retribution</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/dVwADjN.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/yhzs1nO.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-4.5 gain</beq_gain>
+		<beq_gain>-4.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The Umbrella Corporation’s deadly T-virus continues to ravage the Earth, transforming the global population into legions of the flesh eating Undead. The human race’s last and only hope, Alice, awakens in the heart of Umbrella’s most clandestine operations facility and unveils more of her mysterious past as she delves further into the complex. Without a safe haven, Alice continues to hunt those responsible for the outbreak; a chase that takes her from Tokyo to New York, Washington, D.C. and Moscow, culminating in a mind-blowing revelation that will force her to rethink everything that she once thought to be true. Aided by new found allies and familiar friends, Alice must fight to survive long enough to escape a hostile world on the brink of oblivion. The countdown has begun.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
-			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

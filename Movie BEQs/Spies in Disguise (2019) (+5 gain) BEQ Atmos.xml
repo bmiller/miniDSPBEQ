@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Spies in Disguise</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Spies in Disguise</beq_sortTitle>
+		<beq_sortTitle>spies in disguise</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/uXEOtUM.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/VYtxu5r.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5 gain</beq_gain>
+		<beq_gain>+5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Super spy Lance Sterling and scientist Walter Beckett are almost exact opposites. Lance is smooth, suave and debonair. Walter is… not. But what Walter lacks in social skills he makes up for in smarts and invention, creating the awesome gadgets Lance uses on his epic missions. But when events take an unexpected turn, Walter and Lance suddenly have to rely on each other in a whole new way.</beq_overview>
@@ -1439,10 +1439,10 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
-			<genre id="28">Action</genre>
 			<genre id="16">Animation</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Fast Five</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Fast Five</beq_sortTitle>
+		<beq_sortTitle>fast five</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL>http://imgur.com/qYznOTZ.jpg</beq_spectrumURL>
 		<beq_pvaURL>http://imgur.com/1zaJBZr.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1.5 gain</beq_gain>
+		<beq_gain>-1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Former cop Brian O&apos;Conner partners with ex-con Dom Toretto on the opposite side of the law. Since Brian and Mia Toretto broke Dom out of custody, they&apos;ve blown across many borders to elude authorities. Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>

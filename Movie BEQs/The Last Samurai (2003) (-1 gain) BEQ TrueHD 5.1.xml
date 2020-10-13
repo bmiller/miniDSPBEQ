@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Last Samurai</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Last Samurai</beq_sortTitle>
+		<beq_sortTitle>last samurai</beq_sortTitle>
 		<beq_year>2003</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/vvavG4V.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/CYZNOVQ.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1 gain</beq_gain>
+		<beq_gain>-1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai&apos;s way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.</beq_overview>
@@ -1440,9 +1440,9 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="10752">War</genre>
 			<genre id="36">History</genre>
 			<genre id="18">Drama</genre>
+			<genre id="10752">War</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

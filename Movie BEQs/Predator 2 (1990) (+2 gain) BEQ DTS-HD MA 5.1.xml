@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Predator 2</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Predator 2</beq_sortTitle>
+		<beq_sortTitle>predator 2</beq_sortTitle>
 		<beq_year>1990</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/2aVme4e.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/pbCDfFv.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2 gain</beq_gain>
+		<beq_gain>+2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Ten years after a band of mercenaries first battled a vicious alien, the invisible creature from another world has returned to Earth—and this time, it’s drawn to the gang-ruled and ravaged city of Los Angeles. When it starts murdering drug dealers, detective-lieutenant Mike Harrigan and his police force set out to capture the creature, ignoring warnings from a mysterious government agent to stay away.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="878">Science Fiction</genre>
-			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

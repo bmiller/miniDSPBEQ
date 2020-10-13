@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Wonder Woman: Bloodlines</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Wonder Woman: Bloodlines</beq_sortTitle>
+		<beq_sortTitle>wonder woman: bloodlines</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/27p68UI.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/5ISsTGb.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1.5 gain</beq_gain>
+		<beq_gain>+1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Trevor, it’s a choice that will change her world and ours. Fulfilling the role of both ambassador as well as protector, Diana earns the name Wonder Woman from the gracious people of Earth. But her heart is as strong as her will as she is determined to help a troubled and embittered young girl whom has fallen in with a deadly organization known only as Villainy, Inc! Get ready for an exciting adventure packed with brutal battles, myth and wonder!</beq_overview>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="14">Fantasy</genre>
-			<genre id="16">Animation</genre>
 			<genre id="28">Action</genre>
+			<genre id="16">Animation</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

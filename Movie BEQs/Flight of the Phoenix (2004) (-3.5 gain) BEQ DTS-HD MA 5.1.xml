@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Flight of the Phoenix</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Flight of the Phoenix</beq_sortTitle>
+		<beq_sortTitle>flight of the phoenix</beq_sortTitle>
 		<beq_year>2004</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/6i5NRj8.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/slV4a9E.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-3.5 gain</beq_gain>
+		<beq_gain>-3.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When an oil rig in the Gobi Desert of Mongolia proves unproductive, an aircraft crew are sent to shut the operation down. However, on their way to Beijing, a major dust storm forces them to crash their C-119 Flying Boxcar in an uncharted area of the desert.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
 			<genre id="28">Action</genre>
 		</beq_genres>

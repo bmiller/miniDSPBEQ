@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Percy Jackson: Sea of Monsters</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Percy Jackson: Sea of Monsters</beq_sortTitle>
+		<beq_sortTitle>percy jackson: sea of monsters</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/ys1ZyXt.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/qVyEJvC.jpg</beq_pvaURL>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
-			<genre id="14">Fantasy</genre>
 			<genre id="10751">Family</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

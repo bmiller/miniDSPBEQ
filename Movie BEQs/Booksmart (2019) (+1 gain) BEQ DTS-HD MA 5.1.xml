@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Booksmart</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Booksmart</beq_sortTitle>
+		<beq_sortTitle>booksmart</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/QliUkLB.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/1U2jghq.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1 gain</beq_gain>
+		<beq_gain>+1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.</beq_overview>

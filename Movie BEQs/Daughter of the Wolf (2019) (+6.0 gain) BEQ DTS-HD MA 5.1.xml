@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Daughter of the Wolf</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Daughter of the Wolf</beq_sortTitle>
+		<beq_sortTitle>daughter of the wolf</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/5rhjSqZ.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/LtWBdkw.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6.0 gain</beq_gain>
+		<beq_gain>+6.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Ex-military specialist Clair Hamilton returns home from her tour in the Middle East due to her father&apos;s passing and to claim her inheritance. Her son is then kidnapped and held for ransom by a gang led by a mysterious figure known only as “Father”.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Harry Potter and the Goblet of Fire</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Harry Potter and the Goblet of Fire</beq_sortTitle>
+		<beq_sortTitle>harry potter and the goblet of fire</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/zlsgslt.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/7C3pori.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2 gain</beq_gain>
+		<beq_gain>+2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Harry starts his fourth year at Hogwarts, competes in the treacherous Triwizard Tournament and faces the evil Lord Voldemort. Ron and Hermione help Harry manage the pressure – but Voldemort lurks, awaiting his chance to destroy Harry and all that he stands for.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="10751">Family</genre>
 			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
-			<genre id="10751">Family</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

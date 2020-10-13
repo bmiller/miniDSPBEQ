@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Keeping Up with the Joneses</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Keeping Up with the Joneses</beq_sortTitle>
+		<beq_sortTitle>keeping up with the joneses</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/zeg2NHY.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/331313/moviethumb/keeping-up-with-the-joneses-580f470ec7902.jpg</beq_pvaURL>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

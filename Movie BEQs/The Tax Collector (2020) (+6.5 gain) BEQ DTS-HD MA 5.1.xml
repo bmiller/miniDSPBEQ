@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Tax Collector</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Tax Collector</beq_sortTitle>
+		<beq_sortTitle>tax collector</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/FoHoNHe.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/IVe0bQm.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6.5 gain</beq_gain>
+		<beq_gain>+6.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>David Cuevas is a family man who works as a gangland tax collector for high ranking Los Angeles gang members. He makes collections across the city with his partner Creeper making sure people pay up or will see retaliation. An old threat returns to Los Angeles that puts everything David loves in harm’s way.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="80">Crime</genre>
 			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
-			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

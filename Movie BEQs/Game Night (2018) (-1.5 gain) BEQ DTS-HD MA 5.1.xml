@@ -807,8 +807,8 @@
 		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0241542155970302,-1.8801152166120236,0.8750265927763303,1.8848702968965263,-0.8944257280888577,</dec>
-		<hex>3f83177c,bff0a79e,3f6001be,3ff1436e,bf64f916,</hex>
+		<dec>1.0002399351174318,-1.998836465300597,0.9985987132754247,1.9988370097777417,-0.9988381039157119,</dec>
+		<hex>3f8007dd,bfffd9e0,3f7fa42a,3fffd9e4,bf7fb3db,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>19</freq>
@@ -816,8 +816,8 @@
 		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0241542155970302,-1.8801152166120236,0.8750265927763303,1.8848702968965263,-0.8944257280888577,</dec>
-		<hex>3f83177c,bff0a79e,3f6001be,3ff1436e,bf64f916,</hex>
+		<dec>1.0002399351174318,-1.998836465300597,0.9985987132754247,1.9988370097777417,-0.9988381039157119,</dec>
+		<hex>3f8007dd,bfffd9e0,3f7fa42a,3fffd9e4,bf7fb3db,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
 		<freq>19</freq>
@@ -825,8 +825,8 @@
 		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0241542155970302,-1.8801152166120236,0.8750265927763303,1.8848702968965263,-0.8944257280888577,</dec>
-		<hex>3f83177c,bff0a79e,3f6001be,3ff1436e,bf64f916,</hex>
+		<dec>1.0002399351174318,-1.998836465300597,0.9985987132754247,1.9988370097777417,-0.9988381039157119,</dec>
+		<hex>3f8007dd,bfffd9e0,3f7fa42a,3fffd9e4,bf7fb3db,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>19</freq>
@@ -834,8 +834,8 @@
 		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0241542155970302,-1.8801152166120236,0.8750265927763303,1.8848702968965263,-0.8944257280888577,</dec>
-		<hex>3f83177c,bff0a79e,3f6001be,3ff1436e,bf64f916,</hex>
+		<dec>1.0002399351174318,-1.998836465300597,0.9985987132754247,1.9988370097777417,-0.9988381039157119,</dec>
+		<hex>3f8007dd,bfffd9e0,3f7fa42a,3fffd9e4,bf7fb3db,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
 		<freq>19</freq>
@@ -843,8 +843,8 @@
 		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0241542155970302,-1.8801152166120236,0.8750265927763303,1.8848702968965263,-0.8944257280888577,</dec>
-		<hex>3f83177c,bff0a79e,3f6001be,3ff1436e,bf64f916,</hex>
+		<dec>1.0002399351174318,-1.998836465300597,0.9985987132754247,1.9988370097777417,-0.9988381039157119,</dec>
+		<hex>3f8007dd,bfffd9e0,3f7fa42a,3fffd9e4,bf7fb3db,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>45</freq>
@@ -852,8 +852,8 @@
 		<boost>1.1</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0189892983067086,-1.6504563723141181,0.6997103005047283,1.6504563723141181,-0.718699598811437,</dec>
-		<hex>3f826e3e,bfd34228,3f332037,3fd34228,bf37fcb2,</hex>
+		<dec>1.0002328731195231,-1.9965416447464432,0.9963174311155347,1.9965416447464432,-0.9965503042350579,</dec>
+		<hex>3f8007a1,bfff8ead,3f7f0ea9,3fff8ead,bf7f1dec,</hex>
 	</filter>
 	<filter addr="8310" name="PEQ_1_7">
 		<freq>1000</freq>
@@ -897,8 +897,8 @@
 		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0241542155970302,-1.8801152166120236,0.8750265927763303,1.8848702968965263,-0.8944257280888577,</dec>
-		<hex>3f83177c,bff0a79e,3f6001be,3ff1436e,bf64f916,</hex>
+		<dec>1.0002399351174318,-1.998836465300597,0.9985987132754247,1.9988370097777417,-0.9988381039157119,</dec>
+		<hex>3f8007dd,bfffd9e0,3f7fa42a,3fffd9e4,bf7fb3db,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>19</freq>
@@ -906,8 +906,8 @@
 		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0241542155970302,-1.8801152166120236,0.8750265927763303,1.8848702968965263,-0.8944257280888577,</dec>
-		<hex>3f83177c,bff0a79e,3f6001be,3ff1436e,bf64f916,</hex>
+		<dec>1.0002399351174318,-1.998836465300597,0.9985987132754247,1.9988370097777417,-0.9988381039157119,</dec>
+		<hex>3f8007dd,bfffd9e0,3f7fa42a,3fffd9e4,bf7fb3db,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
 		<freq>19</freq>
@@ -915,8 +915,8 @@
 		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0241542155970302,-1.8801152166120236,0.8750265927763303,1.8848702968965263,-0.8944257280888577,</dec>
-		<hex>3f83177c,bff0a79e,3f6001be,3ff1436e,bf64f916,</hex>
+		<dec>1.0002399351174318,-1.998836465300597,0.9985987132754247,1.9988370097777417,-0.9988381039157119,</dec>
+		<hex>3f8007dd,bfffd9e0,3f7fa42a,3fffd9e4,bf7fb3db,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>19</freq>
@@ -924,8 +924,8 @@
 		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0241542155970302,-1.8801152166120236,0.8750265927763303,1.8848702968965263,-0.8944257280888577,</dec>
-		<hex>3f83177c,bff0a79e,3f6001be,3ff1436e,bf64f916,</hex>
+		<dec>1.0002399351174318,-1.998836465300597,0.9985987132754247,1.9988370097777417,-0.9988381039157119,</dec>
+		<hex>3f8007dd,bfffd9e0,3f7fa42a,3fffd9e4,bf7fb3db,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
 		<freq>19</freq>
@@ -933,8 +933,8 @@
 		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0241542155970302,-1.8801152166120236,0.8750265927763303,1.8848702968965263,-0.8944257280888577,</dec>
-		<hex>3f83177c,bff0a79e,3f6001be,3ff1436e,bf64f916,</hex>
+		<dec>1.0002399351174318,-1.998836465300597,0.9985987132754247,1.9988370097777417,-0.9988381039157119,</dec>
+		<hex>3f8007dd,bfffd9e0,3f7fa42a,3fffd9e4,bf7fb3db,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>45</freq>
@@ -942,8 +942,8 @@
 		<boost>1.1</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0189892983067086,-1.6504563723141181,0.6997103005047283,1.6504563723141181,-0.718699598811437,</dec>
-		<hex>3f826e3e,bfd34228,3f332037,3fd34228,bf37fcb2,</hex>
+		<dec>1.0002328731195231,-1.9965416447464432,0.9963174311155347,1.9965416447464432,-0.9965503042350579,</dec>
+		<hex>3f8007a1,bfff8ead,3f7f0ea9,3fff8ead,bf7f1dec,</hex>
 	</filter>
 	<filter addr="8360" name="PEQ_2_7">
 		<freq>1000</freq>
@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Game Night</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Game Night</beq_sortTitle>
+		<beq_sortTitle>game night</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/ycz1CuK.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/ccHGlPi.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1.5 gain</beq_gain>
+		<beq_gain>-1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Max and Annie&apos;s weekly game night gets kicked up a notch when Max&apos;s brother Brooks arranges a murder mystery party -- complete with fake thugs and federal agents. So when Brooks gets kidnapped, it&apos;s all supposed to be part of the game. As the competitors set out to solve the case, they start to learn that neither the game nor Brooks are what they seem to be. The friends soon find themselves in over their heads as each twist leads to another unexpected turn over the course of one chaotic night.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="35">Comedy</genre>
 			<genre id="9648">Mystery</genre>
 			<genre id="80">Crime</genre>
-			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

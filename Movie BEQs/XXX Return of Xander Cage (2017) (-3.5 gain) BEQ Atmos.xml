@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>xXx: Return of Xander Cage</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>xXx: Return of Xander Cage</beq_sortTitle>
+		<beq_sortTitle>xxx: return of xander cage</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/oMfqon0.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/7VzJJhs.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-3.5 gain</beq_gain>
+		<beq_gain>-3.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Extreme athlete turned government operative Xander Cage comes out of self-imposed exile, thought to be long dead, and is set on a collision course with deadly alpha warrior Xiang and his team in a race to recover a sinister and seemingly unstoppable weapon known as Pandora&apos;s Box. Recruiting an all-new group of thrill-seeking cohorts, Xander finds himself enmeshed in a deadly conspiracy that points to collusion at the highest levels of world governments.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>

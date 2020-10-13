@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Die Hard</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Die Hard</beq_sortTitle>
+		<beq_sortTitle>die hard</beq_sortTitle>
 		<beq_year>1988</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/cdKJru9.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/ZIhhxsb.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2 gain</beq_gain>
+		<beq_gain>+2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>NYPD cop John McClane&apos;s plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her office, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

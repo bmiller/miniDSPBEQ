@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Road to Perdition</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Road to Perdition</beq_sortTitle>
+		<beq_sortTitle>road to perdition</beq_sortTitle>
 		<beq_year>2002</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/fR6wwCy.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/R1qMk7z.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2 gain</beq_gain>
+		<beq_gain>+2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Mike Sullivan works as a hit man for crime boss John Rooney. Sullivan views Rooney as a father figure, however after his son is witness to a killing, Mike Sullivan finds himself on the run in attempt to save the life of his son and at the same time looking for revenge on those who wronged him.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="80">Crime</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>

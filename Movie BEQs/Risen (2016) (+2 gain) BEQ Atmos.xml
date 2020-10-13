@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Risen</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Risen</beq_sortTitle>
+		<beq_sortTitle>risen</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/xH0mG4i.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/se4clWB.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2 gain</beq_gain>
+		<beq_gain>+2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Clavius, a powerful Roman military tribune, and his aide, Lucius, are tasked with solving the mystery of what happened to Jesus in the weeks following the crucifixion, in order to disprove the rumors of a risen Messiah and prevent an uprising in Jerusalem.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="36">History</genre>
 			<genre id="18">Drama</genre>
+			<genre id="36">History</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

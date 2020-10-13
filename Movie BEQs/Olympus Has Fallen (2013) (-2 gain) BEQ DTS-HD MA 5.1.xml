@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Olympus Has Fallen</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Olympus Has Fallen</beq_sortTitle>
+		<beq_sortTitle>olympus has fallen</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/luyzcU5.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/0LaW6UL.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-2 gain</beq_gain>
+		<beq_gain>-2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When the White House (Secret Service Code: &quot;Olympus&quot;) is captured by a terrorist mastermind and the President is kidnapped, disgraced former Presidential guard Mike Banning finds himself trapped within the building. As the national security team scrambles to respond, they are forced to rely on Banning&apos;s inside knowledge to help retake the White House, save the President and avert an even bigger disaster.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

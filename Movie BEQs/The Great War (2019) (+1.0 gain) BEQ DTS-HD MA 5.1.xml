@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Great War</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Great War</beq_sortTitle>
+		<beq_sortTitle>great war</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/l3vFd7S.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/4B5lPcu.jpg</beq_pvaURL>
@@ -1425,11 +1425,11 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1.0 gain</beq_gain>
+		<beq_gain>+1.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In November of 1918 as World War I was ending, a unit of American soldiers goes behind enemy lines to find a lost platoon of African American soldiers.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59242246</beq_avs>
 		<beq_theMovieDB>647063</beq_theMovieDB>

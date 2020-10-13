@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Free Solo</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Free Solo</beq_sortTitle>
+		<beq_sortTitle>free solo</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/aAcWzgO.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/HS6suUk.jpg</beq_pvaURL>
@@ -1425,11 +1425,11 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+10 gain</beq_gain>
+		<beq_gain>+10</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Follow Alex Honnold as he attempts to become the first person to ever free solo climb Yosemite&apos;s 3,000 foot high El Capitan wall. With no ropes or safety gear, this would arguably be the greatest feat in rock climbing history.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57696522</beq_avs>
 		<beq_theMovieDB>515042</beq_theMovieDB>

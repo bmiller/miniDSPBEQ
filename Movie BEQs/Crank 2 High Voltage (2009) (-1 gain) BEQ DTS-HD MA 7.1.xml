@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Crank: High Voltage</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Crank: High Voltage</beq_sortTitle>
+		<beq_sortTitle>crank: high voltage</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/X3e6CSf.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/R6AkJHK.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1 gain</beq_gain>
+		<beq_gain>-1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Chelios faces a Chinese mobster who has stolen his nearly indestructible heart and replaced it with a battery-powered ticker that requires regular jolts of electricity to keep working.</beq_overview>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Natural</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Natural</beq_sortTitle>
+		<beq_sortTitle>natural</beq_sortTitle>
 		<beq_year>1984</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/JP9gh4A.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/4x8Zu8O.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+7.5 gain</beq_gain>
+		<beq_gain>+7.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>An unknown middle-aged batter named Roy Hobbs with a mysterious past appears out of nowhere to take a losing 1930s baseball team to the top of the league.</beq_overview>

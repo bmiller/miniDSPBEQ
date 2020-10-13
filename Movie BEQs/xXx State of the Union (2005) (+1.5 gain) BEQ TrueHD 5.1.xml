@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>xXx: State of the Union</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>xXx: State of the Union</beq_sortTitle>
+		<beq_sortTitle>xxx: state of the union</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/ljS7hCG.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/Pey87Eh.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1.5 gain</beq_gain>
+		<beq_gain>+1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Darius Stone&apos;s criminal record and extreme sports obsession make him the perfect candidate to be the newest XXX agent. He must save the U.S. government from a deadly conspiracy led by five-star general and Secretary of Defense George Deckert.</beq_overview>
@@ -1440,12 +1440,12 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
+			<genre id="18">Drama</genre>
 			<genre id="80">Crime</genre>
 			<genre id="9648">Mystery</genre>
 			<genre id="53">Thriller</genre>
-			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
-			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

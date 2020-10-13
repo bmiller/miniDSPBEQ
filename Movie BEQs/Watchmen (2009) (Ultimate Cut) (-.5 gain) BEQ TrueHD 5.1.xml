@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Watchmen</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Watchmen</beq_sortTitle>
+		<beq_sortTitle>watchmen</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/HQsND2i.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/Sf71Yaf.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-.5 gain</beq_gain>
+		<beq_gain>-.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In a gritty and alternate 1985 the glory days of costumed vigilantes have been brought to a close by a government crackdown, but after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so uncover a sinister plot that puts all of humanity in grave danger.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
 			<genre id="9648">Mystery</genre>
-			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

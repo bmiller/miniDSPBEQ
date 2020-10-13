@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Predators</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Predators</beq_sortTitle>
+		<beq_sortTitle>predators</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/2o8d1j9.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/GfNulsh.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3 gain</beq_gain>
+		<beq_gain>+3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A mercenary reluctantly leads a motley crew of warriors who soon come to realize they&apos;ve been captured and deposited on an alien planet by an unknown nemesis. With the exception of a peculiar physician, they are all cold-blooded killers, convicts, death squad members... hunters who have now become the hunted.</beq_overview>
@@ -1441,8 +1441,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="53">Thriller</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

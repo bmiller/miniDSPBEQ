@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Sucker Punch</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Sucker Punch</beq_sortTitle>
+		<beq_sortTitle>sucker punch</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/WWtWo4M.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/DFReNlo.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-3.5 gain</beq_gain>
+		<beq_gain>-3.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A young girl is institutionalized by her abusive stepfather. Retreating to an alternative reality as a coping strategy, she envisions a plan which will help her escape from the mental facility.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
 			<genre id="14">Fantasy</genre>
-			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

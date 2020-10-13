@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Event Horizon</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Event Horizon</beq_sortTitle>
+		<beq_sortTitle>event horizon</beq_sortTitle>
 		<beq_year>1997</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/p7k78zR.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/8413/moviethumb/event-horizon-505cc12c72b05.jpg</beq_pvaURL>
@@ -1439,9 +1439,9 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
-			<genre id="9648">Mystery</genre>
 			<genre id="27">Horror</genre>
+			<genre id="9648">Mystery</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

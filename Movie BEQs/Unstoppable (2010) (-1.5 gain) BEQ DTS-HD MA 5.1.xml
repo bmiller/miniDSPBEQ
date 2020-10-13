@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Unstoppable</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Unstoppable</beq_sortTitle>
+		<beq_sortTitle>unstoppable</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/0SZek5q.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/OUQ7cnB.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1.5 gain</beq_gain>
+		<beq_gain>-1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A runaway train, transporting deadly, toxic chemicals, is barreling down on Stanton, Pennsylvania,  and proves to be unstoppable until a veteran engineer and young conductor risk their lives to try and stop it with a switch engine.</beq_overview>

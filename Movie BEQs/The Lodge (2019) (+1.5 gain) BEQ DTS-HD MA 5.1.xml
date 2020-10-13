@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Lodge</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Lodge</beq_sortTitle>
+		<beq_sortTitle>lodge</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/VLLmPv9.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/vYqyNSh.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1.5 gain</beq_gain>
+		<beq_gain>+1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When a father is forced to abruptly depart for work, he leaves his children, Aidan and Mia, at their holiday home in the care of his new girlfriend, Grace. Isolated and alone, a blizzard traps them inside the lodge as terrifying events summon specters from Grace&apos;s dark past.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="27">Horror</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>

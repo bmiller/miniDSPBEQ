@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Lord of the Rings: The Fellowship of the Ring</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Lord of the Rings: Fellowship of the Ring</beq_sortTitle>
+		<beq_sortTitle>lord of the rings: fellowship of the ring</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/cvIISvw.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/0nkcQLE.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1.1 gain</beq_gain>
+		<beq_gain>-1.1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD MA 6.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="12">Adventure</genre>
 			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>

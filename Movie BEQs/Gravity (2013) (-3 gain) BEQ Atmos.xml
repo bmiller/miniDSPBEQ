@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Gravity</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Gravity</beq_sortTitle>
+		<beq_sortTitle>gravity</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/XNPSikU.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/3PJP0KJ.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-3 gain</beq_gain>
+		<beq_gain>-3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Dr. Ryan Stone, a brilliant medical engineer on her first Shuttle mission, with veteran astronaut Matt Kowalsky in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The Shuttle is destroyed, leaving Stone and Kowalsky completely alone-tethered to nothing but each other and spiraling out into the blackness of space. The deafening silence tells them they have lost any link to Earth and any chance for rescue. As fear turns to panic, every gulp of air eats away at what little oxygen is left. But the only way home may be to go further out into the terrifying expanse of space.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
-			<genre id="18">Drama</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

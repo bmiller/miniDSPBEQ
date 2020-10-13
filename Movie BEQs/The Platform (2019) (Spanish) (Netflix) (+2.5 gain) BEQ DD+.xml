@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Platform</beq_title>
 		<beq_alt_title>El hoyo</beq_alt_title>
-		<beq_sortTitle>Platform</beq_sortTitle>
+		<beq_sortTitle>platform</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/HeoBEh8.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/jFHBlc8.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2.5 gain</beq_gain>
+		<beq_gain>+2.5</beq_gain>
 		<beq_language>Spanish</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>A mysterious place, an indescribable prison, a deep hole. An unknown number of levels. Two inmates living on each level. A descending platform containing food for all of them. An inhuman fight for survival, but also an opportunity for solidarity.</beq_overview>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="53">Thriller</genre>
-			<genre id="18">Drama</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

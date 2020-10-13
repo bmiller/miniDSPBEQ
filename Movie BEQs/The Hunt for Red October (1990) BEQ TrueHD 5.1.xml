@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Hunt for Red October</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hunt for Red October</beq_sortTitle>
+		<beq_sortTitle>hunt for red october</beq_sortTitle>
 		<beq_year>1990</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/cTD4WIc.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/1669/moviethumb/the-hunt-for-red-october-54fddb59ec38d.jpg</beq_pvaURL>
@@ -1441,8 +1441,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

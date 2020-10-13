@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Run All Night</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Run All Night</beq_sortTitle>
+		<beq_sortTitle>run all night</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/lIUH9Gg.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/aCaBZaa.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2.5 gain</beq_gain>
+		<beq_gain>+2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Brooklyn mobster and prolific hit man Jimmy Conlon has seen better days. Longtime best friend of a mob boss, Jimmy is haunted by the sins of his past—as well as a dogged police detective who’s been one step behind Jimmy for 30 years. But when Jimmy’s estranged son becomes a target, Jimmy must make a choice between the crime family he chose and the real family he abandoned long ago. Now, with nowhere safe to turn, Jimmy has just one night to figure out exactly where his loyalties lie and to see if he can finally make things right.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
-			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

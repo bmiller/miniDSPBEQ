@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Stardust</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Stardust</beq_sortTitle>
+		<beq_sortTitle>stardust</beq_sortTitle>
 		<beq_year>2007</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/0SJ1Nhc.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/HacqEyj.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-0.5 gain</beq_gain>
+		<beq_gain>-0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he&apos;ll retrieve a fallen star by venturing into the magical realm. His journey takes him into a world beyond his wildest dreams and reveals his true identity.</beq_overview>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
-			<genre id="10751">Family</genre>
-			<genre id="10749">Romance</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="10749">Romance</genre>
+			<genre id="10751">Family</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

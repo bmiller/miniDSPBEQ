@@ -807,8 +807,8 @@
 		<boost>6.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.01684323573438,-1.921308128129628,0.9151912871935951,1.9240746135462228,-0.9292680375113802,</dec>
-		<hex>3f8227eb,bff5ed6d,3f6a49fa,3ff64814,bf6de483,</hex>
+		<dec>1.0001671547013935,-1.9992350568285993,0.9990691082940798,1.999235367915701,-0.9992359519083718,</dec>
+		<hex>3f80057a,bfffe6ef,3f7fc2fe,3fffe6f2,bf7fcded,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>30</freq>
@@ -816,8 +816,8 @@
 		<boost>0.5</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.004943952304199,-1.800656324090635,0.828182073463576,1.800656324090635,-0.8331260257677751,</dec>
-		<hex>3f80a201,bfe67be8,3f5403be,3fe67be8,bf5547bf,</hex>
+		<dec>1.0000564678433468,-1.9980901806542966,0.9980375644498792,1.9980901806542966,-0.9980940322932262,</dec>
+		<hex>3f8001da,bfffc16b,3f7f7f64,3fffc16b,bf7f8317,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
 		<freq>1000</freq>
@@ -897,8 +897,8 @@
 		<boost>6.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.01684323573438,-1.921308128129628,0.9151912871935951,1.9240746135462228,-0.9292680375113802,</dec>
-		<hex>3f8227eb,bff5ed6d,3f6a49fa,3ff64814,bf6de483,</hex>
+		<dec>1.0001671547013935,-1.9992350568285993,0.9990691082940798,1.999235367915701,-0.9992359519083718,</dec>
+		<hex>3f80057a,bfffe6ef,3f7fc2fe,3fffe6f2,bf7fcded,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>30</freq>
@@ -906,8 +906,8 @@
 		<boost>0.5</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.004943952304199,-1.800656324090635,0.828182073463576,1.800656324090635,-0.8331260257677751,</dec>
-		<hex>3f80a201,bfe67be8,3f5403be,3fe67be8,bf5547bf,</hex>
+		<dec>1.0000564678433468,-1.9980901806542966,0.9980375644498792,1.9980901806542966,-0.9980940322932262,</dec>
+		<hex>3f8001da,bfffc16b,3f7f7f64,3fffc16b,bf7f8317,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
 		<freq>1000</freq>
@@ -1425,7 +1425,7 @@
 		<beq_season>1</beq_season>
 		<beq_note>+4dB dialnorm compensation</beq_note>
 		<beq_warning />
-		<beq_gain>+2.5 gain</beq_gain>
+		<beq_gain>+2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>Six teens attending an adventure camp on the opposite side of Isla Nublar must band together to survive when dinosaurs wreak havoc on the island.</beq_overview>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Allied</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Allied</beq_sortTitle>
+		<beq_sortTitle>allied</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/4Yid99W.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/ubLzsFg.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6.5 gain</beq_gain>
+		<beq_gain>+6.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.</beq_overview>
@@ -1440,10 +1440,10 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="10749">Romance</genre>
-			<genre id="10752">War</genre>
-			<genre id="53">Thriller</genre>
-			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="10752">War</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

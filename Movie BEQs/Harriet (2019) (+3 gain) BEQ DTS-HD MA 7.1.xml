@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Harriet</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Harriet</beq_sortTitle>
+		<beq_sortTitle>harriet</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/QDjuLve.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/DHiw8Y0.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3 gain</beq_gain>
+		<beq_gain>+3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The extraordinary tale of Harriet Tubman&apos;s escape from slavery and transformation into one of America&apos;s greatest heroes. Her courage, ingenuity and tenacity freed hundreds of slaves and changed the course of history.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="36">History</genre>
 			<genre id="18">Drama</genre>
+			<genre id="36">History</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

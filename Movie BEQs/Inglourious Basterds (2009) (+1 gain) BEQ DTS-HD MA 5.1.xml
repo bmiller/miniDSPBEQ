@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Inglourious Basterds</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Inglourious Basterds</beq_sortTitle>
+		<beq_sortTitle>inglourious basterds</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/mQnzw3F.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/qas72PA.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1 gain</beq_gain>
+		<beq_gain>+1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as &quot;The Basterds&quot; are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.</beq_overview>
@@ -1440,9 +1440,9 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
 			<genre id="10752">War</genre>
-			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

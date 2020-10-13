@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Iron Man 2</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Iron Man 2</beq_sortTitle>
+		<beq_sortTitle>iron man 2</beq_sortTitle>
 		<beq_year>2010</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/JbylwkM.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/ML0deYR.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1.5 gain</beq_gain>
+		<beq_gain>+1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James &apos;Rhodey&apos; Rhodes at his side, must forge new alliances – and confront powerful enemies.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Serenity</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Serenity</beq_sortTitle>
+		<beq_sortTitle>serenity</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/kDAjHbW.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/emTTwYn.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-2.5 gain</beq_gain>
+		<beq_gain>-2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When the renegade crew of Serenity agrees to hide a fugitive on their ship, they find themselves in an action-packed battle between the relentless military might of a totalitarian regime who will destroy anything – or anyone – to get the girl back and the bloodthirsty creatures who roam the uncharted areas of space. But... the greatest danger of all may be on their ship.</beq_overview>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

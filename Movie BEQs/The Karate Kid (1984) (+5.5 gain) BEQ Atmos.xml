@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Karate Kid</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Karate Kid</beq_sortTitle>
+		<beq_sortTitle>karate kid</beq_sortTitle>
 		<beq_year>1984</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/YCYIO7I.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/zlUAm6n.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5.5 gain</beq_gain>
+		<beq_gain>+5.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Hassled by the school bullies, Daniel LaRusso has his share of adolescent woes. Luckily, his apartment building houses a resident martial arts master: Kesuke Miyagi, who agrees to train Daniel ... and ends up teaching him much more than self-defense. Armed with newfound confidence, skill and wisdom, Daniel ultimately faces off against his tormentors in this hugely popular classic underdog tale.</beq_overview>

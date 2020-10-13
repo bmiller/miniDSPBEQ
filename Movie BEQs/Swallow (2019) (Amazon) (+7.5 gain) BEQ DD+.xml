@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Swallow</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Swallow</beq_sortTitle>
+		<beq_sortTitle>swallow</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/mejtpTU.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/pikD0aQ.jpg</beq_pvaURL>
@@ -1425,11 +1425,11 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+7.5 gain</beq_gain>
+		<beq_gain>+7.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Amazon</beq_source>
 		<beq_overview>Hunter, a newly pregnant housewife, finds herself increasingly compelled to consume dangerous objects. As her husband and his family tighten their control over her life, she must confront the dark secret behind her new obsession.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59535990</beq_avs>
 		<beq_theMovieDB>586461</beq_theMovieDB>
@@ -1439,8 +1439,8 @@
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

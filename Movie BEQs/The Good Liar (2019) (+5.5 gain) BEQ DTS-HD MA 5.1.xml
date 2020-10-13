@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Good Liar</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Good Liar</beq_sortTitle>
+		<beq_sortTitle>good liar</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/8P5VkwE.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/6373Oec.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5.5 gain</beq_gain>
+		<beq_gain>+5.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Career con man Roy sets his sights on his latest mark: recently widowed Betty, worth millions. And he means to take it all. But as the two draw closer, what should have been another simple swindle takes on the ultimate stakes.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="9648">Mystery</genre>
-			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
+			<genre id="80">Crime</genre>
+			<genre id="9648">Mystery</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

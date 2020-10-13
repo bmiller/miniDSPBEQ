@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Get Smart</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Get Smart</beq_sortTitle>
+		<beq_sortTitle>get smart</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/GuuZbiN.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/dDYzNeo.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2.5 gain</beq_gain>
+		<beq_gain>+2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When the identities of secret agents from Control are compromised, the Chief promotes hapless but eager analyst Maxwell Smart and teams him with stylish, capable Agent 99, the only spy whose cover remains intact. Can they work together to thwart the evil plans of KAOS and its crafty operative?</beq_overview>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Beyond the Law</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Beyond the Law</beq_sortTitle>
+		<beq_sortTitle>beyond the law</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/mt9u8E5.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/FM9xLur.jpg</beq_pvaURL>
@@ -1425,11 +1425,11 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6.0 gain</beq_gain>
+		<beq_gain>+6.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When a former detective learns of the murder of his estranged son, he ventures back to the darkened streets he once knew so well. Armed, dangerous and with nothing to lose, he must take on the ruthless local mob in his mission for revenge.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59661836</beq_avs>
 		<beq_theMovieDB>650272</beq_theMovieDB>

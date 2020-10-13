@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>In the Tall Grass</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>In the Tall Grass</beq_sortTitle>
+		<beq_sortTitle>in the tall grass</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/8xdfhZH.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/D0CYE3o.jpg</beq_pvaURL>
@@ -1425,11 +1425,11 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5.5 gain</beq_gain>
+		<beq_gain>+5.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>After hearing a child screaming for help from the green depths of a vast field of tall grass, Becky, a pregnant woman, and Cal, her brother, park their car near a mysterious abandoned church and recklessly enter the field, discovering that they are not alone and because of some reason they are unable of escaping a completely inextricable vegetable labyrinth.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58643818</beq_avs>
 		<beq_theMovieDB>523139</beq_theMovieDB>
@@ -1439,9 +1439,9 @@
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
 			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

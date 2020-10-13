@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Sonic the Hedgehog</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Sonic the Hedgehog</beq_sortTitle>
+		<beq_sortTitle>sonic the hedgehog</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/snrhvOq.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/IkK6k8A.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+0.5 gain</beq_gain>
+		<beq_gain>+0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.</beq_overview>
@@ -1440,10 +1440,10 @@
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
-			<genre id="35">Comedy</genre>
-			<genre id="28">Action</genre>
 			<genre id="10751">Family</genre>
+			<genre id="28">Action</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

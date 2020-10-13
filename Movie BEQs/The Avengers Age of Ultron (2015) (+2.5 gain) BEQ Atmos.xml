@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Avengers: Age of Ultron</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Avengers: Age of Ultron</beq_sortTitle>
+		<beq_sortTitle>avengers: age of ultron</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/PsnGySD.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/HrNOO6Y.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2.5 gain</beq_gain>
+		<beq_gain>+2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

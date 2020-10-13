@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Cloverfield Paradox</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Cloverfield Paradox</beq_sortTitle>
+		<beq_sortTitle>cloverfield paradox</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/nWrTi68.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/Fi9YvUI.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-2.5 gain</beq_gain>
+		<beq_gain>-2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Orbiting above a planet on the brink of war, scientists test a device to solve an energy crisis and end up face-to-face with a dark alternate reality.</beq_overview>
@@ -1439,10 +1439,10 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
+			<genre id="27">Horror</genre>
 			<genre id="9648">Mystery</genre>
 			<genre id="53">Thriller</genre>
-			<genre id="27">Horror</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

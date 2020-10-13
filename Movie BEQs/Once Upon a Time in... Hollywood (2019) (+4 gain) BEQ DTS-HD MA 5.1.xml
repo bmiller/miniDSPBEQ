@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Once Upon a Time… in Hollywood</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Once Upon a Time… in Hollywood</beq_sortTitle>
+		<beq_sortTitle>once upon a time… in hollywood</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/Gi44GZU.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/2kjLQGd.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4 gain</beq_gain>
+		<beq_gain>+4</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…</beq_overview>

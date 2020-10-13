@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Sin City</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Sin City</beq_sortTitle>
+		<beq_sortTitle>sin city</beq_sortTitle>
 		<beq_year>2005</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/RIGmkrz.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/RrlUq9g.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3 gain</beq_gain>
+		<beq_gain>+3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark… Hard-boiled. Then there are those who call it home — Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.</beq_overview>
@@ -1441,8 +1441,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="80">Crime</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

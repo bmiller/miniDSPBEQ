@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Brave</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Brave</beq_sortTitle>
+		<beq_sortTitle>brave</beq_sortTitle>
 		<beq_year>2012</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/qJn1q0b.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/OLjaXZH.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2.5 gain</beq_gain>
+		<beq_gain>+2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Brave is set in the mystical Scottish Highlands, where Mérida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Mérida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Mérida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Mérida’s quest — and serving as comic relief — are the kingdom’s three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall.</beq_overview>
@@ -1439,12 +1439,12 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
-			<genre id="16">Animation</genre>
-			<genre id="12">Adventure</genre>
-			<genre id="10751">Family</genre>
 			<genre id="28">Action</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="10751">Family</genre>
+			<genre id="16">Animation</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

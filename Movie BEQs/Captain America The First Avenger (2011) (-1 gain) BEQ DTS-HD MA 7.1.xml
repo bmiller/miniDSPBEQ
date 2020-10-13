@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Captain America: The First Avenger</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Captain America: The First Avenger</beq_sortTitle>
+		<beq_sortTitle>captain america: the first avenger</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/abgIGwq.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1 gain</beq_gain>
+		<beq_gain>-1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>During World War II, Steve Rogers is a sickly man from Brooklyn who&apos;s transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler&apos;s ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="12">Adventure</genre>
 			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
-			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

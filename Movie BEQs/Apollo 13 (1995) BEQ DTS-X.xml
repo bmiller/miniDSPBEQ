@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Apollo 13</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Apollo 13</beq_sortTitle>
+		<beq_sortTitle>apollo 13</beq_sortTitle>
 		<beq_year>1995</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/wX9YG3f.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/568/moviethumb/apollo-13-5696a16c82a40.jpg</beq_pvaURL>
@@ -1429,7 +1429,7 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56694226</beq_avs>
 		<beq_theMovieDB>568</beq_theMovieDB>

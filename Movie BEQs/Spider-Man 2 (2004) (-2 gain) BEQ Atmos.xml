@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Spider-Man 2</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Spider-Man 2</beq_sortTitle>
+		<beq_sortTitle>spider-man 2</beq_sortTitle>
 		<beq_year>2004</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/0kgRgyN.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/cLtB5H3.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-2 gain</beq_gain>
+		<beq_gain>-2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can&apos;t act on his feelings for Mary Jane Watson, a girl he&apos;s loved since childhood.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="14">Fantasy</genre>
 			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
-			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

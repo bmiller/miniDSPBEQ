@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Judy &amp; Punch</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Judy &amp; Punch</beq_sortTitle>
+		<beq_sortTitle>judy &amp; punch</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/9AD9oQn.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/dWKik3q.jpg</beq_pvaURL>
@@ -1425,11 +1425,11 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6 gain</beq_gain>
+		<beq_gain>+6</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In the anarchic town of Seaside, nowhere near the sea, puppeteers Judy and Punch are trying to resurrect their marionette show. The show is a hit due to Judy&apos;s superior puppeteering but Punch&apos;s driving ambition and penchant for whisky lead to a inevitable tragedy that Judy must avenge.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59385228</beq_avs>
 		<beq_theMovieDB>506554</beq_theMovieDB>

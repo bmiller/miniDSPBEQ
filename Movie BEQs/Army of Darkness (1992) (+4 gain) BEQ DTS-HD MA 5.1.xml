@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Army of Darkness</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Army of Darkness</beq_sortTitle>
+		<beq_sortTitle>army of darkness</beq_sortTitle>
 		<beq_year>1992</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/byZ5gnR.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/LYItqax.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4 gain</beq_gain>
+		<beq_gain>+4</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Ash is transported back to medieval days, where he is captured by the dreaded Lord Arthur. Aided by the deadly chainsaw that has become his only friend, Ash is sent on a perilous mission to recover the Book of the Dead, a powerful tome that gives its owner the power to summon an army of ghouls.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="27">Horror</genre>
 			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>

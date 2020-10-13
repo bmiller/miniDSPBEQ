@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Overlord</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Overlord</beq_sortTitle>
+		<beq_sortTitle>overlord</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/1n4z87C.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/XpwU3LQ.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-4 gain</beq_gain>
+		<beq_gain>-4</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>France, June 1944. On the eve of D-Day, some American paratroopers fall behind enemy lines after their aircraft crashes while on a mission to destroy a radio tower in a small village near the beaches of Normandy. After reaching their target, the surviving paratroopers realise that, in addition to fighting the Nazi troops that patrol the village, they also must fight against something else.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10752">War</genre>
 			<genre id="27">Horror</genre>
+			<genre id="10752">War</genre>
 			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>

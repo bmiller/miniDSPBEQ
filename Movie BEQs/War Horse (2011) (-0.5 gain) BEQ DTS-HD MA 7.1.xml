@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>War Horse</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>War Horse</beq_sortTitle>
+		<beq_sortTitle>war horse</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/BlHqBVT.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/NlhAVhI.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-0.5 gain</beq_gain>
+		<beq_gain>-0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Follows a young man named Albert and his horse, Joey, and how their bond is broken when Joey is sold to the cavalry and sent to the trenches of World War One. Despite being too young to enlist, Albert heads to France to save his friend.</beq_overview>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="18">Drama</genre>
 			<genre id="10752">War</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

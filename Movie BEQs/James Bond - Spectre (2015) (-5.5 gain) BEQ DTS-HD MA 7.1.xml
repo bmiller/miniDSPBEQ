@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Spectre</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Spectre</beq_sortTitle>
+		<beq_sortTitle>spectre</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/W1ef0jE.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/iro2YG2.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-5.5 gain</beq_gain>
+		<beq_gain>-5.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>10 Minutes Gone</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>10 Minutes Gone</beq_sortTitle>
+		<beq_sortTitle>10 minutes gone</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/C42ZuRd.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/TcDxoUa.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5 gain</beq_gain>
+		<beq_gain>+5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Crime boss Rex hires Frank and his crew to steal a priceless jewel stash — but the job goes wrong when someone tips off the cops. After Frank suffers a blow to the head, he wakes up to find the jewels gone and no memory of his attacker. Now, Frank must confront his team members one by one to find the traitor — before Rex covers his tracks by having Frank murdered.</beq_overview>
@@ -1439,10 +1439,10 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="9648">Mystery</genre>
 			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
 			<genre id="53">Thriller</genre>
-			<genre id="9648">Mystery</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

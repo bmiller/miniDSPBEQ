@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Sky Captain and the World of Tomorrow</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Sky Captain and the World of Tomorrow</beq_sortTitle>
+		<beq_sortTitle>sky captain and the world of tomorrow</beq_sortTitle>
 		<beq_year>2004</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/1O2STHg.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/RLqHpdn.jpg</beq_pvaURL>
@@ -1425,11 +1425,11 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-2 gain</beq_gain>
+		<beq_gain>-2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When gigantic robots attack New York City, &quot;Sky Captain&quot; uses his private air force to fight them off. His ex-girlfriend, reporter Polly Perkins, has been investigating the recent disappearance of prominent scientists. Suspecting a link between the global robot attacks and missing men, Sky Captain and Polly decide to work together. They fly to the Himalayas in pursuit of the mysterious Dr. Totenkopf, the mastermind behind the robots.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57518214</beq_avs>
 		<beq_theMovieDB>5137</beq_theMovieDB>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
-			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="9648">Mystery</genre>
+			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>

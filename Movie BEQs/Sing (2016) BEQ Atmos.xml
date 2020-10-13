@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Sing</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Sing</beq_sortTitle>
+		<beq_sortTitle>sing</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/PXLjJEX.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/6XQKYAK.jpg</beq_pvaURL>
@@ -1440,11 +1440,11 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
-			<genre id="16">Animation</genre>
-			<genre id="10751">Family</genre>
-			<genre id="10402">Music</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="10402">Music</genre>
+			<genre id="10751">Family</genre>
+			<genre id="16">Animation</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

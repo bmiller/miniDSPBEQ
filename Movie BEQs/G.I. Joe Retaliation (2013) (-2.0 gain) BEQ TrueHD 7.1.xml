@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>G.I. Joe: Retaliation</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>G.I. Joe: Retaliation</beq_sortTitle>
+		<beq_sortTitle>g.i. joe: retaliation</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/JM7yZGM.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/7uZdx8z.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-2.0 gain</beq_gain>
+		<beq_gain>-2.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Framed for crimes against the country, the G.I. Joe team is terminated by Presidential order. This forces the G.I. Joes into not only fighting their mortal enemy Cobra; they are forced to contend with threats from within the government that jeopardize their very existence.</beq_overview>
@@ -1441,8 +1441,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>

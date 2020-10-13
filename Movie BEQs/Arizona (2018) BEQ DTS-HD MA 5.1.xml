@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Arizona</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Arizona</beq_sortTitle>
+		<beq_sortTitle>arizona</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/EnsVCyz.jpg</beq_pvaURL>
@@ -1429,7 +1429,7 @@
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Set in the midst of the 2009 housing crisis, the life of Cassie Fowler, a single mother and struggling realtor, goes off the rails when she witnesses a murder.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56908660</beq_avs>
 		<beq_theMovieDB>490004</beq_theMovieDB>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

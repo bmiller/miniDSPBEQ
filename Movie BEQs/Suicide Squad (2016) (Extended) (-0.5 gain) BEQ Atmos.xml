@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Suicide Squad</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Suicide Squad</beq_sortTitle>
+		<beq_sortTitle>suicide squad</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/XEk1qfv.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/C1r3vKc.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-0.5 gain</beq_gain>
+		<beq_gain>-0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.</beq_overview>
@@ -1440,11 +1440,11 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
 			<genre id="878">Science Fiction</genre>
-			<genre id="28">Action</genre>
-			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
 			<genre id="80">Crime</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

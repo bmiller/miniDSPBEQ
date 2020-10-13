@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Batman: Mask of the Phantasm</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Batman: Mask of the Phantasm</beq_sortTitle>
+		<beq_sortTitle>batman: mask of the phantasm</beq_sortTitle>
 		<beq_year>1993</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL />
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4 gain</beq_gain>
+		<beq_gain>+4</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Andrea Beaumont strolls back into town, rekindling an old romance with Bruce Wayne. At the same time, Batman is mistaken for a masked vigilante assassin who has begun systematically eliminating Gotham&apos;s crime bosses. Now on the run, Batman must solve the mystery, while navigating his relationship with Andrea.</beq_overview>
@@ -1440,14 +1440,14 @@
 			<audioType>DTS-HD MA 2.0</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10749">Romance</genre>
-			<genre id="12">Adventure</genre>
-			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
 			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
-			<genre id="9648">Mystery</genre>
 			<genre id="16">Animation</genre>
+			<genre id="10749">Romance</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="9648">Mystery</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

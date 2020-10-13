@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Dynasties</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Dynasties</beq_sortTitle>
+		<beq_sortTitle>dynasties</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/tm0pUNA.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5 gain</beq_gain>
+		<beq_gain>+5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Follow the true stories of five of the world&apos;s most celebrated, yet endangered animals; penguins, chimpanzees, lions, painted wolves and tigers. Each in a heroic struggle against rivals and against the forces of nature, these families fight for their own survival and for the future of their dynasties.</beq_overview>

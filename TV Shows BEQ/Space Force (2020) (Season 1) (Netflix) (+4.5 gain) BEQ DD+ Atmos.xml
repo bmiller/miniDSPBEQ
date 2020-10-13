@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Space Force</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Space Force</beq_sortTitle>
+		<beq_sortTitle>space force</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/6cpTUN7.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4.5 gain</beq_gain>
+		<beq_gain>+4.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>A four-star general begrudgingly teams up with an eccentric scientist to get the U.S. military&apos;s newest agency — Space Force — ready for lift-off.</beq_overview>

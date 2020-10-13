@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Invasion</beq_title>
 		<beq_alt_title>Вторжение</beq_alt_title>
-		<beq_sortTitle>Invasion</beq_sortTitle>
+		<beq_sortTitle>invasion</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/VAZgkWE.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/jFqo1gT.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-3.5 gain</beq_gain>
+		<beq_gain>-3.5</beq_gain>
 		<beq_language>Russian</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>After the fall of the alien ship, it took three years. The catastrophe turned the girl&apos;s life from Chertanovo and forever changed our view of the universe. It seems that this was the biggest test for all of us. But mankind does not yet know that very soon he will have to experience a new meeting.</beq_overview>
@@ -1440,10 +1440,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
+			<genre id="18">Drama</genre>
 			<genre id="27">Horror</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

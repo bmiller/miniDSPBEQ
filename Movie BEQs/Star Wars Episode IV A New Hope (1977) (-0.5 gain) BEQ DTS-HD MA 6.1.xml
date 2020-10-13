@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Star Wars</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Star Wars</beq_sortTitle>
+		<beq_sortTitle>star wars</beq_sortTitle>
 		<beq_year>1977</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/lsa4VOq.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/AZC7JUN.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-0.5 gain</beq_gain>
+		<beq_gain>-0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 6.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

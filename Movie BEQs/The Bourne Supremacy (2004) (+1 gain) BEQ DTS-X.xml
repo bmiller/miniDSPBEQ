@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Bourne Supremacy</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Bourne Supremacy</beq_sortTitle>
+		<beq_sortTitle>bourne supremacy</beq_sortTitle>
 		<beq_year>2004</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/ehf5X5y.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/pPF5MH5.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1 gain</beq_gain>
+		<beq_gain>+1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When a CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>

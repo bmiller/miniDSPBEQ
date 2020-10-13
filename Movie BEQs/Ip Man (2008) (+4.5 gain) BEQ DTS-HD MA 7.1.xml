@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Ip Man</beq_title>
 		<beq_alt_title>葉問</beq_alt_title>
-		<beq_sortTitle>Ip Man</beq_sortTitle>
+		<beq_sortTitle>ip man</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/AMvlzt9.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/537D4nD.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4.5 gain</beq_gain>
+		<beq_gain>+4.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A semi-biographical account of Yip Man, the first martial arts master to teach the Chinese martial art of Wing Chun. The film focuses on events surrounding Ip that took place in the city of Foshan between the 1930s to 1940s during the Second Sino-Japanese War. Directed by Wilson Yip, the film stars Donnie Yen in the lead role, and features fight choreography by Sammo Hung.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
+			<genre id="28">Action</genre>
 			<genre id="36">History</genre>
 		</beq_genres>
 	</beq_metadata>

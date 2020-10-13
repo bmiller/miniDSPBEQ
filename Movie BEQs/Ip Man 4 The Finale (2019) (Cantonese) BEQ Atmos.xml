@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Ip Man 4: The Finale</beq_title>
 		<beq_alt_title>葉問4</beq_alt_title>
-		<beq_sortTitle>Ip Man 4: The Finale</beq_sortTitle>
+		<beq_sortTitle>ip man 4: the finale</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/AJWjLuQ.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/1MbhyaM.jpg</beq_pvaURL>
@@ -1429,7 +1429,7 @@
 		<beq_language>Cantonese</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Following the death of his wife, Ip Man travels to San Francisco to ease tensions between the local kung fu masters and his star student, Bruce Lee, while searching for a better future for his son.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59465886</beq_avs>
 		<beq_theMovieDB>449924</beq_theMovieDB>
@@ -1440,8 +1440,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="28">Action</genre>
+			<genre id="18">Drama</genre>
 			<genre id="36">History</genre>
 		</beq_genres>
 	</beq_metadata>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Mythic Quest: Raven&apos;s Banquet</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Mythic Quest: Raven&apos;s Banquet</beq_sortTitle>
+		<beq_sortTitle>mythic quest: raven&apos;s banquet</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/SgShsh5.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3 gain</beq_gain>
+		<beq_gain>+3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Apple TV+</beq_source>
 		<beq_overview>Meet the team behind the biggest multiplayer video game of all time. But in a workplace focused on building worlds, molding heroes, and creating legends, the most hard-fought battles don’t occur in the game—they happen in the office.</beq_overview>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Grudge</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Grudge</beq_sortTitle>
+		<beq_sortTitle>grudge</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/oG5DWQ3.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/1WJnufC.jpg</beq_pvaURL>
@@ -1425,11 +1425,11 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6.5 gain</beq_gain>
+		<beq_gain>+6.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>After a young mother murders her family in her own house, a detective attempts to investigate the mysterious case, only to discover that the house is cursed by a vengeful ghost. Now targeted by the demonic spirits, the detective must do anything to protect herself and her family from harm.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59383768</beq_avs>
 		<beq_theMovieDB>465086</beq_theMovieDB>

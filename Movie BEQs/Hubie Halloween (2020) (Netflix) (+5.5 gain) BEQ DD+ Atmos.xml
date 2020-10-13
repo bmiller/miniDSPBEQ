@@ -807,8 +807,8 @@
 		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0229633007945453,-1.8385622046685388,0.8344454755604105,1.842307399294603,-0.8536635817288911,</dec>
-		<hex>3f82f076,bfeb5602,3f559e38,3febd0bb,bf5a89b2,</hex>
+		<dec>1.0002374775127474,-1.99835203160434,0.9981167596553995,1.9983524698944364,-0.9983537988780505,</dec>
+		<hex>3f8007c8,bfffca00,3f7f8494,3fffca04,bf7f941d,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>20</freq>
@@ -816,8 +816,8 @@
 		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0229633007945453,-1.8385622046685388,0.8344454755604105,1.842307399294603,-0.8536635817288911,</dec>
-		<hex>3f82f076,bfeb5602,3f559e38,3febd0bb,bf5a89b2,</hex>
+		<dec>1.0002374775127474,-1.99835203160434,0.9981167596553995,1.9983524698944364,-0.9983537988780505,</dec>
+		<hex>3f8007c8,bfffca00,3f7f8494,3fffca04,bf7f941d,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
 		<freq>20</freq>
@@ -825,8 +825,8 @@
 		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0229633007945453,-1.8385622046685388,0.8344454755604105,1.842307399294603,-0.8536635817288911,</dec>
-		<hex>3f82f076,bfeb5602,3f559e38,3febd0bb,bf5a89b2,</hex>
+		<dec>1.0002374775127474,-1.99835203160434,0.9981167596553995,1.9983524698944364,-0.9983537988780505,</dec>
+		<hex>3f8007c8,bfffca00,3f7f8494,3fffca04,bf7f941d,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>20</freq>
@@ -834,8 +834,8 @@
 		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0229633007945453,-1.8385622046685388,0.8344454755604105,1.842307399294603,-0.8536635817288911,</dec>
-		<hex>3f82f076,bfeb5602,3f559e38,3febd0bb,bf5a89b2,</hex>
+		<dec>1.0002374775127474,-1.99835203160434,0.9981167596553995,1.9983524698944364,-0.9983537988780505,</dec>
+		<hex>3f8007c8,bfffca00,3f7f8494,3fffca04,bf7f941d,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
 		<freq>43</freq>
@@ -843,8 +843,8 @@
 		<boost>-0.7</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>0.9961162549962217,-1.8046661550060443,0.8737494938566256,1.801930154652545,-0.8726017492063464,</dec>
-		<hex>3f7f017a,bfe6ff4d,3f5fae0c,3fe6a5a6,bf5f62d4,</hex>
+		<dec>0.9999715077931564,-1.9985573003765715,0.9985933948341598,1.9985569813598492,-0.9985652216440382,</dec>
+		<hex>3f7ffe22,bfffd0ba,3f7fa3d1,3fffd0b7,bf7fa1f8,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>1000</freq>
@@ -897,8 +897,8 @@
 		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0229633007945453,-1.8385622046685388,0.8344454755604105,1.842307399294603,-0.8536635817288911,</dec>
-		<hex>3f82f076,bfeb5602,3f559e38,3febd0bb,bf5a89b2,</hex>
+		<dec>1.0002374775127474,-1.99835203160434,0.9981167596553995,1.9983524698944364,-0.9983537988780505,</dec>
+		<hex>3f8007c8,bfffca00,3f7f8494,3fffca04,bf7f941d,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>20</freq>
@@ -906,8 +906,8 @@
 		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0229633007945453,-1.8385622046685388,0.8344454755604105,1.842307399294603,-0.8536635817288911,</dec>
-		<hex>3f82f076,bfeb5602,3f559e38,3febd0bb,bf5a89b2,</hex>
+		<dec>1.0002374775127474,-1.99835203160434,0.9981167596553995,1.9983524698944364,-0.9983537988780505,</dec>
+		<hex>3f8007c8,bfffca00,3f7f8494,3fffca04,bf7f941d,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
 		<freq>20</freq>
@@ -915,8 +915,8 @@
 		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0229633007945453,-1.8385622046685388,0.8344454755604105,1.842307399294603,-0.8536635817288911,</dec>
-		<hex>3f82f076,bfeb5602,3f559e38,3febd0bb,bf5a89b2,</hex>
+		<dec>1.0002374775127474,-1.99835203160434,0.9981167596553995,1.9983524698944364,-0.9983537988780505,</dec>
+		<hex>3f8007c8,bfffca00,3f7f8494,3fffca04,bf7f941d,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>20</freq>
@@ -924,8 +924,8 @@
 		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0229633007945453,-1.8385622046685388,0.8344454755604105,1.842307399294603,-0.8536635817288911,</dec>
-		<hex>3f82f076,bfeb5602,3f559e38,3febd0bb,bf5a89b2,</hex>
+		<dec>1.0002374775127474,-1.99835203160434,0.9981167596553995,1.9983524698944364,-0.9983537988780505,</dec>
+		<hex>3f8007c8,bfffca00,3f7f8494,3fffca04,bf7f941d,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
 		<freq>43</freq>
@@ -933,8 +933,8 @@
 		<boost>-0.7</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>0.9961162549962217,-1.8046661550060443,0.8737494938566256,1.801930154652545,-0.8726017492063464,</dec>
-		<hex>3f7f017a,bfe6ff4d,3f5fae0c,3fe6a5a6,bf5f62d4,</hex>
+		<dec>0.9999715077931564,-1.9985573003765715,0.9985933948341598,1.9985569813598492,-0.9985652216440382,</dec>
+		<hex>3f7ffe22,bfffd0ba,3f7fa3d1,3fffd0b7,bf7fa1f8,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>1000</freq>
@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Hubie Halloween</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hubie Halloween</beq_sortTitle>
+		<beq_sortTitle>hubie halloween</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/AmdJQYs.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/hEqM6xs.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5.5 gain</beq_gain>
+		<beq_gain>+5.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>Hubie Dubois who, despite his devotion to his hometown of Salem, Massachusetts (and its legendary Halloween celebration), is a figure of mockery for kids and adults alike. But this year, something really is going bump in the night, and it’s up to Hubie to save Halloween.</beq_overview>

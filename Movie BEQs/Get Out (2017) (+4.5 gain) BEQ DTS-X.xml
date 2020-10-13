@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Get Out</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Get Out</beq_sortTitle>
+		<beq_sortTitle>get out</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/AHCJxW4.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/dDIUIBh.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4.5 gain</beq_gain>
+		<beq_gain>+4.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family&apos;s overly accommodating behavior as nervous attempts to deal with their daughter&apos;s interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.</beq_overview>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="9648">Mystery</genre>
-			<genre id="27">Horror</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

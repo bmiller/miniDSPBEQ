@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Halloween</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Halloween</beq_sortTitle>
+		<beq_sortTitle>halloween</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/VqXtA4B.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/SLxItim.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3.0 gain</beq_gain>
+		<beq_gain>+3.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Jamie Lee Curtis returns to her iconic role as Laurie Strode, who comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.</beq_overview>

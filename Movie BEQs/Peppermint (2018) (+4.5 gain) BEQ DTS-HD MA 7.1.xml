@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Peppermint</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Peppermint</beq_sortTitle>
+		<beq_sortTitle>peppermint</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/FOSt5Vq.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/PpbbMLz.jpg</beq_pvaURL>
@@ -1425,11 +1425,11 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4.5 gain</beq_gain>
+		<beq_gain>+4.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A grieving mother transforms herself into a vigilante following the murders of her husband and daughter, eluding the authorities to deliver her own personal brand of justice.</beq_overview>
-		<beq_rating></beq_rating>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57259796</beq_avs>
 		<beq_theMovieDB>458594</beq_theMovieDB>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

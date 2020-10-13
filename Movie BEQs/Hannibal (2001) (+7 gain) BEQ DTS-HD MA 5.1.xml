@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Hannibal</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hannibal</beq_sortTitle>
+		<beq_sortTitle>hannibal</beq_sortTitle>
 		<beq_year>2001</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/q7KVbyk.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/Bf1HChU.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+7 gain</beq_gain>
+		<beq_gain>+7</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>After having successfully eluded the authorities for years, Hannibal peacefully lives in Italy in disguise as an art scholar. Trouble strikes again when he&apos;s discovered leaving a deserving few dead in the process. He returns to America to make contact with now disgraced Agent Clarice Starling, who is suffering the wrath of a malicious FBI rival as well as the media.</beq_overview>
@@ -1440,10 +1440,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="27">Horror</genre>
+			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
-			<genre id="80">Crime</genre>
-			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Thor: The Dark World</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Thor: The Dark World</beq_sortTitle>
+		<beq_sortTitle>thor: the dark world</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/72YrYoG.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/mlHVxjC.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-0.5 gain</beq_gain>
+		<beq_gain>-0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
 			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Hot Fuzz</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hot Fuzz</beq_sortTitle>
+		<beq_sortTitle>hot fuzz</beq_sortTitle>
 		<beq_year>2007</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/a4t4xwC.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/DjAR8JF.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1.5 gain</beq_gain>
+		<beq_gain>-1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>As a former London constable, Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.</beq_overview>

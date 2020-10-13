@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Deep Blue Sea 3</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Deep Blue Sea 3</beq_sortTitle>
+		<beq_sortTitle>deep blue sea 3</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/IlFuGy0.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/eID1HaX.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4.0 gain</beq_gain>
+		<beq_gain>+4.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Dr. Emma Collins and her team are spending their third summer on the island of Little Happy studying the effect of climate change on the great white sharks who come to the nearby nursery every year to give birth. Along with the last two inhabitants of this former fishing village, their peaceful life is disrupted when a &quot;scientific&quot; team led by her ex-boyfriend and marine biologist Richard show up looking for three bull sharks who we soon learn aren&apos;t just any bull sharks.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

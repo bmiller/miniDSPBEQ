@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Dark Phoenix</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Dark Phoenix</beq_sortTitle>
+		<beq_sortTitle>dark phoenix</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/sjqF0jx.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/HigV3Bn.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-2.5 gain</beq_gain>
+		<beq_gain>-2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she&apos;s hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey&apos;s new abilities to rule the galaxy.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
+			<genre id="878">Science Fiction</genre>
 			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Coco</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Coco</beq_sortTitle>
+		<beq_sortTitle>coco</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/uqxlYuO.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/354912/moviethumb/coco-5a01bd86ee340.jpg</beq_pvaURL>
@@ -1439,11 +1439,11 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="16">Animation</genre>
-			<genre id="35">Comedy</genre>
-			<genre id="14">Fantasy</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="10751">Family</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="16">Animation</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

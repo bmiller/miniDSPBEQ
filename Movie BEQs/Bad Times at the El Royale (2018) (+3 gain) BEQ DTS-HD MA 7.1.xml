@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Bad Times at the El Royale</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Bad Times at the El Royale</beq_sortTitle>
+		<beq_sortTitle>bad times at the el royale</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/5YetGTU.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/aN8MDYh.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3 gain</beq_gain>
+		<beq_gain>+3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Lake Tahoe, 1969. Seven strangers, each one with a secret to bury, meet at El Royale, a decadent motel with a dark past. In the course of a fateful night, everyone will have one last shot at redemption.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="9648">Mystery</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

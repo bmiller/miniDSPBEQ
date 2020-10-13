@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Transformers</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Transformers</beq_sortTitle>
+		<beq_sortTitle>transformers</beq_sortTitle>
 		<beq_year>2007</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/17IWx7J.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/h3U7OL4.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-2.5 gain</beq_gain>
+		<beq_gain>-2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Young teenager, Sam Witwicky becomes involved in the ancient struggle between two extraterrestrial factions of transforming robots – the heroic Autobots and the evil Decepticons. Sam holds the clue to unimaginable power and the Decepticons will stop at nothing to retrieve it.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="878">Science Fiction</genre>
-			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

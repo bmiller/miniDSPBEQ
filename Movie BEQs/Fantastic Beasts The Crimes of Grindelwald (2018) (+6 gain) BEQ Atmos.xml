@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Fantastic Beasts: The Crimes of Grindelwald</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Fantastic Beasts: The Crimes of Grindelwald</beq_sortTitle>
+		<beq_sortTitle>fantastic beasts: the crimes of grindelwald</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/Wb0zGwR.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/XydhTgD.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6 gain</beq_gain>
+		<beq_gain>+6</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
 			<genre id="18">Drama</genre>
+			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>

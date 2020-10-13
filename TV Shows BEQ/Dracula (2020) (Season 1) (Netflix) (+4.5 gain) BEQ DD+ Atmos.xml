@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Dracula</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Dracula</beq_sortTitle>
+		<beq_sortTitle>dracula</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/BQlEDKh.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4.5 gain</beq_gain>
+		<beq_gain>+4.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>Transylvania, 1897. The blood-drinking Count Dracula is drawing his plans against Victorian London. And be warned: the dead travel fast.</beq_overview>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Vast of Night</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Vast of Night</beq_sortTitle>
+		<beq_sortTitle>vast of night</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/nWMYS79.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/FnDjgRE.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+0.5 gain</beq_gain>
+		<beq_gain>+0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Amazon</beq_source>
 		<beq_overview>At the dawn of the space-race, two radio-obsessed teens discover a strange frequency over the airwaves in what becomes the most important night of their lives and in the history of their small town.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="9648">Mystery</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="9648">Mystery</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>

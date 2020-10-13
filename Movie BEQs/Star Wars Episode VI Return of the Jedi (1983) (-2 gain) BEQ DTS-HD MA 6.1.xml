@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Return of the Jedi</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Return of the Jedi</beq_sortTitle>
+		<beq_sortTitle>return of the jedi</beq_sortTitle>
 		<beq_year>1983</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/N5UjfpB.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/2wm5EN3.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-2 gain</beq_gain>
+		<beq_gain>-2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.</beq_overview>
@@ -1441,8 +1441,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="878">Science Fiction</genre>
-			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

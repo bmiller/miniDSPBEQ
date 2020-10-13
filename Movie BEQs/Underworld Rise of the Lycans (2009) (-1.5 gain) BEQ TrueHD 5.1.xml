@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Underworld: Rise of the Lycans</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Underworld: Rise of the Lycans</beq_sortTitle>
+		<beq_sortTitle>underworld: rise of the lycans</beq_sortTitle>
 		<beq_year>2009</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/IQmzSQf.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/o9TKIZG.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1.5 gain</beq_gain>
+		<beq_gain>-1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A prequel to the first two Underworld films, this fantasy explains the origins of the feud between the Vampires and the Lycans. Aided by his secret love, Sonja, courageous Lucian leads the Lycans in battle against brutal Vampire king Viktor. Determined to break the king&apos;s enslavement of his people, Lucian faces off against the Death Dealer army in a bid for Lycan independence.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="12">Adventure</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
 			<genre id="14">Fantasy</genre>

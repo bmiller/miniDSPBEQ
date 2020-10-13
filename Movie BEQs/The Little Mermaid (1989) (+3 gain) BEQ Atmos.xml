@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Little Mermaid</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Little Mermaid</beq_sortTitle>
+		<beq_sortTitle>little mermaid</beq_sortTitle>
 		<beq_year>1989</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/S8mrqyL.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/haGbmJX.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3 gain</beq_gain>
+		<beq_gain>+3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.</beq_overview>
@@ -1441,8 +1441,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="16">Animation</genre>
-			<genre id="14">Fantasy</genre>
 			<genre id="10751">Family</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

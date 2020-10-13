@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>WALL·E</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>WALL-E</beq_sortTitle>
+		<beq_sortTitle>wall-e</beq_sortTitle>
 		<beq_year>2008</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/7h6n4XZ.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/sVRwyTV.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3 gain</beq_gain>
+		<beq_gain>+3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>WALL·E is the last robot left on an Earth that has been overrun with garbage and all humans have fled to outer space. For 700 years he has continued to try and clean up the mess, but has developed some rather interesting human-like qualities. When a ship arrives with a sleek new type of robot, WALL·E thinks he&apos;s finally found a friend and stows away on the ship when it leaves.</beq_overview>

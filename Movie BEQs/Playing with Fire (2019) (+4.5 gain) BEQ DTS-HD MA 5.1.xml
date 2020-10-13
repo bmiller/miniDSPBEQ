@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Playing with Fire</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Playing with Fire</beq_sortTitle>
+		<beq_sortTitle>playing with fire</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/pK4sjuW.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/KZSGPBE.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4.5 gain</beq_gain>
+		<beq_gain>+4.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A crew of rugged firefighters meet their match when attempting to rescue three rambunctious kids.</beq_overview>

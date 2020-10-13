@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Resident Evil</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Resident Evil</beq_sortTitle>
+		<beq_sortTitle>resident evil</beq_sortTitle>
 		<beq_year>2002</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/8WMsJBQ.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/H5k9qoh.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+0.5 gain</beq_gain>
+		<beq_gain>+0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak. Alice and Rain are charged with leading the mission. But they only have three hours before the pathogen becomes airborne and infects the world.</beq_overview>

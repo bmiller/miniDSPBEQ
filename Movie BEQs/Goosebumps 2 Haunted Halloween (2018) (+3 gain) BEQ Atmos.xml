@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Goosebumps 2: Haunted Halloween</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Goosebumps 2: Haunted Halloween</beq_sortTitle>
+		<beq_sortTitle>goosebumps 2: haunted halloween</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/VOyOESy.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/5LtY2OX.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3 gain</beq_gain>
+		<beq_gain>+3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Two boys face an onslaught from witches, monsters, ghouls and a talking dummy after they discover a mysterious book by author R. L. Stine.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="10751">Family</genre>
 			<genre id="14">Fantasy</genre>
 			<genre id="27">Horror</genre>
-			<genre id="10751">Family</genre>
 			<genre id="35">Comedy</genre>
 			<genre id="12">Adventure</genre>
 		</beq_genres>

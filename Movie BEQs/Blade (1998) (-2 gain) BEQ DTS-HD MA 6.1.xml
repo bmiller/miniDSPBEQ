@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Blade</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Blade</beq_sortTitle>
+		<beq_sortTitle>blade</beq_sortTitle>
 		<beq_year>1998</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/i9MA3ye.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/Gz1Vvxv.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-2 gain</beq_gain>
+		<beq_gain>-2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When Blade&apos;s mother was bitten by a vampire during pregnancy, she did not know that she gave her son a special gift while dying—all the good vampire attributes in combination with the best human skills. Blade and his mentor battle an evil vampire rebel who plans to take over the outdated vampire council, capture Blade and resurrect a voracious blood god.</beq_overview>
@@ -1440,8 +1440,8 @@
 			<audioType>DTS-HD MA 6.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
 			<genre id="28">Action</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

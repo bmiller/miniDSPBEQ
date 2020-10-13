@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Replicas</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Replicas</beq_sortTitle>
+		<beq_sortTitle>replicas</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/IWVQgul.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/zJ0O6hQ.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3.5 gain</beq_gain>
+		<beq_gain>+3.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A scientist becomes obsessed with returning his family to normalcy after a terrible accident.</beq_overview>

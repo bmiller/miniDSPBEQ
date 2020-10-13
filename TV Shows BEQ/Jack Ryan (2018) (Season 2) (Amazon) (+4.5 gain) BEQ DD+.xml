@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Tom Clancy&apos;s  Jack Ryan</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Tom Clancy&apos;s  Jack Ryan</beq_sortTitle>
+		<beq_sortTitle>tom clancy&apos;s  jack ryan</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/XWzbexG.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season>2</beq_season>
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4.5 gain</beq_gain>
+		<beq_gain>+4.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Amazon</beq_source>
 		<beq_overview>When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.</beq_overview>
@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="18">Drama</genre>
-			<genre id="10759">Action &amp; Adventure</genre>
 			<genre id="10768">War &amp; Politics</genre>
+			<genre id="10759">Action &amp; Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

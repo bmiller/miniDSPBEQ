@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Like a Boss</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Like a Boss</beq_sortTitle>
+		<beq_sortTitle>like a boss</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/e6weJzf.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/0bIn0Rt.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+7.0 gain</beq_gain>
+		<beq_gain>+7.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Two female friends with very different ideals decide to start a beauty company together. One is more practical, while the other wants to earn her fortune and live a lavish lifestyle.</beq_overview>

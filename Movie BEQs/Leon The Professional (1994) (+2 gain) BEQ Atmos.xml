@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Léon: The Professional</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Léon: The Professional</beq_sortTitle>
+		<beq_sortTitle>léon: the professional</beq_sortTitle>
 		<beq_year>1994</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/FaAIr0f.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/1RpzQUA.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2 gain</beq_gain>
+		<beq_gain>+2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Léon, the top hit man in New York, has earned a rep as an effective &quot;cleaner&quot;. But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda&apos;s thoughts turn to revenge, and she considers following in Léon&apos;s footsteps.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

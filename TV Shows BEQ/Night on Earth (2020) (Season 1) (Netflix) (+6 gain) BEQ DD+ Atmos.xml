@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Night on Earth</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Night on Earth</beq_sortTitle>
+		<beq_sortTitle>night on earth</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/o4SeVoC.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+6 gain</beq_gain>
+		<beq_gain>+6</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>This nature series’ new technology lifts night’s veil to reveal the hidden lives of the world’s creatures, from lions on the hunt to bats on the wing.</beq_overview>

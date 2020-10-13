@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Jaws</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Jaws</beq_sortTitle>
+		<beq_sortTitle>jaws</beq_sortTitle>
 		<beq_year>1975</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/vXFZfej.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/B8yEf6A.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4.5 gain</beq_gain>
+		<beq_gain>+4.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When an insatiable great white shark terrorizes the townspeople of Amity Island, the police chief, an oceanographer and a grizzled shark hunter seek to destroy the blood-thirsty beast.</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="27">Horror</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="12">Adventure</genre>
-			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

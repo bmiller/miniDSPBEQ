@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Crawl</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Crawl</beq_sortTitle>
+		<beq_sortTitle>crawl</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/BqkA9ei.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/FlYAjkP.jpg</beq_pvaURL>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="27">Horror</genre>
-			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

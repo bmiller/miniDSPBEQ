@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Man from U.N.C.L.E.</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Man from U.N.C.L.E.</beq_sortTitle>
+		<beq_sortTitle>man from u.n.c.l.e.</beq_sortTitle>
 		<beq_year>2015</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/AH2oiBN.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/Q8Zbowq.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1.0 gain</beq_gain>
+		<beq_gain>-1.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>At the height of the Cold War, a mysterious criminal organization plans to use nuclear weapons and technology to upset the fragile balance of power between the United States and Soviet Union. CIA agent Napoleon Solo and KGB agent Illya Kuryakin are forced to put aside their hostilities and work together to stop the evildoers in their tracks. The duo&apos;s only lead is the daughter of a missing German scientist, whom they must find soon to prevent a global catastrophe.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="35">Comedy</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

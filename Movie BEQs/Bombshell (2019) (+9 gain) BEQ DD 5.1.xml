@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Bombshell</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Bombshell</beq_sortTitle>
+		<beq_sortTitle>bombshell</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/Mxhyj7R.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/Ets3pII.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+9 gain</beq_gain>
+		<beq_gain>+9</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Bombshell is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.</beq_overview>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Harry Potter and the Prisoner of Azkaban</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Harry Potter and the Prisoner of Azkaban</beq_sortTitle>
+		<beq_sortTitle>harry potter and the prisoner of azkaban</beq_sortTitle>
 		<beq_year>2004</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/DoqBOl7.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/hZS7MKN.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2.5 gain</beq_gain>
+		<beq_gain>+2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Harry, Ron and Hermione return to Hogwarts for another magic-filled year. Harry comes face to face with danger yet again, this time in the form of escaped convict, Sirius Black—and turns to sympathetic Professor Lupin for help.</beq_overview>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>American Gangster</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>American Gangster</beq_sortTitle>
+		<beq_sortTitle>american gangster</beq_sortTitle>
 		<beq_year>2007</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/6CIoxW1.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/3iRvzUI.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3.5 gain</beq_gain>
+		<beq_gain>+3.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Following the death of his employer and mentor, Bumpy Johnson, Frank Lucas establishes himself as the number one importer of heroin in the Harlem district of Manhattan. He does so by buying heroin directly from the source in South East Asia and he comes up with a unique way of importing the drugs into the United States. Partly based on a true story.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

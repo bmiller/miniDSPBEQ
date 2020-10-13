@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Earth to Echo</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Earth to Echo</beq_sortTitle>
+		<beq_sortTitle>earth to echo</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/c48y86R.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/b2ZL72F.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3 gain</beq_gain>
+		<beq_gain>+3</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>After a construction project begins digging in their neighbourhood, best friends Tuck, Munch and Alex inexplicably begin to receive strange, encoded messages on their cell phones. Convinced something bigger is going on, they go to their parents and the authorities. The three embark on a secret adventure to crack the code and follow it to its source, and discover a mysterious being from another world who desperately needs their help. The journey that follows will change all their lives forever.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="10751">Family</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="878">Science Fiction</genre>
-			<genre id="10751">Family</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The Last Full Measure</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Last Full Measure</beq_sortTitle>
+		<beq_sortTitle>last full measure</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/Qcr2F1M.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/2riFwQl.jpg</beq_pvaURL>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="10752">War</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

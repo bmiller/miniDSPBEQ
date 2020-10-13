@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Hell or High Water</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Hell or High Water</beq_sortTitle>
+		<beq_sortTitle>hell or high water</beq_sortTitle>
 		<beq_year>2016</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/s6U9EqC.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/DtXCYKm.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+5.5 gain</beq_gain>
+		<beq_gain>+5.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family&apos;s farm in West Texas.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
 			<genre id="37">Western</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

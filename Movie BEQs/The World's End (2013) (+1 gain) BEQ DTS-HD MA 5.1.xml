@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>The World&apos;s End</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>World&apos;s End</beq_sortTitle>
+		<beq_sortTitle>world&apos;s end</beq_sortTitle>
 		<beq_year>2013</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/erfu7QV.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/yse9xAl.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1 gain</beq_gain>
+		<beq_gain>+1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Five friends who reunite in an attempt to top their epic pub crawl from 20 years earlier unwittingly become humankind&apos;s only hope for survival.</beq_overview>
@@ -1439,9 +1439,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

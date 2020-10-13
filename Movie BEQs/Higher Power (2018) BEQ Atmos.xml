@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Higher Power</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Higher Power</beq_sortTitle>
+		<beq_sortTitle>higher power</beq_sortTitle>
 		<beq_year>2018</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/K6JR5ao.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/dKtYztI.jpg</beq_pvaURL>
@@ -1439,9 +1439,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

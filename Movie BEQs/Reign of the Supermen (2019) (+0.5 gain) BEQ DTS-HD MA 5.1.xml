@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Reign of the Supermen</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Reign of the Supermen</beq_sortTitle>
+		<beq_sortTitle>reign of the supermen</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/Iqevlu2.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/p72vBnw.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+0.5 gain</beq_gain>
+		<beq_gain>+0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world&apos;s greatest champion. Meanwhile, Superman&apos;s death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?</beq_overview>
@@ -1440,9 +1440,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="16">Animation</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

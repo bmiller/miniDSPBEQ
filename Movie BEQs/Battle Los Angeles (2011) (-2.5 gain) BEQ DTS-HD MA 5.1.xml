@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Battle: Los Angeles</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Battle: Los Angeles</beq_sortTitle>
+		<beq_sortTitle>battle: los angeles</beq_sortTitle>
 		<beq_year>2011</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/ewkHnbz.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/UebY5Dp.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-2.5 gain</beq_gain>
+		<beq_gain>-2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The Earth is attacked by unknown forces. As people everywhere watch the world&apos;s great cities fall, Los Angeles becomes the last stand for mankind in a battle no one expected. It&apos;s up to a Marine staff sergeant and his new platoon to draw a line in the sand as they take on an enemy unlike any they&apos;ve ever encountered before.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>

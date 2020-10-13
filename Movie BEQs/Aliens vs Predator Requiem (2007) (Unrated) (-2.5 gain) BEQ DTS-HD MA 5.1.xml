@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Aliens vs Predator: Requiem</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Aliens vs Predator: Requiem</beq_sortTitle>
+		<beq_sortTitle>aliens vs predator: requiem</beq_sortTitle>
 		<beq_year>2007</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/F7dCNeU.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/6rN190E.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-2.5 gain</beq_gain>
+		<beq_gain>-2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The iconic creatures from two of the scariest film franchises in movie history wage their most brutal battle ever—in our own backyard. The small town of Gunnison, Colorado becomes a war zone between two of the deadliest extra-terrestrial life forms—the Alien and the Predator. When a Predator scout ship crash-lands in the hills outside the town, Alien Facehuggers and a hybrid Alien/Predator are released and begin to terrorize the town.</beq_overview>
@@ -1440,11 +1440,11 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
-			<genre id="28">Action</genre>
-			<genre id="14">Fantasy</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="27">Horror</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

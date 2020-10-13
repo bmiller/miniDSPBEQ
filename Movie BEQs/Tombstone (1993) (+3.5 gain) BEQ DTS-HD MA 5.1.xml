@@ -1417,7 +1417,7 @@
 	<beq_metadata>
 		<beq_title>Tombstone</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>Tombstone</beq_sortTitle>
+		<beq_sortTitle>tombstone</beq_sortTitle>
 		<beq_year>1993</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/NseBPT7.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/3tOBvnS.jpg</beq_pvaURL>
@@ -1425,7 +1425,7 @@
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3.5 gain</beq_gain>
+		<beq_gain>+3.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.</beq_overview>
