@@ -1436,12 +1436,14 @@
 		<beq_poster>/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg</beq_poster>
 		<beq_runtime>108</beq_runtime>
 		<beq_collection id="264">Back to the Future Collection</beq_collection>
-		<beq_audioTypes />
+		<beq_audioTypes>
+			<audioType>Atmos</audioType>
+		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
+			<genre id="10751">Family</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="12">Adventure</genre>
-			<genre id="10751">Family</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
