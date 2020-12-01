@@ -802,49 +802,49 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>16</freq>
-		<q>0.8</q>
-		<boost>3.6</boost>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001359105168397,-1.9988194226725846,0.9986848605007388,1.99881965142373,-0.998820542266433,</dec>
-		<hex>3f800474,bfffd951,3f7fa9d0,3fffd953,bf7fb2b4,</hex>
+		<dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
+		<hex>3f800371,bfffeb5b,3f7fcfde,3fffeb5c,bf7fd6be,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>16</freq>
+		<freq>20</freq>
 		<q>0.8</q>
-		<boost>3.6</boost>
+		<boost>6.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001359105168397,-1.9988194226725846,0.9986848605007388,1.99881965142373,-0.998820542266433,</dec>
-		<hex>3f800474,bfffd951,3f7fa9d0,3fffd953,bf7fb2b4,</hex>
+		<dec>1.0003032315774985,-1.9986381255784256,0.9983373690386748,1.9986387707835267,-0.9986399554110724,</dec>
+		<hex>3f8009f0,bfffd360,3f7f930a,3fffd365,bf7fa6de,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>26</freq>
+		<freq>20</freq>
 		<q>0.8</q>
-		<boost>4.0</boost>
+		<boost>6.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002455386164089,-1.9981030281767302,0.9978611316652557,1.9981037002227686,-0.9981059982356263,</dec>
-		<hex>3f80080c,bfffc1d7,3f7f73d4,3fffc1dd,bf7f83e0,</hex>
+		<dec>1.0003032315774985,-1.9986381255784256,0.9983373690386748,1.9986387707835267,-0.9986399554110724,</dec>
+		<hex>3f8009f0,bfffd360,3f7f930a,3fffd365,bf7fa6de,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>26</freq>
-		<q>0.8</q>
-		<boost>4.0</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0002455386164089,-1.9981030281767302,0.9978611316652557,1.9981037002227686,-0.9981059982356263,</dec>
-		<hex>3f80080c,bfffc1d7,3f7f73d4,3fffc1dd,bf7f83e0,</hex>
-	</filter>
-	<filter addr="8300" name="PEQ_1_5">
-		<freq>70</freq>
+		<freq>65</freq>
 		<q>1.0</q>
 		<boost>0.2</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0000526281481656,-1.9954602607311576,0.9954285751655713,1.9954602607311576,-0.9954812033137369,</dec>
-		<hex>3f8001b9,bfff6b3e,3f7ed468,3fff6b3e,bf7ed7db,</hex>
+		<dec>1.0000488769062552,-1.995785234645998,0.995754418293768,1.995785234645998,-0.9958032952000232,</dec>
+		<hex>3f80019a,bfff75e4,3f7ee9c3,3fff75e4,bf7eecf7,</hex>
+	</filter>
+	<filter addr="8300" name="PEQ_1_5">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>1000</freq>
@@ -892,49 +892,49 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>16</freq>
-		<q>0.8</q>
-		<boost>3.6</boost>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001359105168397,-1.9988194226725846,0.9986848605007388,1.99881965142373,-0.998820542266433,</dec>
-		<hex>3f800474,bfffd951,3f7fa9d0,3fffd953,bf7fb2b4,</hex>
+		<dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
+		<hex>3f800371,bfffeb5b,3f7fcfde,3fffeb5c,bf7fd6be,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>16</freq>
+		<freq>20</freq>
 		<q>0.8</q>
-		<boost>3.6</boost>
+		<boost>6.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001359105168397,-1.9988194226725846,0.9986848605007388,1.99881965142373,-0.998820542266433,</dec>
-		<hex>3f800474,bfffd951,3f7fa9d0,3fffd953,bf7fb2b4,</hex>
+		<dec>1.0003032315774985,-1.9986381255784256,0.9983373690386748,1.9986387707835267,-0.9986399554110724,</dec>
+		<hex>3f8009f0,bfffd360,3f7f930a,3fffd365,bf7fa6de,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>26</freq>
+		<freq>20</freq>
 		<q>0.8</q>
-		<boost>4.0</boost>
+		<boost>6.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002455386164089,-1.9981030281767302,0.9978611316652557,1.9981037002227686,-0.9981059982356263,</dec>
-		<hex>3f80080c,bfffc1d7,3f7f73d4,3fffc1dd,bf7f83e0,</hex>
+		<dec>1.0003032315774985,-1.9986381255784256,0.9983373690386748,1.9986387707835267,-0.9986399554110724,</dec>
+		<hex>3f8009f0,bfffd360,3f7f930a,3fffd365,bf7fa6de,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>26</freq>
-		<q>0.8</q>
-		<boost>4.0</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0002455386164089,-1.9981030281767302,0.9978611316652557,1.9981037002227686,-0.9981059982356263,</dec>
-		<hex>3f80080c,bfffc1d7,3f7f73d4,3fffc1dd,bf7f83e0,</hex>
-	</filter>
-	<filter addr="8350" name="PEQ_2_5">
-		<freq>70</freq>
+		<freq>65</freq>
 		<q>1.0</q>
 		<boost>0.2</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0000526281481656,-1.9954602607311576,0.9954285751655713,1.9954602607311576,-0.9954812033137369,</dec>
-		<hex>3f8001b9,bfff6b3e,3f7ed468,3fff6b3e,bf7ed7db,</hex>
+		<dec>1.0000488769062552,-1.995785234645998,0.995754418293768,1.995785234645998,-0.9958032952000232,</dec>
+		<hex>3f80019a,bfff75e4,3f7ee9c3,3fff75e4,bf7eecf7,</hex>
+	</filter>
+	<filter addr="8350" name="PEQ_2_5">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>1000</freq>
@@ -1415,34 +1415,34 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>The Hobbit: The Battle of the Five Armies</beq_title>
+		<beq_title>The Hobbit: The Desolation of Smaug</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>hobbit: the battle of the five armies</beq_sortTitle>
-		<beq_year>2014</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/zl9EmNH.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/nHqyBpI.jpg</beq_pvaURL>
-		<beq_edition />
+		<beq_sortTitle>hobbit: the desolation of smaug</beq_sortTitle>
+		<beq_year>2013</beq_year>
+		<beq_spectrumURL>https://i.imgur.com/3lIqKhg.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/GK6sbqH.jpg</beq_pvaURL>
+		<beq_edition>Extended</beq_edition>
 		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor&apos;s mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo&apos;s hands.</beq_overview>
+		<beq_overview>The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56883516</beq_avs>
-		<beq_theMovieDB>122917</beq_theMovieDB>
-		<beq_poster>/xT98tLqatZPQApyRmlPL12LtiWp.jpg</beq_poster>
-		<beq_runtime>144</beq_runtime>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56880342</beq_avs>
+		<beq_theMovieDB>57158</beq_theMovieDB>
+		<beq_poster>/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg</beq_poster>
+		<beq_runtime>161</beq_runtime>
 		<beq_collection id="121938">The Hobbit Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
