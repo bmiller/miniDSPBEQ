@@ -1435,7 +1435,9 @@
 		<beq_theMovieDB>530723</beq_theMovieDB>
 		<beq_poster>/gizz5FphOtfSnLaGpRALOZgILd5.jpg</beq_poster>
 		<beq_runtime>108</beq_runtime>
-		<beq_audioTypes />
+		<beq_audioTypes>
+			<audioType>DTS-HD MA 5.1</audioType>
+		</beq_audioTypes>
 		<beq_genres>
 			<genre id="18">Drama</genre>
 		</beq_genres>
