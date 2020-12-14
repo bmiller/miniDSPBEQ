@@ -802,13 +802,13 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>26</freq>
-		<q>1.0</q>
-		<boost>4.7</boost>
+		<freq>10</freq>
+		<q>1.1</q>
+		<boost>2.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002311275480849,-1.9985117168522835,0.9982843819413187,1.9985125093177079,-0.9985147170239791,</dec>
-		<hex>3f800793,bfffcf3b,3f7f8f91,3fffcf42,bf7f9ea9,</hex>
+		<dec>1.0000394347374804,-1.9994428374905164,0.9994038916263729,1.9994428943558988,-0.9994432694984711,</dec>
+		<hex>3f80014b,bfffedbe,3f7fd8ef,3fffedbf,bf7fdb84,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>10</freq>
@@ -892,13 +892,13 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>26</freq>
-		<q>1.0</q>
-		<boost>4.7</boost>
+		<freq>10</freq>
+		<q>1.1</q>
+		<boost>2.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002311275480849,-1.9985117168522835,0.9982843819413187,1.9985125093177079,-0.9985147170239791,</dec>
-		<hex>3f800793,bfffcf3b,3f7f8f91,3fffcf42,bf7f9ea9,</hex>
+		<dec>1.0000394347374804,-1.9994428374905164,0.9994038916263729,1.9994428943558988,-0.9994432694984711,</dec>
+		<hex>3f80014b,bfffedbe,3f7fd8ef,3fffedbf,bf7fdb84,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>10</freq>
@@ -1439,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
+			<genre id="14">Fantasy</genre>
 			<genre id="27">Horror</genre>
 			<genre id="18">Drama</genre>
-			<genre id="14">Fantasy</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
