@@ -1,4 +1,4 @@
-<setting version="1.13">
+<setting version="1.15">
 	<timestamp>0</timestamp>
 	<dspversion>100</dspversion>
 	<master_mute>0</master_mute>
@@ -802,31 +802,31 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>10</freq>
-		<q>0.9</q>
-		<boost>5.0</boost>
+		<freq>20</freq>
+		<q>1.1</q>
+		<boost>3.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
-		<hex>3f800371,bfffeb5b,3f7fcfde,3fffeb5c,bf7fd6be,</hex>
+		<dec>1.0001305322237064,-1.9989321061827083,0.9988037052643042,1.9989324837922187,-0.9989338598785004,</dec>
+		<hex>3f800447,bfffdd02,3f7fb19a,3fffdd05,bf7fba21,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>24</freq>
+		<freq>20</freq>
 		<q>1.1</q>
-		<boost>6.5</boost>
+		<boost>3.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002690310807432,-1.9988137184262909,0.9985482722917922,1.9988146627884984,-0.9988163590103276,</dec>
-		<hex>3f8008d1,bfffd921,3f7fa0dc,3fffd929,bf7fb26e,</hex>
+		<dec>1.0001305322237064,-1.9989321061827083,0.9988037052643042,1.9989324837922187,-0.9989338598785004,</dec>
+		<hex>3f800447,bfffdd02,3f7fb19a,3fffdd05,bf7fba21,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>45</freq>
+		<freq>37</freq>
 		<q>1.0</q>
 		<boost>0.8</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.000135490661618,-1.9971826064939704,0.9970557781009745,1.9971826064939704,-0.9971912687625925,</dec>
-		<hex>3f800471,bfffa3ae,3f7f3f0c,3fffa3ae,bf7f47ed,</hex>
+		<dec>1.0001114313054984,-1.9976841633739242,0.997578589653583,1.9976841633739242,-0.9976900209590812,</dec>
+		<hex>3f8003a7,bfffb41d,3f7f614f,3fffb41d,bf7f689d,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>1000</freq>
@@ -892,31 +892,31 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>10</freq>
-		<q>0.9</q>
-		<boost>5.0</boost>
+		<freq>20</freq>
+		<q>1.1</q>
+		<boost>3.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
-		<hex>3f800371,bfffeb5b,3f7fcfde,3fffeb5c,bf7fd6be,</hex>
+		<dec>1.0001305322237064,-1.9989321061827083,0.9988037052643042,1.9989324837922187,-0.9989338598785004,</dec>
+		<hex>3f800447,bfffdd02,3f7fb19a,3fffdd05,bf7fba21,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>24</freq>
+		<freq>20</freq>
 		<q>1.1</q>
-		<boost>6.5</boost>
+		<boost>3.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002690310807432,-1.9988137184262909,0.9985482722917922,1.9988146627884984,-0.9988163590103276,</dec>
-		<hex>3f8008d1,bfffd921,3f7fa0dc,3fffd929,bf7fb26e,</hex>
+		<dec>1.0001305322237064,-1.9989321061827083,0.9988037052643042,1.9989324837922187,-0.9989338598785004,</dec>
+		<hex>3f800447,bfffdd02,3f7fb19a,3fffdd05,bf7fba21,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>45</freq>
+		<freq>37</freq>
 		<q>1.0</q>
 		<boost>0.8</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.000135490661618,-1.9971826064939704,0.9970557781009745,1.9971826064939704,-0.9971912687625925,</dec>
-		<hex>3f800471,bfffa3ae,3f7f3f0c,3fffa3ae,bf7f47ed,</hex>
+		<dec>1.0001114313054984,-1.9976841633739242,0.997578589653583,1.9976841633739242,-0.9976900209590812,</dec>
+		<hex>3f8003a7,bfffb41d,3f7f614f,3fffb41d,bf7f689d,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>1000</freq>
@@ -1415,32 +1415,32 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Peppermint</beq_title>
+		<beq_title>The Stand</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>peppermint</beq_sortTitle>
-		<beq_year>2018</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/SRHn0G2.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/AcrucM4.jpg</beq_pvaURL>
+		<beq_sortTitle>stand</beq_sortTitle>
+		<beq_year>2020</beq_year>
+		<beq_spectrumURL />
+		<beq_pvaURL>https://i.imgur.com/cWuLPj3.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
+		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4.5</beq_gain>
+		<beq_gain>+3.5</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Disc</beq_source>
-		<beq_overview>A grieving mother transforms herself into a vigilante following the murders of her husband and daughter, eluding the authorities to deliver her own personal brand of justice.</beq_overview>
-		<beq_rating />
+		<beq_source>Amazon</beq_source>
+		<beq_overview>In a world mostly wiped out by the plague and embroiled in an elemental struggle between good and evil, the fate of mankind rests on the frail shoulders of the 108-year-old Mother Abagail and a handful of survivors. Their worst nightmares are embodied in a man with a lethal smile and unspeakable powers: Randall Flagg, the Dark Man.</beq_overview>
+		<beq_rating>TV-MA</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57259796</beq_avs>
-		<beq_theMovieDB>458594</beq_theMovieDB>
-		<beq_poster>/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg</beq_poster>
-		<beq_runtime>102</beq_runtime>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60396892</beq_avs>
+		<beq_theMovieDB>86382</beq_theMovieDB>
+		<beq_poster>/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg</beq_poster>
+		<beq_runtime />
 		<beq_audioTypes>
-			<audioType>DTS-HD MA 7.1</audioType>
+			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="53">Thriller</genre>
+			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
