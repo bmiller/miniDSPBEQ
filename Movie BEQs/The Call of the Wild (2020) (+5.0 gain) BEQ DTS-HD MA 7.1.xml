@@ -1440,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="10751">Family</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="18">Drama</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1419,32 +1419,32 @@
 		<beq_alt_title />
 		<beq_sortTitle>kung fu panda</beq_sortTitle>
 		<beq_year>2008</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL />
+		<beq_spectrumURL>https://i.imgur.com/VlOdwEC.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/bK5ZtlR.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_season />
 		<beq_note />
 		<beq_warning />
-		<beq_gain />
+		<beq_gain>+3.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the &quot;chosen one&quot; and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won&apos;t be easy. It&apos;s up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs />
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56743344</beq_avs>
 		<beq_theMovieDB>9502</beq_theMovieDB>
 		<beq_poster>/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg</beq_poster>
 		<beq_runtime>90</beq_runtime>
 		<beq_collection id="77816">Kung Fu Panda Collection</beq_collection>
 		<beq_audioTypes>
-			<audioType>DTS-HD MA 5.1</audioType>
 			<audioType>TrueHD 5.1</audioType>
+			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
-			<genre id="10751">Family</genre>
-			<genre id="16">Animation</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="16">Animation</genre>
+			<genre id="10751">Family</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

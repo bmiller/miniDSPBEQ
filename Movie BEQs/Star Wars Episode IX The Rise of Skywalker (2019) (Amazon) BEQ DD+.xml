@@ -1440,9 +1440,9 @@
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="878">Science Fiction</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="28">Action</genre>
-			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

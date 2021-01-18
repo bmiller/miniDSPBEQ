@@ -838,13 +838,13 @@
 		<hex>3f7ff890,bfffe429,3f7fcfc8,3fffe428,bf7fc85a,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>26</freq>
+		<q>0.8</q>
+		<boost>5.6</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0003445005926606,-1.998188120388836,0.9978476134552444,1.998189069267334,-0.9981911651694069,</dec>
+		<hex>3f800b4a,bfffc4a1,3f7f72f1,3fffc4a9,bf7f8975,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>1000</freq>
@@ -928,13 +928,13 @@
 		<hex>3f7ff890,bfffe429,3f7fcfc8,3fffe428,bf7fc85a,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>26</freq>
+		<q>0.8</q>
+		<boost>5.6</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0003445005926606,-1.998188120388836,0.9978476134552444,1.998189069267334,-0.9981911651694069,</dec>
+		<hex>3f800b4a,bfffc4a1,3f7f72f1,3fffc4a9,bf7f8975,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>1000</freq>
@@ -1419,8 +1419,8 @@
 		<beq_alt_title />
 		<beq_sortTitle>descent</beq_sortTitle>
 		<beq_year>2005</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL />
+		<beq_spectrumURL>https://i.imgur.com/SRoArPs.jpg</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/VVGpwpB.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_season />
 		<beq_note />
@@ -1431,13 +1431,14 @@
 		<beq_overview>After a tragic accident, six friends reunite for a caving expedition. Their adventure soon goes horribly wrong when a collapse traps them deep underground and they find themselves pursued by bloodthirsty creatures. As their friendships deteriorate, they find themselves in a desperate struggle to survive the creatures and each other.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs />
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58108818</beq_avs>
 		<beq_theMovieDB>9392</beq_theMovieDB>
 		<beq_poster>/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg</beq_poster>
 		<beq_runtime>99</beq_runtime>
 		<beq_collection id="87258">The Descent Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>LPCM 7.1</audioType>
+			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="12">Adventure</genre>
