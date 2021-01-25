@@ -1422,9 +1422,9 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/Ny3vnOZ.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>1 eps 2-10 ONLY</beq_season>
+		<beq_season>1</beq_season>
 		<beq_note />
-		<beq_warning />
+		<beq_warning>E2-10 ONLY</beq_warning>
 		<beq_gain>-0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
@@ -1434,7 +1434,6 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57691834</beq_avs>
 		<beq_theMovieDB>78183</beq_theMovieDB>
 		<beq_poster>/faQ5NoMN7q72itGYkSTpUPsp3JN.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>

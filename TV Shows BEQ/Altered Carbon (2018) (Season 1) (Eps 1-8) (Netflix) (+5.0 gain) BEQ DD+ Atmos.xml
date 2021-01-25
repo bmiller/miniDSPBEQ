@@ -1423,8 +1423,8 @@
 		<beq_pvaURL>https://i.imgur.com/cMuMvcQ.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_season>1</beq_season>
-		<beq_note>Eps 1-8</beq_note>
-		<beq_warning />
+		<beq_note />
+		<beq_warning>Eps 1-8</beq_warning>
 		<beq_gain>+5.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
@@ -1434,7 +1434,6 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56816638</beq_avs>
 		<beq_theMovieDB>68421</beq_theMovieDB>
 		<beq_poster>/95IsiH4p5937YXQHaOS2W2dWYOG.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>

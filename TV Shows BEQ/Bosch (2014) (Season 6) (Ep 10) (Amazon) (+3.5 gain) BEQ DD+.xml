@@ -1423,8 +1423,8 @@
 		<beq_pvaURL>https://i.imgur.com/QKZJp9V.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_season>6</beq_season>
-		<beq_note>Ep 10</beq_note>
-		<beq_warning />
+		<beq_note />
+		<beq_warning>Ep 10</beq_warning>
 		<beq_gain>+3.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Amazon</beq_source>
@@ -1434,7 +1434,6 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59540646</beq_avs>
 		<beq_theMovieDB>60585</beq_theMovieDB>
 		<beq_poster>/fmBAmAyR6aMo1HAutV0oZ8Y7emb.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
 			<audioType>DD+</audioType>
 		</beq_audioTypes>

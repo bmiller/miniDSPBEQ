@@ -1423,8 +1423,8 @@
 		<beq_pvaURL>https://i.imgur.com/bKE7bDS.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_season>1</beq_season>
-		<beq_note>E1, 4-5, 7-8 only</beq_note>
-		<beq_warning />
+		<beq_note />
+		<beq_warning>E1, 4-5, 7-8 only</beq_warning>
 		<beq_gain>+4.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Amazon</beq_source>
@@ -1434,7 +1434,6 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59409792</beq_avs>
 		<beq_theMovieDB>79272</beq_theMovieDB>
 		<beq_poster>/wwAy8PF5fx1ttY5T4pltL2vxNgs.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
 			<audioType>DD+</audioType>
 		</beq_audioTypes>

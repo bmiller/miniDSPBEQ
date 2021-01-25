@@ -1423,8 +1423,8 @@
 		<beq_pvaURL>https://i.imgur.com/RqtIZtn.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_season>2</beq_season>
-		<beq_note>All except E2</beq_note>
-		<beq_warning />
+		<beq_note />
+		<beq_warning>All except E2</beq_warning>
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
@@ -1434,15 +1434,14 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60030635</beq_avs>
 		<beq_theMovieDB>75006</beq_theMovieDB>
 		<beq_poster>/scZlQQYnDVlnpxFTxaIv2g0BWnL.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
-			<genre id="10759">Action &amp; Adventure</genre>
 			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
+			<genre id="35">Comedy</genre>
 			<genre id="18">Drama</genre>
+			<genre id="10759">Action &amp; Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
