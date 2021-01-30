@@ -1437,9 +1437,9 @@
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="9648">Mystery</genre>
-			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
+			<genre id="80">Crime</genre>
+			<genre id="9648">Mystery</genre>
 		</beq_genres>
 		<beq_season id="60585">
 			<number>6</number>

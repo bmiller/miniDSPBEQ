@@ -1423,7 +1423,7 @@
 		<beq_pvaURL>https://i.imgur.com/fz8HIwr.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
-		<beq_warning>E6 Only</beq_warning>
+		<beq_warning />
 		<beq_gain>+5.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Amazon</beq_source>
@@ -1444,7 +1444,7 @@
 		<beq_season id="63639">
 			<number>5</number>
 			<poster>/aiGapvUmuErjFochQMB3axeb7OZ.jpg</poster>
-			<episodes count="10"></episodes>
+			<episodes count="10">6</episodes>
 		</beq_season>
 	</beq_metadata>
 </setting>

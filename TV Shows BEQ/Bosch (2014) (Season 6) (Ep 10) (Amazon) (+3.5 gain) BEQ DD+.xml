@@ -1420,7 +1420,7 @@
 		<beq_sortTitle>bosch</beq_sortTitle>
 		<beq_year>2014</beq_year>
 		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/QKZJp9V.jpg</beq_pvaURL>
+		<beq_pvaURL>https://i.imgur.com/7W8gNZN.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
@@ -1437,9 +1437,9 @@
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="9648">Mystery</genre>
 			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
+			<genre id="9648">Mystery</genre>
 		</beq_genres>
 		<beq_season id="60585">
 			<number>6</number>
