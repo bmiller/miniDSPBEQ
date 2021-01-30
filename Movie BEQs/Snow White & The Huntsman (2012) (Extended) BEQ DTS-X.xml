@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/x1WKHdY.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/zoQKXmo.jpg</beq_pvaURL>
 		<beq_edition>Extended</beq_edition>
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1433,15 +1432,15 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56893620</beq_avs>
 		<beq_theMovieDB>58595</beq_theMovieDB>
-		<beq_poster>/xUNnFwO7XfjvrQ2hFfIlPTwqzDk.jpg</beq_poster>
+		<beq_poster>/8HUa5kRubYbnAD5UVpnhTGGgMTW.jpg</beq_poster>
 		<beq_runtime>127</beq_runtime>
 		<beq_collection id="393379">The Huntsman Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
 			<genre id="18">Drama</genre>
+			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>

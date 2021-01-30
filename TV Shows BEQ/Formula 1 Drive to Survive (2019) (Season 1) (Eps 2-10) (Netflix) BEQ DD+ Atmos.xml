@@ -1422,9 +1422,8 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/4SXYSss.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>1</beq_season>
 		<beq_note />
-		<beq_warning>Eps 2-10</beq_warning>
+		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
@@ -1440,5 +1439,10 @@
 		<beq_genres>
 			<genre id="99">Documentary</genre>
 		</beq_genres>
+		<beq_season id="87083">
+			<number>1</number>
+			<poster>/kvGop3wqDpmcyAr245xOIIW5B3c.jpg</poster>
+			<episodes count="10">2,3,4,5,6,7,8,9,10</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

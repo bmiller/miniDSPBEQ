@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/2Xb4cAe.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/5pVCUzN.jpg</beq_pvaURL>
 		<beq_edition>Extended</beq_edition>
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-1.0</beq_gain>
@@ -1434,7 +1433,7 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56904674</beq_avs>
 		<beq_theMovieDB>209112</beq_theMovieDB>
 		<beq_poster>/5UsK3grJvtQrtzEgqNlDljJW96w.jpg</beq_poster>
-		<beq_runtime>151</beq_runtime>
+		<beq_runtime>152</beq_runtime>
 		<beq_collection id="209131">Man of Steel Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>

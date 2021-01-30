@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/bGHjl70.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/04Dvak8.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+4.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Two policemen, one an old-timer, the other his volatile younger partner, find themselves suspended when a video of their strong-arm tactics becomes the media&apos;s cause du jour. Low on cash and with no other options, these two embittered soldiers descend into the criminal underworld to gain their just due, but instead find far more than they wanted awaiting them in the shadows.</beq_overview>
-		<beq_rating />
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57811822</beq_avs>
 		<beq_theMovieDB>438674</beq_theMovieDB>
@@ -1439,9 +1438,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
-			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

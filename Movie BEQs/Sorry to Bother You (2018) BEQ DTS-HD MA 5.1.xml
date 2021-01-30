@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/QGBulb7.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/O92ZAEO.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56994824</beq_avs>
 		<beq_theMovieDB>424781</beq_theMovieDB>
@@ -1439,9 +1438,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

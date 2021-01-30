@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/QknDJ5X.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/150540/moviethumb/inside-out-59f5d19f044f0.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1439,10 +1438,11 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="12">Adventure</genre>
 			<genre id="16">Animation</genre>
-			<genre id="35">Comedy</genre>
 			<genre id="10751">Family</genre>
 			<genre id="18">Drama</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

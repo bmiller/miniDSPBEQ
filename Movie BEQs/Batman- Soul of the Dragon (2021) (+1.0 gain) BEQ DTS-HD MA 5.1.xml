@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/dKdiNcl.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/N1vQThT.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+1.0</beq_gain>
@@ -1433,17 +1432,17 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60429829</beq_avs>
 		<beq_theMovieDB>732450</beq_theMovieDB>
-		<beq_poster>/jzhbZZWHMOxVF9uz8lNilDEx8dl.jpg</beq_poster>
+		<beq_poster>/uDhnTtSxU5a8DtZdbbin3aZmkmU.jpg</beq_poster>
 		<beq_runtime>83</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
 			<genre id="16">Animation</genre>
-			<genre id="28">Action</genre>
-			<genre id="14">Fantasy</genre>
 			<genre id="80">Crime</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

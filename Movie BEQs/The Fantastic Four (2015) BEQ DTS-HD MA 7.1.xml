@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/oc9khmJ.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/166424/moviethumb/the-fantastic-four-55428beb2b180.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1433,15 +1432,15 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56811956</beq_avs>
 		<beq_theMovieDB>166424</beq_theMovieDB>
-		<beq_poster>/vls1OryQmsBdzRYJkBaoOcRsMQp.jpg</beq_poster>
+		<beq_poster>/oeMpEsjmiT9PEJbRM1Fm7TZ1dE0.jpg</beq_poster>
 		<beq_runtime>100</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

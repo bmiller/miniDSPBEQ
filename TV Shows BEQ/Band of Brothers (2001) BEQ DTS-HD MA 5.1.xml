@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/PBdbipC.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1433,14 +1432,18 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57705944</beq_avs>
 		<beq_theMovieDB>4613</beq_theMovieDB>
-		<beq_poster>/pGzV187ogXzgJrvPRy2YPi29ofH.jpg</beq_poster>
-		<beq_runtime />
+		<beq_poster>/bF0o2cJFVM4JPIOTc4GVMho7fkj.jpg</beq_poster>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10768">War &amp; Politics</genre>
 			<genre id="18">Drama</genre>
+			<genre id="10768">War &amp; Politics</genre>
 		</beq_genres>
+		<beq_season id="4613">
+			<number>1</number>
+			<poster>/1dTx3cRcSpaOCe0mXOVEBjz25z3.jpg</poster>
+			<episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

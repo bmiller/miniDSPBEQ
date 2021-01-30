@@ -1415,33 +1415,37 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Transformers: War for Cybertron</beq_title>
+		<beq_title>Transformers: War for Cybertron: Siege</beq_title>
 		<beq_alt_title />
 		<beq_sortTitle>transformers: war for cybertron</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/IipE23S.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>1</beq_season>
 		<beq_note />
-		<beq_warning>All except E4</beq_warning>
+		<beq_warning />
 		<beq_gain>+7.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>On their dying planet, the Autobots and Decepticons battle fiercely for control of the AllSpark in the Transformers universe&apos;s origin story.</beq_overview>
-		<beq_rating>TV-Y7</beq_rating>
+		<beq_rating>TV-14</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60015743</beq_avs>
 		<beq_theMovieDB>100617</beq_theMovieDB>
-		<beq_poster>/oKdVrAhEcxJ0jqNI74RNMdf9WUF.jpg</beq_poster>
+		<beq_poster>/14B6I4FxCMiDoPOwzj27EcqqY6i.jpg</beq_poster>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10759">Action &amp; Adventure</genre>
-			<genre id="10762">Kids</genre>
 			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
+			<genre id="10762">Kids</genre>
 			<genre id="16">Animation</genre>
+			<genre id="10759">Action &amp; Adventure</genre>
 		</beq_genres>
+		<beq_season id="100617">
+			<number>1</number>
+			<poster>/q6XBIrlT8XiBg4KbK5ivQAW78q7.jpg</poster>
+			<episodes count="6">1,2,3,5,6</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/G2T4o7W.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/llJS4Bj.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-3</beq_gain>
@@ -1433,15 +1432,15 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58792452</beq_avs>
 		<beq_theMovieDB>267860</beq_theMovieDB>
-		<beq_poster>/iEbLkYzyiUdOKNK4WNBFyGH7r2Y.jpg</beq_poster>
+		<beq_poster>/wah9TViZDE4zfVsnIgwLB4zSxzH.jpg</beq_poster>
 		<beq_runtime>99</beq_runtime>
 		<beq_collection id="386534">... Has Fallen Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

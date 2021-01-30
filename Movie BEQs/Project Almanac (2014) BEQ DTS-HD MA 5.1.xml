@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/syibDLe.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/227719/moviethumb/almanac-54bfd4c8ef9b6.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1433,12 +1432,13 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56869990</beq_avs>
 		<beq_theMovieDB>227719</beq_theMovieDB>
-		<beq_poster>/le4DyfxkHUK7WYoM3JhLbwMMTFN.jpg</beq_poster>
+		<beq_poster>/1PeICmYcwEr2qrXROKCclGsdGXh.jpg</beq_poster>
 		<beq_runtime>106</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="878">Science Fiction</genre>
 		</beq_genres>

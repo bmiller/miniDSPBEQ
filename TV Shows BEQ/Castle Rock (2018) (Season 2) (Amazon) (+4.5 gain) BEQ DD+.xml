@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/NUpa9As.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>2</beq_season>
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+4.5</beq_gain>
@@ -1434,7 +1433,6 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59414292</beq_avs>
 		<beq_theMovieDB>71116</beq_theMovieDB>
 		<beq_poster>/6dnUpv9ghx84pgxlMOb4uuJrWDs.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
@@ -1442,5 +1440,10 @@
 			<genre id="9648">Mystery</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
+		<beq_season id="71116">
+			<number>2</number>
+			<poster>/h9AZ5r76kDGO9jAfFPSPJ9yXvMr.jpg</poster>
+			<episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

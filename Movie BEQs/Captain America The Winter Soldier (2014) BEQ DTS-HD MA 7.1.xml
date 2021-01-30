@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/7kuaDh9.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/100402/moviethumb/captain-america-the-winter-soldier-5319cae9cf459.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1433,16 +1432,16 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56778246</beq_avs>
 		<beq_theMovieDB>100402</beq_theMovieDB>
-		<beq_poster>/wxwt0pLxFZwKzy7pAu8WixadwqO.jpg</beq_poster>
+		<beq_poster>/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg</beq_poster>
 		<beq_runtime>136</beq_runtime>
 		<beq_collection id="131295">Captain America Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

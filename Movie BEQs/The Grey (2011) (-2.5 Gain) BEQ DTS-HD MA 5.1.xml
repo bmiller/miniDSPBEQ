@@ -1422,13 +1422,12 @@
 		<beq_spectrumURL>https://i.imgur.com/F3mgHkr.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/IwcU52a.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>After suffering a violent plane crash, a group of oil drillers is stranded in the most remote wilderness of Alaska, far from any chance of being rescued. Exposed to the icy cold and extreme living conditions, the few survivors, led by Ottway, an experienced hunter, will endure the tireless persecution of a pack of huge wolves.</beq_overview>
+		<beq_overview>Following a grueling five-week shift at an Alaskan oil refinery, workers led by sharpshooter John Ottway, are flying home for a much-needed vacation. But a brutal storm causes their plane to crash in the frozen wilderness, and only eight men, including Ottway, survive. As they trek southward toward civilization and safety, Ottway and his companions must battle mortal injuries, the icy elements, and a pack of hungry wolves.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57222786</beq_avs>
@@ -1439,10 +1438,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
+			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

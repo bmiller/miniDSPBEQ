@@ -1415,14 +1415,13 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Journey to China: The Mystery of Iron Mask</beq_title>
+		<beq_title>The Iron Mask</beq_title>
 		<beq_alt_title>Тайна Печати дракона</beq_alt_title>
 		<beq_sortTitle>journey to china: the mystery of iron mask</beq_sortTitle>
 		<beq_year>2019</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/VRthHoA.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/JjcwIN8.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+6.0</beq_gain>

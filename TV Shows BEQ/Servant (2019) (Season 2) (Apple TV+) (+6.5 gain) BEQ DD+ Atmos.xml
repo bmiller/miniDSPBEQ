@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/xDaCJyh.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>2</beq_season>
 		<beq_note>+3dB dialnorm compensation</beq_note>
 		<beq_warning />
 		<beq_gain>+6.5</beq_gain>
@@ -1433,12 +1432,17 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60421061</beq_avs>
 		<beq_theMovieDB>88055</beq_theMovieDB>
-		<beq_poster>/n5iDow3TLI74e0W41363ieKucei.jpg</beq_poster>
+		<beq_poster>/8yfkkAeoI77opqAvB9fyf4knftS.jpg</beq_poster>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="18">Drama</genre>
 		</beq_genres>
+		<beq_season id="88055">
+			<number>2</number>
+			<poster>/8yfkkAeoI77opqAvB9fyf4knftS.jpg</poster>
+			<episodes count="6">1,2,3,4,5,6</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/glTbSmV.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/157353/moviethumb/transcendence-53c0c9424e0e2.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1433,14 +1432,14 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56868322</beq_avs>
 		<beq_theMovieDB>157353</beq_theMovieDB>
-		<beq_poster>/i3JqPtiJWnidaif3UA2K2Eng0hp.jpg</beq_poster>
+		<beq_poster>/mD4lqIxbm1kh69e24GiuhgMEYs5.jpg</beq_poster>
 		<beq_runtime>119</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="878">Science Fiction</genre>
 			<genre id="18">Drama</genre>
+			<genre id="878">Science Fiction</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="9648">Mystery</genre>
 		</beq_genres>

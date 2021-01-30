@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/8drNejA.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/4v7BOPM.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+7.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Three astronomers accidentally intercept what they believe to be a signal from a distant alien civilization, but the truth is even more incredible than any of them could have imagined.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59997044</beq_avs>
 		<beq_theMovieDB>639771</beq_theMovieDB>
@@ -1439,8 +1438,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="9648">Mystery</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="9648">Mystery</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

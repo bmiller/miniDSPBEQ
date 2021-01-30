@@ -1422,9 +1422,8 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/ZA3k0SF.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>1</beq_season>
 		<beq_note>+4dB dialnorm compensation</beq_note>
-		<beq_warning>Episodes 2, 6 Only</beq_warning>
+		<beq_warning />
 		<beq_gain>+3.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
@@ -1441,5 +1440,10 @@
 			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
+		<beq_season id="97175">
+			<number>1</number>
+			<poster>/oHj6guMrLfQcBzo3uxwBJc8Y736.jpg</poster>
+			<episodes count="6">2,6</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

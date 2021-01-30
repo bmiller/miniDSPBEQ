@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/hZVZb5i.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/5zVwUuu.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+1</beq_gain>
@@ -1435,14 +1434,15 @@
 		<beq_theMovieDB>420817</beq_theMovieDB>
 		<beq_poster>/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg</beq_poster>
 		<beq_runtime>128</beq_runtime>
+		<beq_collection id="748401">Aladdin (Reboot) Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="10749">Romance</genre>
-			<genre id="14">Fantasy</genre>
-			<genre id="10751">Family</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="10751">Family</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

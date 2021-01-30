@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/kBNsibF.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/v1KAQbm.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+2.5</beq_gain>
@@ -1433,7 +1432,7 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56854768</beq_avs>
 		<beq_theMovieDB>180</beq_theMovieDB>
-		<beq_poster>/5IrhHDVkKkE2rramdUAyej0RmWx.jpg</beq_poster>
+		<beq_poster>/qtgFcnwh9dAFLocsDk2ySDVS8UF.jpg</beq_poster>
 		<beq_runtime>145</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>

@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/YvR3wJd.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/68y3AMm.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-3.0</beq_gain>
 		<beq_language>Norwegian</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A young boy must discover the origins of his extraordinary powers before he is captured by authorities hell-bent on condemning him for an accidental murder.</beq_overview>
-		<beq_rating />
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60218575</beq_avs>
 		<beq_theMovieDB>489326</beq_theMovieDB>
@@ -1439,9 +1438,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
 			<genre id="14">Fantasy</genre>
 			<genre id="53">Thriller</genre>
-			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

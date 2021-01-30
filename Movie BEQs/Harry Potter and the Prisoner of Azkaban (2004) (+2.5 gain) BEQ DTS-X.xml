@@ -1422,13 +1422,12 @@
 		<beq_spectrumURL>https://i.imgur.com/DoqBOl7.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/hZS7MKN.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>Harry, Ron and Hermione return to Hogwarts for another magic-filled year. Harry comes face to face with danger yet again, this time in the form of escaped convict, Sirius Black—and turns to sympathetic Professor Lupin for help.</beq_overview>
+		<beq_overview>Harry, Ron and Hermione return to Hogwarts for their third year. Harry comes face to face with danger yet again, this time in the form of escaped convict, Sirius Black—and turns to sympathetic Professor Lupin for help.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56871910</beq_avs>
@@ -1440,8 +1439,8 @@
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

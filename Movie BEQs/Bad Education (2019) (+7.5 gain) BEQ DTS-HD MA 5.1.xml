@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/wvaE6ik.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/RFpZiSz.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+7.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A superintendent of a school district works for the betterment of the student’s education when an embezzlement scheme is discovered, threatening to destroy everything.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60303864</beq_avs>
 		<beq_theMovieDB>530723</beq_theMovieDB>

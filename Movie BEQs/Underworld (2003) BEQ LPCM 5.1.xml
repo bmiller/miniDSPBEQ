@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/CZslvn6.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/zGHOUC5.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1434,7 +1433,7 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56817980</beq_avs>
 		<beq_theMovieDB>277</beq_theMovieDB>
 		<beq_poster>/zsnQ41UZ3jo1wEeemF0eA9cAIU0.jpg</beq_poster>
-		<beq_runtime>121</beq_runtime>
+		<beq_runtime>122</beq_runtime>
 		<beq_collection id="2326">Underworld Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>LPCM 5.1</audioType>

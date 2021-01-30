@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/27p68UI.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/5ISsTGb.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+1.5</beq_gain>
@@ -1439,9 +1438,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="16">Animation</genre>
 			<genre id="14">Fantasy</genre>
 			<genre id="28">Action</genre>
-			<genre id="16">Animation</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

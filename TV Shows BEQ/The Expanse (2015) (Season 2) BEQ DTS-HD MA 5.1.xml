@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/E9BGKSB.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>2</beq_season>
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1433,8 +1432,7 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57921006</beq_avs>
 		<beq_theMovieDB>63639</beq_theMovieDB>
-		<beq_poster>/wikmaI7OVqmq2O9HfknkzxX6Ygu.jpg</beq_poster>
-		<beq_runtime />
+		<beq_poster>/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg</beq_poster>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
@@ -1443,5 +1441,10 @@
 			<genre id="18">Drama</genre>
 			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
 		</beq_genres>
+		<beq_season id="63639">
+			<number>2</number>
+			<poster>/aAik9W0gFWEzNbPoOxrJGy9Oecz.jpg</poster>
+			<episodes count="13">1,2,3,4,5,6,7,8,9,10,11,12,13</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

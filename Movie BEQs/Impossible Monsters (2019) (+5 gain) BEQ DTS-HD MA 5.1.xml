@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/DWF3pSW.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/2EiZxQ8.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A psychology professor begins a case study with three subjects who are suffering from sleep paralysis. As the study goes on, what is real and what is dream become mingled with violent consequences.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59384122</beq_avs>
 		<beq_theMovieDB>598058</beq_theMovieDB>

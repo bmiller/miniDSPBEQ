@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/Nb8FB8Q.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>1</beq_season>
 		<beq_note>+4dB dialnorm compensation</beq_note>
 		<beq_warning />
 		<beq_gain>+5.0</beq_gain>
@@ -1434,12 +1433,16 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60415201</beq_avs>
 		<beq_theMovieDB>114695</beq_theMovieDB>
 		<beq_poster>/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="99">Documentary</genre>
 		</beq_genres>
+		<beq_season id="114695">
+			<number>1</number>
+			<poster>/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg</poster>
+			<episodes count="2">1,2</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

@@ -1422,18 +1422,17 @@
 		<beq_spectrumURL>https://i.imgur.com/AyBYG55.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/vmnFyPg.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+8</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>The story of nobleman-turned-outlaw hero who was was crowned king of Scots in the 14th century.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60150999</beq_avs>
 		<beq_theMovieDB>532812</beq_theMovieDB>
-		<beq_poster>/e6eNN4EpGtbXAbsR97QgjnjHs6s.jpg</beq_poster>
+		<beq_poster>/t4zbpukEorfECSc5vkZ20vhwNec.jpg</beq_poster>
 		<beq_runtime>123</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>

@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/Th4uoyD.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/MFxLJqX.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+3.5</beq_gain>
@@ -1433,7 +1432,7 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56887654</beq_avs>
 		<beq_theMovieDB>20526</beq_theMovieDB>
-		<beq_poster>/xcO8Uun0mfmE3N9CaiCy0tvjpiu.jpg</beq_poster>
+		<beq_poster>/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg</beq_poster>
 		<beq_runtime>125</beq_runtime>
 		<beq_collection id="63043">TRON Collection</beq_collection>
 		<beq_audioTypes>
@@ -1441,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

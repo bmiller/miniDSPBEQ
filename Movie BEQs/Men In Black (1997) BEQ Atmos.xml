@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/C4BAW5o.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/6DUqymz.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1441,9 +1440,9 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
+			<genre id="878">Science Fiction</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="35">Comedy</genre>
-			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

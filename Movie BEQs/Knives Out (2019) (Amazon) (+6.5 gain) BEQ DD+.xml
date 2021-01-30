@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/TmWa6xS.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/jk2JtBN.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+6.5</beq_gain>
@@ -1435,16 +1434,15 @@
 		<beq_theMovieDB>546554</beq_theMovieDB>
 		<beq_poster>/pThyQovXQrw2m0s9x82twj48Jq4.jpg</beq_poster>
 		<beq_runtime>131</beq_runtime>
-		<beq_collection id="722971">Knives Out Collection</beq_collection>
+		<beq_collection id="722971">Knives Out Filmreihe</beq_collection>
 		<beq_audioTypes>
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="35">Comedy</genre>
 			<genre id="80">Crime</genre>
 			<genre id="9648">Mystery</genre>
-			<genre id="35">Comedy</genre>
 			<genre id="18">Drama</genre>
-			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1422,13 +1422,12 @@
 		<beq_spectrumURL>https://i.imgur.com/1tfuUlK.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/9ervODd.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>A zombie outbreak has fallen upon the land in this reimagining of Jane Austen’s classic tale of the tangled relationships between lovers from different social classes in 19th century England. Feisty heroine Elizabeth Bennet (Lily James) is a master of martial arts and weaponry and the handsome Mr. Darcy (Sam Riley) is a fierce zombie killer, yet the epitome of upper class prejudice. As the zombie outbreak intensifies, they must swallow their pride and join forces on the blood-soaked battlefield in order to conquer the undead once and for all.</beq_overview>
+		<beq_overview>A zombie outbreak has fallen upon the land in this reimagining of Jane Austen&apos;s classic tale of the tangled relationships between lovers from different social classes in 19th century England. Feisty heroine Elizabeth Bennet is a master of martial arts and weaponry and the handsome Mr. Darcy is a fierce zombie killer, yet the epitome of upper class prejudice. As the zombie outbreak intensifies, they must swallow their pride and join forces on the blood-soaked battlefield in order to conquer the undead once and for all.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58176676</beq_avs>
@@ -1439,10 +1438,10 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
-			<genre id="10749">Romance</genre>
-			<genre id="27">Horror</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="27">Horror</genre>
+			<genre id="10749">Romance</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

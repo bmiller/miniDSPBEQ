@@ -1420,9 +1420,8 @@
 		<beq_sortTitle>a series of unfortunate events</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL />
-		<beq_pvaURL />
+		<beq_pvaURL>https://i.imgur.com/CJZi6Fy.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>2</beq_season>
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+7.0</beq_gain>
@@ -1431,18 +1430,22 @@
 		<beq_overview>The orphaned Baudelaire children face trials, tribulations and the evil Count Olaf, all in their quest to uncover the secret of their parents&apos; death.</beq_overview>
 		<beq_rating>TV-PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs />
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59498818</beq_avs>
 		<beq_theMovieDB>65294</beq_theMovieDB>
 		<beq_poster>/qg7WXAatXyQq6zO3SnWnRJEayeZ.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
 			<audioType>DD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="10759">Action &amp; Adventure</genre>
 			<genre id="35">Comedy</genre>
 			<genre id="10751">Family</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
+		<beq_season id="65294">
+			<number>2</number>
+			<poster>/uGj0dHxuMOw2QuvjUr4iblJU9Ip.jpg</poster>
+			<episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/FbjesvR.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/Bv17VON.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A retired veteran hunting in the Allagash backcountry of Maine discovers a dead woman with a duffle bag full of money. He soon finds himself in a web of deceit and murder.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59923092</beq_avs>
 		<beq_theMovieDB>691812</beq_theMovieDB>

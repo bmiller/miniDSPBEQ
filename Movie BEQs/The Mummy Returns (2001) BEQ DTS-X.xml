@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/y39qOLs.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/d7kDwhu.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Rick and Evelyn O’Connell, along with their 8-year-old son Alex, discover the key to the legendary Scorpion King’s might: the fabled Bracelet of Anubis. Unfortunately, a newly resurrected Imhotep has designs on the bracelet as well, and isn’t above kidnapping its new bearer, Alex, to gain control of Anubis’s otherworldly army.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57033212</beq_avs>
 		<beq_theMovieDB>1734</beq_theMovieDB>
@@ -1440,9 +1439,9 @@
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

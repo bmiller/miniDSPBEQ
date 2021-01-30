@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/NgsR99U.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/LaCNIiJ.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+6.5</beq_gain>
@@ -1439,11 +1438,11 @@
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="9648">Mystery</genre>
-			<genre id="10770">TV Movie</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="10770">TV Movie</genre>
 			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

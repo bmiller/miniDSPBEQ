@@ -1415,35 +1415,34 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>The Witches</beq_title>
+		<beq_title>Roald Dahl&apos;s The Witches</beq_title>
 		<beq_alt_title />
 		<beq_sortTitle>witches</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/5I9tey9.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/Cxnmdou.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note>+7dB dialnorm compensation</beq_note>
 		<beq_warning />
 		<beq_gain>+6</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>HBO Max</beq_source>
-		<beq_overview>In 1960s Alabama, an orphaned young boy staying with his grandmother at a hotel, stumbles across a conference of witches and gets transformed into a mouse by the Grand High Witch.</beq_overview>
+		<beq_overview>In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world&apos;s Grand High Witch has gathered.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60189067</beq_avs>
 		<beq_theMovieDB>531219</beq_theMovieDB>
-		<beq_poster>/ht6EfsM5hrsUPSR4ReJQFDVU71F.jpg</beq_poster>
+		<beq_poster>/b1C0FuXp4wiPmHLVKq4kwtDMgK6.jpg</beq_poster>
 		<beq_runtime>106</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
-			<genre id="27">Horror</genre>
 			<genre id="10751">Family</genre>
-			<genre id="12">Adventure</genre>
+			<genre id="35">Comedy</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

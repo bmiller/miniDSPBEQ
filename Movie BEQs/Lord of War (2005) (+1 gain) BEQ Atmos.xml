@@ -1422,13 +1422,12 @@
 		<beq_spectrumURL>https://i.imgur.com/6bpWj2C.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/VXLxY1x.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>Yuri Orlov is a globetrotting arms dealer and, through some of the deadliest war zones, he struggles to stay one step ahead of a relentless Interpol agent, his business rivals and even some of his customers who include many of the world’s most notorious dictators. Finally, he must also face his own conscience.</beq_overview>
+		<beq_overview>Yuri Orlov is a globetrotting arms dealer and, through some of the deadliest war zones, he struggles to stay one step ahead of a relentless Interpol agent, his business rivals and even some of his customers who include many of the world&apos;s most notorious dictators. Finally, he must also face his own conscience.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57777494</beq_avs>
@@ -1439,9 +1438,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="80">Crime</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

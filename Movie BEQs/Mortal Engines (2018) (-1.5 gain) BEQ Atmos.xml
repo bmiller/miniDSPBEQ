@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/CtQLTDE.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/0fRkAR6.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.</beq_overview>
-		<beq_rating />
+		<beq_rating>PG-13</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57691956</beq_avs>
 		<beq_theMovieDB>428078</beq_theMovieDB>
@@ -1439,8 +1438,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

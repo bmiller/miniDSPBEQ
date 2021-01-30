@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/AOvgmUu.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/C3I3YeH.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man - Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he’ll need all of his skills - what few he has - as the man with yesterday’s analogue methods faces off against tomorrow’s digital technology.</beq_overview>
-		<beq_rating />
+		<beq_rating>PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57301838</beq_avs>
 		<beq_theMovieDB>463272</beq_theMovieDB>
@@ -1440,9 +1439,9 @@
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="35">Comedy</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="28">Action</genre>
-			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

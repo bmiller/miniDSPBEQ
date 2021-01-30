@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/SlBm9GJ.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/M6MP2cA.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1433,15 +1432,15 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57015002</beq_avs>
 		<beq_theMovieDB>217</beq_theMovieDB>
-		<beq_poster>/dkM0XxfYa6g6MFoFtjjXFY48jHE.jpg</beq_poster>
+		<beq_poster>/56As6XEM1flWvprX4LgkPl8ii4K.jpg</beq_poster>
 		<beq_runtime>122</beq_runtime>
 		<beq_collection id="84">Indiana Jones Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

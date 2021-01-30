@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/WuTgKo7.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/1995/moviethumb/lara-croft-tomb-raider-52076607abda9.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1440,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="28">Action</genre>
 		</beq_genres>

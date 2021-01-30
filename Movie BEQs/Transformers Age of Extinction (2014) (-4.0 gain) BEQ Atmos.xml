@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/bvalZTW.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/xIJqCSf.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-4.0</beq_gain>
@@ -1433,16 +1432,16 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56818200</beq_avs>
 		<beq_theMovieDB>91314</beq_theMovieDB>
-		<beq_poster>/54HFDOswRfShCr25Tvt7JaLiIaf.jpg</beq_poster>
+		<beq_poster>/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg</beq_poster>
 		<beq_runtime>165</beq_runtime>
 		<beq_collection id="8650">Transformers Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="878">Science Fiction</genre>
-			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

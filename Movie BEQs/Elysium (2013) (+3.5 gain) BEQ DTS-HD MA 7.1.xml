@@ -1422,27 +1422,26 @@
 		<beq_spectrumURL>https://i.imgur.com/SDdW8Ua.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/J7OxBhw.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+3.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>In the year 2159, two classes of people exist: the very wealthy who live on a pristine man-made space station called Elysium, and the rest, who live on an overpopulated, ruined Earth. Secretary Rhodes (Jodie Foster), a hard line government ofﬁcial, will stop at nothing to enforce anti-immigration laws and preserve the luxurious lifestyle of the citizens of Elysium. That doesn’t stop the people of Earth from trying to get in, by any means they can. When unlucky Max (Matt Damon) is backed into a corner, he agrees to take on a daunting mission that, if successful, will not only save his life, but could bring equality to these polarized worlds.</beq_overview>
+		<beq_overview>In the year 2159, two classes of people exist: the very wealthy who live on a pristine man-made space station called Elysium, and the rest, who live on an overpopulated, ruined Earth. Secretary Rhodes, a hard line government ofﬁcial, will stop at nothing to enforce anti-immigration laws and preserve the luxurious lifestyle of the citizens of Elysium. That doesn’t stop the people of Earth from trying to get in, by any means they can. When unlucky Max is backed into a corner, he agrees to take on a daunting mission that, if successful, will not only save his life, but could bring equality to these polarized worlds.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56780018</beq_avs>
 		<beq_theMovieDB>68724</beq_theMovieDB>
-		<beq_poster>/6hVMt55kzUHvxnc5lduqXyMh8VP.jpg</beq_poster>
+		<beq_poster>/9gHYsAmtwKfPvP5YMSnzdYp5Vok.jpg</beq_poster>
 		<beq_runtime>109</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="18">Drama</genre>
-			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/lSAZyrc.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/949/moviethumb/heat-58dc1f82ca7a3.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1433,14 +1432,14 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56835120</beq_avs>
 		<beq_theMovieDB>949</beq_theMovieDB>
-		<beq_poster>/rrBuGu0Pjq7Y2BWSI6teGfZzviY.jpg</beq_poster>
+		<beq_poster>/obpPQskaVpSiC9RcJRB6iWDTCXS.jpg</beq_poster>
 		<beq_runtime>170</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
 			<genre id="28">Action</genre>
+			<genre id="80">Crime</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>

@@ -1415,34 +1415,33 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Game of Thrones Conquest &amp; Rebellion: An Animated History of the Seven Kingdoms</beq_title>
+		<beq_title>Game of Thrones - Conquest &amp; Rebellion: An Animated History of the Seven Kingdoms</beq_title>
 		<beq_alt_title />
 		<beq_sortTitle>game of thrones conquest &amp; rebellion: an animated history of the seven kingdoms</beq_sortTitle>
 		<beq_year>2017</beq_year>
 		<beq_spectrumURL>https://i.imgur.com/BiX3lm5.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/tjBDoQG.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+4.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>HBO&apos;s animated history of Westeros brings to life all the events that shaped the Seven Kingdoms in the thousands of years before Game of Thrones&apos; story begins.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60241853</beq_avs>
 		<beq_theMovieDB>492606</beq_theMovieDB>
-		<beq_poster>/b3HXxFnhy0pamuDY9rqJ4mk7L1t.jpg</beq_poster>
+		<beq_poster>/3EanTe9yClVB89JKlyxKd3GVFtx.jpg</beq_poster>
 		<beq_runtime>45</beq_runtime>
 		<beq_audioTypes>
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10770">TV Movie</genre>
-			<genre id="14">Fantasy</genre>
-			<genre id="10752">War</genre>
 			<genre id="16">Animation</genre>
+			<genre id="10752">War</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="10770">TV Movie</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

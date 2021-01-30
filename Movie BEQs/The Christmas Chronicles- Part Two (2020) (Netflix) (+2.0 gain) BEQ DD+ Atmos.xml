@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/d8hFy36.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/VDQ0SC4.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+2.0</beq_gain>
@@ -1433,7 +1432,7 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60284626</beq_avs>
 		<beq_theMovieDB>654028</beq_theMovieDB>
-		<beq_poster>/8QKWOuEZk77ey7oA1Ul3e3xm4KY.jpg</beq_poster>
+		<beq_poster>/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg</beq_poster>
 		<beq_runtime>115</beq_runtime>
 		<beq_collection id="743824">The Christmas Chronicles Collection</beq_collection>
 		<beq_audioTypes>
@@ -1441,8 +1440,9 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="10751">Family</genre>
-			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

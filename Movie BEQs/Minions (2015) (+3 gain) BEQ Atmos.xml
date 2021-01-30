@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/bvA5nBV.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/C1Kje11.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+3</beq_gain>
@@ -1433,16 +1432,16 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57617970</beq_avs>
 		<beq_theMovieDB>211672</beq_theMovieDB>
-		<beq_poster>/tMaGZ2HR8HAFwkx4YRib0CDVfNT.jpg</beq_poster>
+		<beq_poster>/vlOgaxUiMOA8sPDG9n3VhQabnEi.jpg</beq_poster>
 		<beq_runtime>91</beq_runtime>
 		<beq_collection id="544669">Minions Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="10751">Family</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="35">Comedy</genre>
 			<genre id="16">Animation</genre>
 		</beq_genres>
 	</beq_metadata>

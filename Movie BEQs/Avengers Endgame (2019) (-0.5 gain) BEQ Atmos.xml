@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/LWxzAxH.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/rMLepAG.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-0.5</beq_gain>
@@ -1433,16 +1432,16 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58355484</beq_avs>
 		<beq_theMovieDB>299534</beq_theMovieDB>
-		<beq_poster>/or06FN3Dka5tukK1e9sl16pB3iy.jpg</beq_poster>
+		<beq_poster>/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg</beq_poster>
 		<beq_runtime>181</beq_runtime>
 		<beq_collection id="86311">The Avengers Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
-			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1422,18 +1422,17 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/x5mVSGA.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Nearly 10 years have passed since Sarah Connor was targeted for termination by a cyborg from the future. Now her son, John, the future leader of the resistance, is the target for a newer, more deadly terminator. Once again, the resistance has managed to send a protector back to attempt to save John and his mother Sarah.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56887006</beq_avs>
 		<beq_theMovieDB>280</beq_theMovieDB>
-		<beq_poster>/5M0j0B18abtBI5gi2RhfjjurTqb.jpg</beq_poster>
+		<beq_poster>/weVXMD5QBGeQil4HEATZqAkXeEc.jpg</beq_poster>
 		<beq_runtime>137</beq_runtime>
 		<beq_collection id="528">The Terminator Collection</beq_collection>
 		<beq_audioTypes>
@@ -1441,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="53">Thriller</genre>
-			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

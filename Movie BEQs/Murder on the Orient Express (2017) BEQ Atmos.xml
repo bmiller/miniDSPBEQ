@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/mKo73zx.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/392044/moviethumb/murder-on-the-orient-express-595b7b91313c0.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1435,14 +1434,14 @@
 		<beq_theMovieDB>392044</beq_theMovieDB>
 		<beq_poster>/kc2gJjebceoFgOQbukzPzP8SXVZ.jpg</beq_poster>
 		<beq_runtime>114</beq_runtime>
-		<beq_collection id="735384">Murder on the Orient Express Collection</beq_collection>
+		<beq_collection id="735384">Hercule Poirot (Kenneth Branagh) Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="9648">Mystery</genre>
 			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
+			<genre id="9648">Mystery</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/WvzeiYH.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/dLtHABo.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Set in a near-future world where there is no privacy, ignorance or anonymity, our private memories are recorded and crime almost ceases to exist. In trying to solve a series of unsolved murders, Sal Frieland stumbles onto a young woman who appears to have subverted the system and disappeared. She has no identity, no history and no record. Sal realizes it may not be the end of crime but the beginning. Known only as &apos;The Girl&apos;, Sal must find her before he becomes the next victim.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57028842</beq_avs>
 		<beq_theMovieDB>396806</beq_theMovieDB>
@@ -1440,7 +1439,6 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="878">Science Fiction</genre>
-			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

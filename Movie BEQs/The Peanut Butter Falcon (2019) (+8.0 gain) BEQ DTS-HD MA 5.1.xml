@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/7WvrFA5.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/fNxbSUo.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+8.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A down-on-his-luck crab fisherman embarks on a journey to get a young man with Down syndrome to a professional wrestling school in rural North Carolina and away from the retirement home where he’s lived for the past two and a half years.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59254382</beq_avs>
 		<beq_theMovieDB>463257</beq_theMovieDB>
@@ -1440,8 +1439,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="18">Drama</genre>
-			<genre id="35">Comedy</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

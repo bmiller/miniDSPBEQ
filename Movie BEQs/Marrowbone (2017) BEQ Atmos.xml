@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/z8wdITK.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/399366/moviethumb/marrowbone-5ace0087e1782.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1433,14 +1432,14 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56734212</beq_avs>
 		<beq_theMovieDB>399366</beq_theMovieDB>
-		<beq_poster>/iX77zMSqUv2Qt7ToEnN2mmEudEf.jpg</beq_poster>
+		<beq_poster>/ykn2GWDINcbunWPoNVRQtMaybo7.jpg</beq_poster>
 		<beq_runtime>111</beq_runtime>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
 			<genre id="9648">Mystery</genre>
+			<genre id="27">Horror</genre>
 			<genre id="18">Drama</genre>
 			<genre id="53">Thriller</genre>
 		</beq_genres>

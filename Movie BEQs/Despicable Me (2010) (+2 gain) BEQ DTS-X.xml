@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/Q9TMlgp.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/zgE3XNs.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+2</beq_gain>
@@ -1442,6 +1441,7 @@
 		<beq_genres>
 			<genre id="10751">Family</genre>
 			<genre id="16">Animation</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

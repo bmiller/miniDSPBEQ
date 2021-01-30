@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/3OpKL3u.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>2</beq_season>
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+7</beq_gain>
@@ -1436,12 +1435,16 @@ A genre-bending martial arts series very loosely based on the classic Chinese ta
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58526160</beq_avs>
 		<beq_theMovieDB>47450</beq_theMovieDB>
 		<beq_poster>/jtceMKMxHSriLFUGAUfqHsW7uCo.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="10759">Action &amp; Adventure</genre>
 		</beq_genres>
+		<beq_season id="47450">
+			<number>2</number>
+			<poster>/cyaPN5wrfT91614Dmgrhuw0QtLp.jpg</poster>
+			<episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/0FxjkrK.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/TBREqa1.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+3.5</beq_gain>
@@ -1439,11 +1438,11 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
-			<genre id="16">Animation</genre>
 			<genre id="12">Adventure</genre>
-			<genre id="28">Action</genre>
 			<genre id="10751">Family</genre>
+			<genre id="16">Animation</genre>
+			<genre id="28">Action</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

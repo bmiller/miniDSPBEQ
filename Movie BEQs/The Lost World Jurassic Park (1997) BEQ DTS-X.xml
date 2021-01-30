@@ -1422,27 +1422,26 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/fKiTH6j.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Four years after Jurassic Park&apos;s genetically bred dinosaurs ran amok, multimillionaire John Hammond shocks chaos theorist Ian Malcolm by revealing that he has been breeding more beasties at a secret location. Malcolm, his paleontologist ladylove and a wildlife videographer join an expedition to document the lethal lizards&apos; natural behavior in this action-packed thriller.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56894508</beq_avs>
 		<beq_theMovieDB>330</beq_theMovieDB>
-		<beq_poster>/ahkJNt66Bx2W04BBIHplByVtSaU.jpg</beq_poster>
+		<beq_poster>/bMwP9vq7juweGJcgq70CrpO0UHQ.jpg</beq_poster>
 		<beq_runtime>129</beq_runtime>
 		<beq_collection id="328">Jurassic Park Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

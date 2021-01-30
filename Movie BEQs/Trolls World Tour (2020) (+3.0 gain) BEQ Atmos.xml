@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/pwtZVel.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/xcqVU01.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+3.0</beq_gain>
@@ -1441,11 +1440,11 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="16">Animation</genre>
-			<genre id="12">Adventure</genre>
-			<genre id="14">Fantasy</genre>
-			<genre id="10751">Family</genre>
-			<genre id="10402">Music</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="10402">Music</genre>
+			<genre id="10751">Family</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

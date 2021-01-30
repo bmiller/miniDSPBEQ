@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/TKfMxl8.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>7</beq_season>
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1434,15 +1433,20 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57719272</beq_avs>
 		<beq_theMovieDB>1399</beq_theMovieDB>
 		<beq_poster>/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
+			<genre id="10759">Action &amp; Adventure</genre>
+			<genre id="10768">War &amp; Politics</genre>
 			<genre id="18">Drama</genre>
 			<genre id="9648">Mystery</genre>
-			<genre id="10759">Action &amp; Adventure</genre>
-			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
 		</beq_genres>
+		<beq_season id="1399">
+			<number>7</number>
+			<poster>/3dqzU3F3dZpAripEx9kRnijXbOj.jpg</poster>
+			<episodes count="7">1,2,3,4,5,6,7</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

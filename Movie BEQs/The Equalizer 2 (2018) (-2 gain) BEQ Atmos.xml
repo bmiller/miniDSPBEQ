@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/jFiJyqX.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/GEMISGD.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-2</beq_gain>
@@ -1440,9 +1439,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="53">Thriller</genre>
 			<genre id="80">Crime</genre>
 			<genre id="28">Action</genre>
-			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

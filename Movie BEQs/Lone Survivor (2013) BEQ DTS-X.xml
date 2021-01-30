@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/8Mj1XEB.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/tK9lWu2.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1433,12 +1432,13 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57557318</beq_avs>
 		<beq_theMovieDB>193756</beq_theMovieDB>
-		<beq_poster>/1VVoIfnhPmm9iNH8WF6K1A4EzJT.jpg</beq_poster>
+		<beq_poster>/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg</beq_poster>
 		<beq_runtime>121</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="36">History</genre>
 			<genre id="28">Action</genre>
 			<genre id="10752">War</genre>
 			<genre id="18">Drama</genre>

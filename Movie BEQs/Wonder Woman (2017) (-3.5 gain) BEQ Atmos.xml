@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/UiNdIOw.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/2wB6qJf.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-3.5</beq_gain>
@@ -1433,16 +1432,16 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56778360</beq_avs>
 		<beq_theMovieDB>297762</beq_theMovieDB>
-		<beq_poster>/gfJGlDaHuWimErCr5Ql0I8x9QSy.jpg</beq_poster>
+		<beq_poster>/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg</beq_poster>
 		<beq_runtime>141</beq_runtime>
 		<beq_collection id="468552">Wonder Woman Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
 			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

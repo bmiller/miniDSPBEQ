@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/or4hqVt.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/1irkXWG.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-1.5</beq_gain>
 		<beq_language>Indonesian</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Sancaka has lived on the streets since his parents left him. Living a hard life, Sancaka survives by thinking about his own safety. When the condition of the city gets worse and injustice rages throughout the country, Sancaka must decide whether he continues to live to look after himself or rise to become their oppressed hero.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59973728</beq_avs>
 		<beq_theMovieDB>516700</beq_theMovieDB>
@@ -1440,10 +1439,10 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
-			<genre id="18">Drama</genre>
-			<genre id="80">Crime</genre>
 			<genre id="28">Action</genre>
+			<genre id="18">Drama</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

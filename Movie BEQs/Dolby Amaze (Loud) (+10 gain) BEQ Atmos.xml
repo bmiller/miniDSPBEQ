@@ -1422,13 +1422,12 @@
 		<beq_spectrumURL>https://i.imgur.com/FuPur56.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/rrP61sa.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note>Loud</beq_note>
 		<beq_warning />
 		<beq_gain>+10</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview />
+		<beq_overview></beq_overview>
 		<beq_rating />
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58242644</beq_avs>

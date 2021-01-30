@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/mf9ja2v.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/OdsxFKo.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note>+4dB dialnorm compensation</beq_note>
 		<beq_warning />
 		<beq_gain>+7.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth&apos;s gravity — and steal all the presents.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60271984</beq_avs>
 		<beq_theMovieDB>656561</beq_theMovieDB>

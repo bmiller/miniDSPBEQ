@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/2isUTD5.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/VtEAKZk.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Amazon</beq_source>
 		<beq_overview>A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.</beq_overview>
-		<beq_rating />
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59904294</beq_avs>
 		<beq_theMovieDB>531876</beq_theMovieDB>
@@ -1441,8 +1440,8 @@
 		<beq_genres>
 			<genre id="28">Action</genre>
 			<genre id="36">History</genre>
-			<genre id="18">Drama</genre>
 			<genre id="10752">War</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

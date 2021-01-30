@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/RaQHh4B.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/290512/moviethumb/the-mountain-between-us-5a14600d4f13a.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1439,8 +1438,8 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
 			<genre id="10749">Romance</genre>
+			<genre id="12">Adventure</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>

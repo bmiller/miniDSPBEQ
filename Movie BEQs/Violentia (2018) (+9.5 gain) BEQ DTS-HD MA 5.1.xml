@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/KHtRcId.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/ZIoXdtu.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+9.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>After a random school shootout leaves a scientist&apos;s daughter and the shooter dead, he uses nano-robots to look into a psychopath&apos;s memories to find reasons for violence and a way to treat it.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58024178</beq_avs>
 		<beq_theMovieDB>587928</beq_theMovieDB>

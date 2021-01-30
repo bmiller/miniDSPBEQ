@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/s8EbWoJ.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/HykWyoq.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Erin Bell is an LAPD detective who, as a young cop, was placed undercover with a gang in the California desert with tragic results. When the leader of that gang re-emerges many years later, she must work her way back through the remaining members and into her own history with them to finally reckon with the demons that destroyed her past.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57942360</beq_avs>
 		<beq_theMovieDB>471507</beq_theMovieDB>
@@ -1439,9 +1438,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
-			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
+			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>

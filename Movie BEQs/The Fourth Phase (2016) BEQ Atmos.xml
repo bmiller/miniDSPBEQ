@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/AFxWd1c.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/jsqpPXb.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Iconic snowboarder Travis Rice and friends embark on a multi-year mission to follow the North Pacific Gyre&apos;s flow. As Rice and the crew experience the highs and lows of a journey unlike any previously attempted, cutting-edge cinematography captures some of the world&apos;s most remote environments bringing breathtaking scenery and thrilling action to viewers worldwide.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57917300</beq_avs>
 		<beq_theMovieDB>369237</beq_theMovieDB>
@@ -1439,8 +1438,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
 			<genre id="99">Documentary</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

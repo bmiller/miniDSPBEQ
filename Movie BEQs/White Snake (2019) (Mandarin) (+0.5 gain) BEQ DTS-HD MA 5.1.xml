@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/qbthTN2.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/JhFkDSM.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+0.5</beq_gain>
@@ -1433,15 +1432,16 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59171770</beq_avs>
 		<beq_theMovieDB>573699</beq_theMovieDB>
-		<beq_poster>/gyDV5LppSJtas1YIE3aVhhG1t5D.jpg</beq_poster>
-		<beq_runtime>98</beq_runtime>
+		<beq_poster>/30SLnoKmYNyRPkKCYowsrGLRnJA.jpg</beq_poster>
+		<beq_runtime>99</beq_runtime>
+		<beq_collection id="791030">The First Myth Universe</beq_collection>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
-			<genre id="10749">Romance</genre>
 			<genre id="16">Animation</genre>
+			<genre id="10749">Romance</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

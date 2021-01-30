@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/nUsHyJb.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/SMIYhuh.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1433,17 +1432,17 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57200290</beq_avs>
 		<beq_theMovieDB>262504</beq_theMovieDB>
-		<beq_poster>/2hEZWPPzOdRL3aeBDdQ3f5cT8NR.jpg</beq_poster>
+		<beq_poster>/ecDWL1WvcAVxZOmoYxa6c1tuTCL.jpg</beq_poster>
 		<beq_runtime>121</beq_runtime>
 		<beq_collection id="283579">Divergent Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
 			<genre id="9648">Mystery</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="878">Science Fiction</genre>
-			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1422,27 +1422,26 @@
 		<beq_spectrumURL>https://i.imgur.com/AJWjLuQ.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/1MbhyaM.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>Cantonese</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Following the death of his wife, Ip Man travels to San Francisco to ease tensions between the local kung fu masters and his star student, Bruce Lee, while searching for a better future for his son.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59465886</beq_avs>
 		<beq_theMovieDB>449924</beq_theMovieDB>
-		<beq_poster>/swmjF0CQc59K3jdUFzOirXESeGN.jpg</beq_poster>
+		<beq_poster>/b5cz6BoyHrgBnhfDHOW5hXRWbln.jpg</beq_poster>
 		<beq_runtime>105</beq_runtime>
 		<beq_collection id="70068">Ip Man Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
 			<genre id="36">History</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

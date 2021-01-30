@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/pAjDzHj.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/nNNMoah.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1433,16 +1432,16 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58237786</beq_avs>
 		<beq_theMovieDB>1930</beq_theMovieDB>
-		<beq_poster>/jIfkQNARYyERqRAq1p1c8xgePp4.jpg</beq_poster>
+		<beq_poster>/dQ8TOCYgP9pzQvSb1cmaalYqdb5.jpg</beq_poster>
 		<beq_runtime>136</beq_runtime>
 		<beq_collection id="125574">The Amazing Spider-Man Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
 			<genre id="14">Fantasy</genre>
 			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1415,14 +1415,13 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Escape from Pretoria</beq_title>
+		<beq_title>Escape From Pretoria</beq_title>
 		<beq_alt_title />
 		<beq_sortTitle>escape from pretoria</beq_sortTitle>
 		<beq_year>2020</beq_year>
 		<beq_spectrumURL>http://imgur.com/5bEs1rz.png</beq_spectrumURL>
 		<beq_pvaURL>http://imgur.com/n7tFRvB.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+6.0</beq_gain>
@@ -1433,15 +1432,15 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59434890</beq_avs>
 		<beq_theMovieDB>502425</beq_theMovieDB>
-		<beq_poster>/8GGS0jkFFCnmdStvZED6NL6V7gd.jpg</beq_poster>
+		<beq_poster>/5vePsmbekQ1ysXS6f0lhzgCwvc4.jpg</beq_poster>
 		<beq_runtime>102</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
 			<genre id="36">History</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

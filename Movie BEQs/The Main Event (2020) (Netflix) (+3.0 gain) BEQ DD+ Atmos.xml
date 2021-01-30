@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/UuTUIyF.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/fprTHNE.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+3.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>After discovering a magical mask, an 11-year-old aspiring wrestler enters a competition to become the next WWE superstar by using special powers from a magical mask.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59475740</beq_avs>
 		<beq_theMovieDB>637157</beq_theMovieDB>

@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/SBqt9if.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/0rnBXTt.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Old-school magic meets the modern world when young Alex stumbles upon the mythical sword Excalibur. He soon unites his friends and enemies, and they become knights who join forces with the legendary wizard Merlin. Together, they must save mankind from the wicked enchantress Morgana and her army of supernatural warriors.</beq_overview>
-		<beq_rating />
+		<beq_rating>PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57867306</beq_avs>
 		<beq_theMovieDB>454294</beq_theMovieDB>
@@ -1439,10 +1438,10 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
-			<genre id="28">Action</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="12">Adventure</genre>
 			<genre id="10751">Family</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

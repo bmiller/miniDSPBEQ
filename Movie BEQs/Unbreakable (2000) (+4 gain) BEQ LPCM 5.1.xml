@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/PFfkvdJ.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/B9zV3fM.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+4</beq_gain>
@@ -1433,8 +1432,9 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57421512</beq_avs>
 		<beq_theMovieDB>9741</beq_theMovieDB>
-		<beq_poster>/d1poWPWvhO0n05xKGTqAjNN37qC.jpg</beq_poster>
+		<beq_poster>/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg</beq_poster>
 		<beq_runtime>106</beq_runtime>
+		<beq_collection id="791352">The Eastrail 177 Trilogy</beq_collection>
 		<beq_audioTypes>
 			<audioType>LPCM 5.1</audioType>
 		</beq_audioTypes>

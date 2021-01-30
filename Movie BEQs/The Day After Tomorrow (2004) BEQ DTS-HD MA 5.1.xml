@@ -1422,25 +1422,24 @@
 		<beq_spectrumURL>https://i.imgur.com/33m8zGN.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/lZcUCe5.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>After years of increases in the greenhouse effect,  havoc is wreaked globally in the form of catastrophic hurricanes, tornadoes, tidal waves, floods and the beginning of a new Ice Age. Paleoclimatologist, Jack Hall tries to warn the world while also shepherding to safety his son, trapped in New York after the city is overwhelmed by the start of the new big freeze.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57564036</beq_avs>
 		<beq_theMovieDB>435</beq_theMovieDB>
-		<beq_poster>/kX8qKXc4XR8pu7e8iUL574zgrci.jpg</beq_poster>
+		<beq_poster>/mr1GBm0CXFA2lBKvl4voCYfkfL0.jpg</beq_poster>
 		<beq_runtime>124</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="53">Thriller</genre>
 			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
 		</beq_genres>

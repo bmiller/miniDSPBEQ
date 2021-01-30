@@ -1422,18 +1422,17 @@
 		<beq_spectrumURL>https://i.imgur.com/zKGYHy7.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/1DXBBVd.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+1.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>THE INFIDEL is a feature documentary about a young man, Dino, who spent a part of his youth in a closed radical religious communes of “vahaby” movement in Bosnia and Herzegovina.</beq_overview>
-		<beq_rating />
+		<beq_overview>Feature documentary about a young man, Dino, who spent a part of his youth in a closed radical religious communes of “vahaby” movement in Bosnia and Herzegovina.</beq_overview>
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60304880</beq_avs>
 		<beq_theMovieDB>731165</beq_theMovieDB>
-		<beq_poster>/y1jsrBf2ubMJwIHo8PS0k4fk5wE.jpg</beq_poster>
+		<beq_poster />
 		<beq_runtime>63</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>

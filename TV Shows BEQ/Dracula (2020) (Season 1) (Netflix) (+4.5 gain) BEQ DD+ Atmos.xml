@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/BQlEDKh.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+4.5</beq_gain>
@@ -1433,13 +1432,18 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59054808</beq_avs>
 		<beq_theMovieDB>86850</beq_theMovieDB>
-		<beq_poster>/34gkyMEtfHlEhX1y0O09ZFnJyPn.jpg</beq_poster>
-		<beq_runtime />
+		<beq_poster>/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg</beq_poster>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="18">Drama</genre>
+			<genre id="10759">Action &amp; Adventure</genre>
 		</beq_genres>
+		<beq_season id="86850">
+			<number>1</number>
+			<poster>/t5nfVgmWj2t4fDRXcYpnjo8HRpX.jpg</poster>
+			<episodes count="3">1,2,3</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

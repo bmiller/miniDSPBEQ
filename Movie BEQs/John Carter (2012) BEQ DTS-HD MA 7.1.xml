@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/CLYltNA.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/49529/moviethumb/john-carter-56c10d1aa3d66.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1440,8 +1439,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="28">Action</genre>
-			<genre id="12">Adventure</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1422,18 +1422,17 @@
 		<beq_spectrumURL>https://i.imgur.com/eT9mxrJ.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/MlrGKXm.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+6.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A teenage loner pushes his way into the underworld of a high school crime ring to investigate the disappearance of his ex-girlfriend.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59957898</beq_avs>
 		<beq_theMovieDB>9270</beq_theMovieDB>
-		<beq_poster>/84WBi81WfVTYKdk5K1C4Ci3SR7n.jpg</beq_poster>
+		<beq_poster>/zaOozUSc9yUGVm46j4YzFx4yNKR.jpg</beq_poster>
 		<beq_runtime>110</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>

@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/xmFuqKJ.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/DNNKNYY.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-1</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A bright young yeti finds something he thought didn&apos;t exist—a human. News of this “smallfoot” throws the simple yeti community into an uproar over what else might be out there in the big world beyond their snowy village.</beq_overview>
-		<beq_rating />
+		<beq_rating>PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57241326</beq_avs>
 		<beq_theMovieDB>446894</beq_theMovieDB>
@@ -1440,9 +1439,9 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
 			<genre id="16">Animation</genre>
 			<genre id="10751">Family</genre>
-			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

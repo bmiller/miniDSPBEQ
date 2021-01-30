@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/s1wOI7i.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/TRIM1c0.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-1.5</beq_gain>
@@ -1433,16 +1432,16 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56898642</beq_avs>
 		<beq_theMovieDB>584</beq_theMovieDB>
-		<beq_poster>/osgUUpwst1TEaSDTBrrTE6KuCbW.jpg</beq_poster>
+		<beq_poster>/qC167IbZpSrwX7wWgg3BeDQbTDr.jpg</beq_poster>
 		<beq_runtime>107</beq_runtime>
 		<beq_collection id="9485">The Fast and the Furious Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>DTS-X</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="80">Crime</genre>
 			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

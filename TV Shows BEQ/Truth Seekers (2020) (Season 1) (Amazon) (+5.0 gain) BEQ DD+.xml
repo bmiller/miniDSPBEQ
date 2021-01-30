@@ -1422,24 +1422,27 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/AhKuSUa.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+5.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Amazon</beq_source>
 		<beq_overview>A ghost-hunting duo team up to uncover and film paranormal sightings across the U.K. and share their adventures on an online channel. Their supernatural experiences grow more frequent, terrifying, and even deadly as the pair begin to uncover a conspiracy that could threaten the entire human race.</beq_overview>
-		<beq_rating />
+		<beq_rating>TV-MA</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60218809</beq_avs>
 		<beq_theMovieDB>92209</beq_theMovieDB>
 		<beq_poster>/zRva67XCxkCRt4WuobrVVysdufU.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="35">Comedy</genre>
 		</beq_genres>
+		<beq_season id="92209">
+			<number>1</number>
+			<poster>/zRva67XCxkCRt4WuobrVVysdufU.jpg</poster>
+			<episodes count="8">1,2,3,4,5,6,7,8</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

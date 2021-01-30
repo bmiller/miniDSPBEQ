@@ -1422,19 +1422,17 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/rWBzbQp.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+17.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>When the head of a criminal organisation, Finn Wallace is assassinated, the sudden power vacuum his death creates threatens the fragile peace between the intricate web of gangs operating on the streets of the city. Now it’s up to the grieving, volatile and impulsive Sean Wallace to restore control and find those responsible for killing his father.</beq_overview>
-		<beq_rating />
+		<beq_rating>TV-MA</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59592374</beq_avs>
 		<beq_theMovieDB>85021</beq_theMovieDB>
 		<beq_poster>/fVgwa6wGw9ddGM5O7mqrrwB6gHK.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
 			<audioType>DD 5.1</audioType>
 		</beq_audioTypes>
@@ -1442,5 +1440,10 @@
 			<genre id="18">Drama</genre>
 			<genre id="80">Crime</genre>
 		</beq_genres>
+		<beq_season id="85021">
+			<number>1</number>
+			<poster>/fVgwa6wGw9ddGM5O7mqrrwB6gHK.jpg</poster>
+			<episodes count="9">1,2,3,4,5,6,7,8,9</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

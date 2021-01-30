@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/yYGu5kU.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/cCtcawe.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1433,15 +1432,15 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56737508</beq_avs>
 		<beq_theMovieDB>259316</beq_theMovieDB>
-		<beq_poster>/h6NYfVUyM6CDURtZSnBpz647Ldd.jpg</beq_poster>
+		<beq_poster>/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg</beq_poster>
 		<beq_runtime>133</beq_runtime>
 		<beq_collection id="435259">Fantastic Beasts Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
 			<genre id="14">Fantasy</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

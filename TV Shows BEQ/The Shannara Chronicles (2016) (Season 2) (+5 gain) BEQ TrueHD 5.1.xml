@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/IPfqMUJ.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>2</beq_season>
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+5</beq_gain>
@@ -1434,7 +1433,6 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59354894</beq_avs>
 		<beq_theMovieDB>64122</beq_theMovieDB>
 		<beq_poster>/bYq2R7V9r69pWGOqXOnaJtmmtQ8.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
 			<audioType>TrueHD 5.1</audioType>
 		</beq_audioTypes>
@@ -1442,5 +1440,10 @@
 			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
 			<genre id="10759">Action &amp; Adventure</genre>
 		</beq_genres>
+		<beq_season id="64122">
+			<number>2</number>
+			<poster>/AixzKZEWSSvUYjAxTwvenTyBXFB.jpg</poster>
+			<episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

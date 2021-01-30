@@ -1422,13 +1422,12 @@
 		<beq_spectrumURL>https://i.imgur.com/guWQLMQ.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/ci18NmQ.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-2.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>The Dark Knight of Gotham City confronts a dastardly duo: Two-Face and the Riddler. Formerly District Attorney Harvey Dent, Two-Face believes Batman caused the courtroom accident which left him disfigured on one side. And Edward Nygma, computer-genius and former employee of millionaire Bruce Wayne, is out to get the philanthropist; as The Riddler. Former circus acrobat Dick Grayson, his family killed by Two-Face, becomes Wayne&apos;s ward and Batman&apos;s new partner Robin.</beq_overview>
+		<beq_overview>The Dark Knight of Gotham City confronts a dastardly duo: Two-Face and the Riddler. Formerly District Attorney Harvey Dent, Two-Face believes Batman caused the courtroom accident which left him disfigured on one side. And Edward Nygma, computer-genius and former employee of millionaire Bruce Wayne, is out to get the philanthropist—as The Riddler. Former circus acrobat Dick Grayson, his family killed by Two-Face, becomes Wayne&apos;s ward and Batman&apos;s new partner, Robin.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58150462</beq_avs>
@@ -1440,9 +1439,9 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="80">Crime</genre>
 			<genre id="14">Fantasy</genre>
 			<genre id="28">Action</genre>
-			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

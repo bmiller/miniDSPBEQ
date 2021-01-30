@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/Rc4EnaC.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/GNYZzKc.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+0.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Set in a near future, technology-reliant society that pits man against killing machines. Against this backdrop an elite army unit is helicoptered to a remote, off-the-grid island training facility. What starts out as a simple training exercise for Captain Bukes and his tight-knit unit, descends into a terrifying battle to the death, as the marines discover the island is overrun by an enemy that transcends the human concept of evil.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59871092</beq_avs>
 		<beq_theMovieDB>384798</beq_theMovieDB>
@@ -1439,9 +1438,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="27">Horror</genre>
-			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

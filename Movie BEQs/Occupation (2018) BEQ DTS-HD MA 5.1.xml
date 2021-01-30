@@ -1422,26 +1422,26 @@
 		<beq_spectrumURL>https://i.imgur.com/dJWl8oU.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/503346/moviethumb/occupation-5ad5a7ba35f42.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>A small group of town residents have to band together after a devastating ground invasion. As they struggle to survive, they realize they must stay one step ahead of their attackers, and work together for a chance to strike back.</beq_overview>
+		<beq_overview>Town residents must band together after a devastating alien invasion. As they struggle to survive, they realize they must stay one step ahead of their attackers and work together for a chance to strike back.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56835808</beq_avs>
 		<beq_theMovieDB>503346</beq_theMovieDB>
-		<beq_poster>/mVitHYL2bAea3CMYQg4iWLvVL9w.jpg</beq_poster>
+		<beq_poster>/hr7MFQAmP30IJZP2FXKhPKbe8IW.jpg</beq_poster>
 		<beq_runtime>119</beq_runtime>
+		<beq_collection id="788750">Occupation Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
-			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

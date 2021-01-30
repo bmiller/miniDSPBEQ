@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/yB45u0c.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/WQ1lmHb.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1435,13 +1434,14 @@
 		<beq_theMovieDB>489999</beq_theMovieDB>
 		<beq_poster>/pk9R56ZFlofbBzfwBnHlDyg5DMs.jpg</beq_poster>
 		<beq_runtime>103</beq_runtime>
+		<beq_collection id="768464">Searching Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
-			<genre id="18">Drama</genre>
 			<genre id="9648">Mystery</genre>
+			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

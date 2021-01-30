@@ -1422,13 +1422,12 @@
 		<beq_spectrumURL>https://i.imgur.com/7UWznNJ.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/6qUIQ5B.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>Prehistoric family the Croods live in a particularly dangerous moment in time. Patriarch Grug, his mate, Ugga , teenage daughter Eep, son Thunk and feisty Gran gather food by day and huddle together in a cave at night. When a more evolved caveman named Guy arrives on the scene, Grug is distrustful, but it soon becomes apparent that Guy is correct about the impending destruction of their world.</beq_overview>
+		<beq_overview>The prehistoric Croods family live in a particularly dangerous moment in time. Patriarch Grug, his mate Ugga, teenage daughter Eep, son Thunk, and feisty Gran gather food by day and huddle together in a cave at night. When a more evolved caveman named Guy arrives on the scene, Grug is distrustful, but it soon becomes apparent that Guy is correct about the impending destruction of their world.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58486034</beq_avs>
@@ -1440,12 +1439,12 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
-			<genre id="14">Fantasy</genre>
-			<genre id="16">Animation</genre>
-			<genre id="35">Comedy</genre>
 			<genre id="10751">Family</genre>
+			<genre id="12">Adventure</genre>
 			<genre id="28">Action</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="16">Animation</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

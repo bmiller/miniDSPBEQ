@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/iew6lVX.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+5.0</beq_gain>
@@ -1434,7 +1433,6 @@
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59292632</beq_avs>
 		<beq_theMovieDB>69740</beq_theMovieDB>
 		<beq_poster>/oy7Peo5iFIt9sNM59lN6csbJeX2.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
 			<audioType>DD 5.1</audioType>
 		</beq_audioTypes>
@@ -1442,5 +1440,10 @@
 			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
+		<beq_season id="69740">
+			<number>1</number>
+			<poster>/x7M93pIs7spQRLjtcNra1dDemxx.jpg</poster>
+			<episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

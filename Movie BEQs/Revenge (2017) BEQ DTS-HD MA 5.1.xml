@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/59tHez3.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Jen&apos;s romantic getaway with her wealthy (married) boyfriend is disrupted when his friends arrive for an impromptu hunting trip. Tension mounts at the house until the situation culminates in an unexpected way.</beq_overview>
-		<beq_rating />
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56884348</beq_avs>
 		<beq_theMovieDB>467938</beq_theMovieDB>
@@ -1439,9 +1438,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
 			<genre id="27">Horror</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

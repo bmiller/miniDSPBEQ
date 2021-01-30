@@ -1422,13 +1422,12 @@
 		<beq_spectrumURL>https://i.imgur.com/0PlIjC0.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/IOGJmVo.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>When Bella Swan moves to a small town in the Pacific Northwest to live with her father, she meets the reclusive Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward&apos;s repeated cautions, Bella can&apos;t help but fall in love with him, a fatal move that endangers her own life when a coven of bloodsuckers try to challenge the Cullen clan.</beq_overview>
+		<beq_overview>When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward&apos;s repeated cautions, Bella can&apos;t stay away from him, a fatal move that endangers her own life.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57019920</beq_avs>
@@ -1440,8 +1439,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
 			<genre id="18">Drama</genre>
+			<genre id="14">Fantasy</genre>
 			<genre id="10749">Romance</genre>
 		</beq_genres>
 	</beq_metadata>

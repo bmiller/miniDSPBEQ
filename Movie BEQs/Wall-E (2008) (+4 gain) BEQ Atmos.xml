@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/J6WBXps.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/nMRRuOw.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+4</beq_gain>
@@ -1433,15 +1432,15 @@
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57711596</beq_avs>
 		<beq_theMovieDB>10681</beq_theMovieDB>
-		<beq_poster>/Agc6lw8pb6BIGVeguvdjDT0p9Mb.jpg</beq_poster>
+		<beq_poster>/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg</beq_poster>
 		<beq_runtime>98</beq_runtime>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="10751">Family</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="16">Animation</genre>
-			<genre id="10751">Family</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

@@ -1422,26 +1422,25 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/yKW6sgB.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>When Ellen, the matriarch of the Graham family, passes away, her daughter’s family begins to unravel cryptic and increasingly terrifying secrets about their ancestry.</beq_overview>
+		<beq_overview>When Ellen, the matriarch of the Graham family, passes away, her daughter&apos;s family begins to unravel cryptic and increasingly terrifying secrets about their ancestry.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56733902</beq_avs>
 		<beq_theMovieDB>493922</beq_theMovieDB>
-		<beq_poster>/lHV8HHlhwNup2VbpiACtlKzaGIQ.jpg</beq_poster>
+		<beq_poster>/4GFPuL14eXi66V96xBWY73Y9PfR.jpg</beq_poster>
 		<beq_runtime>127</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="9648">Mystery</genre>
-			<genre id="27">Horror</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

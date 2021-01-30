@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/XXlLhRR.png</beq_spectrumURL>
 		<beq_pvaURL>https://fanart.tv/fanart/movies/137094/moviethumb/jack-ryan-shadow-recruit-536e67e50e18f.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1440,8 +1439,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="53">Thriller</genre>
-			<genre id="18">Drama</genre>
 			<genre id="28">Action</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

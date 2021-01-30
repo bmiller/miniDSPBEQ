@@ -1422,25 +1422,24 @@
 		<beq_spectrumURL>https://i.imgur.com/JbO0n29.jpg</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/P5ddiBa.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>After working as a drug courier and getting into a brutal shootout with police, a former boxer finds himself at the mercy of his enemies as they force him to instigate violent acts that turn the prison he resides in into a battleground.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56702620</beq_avs>
 		<beq_theMovieDB>398175</beq_theMovieDB>
-		<beq_poster>/lGgIQ10NJ3d0X0uFbbUN4pRrMFZ.jpg</beq_poster>
+		<beq_poster>/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg</beq_poster>
 		<beq_runtime>132</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>

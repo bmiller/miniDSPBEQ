@@ -1422,26 +1422,30 @@
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/HZb1M6V.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season>1</beq_season>
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+1.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
 		<beq_overview>In a brewing war between the gods of Olympus and the titans, Heron, a commoner living on the outskirts of ancient Greece, becomes mankind&apos;s best hope of surviving an evil demon army, when he discovers the secrets of his past.</beq_overview>
-		<beq_rating />
+		<beq_rating>TV-MA</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60203785</beq_avs>
 		<beq_theMovieDB>111111</beq_theMovieDB>
 		<beq_poster>/zXRR5tgGLtKrRmuN4ko9SLAdCiZ.jpg</beq_poster>
-		<beq_runtime />
 		<beq_audioTypes>
-			<audioType>DD+</audioType>
 			<audioType>DTS-HD MA 7.1</audioType>
+			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
 			<genre id="16">Animation</genre>
 			<genre id="10759">Action &amp; Adventure</genre>
 		</beq_genres>
+		<beq_season id="111111">
+			<number>1</number>
+			<poster>/xVqqHhoMRPDJbXXjIjr8uveRFIn.jpg</poster>
+			<episodes count="8">1,2,3,4,5,6,7,8</episodes>
+		</beq_season>
 	</beq_metadata>
 </setting>

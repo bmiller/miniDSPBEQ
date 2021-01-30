@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/bzteZvc.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/NJcfl6D.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Billy Zane, Randy Couture and Ed Morrone star in this action-packed thriller about a mercenary hired to protect a couple hiding out in Central America from a ruthless crime family. In his final assignment as a protector, it quickly turns deadly as a group of mafia henchman descend on the tranquil Costa Rican village. Soon the agent learns that the job is far more than it seems and it will take all of his experience to get them out alive.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59495618</beq_avs>
 		<beq_theMovieDB>675431</beq_theMovieDB>

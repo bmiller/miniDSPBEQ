@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/0amAULL.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/r7u6BHB.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+8.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>A railroad worker unwittingly finds himself on the wrong side of a group of corrupt lawmen in the Old West. When tragedy forces him to seek justice, he soon sets out on a bloody quest for revenge to wipe out his ruthless enemies.</beq_overview>
-		<beq_rating />
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59963044</beq_avs>
 		<beq_theMovieDB>605347</beq_theMovieDB>

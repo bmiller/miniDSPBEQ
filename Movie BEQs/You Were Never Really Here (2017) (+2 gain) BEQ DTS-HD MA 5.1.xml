@@ -1422,13 +1422,12 @@
 		<beq_spectrumURL>https://i.imgur.com/ZgTuzJQ.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/tJQb1jd.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+2</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>A traumatised veteran, unafraid of violence, tracks down missing girls for a living. When a job spins out of control, Joe&apos;s nightmares overtake him as a conspiracy is uncovered leading to what may be his death trip or his awakening.</beq_overview>
+		<beq_overview>A traumatised veteran, unafraid of violence, tracks down missing girls for a living. When a job spins out of control, his nightmares overtake him as a conspiracy is uncovered leading to what may be his death trip or his awakening.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58678218</beq_avs>
@@ -1439,8 +1438,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
 			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

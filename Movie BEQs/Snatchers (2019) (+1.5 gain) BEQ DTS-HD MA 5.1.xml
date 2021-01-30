@@ -1422,14 +1422,13 @@
 		<beq_spectrumURL>https://i.imgur.com/AzaLpZf.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/0H0r80R.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+1.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>Sara’s one of the cool kids... but she’s totally terrified of losing her status. She’d be a lot more secure if she could just win back her super-hot ex, Skyler, but he’s not interested unless they move to the next level...  She decides to take the plunge -- but something about Skyler changed on his summer trip to Mexico... something in his nards.  Sara wakes the next morning only to find that she’s nine-months pregnant. Desperate to keep this under wraps, she turns to the only person she can trust: her nerdy ex-best friend, Hayley.  But after a trip to the clinic results in Sara birthing something other-worldly, the girls realize their night is only just getting started...</beq_overview>
-		<beq_rating />
+		<beq_overview>After status-obsessed teen Sara has sex for the first time, she wakes up the next day nine months pregnant-with an alien.</beq_overview>
+		<beq_rating></beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59257566</beq_avs>
 		<beq_theMovieDB>580632</beq_theMovieDB>
@@ -1439,9 +1438,9 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="27">Horror</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

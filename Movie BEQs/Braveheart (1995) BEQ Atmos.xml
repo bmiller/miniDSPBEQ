@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/na5ZwxP.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/78U3t9A.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
@@ -1439,8 +1438,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="36">History</genre>
+			<genre id="28">Action</genre>
 			<genre id="18">Drama</genre>
 			<genre id="10752">War</genre>
 		</beq_genres>

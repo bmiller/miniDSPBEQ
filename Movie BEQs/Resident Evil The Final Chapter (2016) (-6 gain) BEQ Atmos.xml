@@ -1422,13 +1422,12 @@
 		<beq_spectrumURL>https://i.imgur.com/9cINhcm.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/1EPMvE1.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>-6</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>Picking up immediately after the events in Resident Evil: Retribution, Alice (Milla Jovovich) is the only survivor of what was meant to be humanity&apos;s final stand against the undead. Now, she must return to where the nightmare began - The Hive in Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the only remaining survivors of the apocalypse.</beq_overview>
+		<beq_overview>Picking up immediately after the events in Resident Evil: Retribution, Alice is the only survivor of what was meant to be humanity&apos;s final stand against the undead. Now, she must return to where the nightmare began - The Hive in Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the only remaining survivors of the apocalypse.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56922044</beq_avs>
@@ -1441,8 +1440,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="878">Science Fiction</genre>
-			<genre id="28">Action</genre>
 			<genre id="27">Horror</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

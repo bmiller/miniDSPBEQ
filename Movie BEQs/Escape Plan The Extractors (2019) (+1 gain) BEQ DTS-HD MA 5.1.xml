@@ -1422,7 +1422,6 @@
 		<beq_spectrumURL>https://i.imgur.com/4NsaCjS.png</beq_spectrumURL>
 		<beq_pvaURL>https://i.imgur.com/DSqIbof.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_season />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+1</beq_gain>
@@ -1440,8 +1439,8 @@
 			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
