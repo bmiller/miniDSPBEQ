@@ -1438,14 +1438,14 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="9648">Mystery</genre>
-			<genre id="35">Comedy</genre>
 			<genre id="18">Drama</genre>
+			<genre id="35">Comedy</genre>
 			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
 		</beq_genres>
 		<beq_season id="85271">
 			<number>1</number>
 			<poster>/glKDfE6btIRcVB5zrjspRIs4r52.jpg</poster>
-			<episodes count="9">1,2,3,4</episodes>
+			<episodes count="9">1,2,3,4,5</episodes>
 		</beq_season>
 	</beq_metadata>
 </setting>
