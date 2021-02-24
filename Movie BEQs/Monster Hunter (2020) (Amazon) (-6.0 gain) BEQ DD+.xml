@@ -1436,6 +1436,7 @@
 		<beq_runtime>104</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DD+</audioType>
+			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="14">Fantasy</genre>

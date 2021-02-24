@@ -1,4 +1,4 @@
-<setting version="1.8a">
+<setting version="1.15">
 	<timestamp>0</timestamp>
 	<dspversion>100</dspversion>
 	<master_mute>0</master_mute>
@@ -802,33 +802,42 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>17</freq>
-		<q>0.8</q>
-		<boost>4.9</boost>
+		<freq>10</freq>
+		<q>1.0</q>
+		<boost>2.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001968593745083,-1.9987915797014553,0.9985963607387923,1.9987919333308348,-0.9987928664839208,</dec>
-		<hex>3f800673,bfffd867,3f7fa403,3fffd86a,bf7fb0e4,</hex>
+		<dec>1.0000471521693883,-1.9993906947975142,0.9993440371494533,1.999390756638838,-0.9993911274775176,</dec>
+		<hex>3f80018c,bfffec09,3f7fd503,3fffec09,bf7fd819,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>17</freq>
+		<freq>18</freq>
 		<q>0.8</q>
-		<boost>4.9</boost>
+		<boost>4.7</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001968593745083,-1.9987915797014553,0.9985963607387923,1.9987919333308348,-0.9987928664839208,</dec>
-		<hex>3f800673,bfffd867,3f7fa403,3fffd86a,bf7fb0e4,</hex>
+		<dec>1.0001998812556108,-1.9987130921494365,0.9985150288484552,1.9987134720081314,-0.9987145302453707,</dec>
+		<hex>3f80068d,bfffd5d5,3f7f9eae,3fffd5d8,bf7fabc1,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>17</freq>
+		<freq>18</freq>
 		<q>0.8</q>
-		<boost>4.9</boost>
+		<boost>4.7</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001968593745083,-1.9987915797014553,0.9985963607387923,1.9987919333308348,-0.9987928664839208,</dec>
-		<hex>3f800673,bfffd867,3f7fa403,3fffd86a,bf7fb0e4,</hex>
+		<dec>1.0001998812556108,-1.9987130921494365,0.9985150288484552,1.9987134720081314,-0.9987145302453707,</dec>
+		<hex>3f80068d,bfffd5d5,3f7f9eae,3fffd5d8,bf7fabc1,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
+		<freq>18</freq>
+		<q>0.8</q>
+		<boost>4.7</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001998812556108,-1.9987130921494365,0.9985150288484552,1.9987134720081314,-0.9987145302453707,</dec>
+		<hex>3f80068d,bfffd5d5,3f7f9eae,3fffd5d8,bf7fabc1,</hex>
+	</filter>
+	<filter addr="8300" name="PEQ_1_5">
 		<freq>50</freq>
 		<q>1.0</q>
 		<boost>0.2</boost>
@@ -836,15 +845,6 @@
 		<bypass>0</bypass>
 		<dec>1.000037615881358,-1.996759505682902,0.9967325817038565,1.996759505682902,-0.9967701975852145,</dec>
 		<hex>3f80013c,bfff95d1,3f7f29de,3fff95d1,bf7f2c55,</hex>
-	</filter>
-	<filter addr="8300" name="PEQ_1_5">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>1000</freq>
@@ -892,33 +892,42 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>17</freq>
-		<q>0.8</q>
-		<boost>4.9</boost>
+		<freq>10</freq>
+		<q>1.0</q>
+		<boost>2.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001968593745083,-1.9987915797014553,0.9985963607387923,1.9987919333308348,-0.9987928664839208,</dec>
-		<hex>3f800673,bfffd867,3f7fa403,3fffd86a,bf7fb0e4,</hex>
+		<dec>1.0000471521693883,-1.9993906947975142,0.9993440371494533,1.999390756638838,-0.9993911274775176,</dec>
+		<hex>3f80018c,bfffec09,3f7fd503,3fffec09,bf7fd819,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>17</freq>
+		<freq>18</freq>
 		<q>0.8</q>
-		<boost>4.9</boost>
+		<boost>4.7</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001968593745083,-1.9987915797014553,0.9985963607387923,1.9987919333308348,-0.9987928664839208,</dec>
-		<hex>3f800673,bfffd867,3f7fa403,3fffd86a,bf7fb0e4,</hex>
+		<dec>1.0001998812556108,-1.9987130921494365,0.9985150288484552,1.9987134720081314,-0.9987145302453707,</dec>
+		<hex>3f80068d,bfffd5d5,3f7f9eae,3fffd5d8,bf7fabc1,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>17</freq>
+		<freq>18</freq>
 		<q>0.8</q>
-		<boost>4.9</boost>
+		<boost>4.7</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001968593745083,-1.9987915797014553,0.9985963607387923,1.9987919333308348,-0.9987928664839208,</dec>
-		<hex>3f800673,bfffd867,3f7fa403,3fffd86a,bf7fb0e4,</hex>
+		<dec>1.0001998812556108,-1.9987130921494365,0.9985150288484552,1.9987134720081314,-0.9987145302453707,</dec>
+		<hex>3f80068d,bfffd5d5,3f7f9eae,3fffd5d8,bf7fabc1,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
+		<freq>18</freq>
+		<q>0.8</q>
+		<boost>4.7</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001998812556108,-1.9987130921494365,0.9985150288484552,1.9987134720081314,-0.9987145302453707,</dec>
+		<hex>3f80068d,bfffd5d5,3f7f9eae,3fffd5d8,bf7fabc1,</hex>
+	</filter>
+	<filter addr="8350" name="PEQ_2_5">
 		<freq>50</freq>
 		<q>1.0</q>
 		<boost>0.2</boost>
@@ -926,15 +935,6 @@
 		<bypass>0</bypass>
 		<dec>1.000037615881358,-1.996759505682902,0.9967325817038565,1.996759505682902,-0.9967701975852145,</dec>
 		<hex>3f80013c,bfff95d1,3f7f29de,3fff95d1,bf7f2c55,</hex>
-	</filter>
-	<filter addr="8350" name="PEQ_2_5">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>1000</freq>
@@ -1415,33 +1415,32 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Bright</beq_title>
+		<beq_title>Monster Hunter</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>bright</beq_sortTitle>
-		<beq_year>2017</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/BGrVe6b.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/EYFBVdY.jpg</beq_pvaURL>
+		<beq_sortTitle>monster hunter</beq_sortTitle>
+		<beq_year>202</beq_year>
+		<beq_spectrumURL>https://i.imgur.com/lq49x0L.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/yeSA1Vs.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_note>+5dB dialnorm compensation</beq_note>
+		<beq_note />
 		<beq_warning />
-		<beq_gain>+4.0</beq_gain>
+		<beq_gain>-4.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.</beq_overview>
-		<beq_rating>R</beq_rating>
+		<beq_overview>A portal transports Lt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.</beq_overview>
+		<beq_rating>PG-13</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56805764</beq_avs>
-		<beq_theMovieDB>400106</beq_theMovieDB>
-		<beq_poster>/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg</beq_poster>
-		<beq_runtime>117</beq_runtime>
-		<beq_collection id="497697">Bright Collection</beq_collection>
+		<beq_avs>https://www.avsforum.com/goto/post?id=60505863</beq_avs>
+		<beq_theMovieDB>458576</beq_theMovieDB>
+		<beq_poster>/uwjaCH7PiWrkz7oWJ4fcL3xGrb0.jpg</beq_poster>
+		<beq_runtime>104</beq_runtime>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
-			<genre id="14">Fantasy</genre>
+			<genre id="12">Adventure</genre>
 			<genre id="28">Action</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
