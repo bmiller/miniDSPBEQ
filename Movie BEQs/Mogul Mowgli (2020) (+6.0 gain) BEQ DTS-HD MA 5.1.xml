@@ -802,31 +802,31 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>14</freq>
-		<q>0.7</q>
-		<boost>6.1</boost>
+		<freq>19</freq>
+		<q>1.0</q>
+		<boost>3.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002310294997188,-1.9989014932016607,0.9986716558629934,1.9989017939539762,-0.9989023846103966,</dec>
-		<hex>3f800792,bfffdc01,3f7fa8f2,3fffdc04,bf7fb811,</hex>
+		<dec>1.0001291714234835,-1.9988779033246142,0.9987506333342865,1.9988782259089783,-0.998879482173406,</dec>
+		<hex>3f80043c,bfffdb3b,3f7fae1f,3fffdb3e,bf7fb691,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>14</freq>
-		<q>0.7</q>
-		<boost>6.1</boost>
+		<freq>19</freq>
+		<q>1.0</q>
+		<boost>3.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002310294997188,-1.9989014932016607,0.9986716558629934,1.9989017939539762,-0.9989023846103966,</dec>
-		<hex>3f800792,bfffdc01,3f7fa8f2,3fffdc04,bf7fb811,</hex>
+		<dec>1.0001291714234835,-1.9988779033246142,0.9987506333342865,1.9988782259089783,-0.998879482173406,</dec>
+		<hex>3f80043c,bfffdb3b,3f7fae1f,3fffdb3e,bf7fb691,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>30</freq>
-		<q>1.7</q>
-		<boost>-0.5</boost>
+		<freq>41</freq>
+		<q>1.0</q>
+		<boost>0.5</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>0.9999667716863245,-1.9988081300233462,0.9988452113599139,1.9988081300233462,-0.9988119830462384,</dec>
-		<hex>3f7ffdd3,bfffd8f2,3f7fb452,3fffd8f2,bf7fb224,</hex>
+		<dec>1.0000771457194368,-1.9973888973052079,0.9973189430764672,1.9973888973052079,-0.9973960887959039,</dec>
+		<hex>3f800287,bfffaa70,3f7f504b,3fffaa70,bf7f555a,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>1000</freq>
@@ -892,31 +892,31 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>14</freq>
-		<q>0.7</q>
-		<boost>6.1</boost>
+		<freq>19</freq>
+		<q>1.0</q>
+		<boost>3.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002310294997188,-1.9989014932016607,0.9986716558629934,1.9989017939539762,-0.9989023846103966,</dec>
-		<hex>3f800792,bfffdc01,3f7fa8f2,3fffdc04,bf7fb811,</hex>
+		<dec>1.0001291714234835,-1.9988779033246142,0.9987506333342865,1.9988782259089783,-0.998879482173406,</dec>
+		<hex>3f80043c,bfffdb3b,3f7fae1f,3fffdb3e,bf7fb691,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>14</freq>
-		<q>0.7</q>
-		<boost>6.1</boost>
+		<freq>19</freq>
+		<q>1.0</q>
+		<boost>3.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002310294997188,-1.9989014932016607,0.9986716558629934,1.9989017939539762,-0.9989023846103966,</dec>
-		<hex>3f800792,bfffdc01,3f7fa8f2,3fffdc04,bf7fb811,</hex>
+		<dec>1.0001291714234835,-1.9988779033246142,0.9987506333342865,1.9988782259089783,-0.998879482173406,</dec>
+		<hex>3f80043c,bfffdb3b,3f7fae1f,3fffdb3e,bf7fb691,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>30</freq>
-		<q>1.7</q>
-		<boost>-0.5</boost>
+		<freq>41</freq>
+		<q>1.0</q>
+		<boost>0.5</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>0.9999667716863245,-1.9988081300233462,0.9988452113599139,1.9988081300233462,-0.9988119830462384,</dec>
-		<hex>3f7ffdd3,bfffd8f2,3f7fb452,3fffd8f2,bf7fb224,</hex>
+		<dec>1.0000771457194368,-1.9973888973052079,0.9973189430764672,1.9973888973052079,-0.9973960887959039,</dec>
+		<hex>3f800287,bfffaa70,3f7f504b,3fffaa70,bf7f555a,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>1000</freq>
@@ -1415,36 +1415,30 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Soul</beq_title>
+		<beq_title>Mogul Mowgli</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>soul</beq_sortTitle>
+		<beq_sortTitle>mogul mowgli</beq_sortTitle>
 		<beq_year>2020</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/xL0pcJA.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/MKshjfj.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/Pr6gf6x.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/bBfXCDP.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_note>+4dB dialnorm compensation</beq_note>
+		<beq_note />
 		<beq_warning />
-		<beq_gain>+5.0</beq_gain>
+		<beq_gain>+6.0</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Disney+</beq_source>
-		<beq_overview>Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.</beq_overview>
-		<beq_rating>PG</beq_rating>
+		<beq_source>Disc</beq_source>
+		<beq_overview>Zed, a young British rapper, is about to start his first world tour, when a crippling illness strikes him down, and he is forced to move back in with his family. He tries to find himself between an international music career and Pakistani family traditions.</beq_overview>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60361192</beq_avs>
-		<beq_theMovieDB>508442</beq_theMovieDB>
-		<beq_poster>/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg</beq_poster>
-		<beq_runtime>102</beq_runtime>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60591271</beq_avs>
+		<beq_theMovieDB>665764</beq_theMovieDB>
+		<beq_poster>/n65YDWlWUoNFOYGdFIAs3TlyWo3.jpg</beq_poster>
+		<beq_runtime>89</beq_runtime>
 		<beq_audioTypes>
-			<audioType>Atmos</audioType>
-			<audioType>DD+ Atmos</audioType>
+			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="18">Drama</genre>
-			<genre id="10402">Music</genre>
-			<genre id="16">Animation</genre>
-			<genre id="35">Comedy</genre>
-			<genre id="14">Fantasy</genre>
-			<genre id="10751">Family</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
