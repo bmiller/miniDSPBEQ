@@ -1415,9 +1415,9 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>The Falcon and the winter soldier</beq_title>
+		<beq_title>The Falcon and the Winter Soldier</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle></beq_sortTitle>
+		<beq_sortTitle>falcon and the winter soldier</beq_sortTitle>
 		<beq_year>2021</beq_year>
 		<beq_spectrumURL />
 		<beq_pvaURL>https://i.imgur.com/qzpHbNU.jpg</beq_pvaURL>
@@ -1427,20 +1427,24 @@
 		<beq_gain />
 		<beq_language>English</beq_language>
 		<beq_source>Disney+</beq_source>
-		<beq_overview />
-		<beq_rating />
+		<beq_overview>Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.</beq_overview>
+		<beq_rating>TV-14</beq_rating>
 		<beq_author>aron7awol</beq_author>
 		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60591401</beq_avs>
-		<beq_theMovieDB />
-		<beq_poster />
+		<beq_theMovieDB>88396</beq_theMovieDB>
+		<beq_poster>/6kbAMLteGO8yyewYau6bJ683sw7.jpg</beq_poster>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
-		<beq_genres />
-		<beq_season id="">
+		<beq_genres>
+			<genre id="10759">Action &amp; Adventure</genre>
+			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
+			<genre id="18">Drama</genre>
+		</beq_genres>
+		<beq_season id="88396">
 			<number>1</number>
-			<poster />
-			<episodes count=""></episodes>
+			<poster>/6kbAMLteGO8yyewYau6bJ683sw7.jpg</poster>
+			<episodes count="6">1</episodes>
 		</beq_season>
 	</beq_metadata>
 </setting>
