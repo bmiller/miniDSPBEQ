@@ -802,58 +802,58 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>15</freq>
+		<freq>17</freq>
 		<q>0.8</q>
-		<boost>5.8</boost>
+		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.000205872871601,-1.9989610133983966,0.9987564856879987,1.99896134103838,-0.9989620309196163,</dec>
-		<hex>3f8006bf,bfffddf4,3f7fae81,3fffddf7,bf7fbbfa,</hex>
+		<dec>1.0002414566341193,-1.9988291525038575,0.998589443546341,1.9988295883855578,-0.9988304642987598,</dec>
+		<hex>3f8007e9,bfffd9a2,3f7fa38f,3fffd9a6,bf7fb35a,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>15</freq>
+		<freq>17</freq>
 		<q>0.8</q>
-		<boost>5.8</boost>
+		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.000205872871601,-1.9989610133983966,0.9987564856879987,1.99896134103838,-0.9989620309196163,</dec>
-		<hex>3f8006bf,bfffddf4,3f7fae81,3fffddf7,bf7fbbfa,</hex>
+		<dec>1.0002414566341193,-1.9988291525038575,0.998589443546341,1.9988295883855578,-0.9988304642987598,</dec>
+		<hex>3f8007e9,bfffd9a2,3f7fa38f,3fffd9a6,bf7fb35a,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>15</freq>
+		<freq>17</freq>
 		<q>0.8</q>
-		<boost>5.8</boost>
+		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.000205872871601,-1.9989610133983966,0.9987564856879987,1.99896134103838,-0.9989620309196163,</dec>
-		<hex>3f8006bf,bfffddf4,3f7fae81,3fffddf7,bf7fbbfa,</hex>
+		<dec>1.0002414566341193,-1.9988291525038575,0.998589443546341,1.9988295883855578,-0.9988304642987598,</dec>
+		<hex>3f8007e9,bfffd9a2,3f7fa38f,3fffd9a6,bf7fb35a,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>15</freq>
-		<q>0.8</q>
-		<boost>5.8</boost>
+		<freq>30</freq>
+		<q>0.9</q>
+		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.000205872871601,-1.9989610133983966,0.9987564856879987,1.99896134103838,-0.9989620309196163,</dec>
-		<hex>3f8006bf,bfffddf4,3f7fae81,3fffddf7,bf7fbbfa,</hex>
+		<dec>1.0003789662403613,-1.9981619606448373,0.9977884351866851,1.9981633176106497,-0.9981660444612337,</dec>
+		<hex>3f800c6b,bfffc3c5,3f7f6f10,3fffc3d1,bf7f87cf,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
-		<freq>15</freq>
-		<q>0.8</q>
-		<boost>5.8</boost>
+		<freq>30</freq>
+		<q>0.9</q>
+		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.000205872871601,-1.9989610133983966,0.9987564856879987,1.99896134103838,-0.9989620309196163,</dec>
-		<hex>3f8006bf,bfffddf4,3f7fae81,3fffddf7,bf7fbbfa,</hex>
+		<dec>1.0003789662403613,-1.9981619606448373,0.9977884351866851,1.9981633176106497,-0.9981660444612337,</dec>
+		<hex>3f800c6b,bfffc3c5,3f7f6f10,3fffc3d1,bf7f87cf,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
-		<freq>46</freq>
+		<freq>65</freq>
 		<q>1.0</q>
-		<boost>0.4</boost>
+		<boost>0.7</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0000692279487637,-1.9970531140586474,0.9969929370604765,1.9970531140586474,-0.9970621650092403,</dec>
-		<hex>3f800245,bfff9f70,3f7f3aee,3fff9f70,bf7f3f77,</hex>
+		<dec>1.0001711218775704,-1.995904059907825,0.9957509996595707,1.995904059907825,-0.9959221215371413,</dec>
+		<hex>3f80059b,bfff79c9,3f7ee98a,3fff79c9,bf7ef4c1,</hex>
 	</filter>
 	<filter addr="8310" name="PEQ_1_7">
 		<freq>1000</freq>
@@ -892,58 +892,58 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>15</freq>
+		<freq>17</freq>
 		<q>0.8</q>
-		<boost>5.8</boost>
+		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.000205872871601,-1.9989610133983966,0.9987564856879987,1.99896134103838,-0.9989620309196163,</dec>
-		<hex>3f8006bf,bfffddf4,3f7fae81,3fffddf7,bf7fbbfa,</hex>
+		<dec>1.0002414566341193,-1.9988291525038575,0.998589443546341,1.9988295883855578,-0.9988304642987598,</dec>
+		<hex>3f8007e9,bfffd9a2,3f7fa38f,3fffd9a6,bf7fb35a,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>15</freq>
+		<freq>17</freq>
 		<q>0.8</q>
-		<boost>5.8</boost>
+		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.000205872871601,-1.9989610133983966,0.9987564856879987,1.99896134103838,-0.9989620309196163,</dec>
-		<hex>3f8006bf,bfffddf4,3f7fae81,3fffddf7,bf7fbbfa,</hex>
+		<dec>1.0002414566341193,-1.9988291525038575,0.998589443546341,1.9988295883855578,-0.9988304642987598,</dec>
+		<hex>3f8007e9,bfffd9a2,3f7fa38f,3fffd9a6,bf7fb35a,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>15</freq>
+		<freq>17</freq>
 		<q>0.8</q>
-		<boost>5.8</boost>
+		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.000205872871601,-1.9989610133983966,0.9987564856879987,1.99896134103838,-0.9989620309196163,</dec>
-		<hex>3f8006bf,bfffddf4,3f7fae81,3fffddf7,bf7fbbfa,</hex>
+		<dec>1.0002414566341193,-1.9988291525038575,0.998589443546341,1.9988295883855578,-0.9988304642987598,</dec>
+		<hex>3f8007e9,bfffd9a2,3f7fa38f,3fffd9a6,bf7fb35a,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>15</freq>
-		<q>0.8</q>
-		<boost>5.8</boost>
+		<freq>30</freq>
+		<q>0.9</q>
+		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.000205872871601,-1.9989610133983966,0.9987564856879987,1.99896134103838,-0.9989620309196163,</dec>
-		<hex>3f8006bf,bfffddf4,3f7fae81,3fffddf7,bf7fbbfa,</hex>
+		<dec>1.0003789662403613,-1.9981619606448373,0.9977884351866851,1.9981633176106497,-0.9981660444612337,</dec>
+		<hex>3f800c6b,bfffc3c5,3f7f6f10,3fffc3d1,bf7f87cf,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
-		<freq>15</freq>
-		<q>0.8</q>
-		<boost>5.8</boost>
+		<freq>30</freq>
+		<q>0.9</q>
+		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.000205872871601,-1.9989610133983966,0.9987564856879987,1.99896134103838,-0.9989620309196163,</dec>
-		<hex>3f8006bf,bfffddf4,3f7fae81,3fffddf7,bf7fbbfa,</hex>
+		<dec>1.0003789662403613,-1.9981619606448373,0.9977884351866851,1.9981633176106497,-0.9981660444612337,</dec>
+		<hex>3f800c6b,bfffc3c5,3f7f6f10,3fffc3d1,bf7f87cf,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
-		<freq>46</freq>
+		<freq>65</freq>
 		<q>1.0</q>
-		<boost>0.4</boost>
+		<boost>0.7</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0000692279487637,-1.9970531140586474,0.9969929370604765,1.9970531140586474,-0.9970621650092403,</dec>
-		<hex>3f800245,bfff9f70,3f7f3aee,3fff9f70,bf7f3f77,</hex>
+		<dec>1.0001711218775704,-1.995904059907825,0.9957509996595707,1.995904059907825,-0.9959221215371413,</dec>
+		<hex>3f80059b,bfff79c9,3f7ee98a,3fff79c9,bf7ef4c1,</hex>
 	</filter>
 	<filter addr="8360" name="PEQ_2_7">
 		<freq>1000</freq>
@@ -1415,36 +1415,31 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>The Falcon and the Winter Soldier</beq_title>
+		<beq_title>They Live</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>falcon and the winter soldier</beq_sortTitle>
-		<beq_year>2021</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/qzpHbNU.jpg</beq_pvaURL>
+		<beq_sortTitle>they live</beq_sortTitle>
+		<beq_year>1988</beq_year>
+		<beq_spectrumURL>https://i.imgur.com/WeJcFaM.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/IjMXrX5.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_note>+4dB dialnorm compensation</beq_note>
+		<beq_note />
 		<beq_warning />
-		<beq_gain />
+		<beq_gain>+4.0</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Disney+</beq_source>
-		<beq_overview>Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.</beq_overview>
-		<beq_rating>TV-14</beq_rating>
+		<beq_source>Disc</beq_source>
+		<beq_overview>Nada, a wanderer without meaning in his life, discovers a pair of sunglasses capable of showing the world the way it truly is. As he walks the streets of Los Angeles, Nada notices that both the media and the government are comprised of subliminal messages meant to keep the population subdued, and that most of the social elite are skull-faced aliens bent on world domination. With this shocking discovery, Nada fights to free humanity from the mind-controlling aliens.</beq_overview>
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60591401</beq_avs>
-		<beq_theMovieDB>88396</beq_theMovieDB>
-		<beq_poster>/6kbAMLteGO8yyewYau6bJ683sw7.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60627439</beq_avs>
+		<beq_theMovieDB>8337</beq_theMovieDB>
+		<beq_poster>/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg</beq_poster>
+		<beq_runtime>94</beq_runtime>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
-			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
-			<genre id="10759">Action &amp; Adventure</genre>
+			<genre id="28">Action</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
-		<beq_season id="88396">
-			<number>1</number>
-			<poster>/6kbAMLteGO8yyewYau6bJ683sw7.jpg</poster>
-			<episodes count="6">1,2,3</episodes>
-		</beq_season>
 	</beq_metadata>
 </setting>
