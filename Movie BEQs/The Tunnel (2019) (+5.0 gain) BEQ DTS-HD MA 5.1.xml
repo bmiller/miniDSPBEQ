@@ -1,4 +1,4 @@
-<setting version="1.8a">
+<setting version="1.15">
 	<timestamp>0</timestamp>
 	<dspversion>100</dspversion>
 	<master_mute>0</master_mute>
@@ -802,58 +802,58 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>10</freq>
-		<q>0.9</q>
-		<boost>5.8</boost>
+		<freq>24</freq>
+		<q>1.1</q>
+		<boost>7.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001220002708548,-1.9993843247712288,0.9992629224762369,1.9993844704197958,-0.9993847770985241,</dec>
-		<hex>3f8003ff,bfffebd3,3f7fcfb2,3fffebd5,bf7fd7ae,</hex>
+		<dec>1.0003110278289278,-1.9988472225938216,0.9985399921964115,1.998848320627784,-0.998849921991377,</dec>
+		<hex>3f800a31,bfffda3a,3f7fa051,3fffda43,bf7fb4a1,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>23</freq>
-		<q>1.2</q>
-		<boost>4.2</boost>
+		<freq>24</freq>
+		<q>1.1</q>
+		<boost>7.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001522073278764,-1.9988866693459666,0.9987373462594217,1.9988872222622378,-0.998889000671027,</dec>
-		<hex>3f8004fd,bfffdb85,3f7fad40,3fffdb89,bf7fb731,</hex>
+		<dec>1.0003110278289278,-1.9988472225938216,0.9985399921964115,1.998848320627784,-0.998849921991377,</dec>
+		<hex>3f800a31,bfffda3a,3f7fa051,3fffda43,bf7fb4a1,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>23</freq>
-		<q>1.2</q>
-		<boost>4.2</boost>
+		<freq>24</freq>
+		<q>1.1</q>
+		<boost>7.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001522073278764,-1.9988866693459666,0.9987373462594217,1.9988872222622378,-0.998889000671027,</dec>
-		<hex>3f8004fd,bfffdb85,3f7fad40,3fffdb89,bf7fb731,</hex>
+		<dec>1.0003110278289278,-1.9988472225938216,0.9985399921964115,1.998848320627784,-0.998849921991377,</dec>
+		<hex>3f800a31,bfffda3a,3f7fa051,3fffda43,bf7fb4a1,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>39</freq>
-		<q>0.9</q>
-		<boost>1.4</boost>
-		<type>PK</type>
+		<freq>24</freq>
+		<q>1.1</q>
+		<boost>7.5</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002285157807997,-1.997380354379731,0.997158345563501,1.997380354379731,-0.997386861344301,</dec>
-		<hex>3f80077d,bfffaa29,3f7f45c5,3fffaa29,bf7f54bf,</hex>
+		<dec>1.0003110278289278,-1.9988472225938216,0.9985399921964115,1.998848320627784,-0.998849921991377,</dec>
+		<hex>3f800a31,bfffda3a,3f7fa051,3fffda43,bf7fb4a1,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>40</freq>
+		<q>0.7</q>
+		<boost>3.8</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0008234083611052,-1.9969924879286856,0.9961759231724878,1.9969924879286856,-0.9969993315335931,</dec>
+		<hex>3f801afb,bfff9d73,3f7f0563,3fff9d73,bf7f3b59,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>60</freq>
+		<q>1.1</q>
+		<boost>3.0</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0003094719460757,-1.9967150657317303,0.9964238920112126,1.9967177377686862,-0.9967306919203321,</dec>
+		<hex>3f800a24,bfff945c,3f7f15a3,3fff9472,bf7f29be,</hex>
 	</filter>
 	<filter addr="8310" name="PEQ_1_7">
 		<freq>1000</freq>
@@ -892,58 +892,58 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>10</freq>
-		<q>0.9</q>
-		<boost>5.8</boost>
+		<freq>24</freq>
+		<q>1.1</q>
+		<boost>7.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001220002708548,-1.9993843247712288,0.9992629224762369,1.9993844704197958,-0.9993847770985241,</dec>
-		<hex>3f8003ff,bfffebd3,3f7fcfb2,3fffebd5,bf7fd7ae,</hex>
+		<dec>1.0003110278289278,-1.9988472225938216,0.9985399921964115,1.998848320627784,-0.998849921991377,</dec>
+		<hex>3f800a31,bfffda3a,3f7fa051,3fffda43,bf7fb4a1,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>23</freq>
-		<q>1.2</q>
-		<boost>4.2</boost>
+		<freq>24</freq>
+		<q>1.1</q>
+		<boost>7.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001522073278764,-1.9988866693459666,0.9987373462594217,1.9988872222622378,-0.998889000671027,</dec>
-		<hex>3f8004fd,bfffdb85,3f7fad40,3fffdb89,bf7fb731,</hex>
+		<dec>1.0003110278289278,-1.9988472225938216,0.9985399921964115,1.998848320627784,-0.998849921991377,</dec>
+		<hex>3f800a31,bfffda3a,3f7fa051,3fffda43,bf7fb4a1,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>23</freq>
-		<q>1.2</q>
-		<boost>4.2</boost>
+		<freq>24</freq>
+		<q>1.1</q>
+		<boost>7.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001522073278764,-1.9988866693459666,0.9987373462594217,1.9988872222622378,-0.998889000671027,</dec>
-		<hex>3f8004fd,bfffdb85,3f7fad40,3fffdb89,bf7fb731,</hex>
+		<dec>1.0003110278289278,-1.9988472225938216,0.9985399921964115,1.998848320627784,-0.998849921991377,</dec>
+		<hex>3f800a31,bfffda3a,3f7fa051,3fffda43,bf7fb4a1,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>39</freq>
-		<q>0.9</q>
-		<boost>1.4</boost>
-		<type>PK</type>
+		<freq>24</freq>
+		<q>1.1</q>
+		<boost>7.5</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002285157807997,-1.997380354379731,0.997158345563501,1.997380354379731,-0.997386861344301,</dec>
-		<hex>3f80077d,bfffaa29,3f7f45c5,3fffaa29,bf7f54bf,</hex>
+		<dec>1.0003110278289278,-1.9988472225938216,0.9985399921964115,1.998848320627784,-0.998849921991377,</dec>
+		<hex>3f800a31,bfffda3a,3f7fa051,3fffda43,bf7fb4a1,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>40</freq>
+		<q>0.7</q>
+		<boost>3.8</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0008234083611052,-1.9969924879286856,0.9961759231724878,1.9969924879286856,-0.9969993315335931,</dec>
+		<hex>3f801afb,bfff9d73,3f7f0563,3fff9d73,bf7f3b59,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>60</freq>
+		<q>1.1</q>
+		<boost>3.0</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0003094719460757,-1.9967150657317303,0.9964238920112126,1.9967177377686862,-0.9967306919203321,</dec>
+		<hex>3f800a24,bfff945c,3f7f15a3,3fff9472,bf7f29be,</hex>
 	</filter>
 	<filter addr="8360" name="PEQ_2_7">
 		<freq>1000</freq>
@@ -1415,33 +1415,32 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Goosebumps</beq_title>
-		<beq_alt_title />
-		<beq_sortTitle>goosebumps</beq_sortTitle>
-		<beq_year>2015</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/Vd7GL3W.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/TOJDoTy.jpg</beq_pvaURL>
+		<beq_title>The Tunnel</beq_title>
+		<beq_alt_title>Tunnelen</beq_alt_title>
+		<beq_sortTitle>tunnel</beq_sortTitle>
+		<beq_year>2019</beq_year>
+		<beq_spectrumURL>https://i.imgur.com/9fswyit.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/h01DWKa.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+1.5</beq_gain>
-		<beq_language>English</beq_language>
+		<beq_gain>+5.0</beq_gain>
+		<beq_language>Norwegian</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>After moving to a small town, Zach Cooper finds a silver lining when he meets next door neighbor Hannah, the daughter of bestselling Goosebumps series author R.L. Stine. When Zach unintentionally unleashes real monsters from their manuscripts and they begin to terrorize the town, it’s suddenly up to Stine, Zach and Hannah to get all of them back in the books where they belong.</beq_overview>
-		<beq_rating>PG</beq_rating>
+		<beq_overview>When a truck crashes inside a tunnel, people on their way home for Christmas are brutally trapped in a deadly fire. With a blizzard raging outside, and the first responders struggling to get to the accident, it&apos;s every man for himself.</beq_overview>
+		<beq_rating />
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57003936</beq_avs>
-		<beq_theMovieDB>257445</beq_theMovieDB>
-		<beq_poster>/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60668366</beq_avs>
+		<beq_theMovieDB>606154</beq_theMovieDB>
+		<beq_poster>/x2Nkkk0znwNDtqCdZKFQNA4Ayxg.jpg</beq_poster>
 		<beq_runtime>103</beq_runtime>
-		<beq_collection id="508783">Goosebumps Collection</beq_collection>
+		<beq_collection id="535748">Wave / Quake Collection</beq_collection>
 		<beq_audioTypes>
-			<audioType>Atmos</audioType>
+			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
-			<genre id="12">Adventure</genre>
-			<genre id="27">Horror</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
