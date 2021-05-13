@@ -802,31 +802,31 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>20</freq>
-		<q>0.8</q>
-		<boost>5.0</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0002363709012514,-1.9985822889030826,0.9983482013370372,1.9985827885638128,-0.998584072577558,</dec>
-		<hex>3f8007bf,bfffd18b,3f7f93bf,3fffd190,bf7fa335,</hex>
-	</filter>
-	<filter addr="8285" name="PEQ_1_2">
-		<freq>33</freq>
-		<q>0.9</q>
-		<boost>4.2</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.000291071767563,-1.997870891160773,0.997585753885319,1.997872028817741,-0.9978756879959141,</dec>
-		<hex>3f80098a,bfffba3c,3f7f61c8,3fffba45,bf7f74c8,</hex>
-	</filter>
-	<filter addr="8290" name="PEQ_1_3">
-		<freq>70</freq>
-		<q>1.0</q>
-		<boost>0.2</boost>
+		<freq>12</freq>
+		<q>2.0</q>
+		<boost>2.5</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0000526281481656,-1.9954602607311576,0.9954285751655713,1.9954602607311576,-0.9954812033137369,</dec>
-		<hex>3f8001b9,bfff6b3e,3f7ed468,3fff6b3e,bf7ed7db,</hex>
+		<dec>1.0000566995686382,-1.9996593777067313,0.9996032948834702,1.9996593777067313,-0.9996599944521084,</dec>
+		<hex>3f8001dc,bffff4d7,3f7fe600,3ffff4d7,bf7fe9b8,</hex>
+	</filter>
+	<filter addr="8285" name="PEQ_1_2">
+		<freq>18</freq>
+		<q>1.1</q>
+		<boost>6.0</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001860360421442,-1.9990978030036533,0.9989137265579429,1.9990982917395124,-0.9990992738642279,</dec>
+		<hex>3f800619,bfffe270,3f7fb8cf,3fffe274,bf7fc4f8,</hex>
+	</filter>
+	<filter addr="8290" name="PEQ_1_3">
+		<freq>35</freq>
+		<q>1.0</q>
+		<boost>0.6</boost>
+		<type>PK</type>
+		<bypass>0</bypass>
+		<dec>1.0000790477141086,-1.9977842302708984,0.9977104242656332,1.9977842302708984,-0.9977894719797417,</dec>
+		<hex>3f800297,bfffb765,3f7f69f3,3fffb765,bf7f6f21,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>1000</freq>
@@ -892,31 +892,31 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>20</freq>
-		<q>0.8</q>
-		<boost>5.0</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0002363709012514,-1.9985822889030826,0.9983482013370372,1.9985827885638128,-0.998584072577558,</dec>
-		<hex>3f8007bf,bfffd18b,3f7f93bf,3fffd190,bf7fa335,</hex>
-	</filter>
-	<filter addr="8335" name="PEQ_2_2">
-		<freq>33</freq>
-		<q>0.9</q>
-		<boost>4.2</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.000291071767563,-1.997870891160773,0.997585753885319,1.997872028817741,-0.9978756879959141,</dec>
-		<hex>3f80098a,bfffba3c,3f7f61c8,3fffba45,bf7f74c8,</hex>
-	</filter>
-	<filter addr="8340" name="PEQ_2_3">
-		<freq>70</freq>
-		<q>1.0</q>
-		<boost>0.2</boost>
+		<freq>12</freq>
+		<q>2.0</q>
+		<boost>2.5</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0000526281481656,-1.9954602607311576,0.9954285751655713,1.9954602607311576,-0.9954812033137369,</dec>
-		<hex>3f8001b9,bfff6b3e,3f7ed468,3fff6b3e,bf7ed7db,</hex>
+		<dec>1.0000566995686382,-1.9996593777067313,0.9996032948834702,1.9996593777067313,-0.9996599944521084,</dec>
+		<hex>3f8001dc,bffff4d7,3f7fe600,3ffff4d7,bf7fe9b8,</hex>
+	</filter>
+	<filter addr="8335" name="PEQ_2_2">
+		<freq>18</freq>
+		<q>1.1</q>
+		<boost>6.0</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001860360421442,-1.9990978030036533,0.9989137265579429,1.9990982917395124,-0.9990992738642279,</dec>
+		<hex>3f800619,bfffe270,3f7fb8cf,3fffe274,bf7fc4f8,</hex>
+	</filter>
+	<filter addr="8340" name="PEQ_2_3">
+		<freq>35</freq>
+		<q>1.0</q>
+		<boost>0.6</boost>
+		<type>PK</type>
+		<bypass>0</bypass>
+		<dec>1.0000790477141086,-1.9977842302708984,0.9977104242656332,1.9977842302708984,-0.9977894719797417,</dec>
+		<hex>3f800297,bfffb765,3f7f69f3,3fffb765,bf7f6f21,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>1000</freq>
@@ -1415,34 +1415,34 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Shrek</beq_title>
+		<beq_title>Raya and the Last Dragon</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>shrek</beq_sortTitle>
-		<beq_year>2001</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/bTcQOrV.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/Z5Fkcif.jpg</beq_pvaURL>
+		<beq_sortTitle>raya and the last dragon</beq_sortTitle>
+		<beq_year>2021</beq_year>
+		<beq_spectrumURL>https://i.imgur.com/gA0chSV.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/exkpEwq.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2.5</beq_gain>
+		<beq_gain>+3.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>It ain&apos;t easy bein&apos; green -- especially if you&apos;re a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.</beq_overview>
+		<beq_overview>Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.</beq_overview>
 		<beq_rating>PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60729569</beq_avs>
-		<beq_theMovieDB>808</beq_theMovieDB>
-		<beq_poster>/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg</beq_poster>
-		<beq_runtime>90</beq_runtime>
-		<beq_collection id="2150">Shrek Collection</beq_collection>
+		<beq_avs>https://www.avsforum.com/goto/post?id=60554365</beq_avs>
+		<beq_theMovieDB>527774</beq_theMovieDB>
+		<beq_poster>/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg</beq_poster>
+		<beq_runtime>107</beq_runtime>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="10751">Family</genre>
 			<genre id="16">Animation</genre>
 			<genre id="14">Fantasy</genre>
-			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
