@@ -802,58 +802,58 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>21</freq>
+		<freq>14</freq>
 		<q>1.1</q>
-		<boost>5.0</boost>
+		<boost>5.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001806162943965,-1.9989165985576032,0.9987385000615822,1.9989171495257532,-0.9989185653878282,</dec>
-		<hex>3f8005eb,bfffdc80,3f7fad54,3fffdc84,bf7fb921,</hex>
+		<dec>1.0001325053301109,-1.9992883311136977,0.9991569776946877,1.9992886013034064,-0.9992892128350908,</dec>
+		<hex>3f800458,bfffe8ae,3f7fc8c0,3fffe8b0,bf7fd16b,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>21</freq>
+		<freq>14</freq>
 		<q>1.1</q>
-		<boost>5.0</boost>
+		<boost>5.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001806162943965,-1.9989165985576032,0.9987385000615822,1.9989171495257532,-0.9989185653878282,</dec>
-		<hex>3f8005eb,bfffdc80,3f7fad54,3fffdc84,bf7fb921,</hex>
+		<dec>1.0001325053301109,-1.9992883311136977,0.9991569776946877,1.9992886013034064,-0.9992892128350908,</dec>
+		<hex>3f800458,bfffe8ae,3f7fc8c0,3fffe8b0,bf7fd16b,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>28</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
+		<freq>19</freq>
+		<q>0.8</q>
+		<boost>6.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0003061374436604,-1.9982448586255528,0.9979432475802948,1.9982458781042873,-0.998248365545221,</dec>
-		<hex>3f800a08,bfffc67d,3f7f7935,3fffc685,bf7f8d34,</hex>
+		<dec>1.000283513181079,-1.9987025436710373,0.9984212514615077,1.9987031164902853,-0.9987041918233388,</dec>
+		<hex>3f80094a,bfffd57c,3f7f9889,3fffd581,bf7fab14,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>28</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
+		<freq>19</freq>
+		<q>0.8</q>
+		<boost>6.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0003061374436604,-1.9982448586255528,0.9979432475802948,1.9982458781042873,-0.998248365545221,</dec>
-		<hex>3f800a08,bfffc67d,3f7f7935,3fffc685,bf7f8d34,</hex>
+		<dec>1.000283513181079,-1.9987025436710373,0.9984212514615077,1.9987031164902853,-0.9987041918233388,</dec>
+		<hex>3f80094a,bfffd57c,3f7f9889,3fffd581,bf7fab14,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
-		<freq>28</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
+		<freq>19</freq>
+		<q>0.8</q>
+		<boost>6.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0003061374436604,-1.9982448586255528,0.9979432475802948,1.9982458781042873,-0.998248365545221,</dec>
-		<hex>3f800a08,bfffc67d,3f7f7935,3fffc685,bf7f8d34,</hex>
+		<dec>1.000283513181079,-1.9987025436710373,0.9984212514615077,1.9987031164902853,-0.9987041918233388,</dec>
+		<hex>3f80094a,bfffd57c,3f7f9889,3fffd581,bf7fab14,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
-		<freq>58</freq>
-		<q>1.0</q>
-		<boost>1.3</boost>
+		<freq>45</freq>
+		<q>0.9</q>
+		<boost>0.7</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0002838413799289,-1.9964694327347225,0.9961999763106992,1.9964694327347225,-0.9964838176906283,</dec>
-		<hex>3f80094d,bfff8c4f,3f7f06f6,3fff8c4f,bf7f1990,</hex>
+		<dec>1.000131694385371,-1.996853028002688,0.9967299944564769,1.996853028002688,-0.9968616888418479,</dec>
+		<hex>3f800451,bfff98e1,3f7f29b2,3fff98e1,bf7f3254,</hex>
 	</filter>
 	<filter addr="8310" name="PEQ_1_7">
 		<freq>1000</freq>
@@ -892,58 +892,58 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>21</freq>
+		<freq>14</freq>
 		<q>1.1</q>
-		<boost>5.0</boost>
+		<boost>5.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001806162943965,-1.9989165985576032,0.9987385000615822,1.9989171495257532,-0.9989185653878282,</dec>
-		<hex>3f8005eb,bfffdc80,3f7fad54,3fffdc84,bf7fb921,</hex>
+		<dec>1.0001325053301109,-1.9992883311136977,0.9991569776946877,1.9992886013034064,-0.9992892128350908,</dec>
+		<hex>3f800458,bfffe8ae,3f7fc8c0,3fffe8b0,bf7fd16b,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>21</freq>
+		<freq>14</freq>
 		<q>1.1</q>
-		<boost>5.0</boost>
+		<boost>5.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001806162943965,-1.9989165985576032,0.9987385000615822,1.9989171495257532,-0.9989185653878282,</dec>
-		<hex>3f8005eb,bfffdc80,3f7fad54,3fffdc84,bf7fb921,</hex>
+		<dec>1.0001325053301109,-1.9992883311136977,0.9991569776946877,1.9992886013034064,-0.9992892128350908,</dec>
+		<hex>3f800458,bfffe8ae,3f7fc8c0,3fffe8b0,bf7fd16b,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>28</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
+		<freq>19</freq>
+		<q>0.8</q>
+		<boost>6.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0003061374436604,-1.9982448586255528,0.9979432475802948,1.9982458781042873,-0.998248365545221,</dec>
-		<hex>3f800a08,bfffc67d,3f7f7935,3fffc685,bf7f8d34,</hex>
+		<dec>1.000283513181079,-1.9987025436710373,0.9984212514615077,1.9987031164902853,-0.9987041918233388,</dec>
+		<hex>3f80094a,bfffd57c,3f7f9889,3fffd581,bf7fab14,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>28</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
+		<freq>19</freq>
+		<q>0.8</q>
+		<boost>6.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0003061374436604,-1.9982448586255528,0.9979432475802948,1.9982458781042873,-0.998248365545221,</dec>
-		<hex>3f800a08,bfffc67d,3f7f7935,3fffc685,bf7f8d34,</hex>
+		<dec>1.000283513181079,-1.9987025436710373,0.9984212514615077,1.9987031164902853,-0.9987041918233388,</dec>
+		<hex>3f80094a,bfffd57c,3f7f9889,3fffd581,bf7fab14,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
-		<freq>28</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
+		<freq>19</freq>
+		<q>0.8</q>
+		<boost>6.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0003061374436604,-1.9982448586255528,0.9979432475802948,1.9982458781042873,-0.998248365545221,</dec>
-		<hex>3f800a08,bfffc67d,3f7f7935,3fffc685,bf7f8d34,</hex>
+		<dec>1.000283513181079,-1.9987025436710373,0.9984212514615077,1.9987031164902853,-0.9987041918233388,</dec>
+		<hex>3f80094a,bfffd57c,3f7f9889,3fffd581,bf7fab14,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
-		<freq>58</freq>
-		<q>1.0</q>
-		<boost>1.3</boost>
+		<freq>45</freq>
+		<q>0.9</q>
+		<boost>0.7</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0002838413799289,-1.9964694327347225,0.9961999763106992,1.9964694327347225,-0.9964838176906283,</dec>
-		<hex>3f80094d,bfff8c4f,3f7f06f6,3fff8c4f,bf7f1990,</hex>
+		<dec>1.000131694385371,-1.996853028002688,0.9967299944564769,1.996853028002688,-0.9968616888418479,</dec>
+		<hex>3f800451,bfff98e1,3f7f29b2,3fff98e1,bf7f3254,</hex>
 	</filter>
 	<filter addr="8360" name="PEQ_2_7">
 		<freq>1000</freq>
@@ -1415,29 +1415,32 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>The Swordsman</beq_title>
-		<beq_alt_title>검객</beq_alt_title>
-		<beq_sortTitle>swordsman</beq_sortTitle>
+		<beq_title>Godzilla vs. Kong</beq_title>
+		<beq_alt_title />
+		<beq_sortTitle>godzilla vs. kong</beq_sortTitle>
 		<beq_year>2021</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/200GQAP.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/0B0P9iW.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/VLs1XyF.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/BghpiTT.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_note>BEQ for the english dub</beq_note>
+		<beq_note />
 		<beq_warning />
-		<beq_gain>+1.5</beq_gain>
+		<beq_gain>-7.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>Tae-yeul, a swordsman in his thirties goes out to find his only daughter after losing one of his eyes. Min Seung-ho, the Joseon dynasty&apos;s best swordsman chooses an ordinary simple life after perceiving the transient nature of power. Gurutai, the best swordsman in Qing dynasty aspires to become the best even in the Joseon dynasty.</beq_overview>
-		<beq_rating />
+		<beq_overview>In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.</beq_overview>
+		<beq_rating>PG-13</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60501037</beq_avs>
-		<beq_theMovieDB>492008</beq_theMovieDB>
-		<beq_poster>/8ZQJYmxd6xER824P2T4QEq9ioqq.jpg</beq_poster>
-		<beq_runtime>101</beq_runtime>
+		<beq_avs>https://www.avsforum.com/goto/post?id=60621582</beq_avs>
+		<beq_theMovieDB>399566</beq_theMovieDB>
+		<beq_poster>/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg</beq_poster>
+		<beq_runtime>113</beq_runtime>
+		<beq_collection id="535313">Godzilla Collection</beq_collection>
 		<beq_audioTypes>
-			<audioType>DTS-HD MA 5.1</audioType>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="12">Adventure</genre>
+			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
