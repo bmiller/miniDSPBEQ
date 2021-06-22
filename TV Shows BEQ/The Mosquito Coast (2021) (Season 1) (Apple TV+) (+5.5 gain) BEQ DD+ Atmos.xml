@@ -1420,7 +1420,7 @@
 		<beq_sortTitle>mosquito coast</beq_sortTitle>
 		<beq_year>2021</beq_year>
 		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/wdogIi6.jpg</beq_pvaURL>
+		<beq_pvaURL>https://i.imgur.com/laVFGSy.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
@@ -1443,7 +1443,7 @@
 		<beq_season id="93716">
 			<number>1</number>
 			<poster>/yVtwJQN2uBbGF9rryXPIvuJHWzH.jpg</poster>
-			<episodes count="4">1,2</episodes>
+			<episodes count="7">1,2,3,4,5,6,7</episodes>
 		</beq_season>
 	</beq_metadata>
 </setting>
