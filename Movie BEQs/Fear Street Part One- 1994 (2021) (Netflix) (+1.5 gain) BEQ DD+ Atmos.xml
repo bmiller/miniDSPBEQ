@@ -802,58 +802,58 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>11</freq>
-		<q>5.0</q>
-		<boost>-3.0</boost>
-		<type>PK</type>
+		<freq>20</freq>
+		<q>0.8</q>
+		<boost>5.5</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>0.9999750122240586,-1.9998283643398587,0.9998538703970087,1.9998283643398587,-0.9998288826210675,</dec>
-		<hex>3f7ffe5d,bffffa60,3f7ff66c,3ffffa60,bf7ff4c9,</hex>
+		<dec>1.0002601994728462,-1.9986024905429933,0.998344641103738,1.99860304176165,-0.9986042893579269,</dec>
+		<hex>3f800887,bfffd235,3f7f9384,3fffd239,bf7fa488,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>11</freq>
-		<q>1.1</q>
-		<boost>5.2</boost>
+		<freq>20</freq>
+		<q>0.8</q>
+		<boost>5.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000983746408385,-1.9994360981004664,0.9993384224646361,1.999436255537059,-0.9994366396688822,</dec>
-		<hex>3f800339,bfffed86,3f7fd4a5,3fffed87,bf7fdb14,</hex>
+		<dec>1.0002601994728462,-1.9986024905429933,0.998344641103738,1.99860304176165,-0.9986042893579269,</dec>
+		<hex>3f800887,bfffd235,3f7f9384,3fffd239,bf7fa488,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>11</freq>
-		<q>1.1</q>
-		<boost>5.2</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0000983746408385,-1.9994360981004664,0.9993384224646361,1.999436255537059,-0.9994366396688822,</dec>
-		<hex>3f800339,bfffed86,3f7fd4a5,3fffed87,bf7fdb14,</hex>
-	</filter>
-	<filter addr="8295" name="PEQ_1_4">
-		<freq>11</freq>
-		<q>1.1</q>
-		<boost>5.2</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0000983746408385,-1.9994360981004664,0.9993384224646361,1.999436255537059,-0.9994366396688822,</dec>
-		<hex>3f800339,bfffed86,3f7fd4a5,3fffed87,bf7fdb14,</hex>
-	</filter>
-	<filter addr="8300" name="PEQ_1_5">
-		<freq>26</freq>
-		<q>1.2</q>
-		<boost>8.0</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0003299226941382,-1.9988710068104716,0.998545671018186,1.998872387222139,-0.9988742133006567,</dec>
-		<hex>3f800ad0,bfffdb01,3f7fa0b0,3fffdb0d,bf7fb638,</hex>
-	</filter>
-	<filter addr="8305" name="PEQ_1_6">
-		<freq>40</freq>
-		<q>0.9</q>
-		<boost>1.8</boost>
+		<freq>55</freq>
+		<q>1.0</q>
+		<boost>0.1</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0003015515459281,-1.9973740283613168,0.9970793217278184,1.9973740283613168,-0.9973808732737467,</dec>
-		<hex>3f8009e2,bfffa9f4,3f7f4097,3fffa9f4,bf7f545a,</hex>
+		<dec>1.0000206848317077,-1.9964143868555533,0.9964066370017057,1.9964143868555533,-0.9964273218334134,</dec>
+		<hex>3f8000ae,bfff8a82,3f7f1481,3fff8a82,bf7f15dc,</hex>
+	</filter>
+	<filter addr="8295" name="PEQ_1_4">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
+	</filter>
+	<filter addr="8300" name="PEQ_1_5">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
+	</filter>
+	<filter addr="8305" name="PEQ_1_6">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8310" name="PEQ_1_7">
 		<freq>1000</freq>
@@ -892,58 +892,58 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>11</freq>
-		<q>5.0</q>
-		<boost>-3.0</boost>
-		<type>PK</type>
+		<freq>20</freq>
+		<q>0.8</q>
+		<boost>5.5</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>0.9999750122240586,-1.9998283643398587,0.9998538703970087,1.9998283643398587,-0.9998288826210675,</dec>
-		<hex>3f7ffe5d,bffffa60,3f7ff66c,3ffffa60,bf7ff4c9,</hex>
+		<dec>1.0002601994728462,-1.9986024905429933,0.998344641103738,1.99860304176165,-0.9986042893579269,</dec>
+		<hex>3f800887,bfffd235,3f7f9384,3fffd239,bf7fa488,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>11</freq>
-		<q>1.1</q>
-		<boost>5.2</boost>
+		<freq>20</freq>
+		<q>0.8</q>
+		<boost>5.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000983746408385,-1.9994360981004664,0.9993384224646361,1.999436255537059,-0.9994366396688822,</dec>
-		<hex>3f800339,bfffed86,3f7fd4a5,3fffed87,bf7fdb14,</hex>
+		<dec>1.0002601994728462,-1.9986024905429933,0.998344641103738,1.99860304176165,-0.9986042893579269,</dec>
+		<hex>3f800887,bfffd235,3f7f9384,3fffd239,bf7fa488,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>11</freq>
-		<q>1.1</q>
-		<boost>5.2</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0000983746408385,-1.9994360981004664,0.9993384224646361,1.999436255537059,-0.9994366396688822,</dec>
-		<hex>3f800339,bfffed86,3f7fd4a5,3fffed87,bf7fdb14,</hex>
-	</filter>
-	<filter addr="8345" name="PEQ_2_4">
-		<freq>11</freq>
-		<q>1.1</q>
-		<boost>5.2</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0000983746408385,-1.9994360981004664,0.9993384224646361,1.999436255537059,-0.9994366396688822,</dec>
-		<hex>3f800339,bfffed86,3f7fd4a5,3fffed87,bf7fdb14,</hex>
-	</filter>
-	<filter addr="8350" name="PEQ_2_5">
-		<freq>26</freq>
-		<q>1.2</q>
-		<boost>8.0</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0003299226941382,-1.9988710068104716,0.998545671018186,1.998872387222139,-0.9988742133006567,</dec>
-		<hex>3f800ad0,bfffdb01,3f7fa0b0,3fffdb0d,bf7fb638,</hex>
-	</filter>
-	<filter addr="8355" name="PEQ_2_6">
-		<freq>40</freq>
-		<q>0.9</q>
-		<boost>1.8</boost>
+		<freq>55</freq>
+		<q>1.0</q>
+		<boost>0.1</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0003015515459281,-1.9973740283613168,0.9970793217278184,1.9973740283613168,-0.9973808732737467,</dec>
-		<hex>3f8009e2,bfffa9f4,3f7f4097,3fffa9f4,bf7f545a,</hex>
+		<dec>1.0000206848317077,-1.9964143868555533,0.9964066370017057,1.9964143868555533,-0.9964273218334134,</dec>
+		<hex>3f8000ae,bfff8a82,3f7f1481,3fff8a82,bf7f15dc,</hex>
+	</filter>
+	<filter addr="8345" name="PEQ_2_4">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
+	</filter>
+	<filter addr="8350" name="PEQ_2_5">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
+	</filter>
+	<filter addr="8355" name="PEQ_2_6">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8360" name="PEQ_2_7">
 		<freq>1000</freq>
@@ -1415,33 +1415,33 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>The Tomorrow War</beq_title>
+		<beq_title>Fear Street Part One: 1994</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>tomorrow war</beq_sortTitle>
+		<beq_sortTitle>fear street part one: 1994</beq_sortTitle>
 		<beq_year>2021</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/YW2hpZM.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/8bpwLGO.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/bSDhNUm.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/PyoNvb5.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-5.5</beq_gain>
+		<beq_gain>+1.5</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Amazon</beq_source>
-		<beq_overview>The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father  in a desperate quest to rewrite the fate of the planet.</beq_overview>
-		<beq_rating>PG-13</beq_rating>
+		<beq_source>Netflix</beq_source>
+		<beq_overview>In 1994, a group of teenagers discovers that the terrifying events which have haunted their town for generations ​are all connected — and that they may be the next targets.</beq_overview>
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60853529</beq_avs>
-		<beq_theMovieDB>588228</beq_theMovieDB>
-		<beq_poster>/lj9R6heQZ56MXGVOavm5Kwk09WY.jpg</beq_poster>
-		<beq_runtime>138</beq_runtime>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60854980</beq_avs>
+		<beq_theMovieDB>591273</beq_theMovieDB>
+		<beq_poster>/6Wt1YDJdKAISEuARxsOLJepsC6l.jpg</beq_poster>
+		<beq_runtime>107</beq_runtime>
+		<beq_collection id="790370">Fear Street Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
-			<genre id="878">Science Fiction</genre>
-			<genre id="28">Action</genre>
-			<genre id="10752">War</genre>
+			<genre id="9648">Mystery</genre>
+			<genre id="10749">Romance</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
