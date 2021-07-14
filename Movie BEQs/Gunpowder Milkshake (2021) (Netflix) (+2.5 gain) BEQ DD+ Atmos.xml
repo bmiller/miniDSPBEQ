@@ -802,49 +802,49 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>14</freq>
-		<q>1.1</q>
-		<boost>4.7</boost>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>3.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001131031867414,-1.999271792299204,0.9991597891699089,1.9992720221544373,-0.9992726625014167,</dec>
-		<hex>3f8003b5,bfffe823,3f7fc8f0,3fffe825,bf7fd055,</hex>
+		<dec>1.000073402091682,-1.9993422483501508,0.9992693700693388,1.9993423352126816,-0.9993426852984902,</dec>
+		<hex>3f800268,bfffea72,3f7fd01e,3fffea73,bf7fd4ec,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>14</freq>
-		<q>1.1</q>
-		<boost>4.7</boost>
+		<freq>22</freq>
+		<q>1.0</q>
+		<boost>5.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001131031867414,-1.999271792299204,0.9991597891699089,1.9992720221544373,-0.9992726625014167,</dec>
-		<hex>3f8003b5,bfffe823,3f7fc8f0,3fffe825,bf7fd055,</hex>
+		<dec>1.00022488613241,-1.998765960552316,0.9985439018705886,1.9987666150621977,-0.9987681334931169,</dec>
+		<hex>3f80075e,bfffd790,3f7fa093,3fffd796,bf7faf45,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>14</freq>
-		<q>1.1</q>
-		<boost>4.7</boost>
+		<freq>22</freq>
+		<q>1.0</q>
+		<boost>5.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001131031867414,-1.999271792299204,0.9991597891699089,1.9992720221544373,-0.9992726625014167,</dec>
-		<hex>3f8003b5,bfffe823,3f7fc8f0,3fffe825,bf7fd055,</hex>
+		<dec>1.00022488613241,-1.998765960552316,0.9985439018705886,1.9987666150621977,-0.9987681334931169,</dec>
+		<hex>3f80075e,bfffd790,3f7fa093,3fffd796,bf7faf45,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>16</freq>
-		<q>5.0</q>
-		<boost>-4.3</boost>
+		<freq>42</freq>
+		<q>0.9</q>
+		<boost>0.9</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>0.9999476338927032,-1.9997306778871247,0.9997841404699613,1.9997306778871247,-0.9997317743626644,</dec>
-		<hex>3f7ffc91,bffff72d,3f7ff1da,3ffff72d,bf7fee6c,</hex>
+		<dec>1.0001580804065129,-1.9970965411067538,0.9969460061699962,1.9970965411067538,-0.9971040865765088,</dec>
+		<hex>3f80052e,bfffa0dc,3f7f37da,3fffa0dc,bf7f4237,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
-		<freq>23</freq>
-		<q>0.8</q>
-		<boost>1.8</boost>
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
 		<type>PK</type>
-		<bypass>0</bypass>
-		<dec>1.0001951565534122,-1.9983027031072984,0.9981098107009535,1.9983027031072984,-0.9983049672543656,</dec>
-		<hex>3f800665,bfffc862,3f7f8420,3fffc862,bf7f90ea,</hex>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>1000</freq>
@@ -892,49 +892,49 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>14</freq>
-		<q>1.1</q>
-		<boost>4.7</boost>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>3.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001131031867414,-1.999271792299204,0.9991597891699089,1.9992720221544373,-0.9992726625014167,</dec>
-		<hex>3f8003b5,bfffe823,3f7fc8f0,3fffe825,bf7fd055,</hex>
+		<dec>1.000073402091682,-1.9993422483501508,0.9992693700693388,1.9993423352126816,-0.9993426852984902,</dec>
+		<hex>3f800268,bfffea72,3f7fd01e,3fffea73,bf7fd4ec,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>14</freq>
-		<q>1.1</q>
-		<boost>4.7</boost>
+		<freq>22</freq>
+		<q>1.0</q>
+		<boost>5.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001131031867414,-1.999271792299204,0.9991597891699089,1.9992720221544373,-0.9992726625014167,</dec>
-		<hex>3f8003b5,bfffe823,3f7fc8f0,3fffe825,bf7fd055,</hex>
+		<dec>1.00022488613241,-1.998765960552316,0.9985439018705886,1.9987666150621977,-0.9987681334931169,</dec>
+		<hex>3f80075e,bfffd790,3f7fa093,3fffd796,bf7faf45,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>14</freq>
-		<q>1.1</q>
-		<boost>4.7</boost>
+		<freq>22</freq>
+		<q>1.0</q>
+		<boost>5.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001131031867414,-1.999271792299204,0.9991597891699089,1.9992720221544373,-0.9992726625014167,</dec>
-		<hex>3f8003b5,bfffe823,3f7fc8f0,3fffe825,bf7fd055,</hex>
+		<dec>1.00022488613241,-1.998765960552316,0.9985439018705886,1.9987666150621977,-0.9987681334931169,</dec>
+		<hex>3f80075e,bfffd790,3f7fa093,3fffd796,bf7faf45,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>16</freq>
-		<q>5.0</q>
-		<boost>-4.3</boost>
+		<freq>42</freq>
+		<q>0.9</q>
+		<boost>0.9</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>0.9999476338927032,-1.9997306778871247,0.9997841404699613,1.9997306778871247,-0.9997317743626644,</dec>
-		<hex>3f7ffc91,bffff72d,3f7ff1da,3ffff72d,bf7fee6c,</hex>
+		<dec>1.0001580804065129,-1.9970965411067538,0.9969460061699962,1.9970965411067538,-0.9971040865765088,</dec>
+		<hex>3f80052e,bfffa0dc,3f7f37da,3fffa0dc,bf7f4237,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
-		<freq>23</freq>
-		<q>0.8</q>
-		<boost>1.8</boost>
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
 		<type>PK</type>
-		<bypass>0</bypass>
-		<dec>1.0001951565534122,-1.9983027031072984,0.9981098107009535,1.9983027031072984,-0.9983049672543656,</dec>
-		<hex>3f800665,bfffc862,3f7f8420,3fffc862,bf7f90ea,</hex>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>1000</freq>
@@ -1415,36 +1415,33 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Loki</beq_title>
+		<beq_title>Gunpowder Milkshake</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>loki</beq_sortTitle>
+		<beq_sortTitle>gunpowder milkshake</beq_sortTitle>
 		<beq_year>2021</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/GJStDY5.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/OiIr62x.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/uwf27IW.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>+2.5</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Disney+</beq_source>
-		<beq_overview>After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant”or help fix the timeline and stop a greater threat.</beq_overview>
-		<beq_rating>TV-14</beq_rating>
+		<beq_source>Netflix</beq_source>
+		<beq_overview>In her turbulent life as a professional assassin, Scarlet was cruelly forced to abandon her daughter Sam and go on the run. Years later, despite the estrangement, Sam has also grown up into a cold blooded hitwoman. After a high-stake mission spins out of control, putting an innocent 8-year-old girl in the middle of the gang war she has unleashed, Sam has no choice but to go rogue. This ultimately leads her back to her mother and her former hitwomen sidekicks, who all join forces in an avenging war against those who took everything from them.</beq_overview>
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60800282</beq_avs>
-		<beq_theMovieDB>84958</beq_theMovieDB>
-		<beq_poster>/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60880375</beq_avs>
+		<beq_theMovieDB>574060</beq_theMovieDB>
+		<beq_poster>/9BLIRT7AFDhJnZJdq9KCrEywhQk.jpg</beq_poster>
+		<beq_runtime>114</beq_runtime>
+		<beq_collection id="848375">Gunpowder Milkshake Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
-			<genre id="18">Drama</genre>
-			<genre id="10759">Action &amp; Adventure</genre>
+			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
-		<beq_season id="84958">
-			<number>1</number>
-			<poster>/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</poster>
-			<episodes count="6">1,2,3,4,5,6</episodes>
-		</beq_season>
 	</beq_metadata>
 </setting>
