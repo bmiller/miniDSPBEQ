@@ -1436,10 +1436,11 @@
 		<beq_runtime>134</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="80">Crime</genre>
 			<genre id="35">Comedy</genre>
+			<genre id="80">Crime</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

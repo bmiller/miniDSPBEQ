@@ -802,31 +802,31 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>28</freq>
-		<q>1.0</q>
-		<boost>2.6</boost>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>-0.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001374039093998,-1.9982975911368241,0.9981640845304003,1.9982980952330072,-0.9983009843436167,</dec>
-		<hex>3f800481,bfffc837,3f7f87ae,3fffc83b,bf7f90a7,</hex>
+		<dec>0.999983250015557,-1.9992556885139519,0.9992728474347209,1.9992556687872325,-0.9992561171769976,</dec>
+		<hex>3f7ffee7,bfffe79c,3f7fd058,3fffe79c,bf7fcf40,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>28</freq>
-		<q>1.0</q>
-		<boost>2.6</boost>
+		<freq>27</freq>
+		<q>0.9</q>
+		<boost>7.1</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001374039093998,-1.9982975911368241,0.9981640845304003,1.9982980952330072,-0.9983009843436167,</dec>
-		<hex>3f800481,bfffc837,3f7f87ae,3fffc83b,bf7f90a7,</hex>
+		<dec>1.0004043799052345,-1.99839730653471,0.9979976222973899,1.9983986176345765,-0.998400691102758,</dec>
+		<hex>3f800d40,bfffcb7c,3f7f7cc6,3fffcb87,bf7f9730,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>60</freq>
+		<q>1.0</q>
+		<boost>0.3</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0000676892937022,-1.9961322965520407,0.99607999879169,1.9961322965520407,-0.9961476880853919,</dec>
+		<hex>3f800238,bfff8143,3f7eff19,3fff8143,bf7f0389,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>1000</freq>
@@ -892,31 +892,31 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>28</freq>
-		<q>1.0</q>
-		<boost>2.6</boost>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>-0.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001374039093998,-1.9982975911368241,0.9981640845304003,1.9982980952330072,-0.9983009843436167,</dec>
-		<hex>3f800481,bfffc837,3f7f87ae,3fffc83b,bf7f90a7,</hex>
+		<dec>0.999983250015557,-1.9992556885139519,0.9992728474347209,1.9992556687872325,-0.9992561171769976,</dec>
+		<hex>3f7ffee7,bfffe79c,3f7fd058,3fffe79c,bf7fcf40,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>28</freq>
-		<q>1.0</q>
-		<boost>2.6</boost>
+		<freq>27</freq>
+		<q>0.9</q>
+		<boost>7.1</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001374039093998,-1.9982975911368241,0.9981640845304003,1.9982980952330072,-0.9983009843436167,</dec>
-		<hex>3f800481,bfffc837,3f7f87ae,3fffc83b,bf7f90a7,</hex>
+		<dec>1.0004043799052345,-1.99839730653471,0.9979976222973899,1.9983986176345765,-0.998400691102758,</dec>
+		<hex>3f800d40,bfffcb7c,3f7f7cc6,3fffcb87,bf7f9730,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>60</freq>
+		<q>1.0</q>
+		<boost>0.3</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0000676892937022,-1.9961322965520407,0.99607999879169,1.9961322965520407,-0.9961476880853919,</dec>
+		<hex>3f800238,bfff8143,3f7eff19,3fff8143,bf7f0389,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>1000</freq>
@@ -1419,12 +1419,12 @@
 		<beq_alt_title />
 		<beq_sortTitle>total recall</beq_sortTitle>
 		<beq_year>2012</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/lWwrXGj.png</beq_spectrumURL>
-		<beq_pvaURL>https://fanart.tv/fanart/movies/64635/moviethumb/total-recall-520e70f2b6ef0.jpg</beq_pvaURL>
-		<beq_edition />
+		<beq_spectrumURL>https://i.imgur.com/IXqvJeL.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/Em3cY3w.jpg</beq_pvaURL>
+		<beq_edition>Director&apos;s Cut</beq_edition>
 		<beq_note />
 		<beq_warning />
-		<beq_gain />
+		<beq_gain>-1.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Welcome to Rekall, the company that can turn your dreams into real memories. For a factory worker named Douglas Quaid, even though he&apos;s got a beautiful wife who he loves, the mind-trip sounds like the perfect vacation from his frustrating life - real memories of life as a super-spy might be just what he needs. But when the procedure goes horribly wrong, Quaid becomes a hunted man. Finding himself on the run from the police - controlled by Chancellor Cohaagen, the leader of the free world - Quaid teams up with a rebel fighter to find the head of the underground resistance and stop Cohaagen. The line between fantasy and reality gets blurred and the fate of his world hangs in the balance as Quaid discovers his true identity, his true love, and his true fate.</beq_overview>
@@ -1439,8 +1439,8 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="12">Adventure</genre>
-			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
 			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
