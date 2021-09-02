@@ -1424,7 +1424,7 @@
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3.5</beq_gain>
+		<beq_gain>-3.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
 		<beq_overview>Sam Flynn, the tech-savvy and daring son of Kevin Flynn, investigates his father&apos;s disappearance and is pulled into The Grid. With the help of a mysterious program named Quorra, Sam quests to stop evil dictator Clu from crossing into the real world.</beq_overview>
@@ -1439,8 +1439,8 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
