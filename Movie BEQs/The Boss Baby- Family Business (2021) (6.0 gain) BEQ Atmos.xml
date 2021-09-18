@@ -803,57 +803,57 @@
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
 		<freq>10</freq>
-		<q>2.0</q>
-		<boost>-2.8</boost>
-		<type>PK</type>
+		<q>0.9</q>
+		<boost>-3.0</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>0.9999470351588097,-1.9996151613156723,0.9996685544427595,1.9996151613156723,-0.9996155896015689,</dec>
-		<hex>3f7ffc87,bffff364,3f7fea47,3ffff364,bf7fe6cf,</hex>
+		<dec>0.9999371164350229,-1.9992070750827862,0.9992703189318873,1.9992070007674225,-0.9992075096822741,</dec>
+		<hex>3f7ffbe1,bfffe604,3f7fd02e,3fffe604,bf7fcc10,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>10</freq>
+		<freq>21</freq>
 		<q>0.9</q>
-		<boost>5.0</boost>
+		<boost>7.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
-		<hex>3f800371,bfffeb5b,3f7fcfde,3fffeb5c,bf7fd6be,</hex>
+		<dec>1.0003369504271606,-1.9987715656643794,0.9984375393187747,1.9987724182251194,-0.9987736371851952,</dec>
+		<hex>3f800b0b,bfffd7bf,3f7f999a,3fffd7c6,bf7fafa1,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>23</freq>
+		<freq>21</freq>
 		<q>0.9</q>
-		<boost>4.3</boost>
+		<boost>7.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002076671749447,-1.9985208612369023,0.9983160944233275,1.998521427478952,-0.9985231953562226,</dec>
-		<hex>3f8006ce,bfffcf88,3f7f91a5,3fffcf8d,bf7f9f37,</hex>
+		<dec>1.0003369504271606,-1.9987715656643794,0.9984375393187747,1.9987724182251194,-0.9987736371851952,</dec>
+		<hex>3f800b0b,bfffd7bf,3f7f999a,3fffd7c6,bf7fafa1,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>23</freq>
+		<freq>21</freq>
 		<q>0.9</q>
-		<boost>4.3</boost>
+		<boost>7.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002076671749447,-1.9985208612369023,0.9983160944233275,1.998521427478952,-0.9985231953562226,</dec>
-		<hex>3f8006ce,bfffcf88,3f7f91a5,3fffcf8d,bf7f9f37,</hex>
+		<dec>1.0003369504271606,-1.9987715656643794,0.9984375393187747,1.9987724182251194,-0.9987736371851952,</dec>
+		<hex>3f800b0b,bfffd7bf,3f7f999a,3fffd7c6,bf7fafa1,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
-		<freq>52</freq>
-		<q>0.8</q>
-		<boost>0.4</boost>
-		<type>PK</type>
+		<freq>21</freq>
+		<q>0.9</q>
+		<boost>7.6</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000977627452565,-1.9958396712964386,0.9957534675896519,1.9958396712964386,-0.9958512303349086,</dec>
-		<hex>3f800334,bfff77ad,3f7ee9b3,3fff77ad,bf7ef01b,</hex>
+		<dec>1.0003369504271606,-1.9987715656643794,0.9984375393187747,1.9987724182251194,-0.9987736371851952,</dec>
+		<hex>3f800b0b,bfffd7bf,3f7f999a,3fffd7c6,bf7fafa1,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>50</freq>
+		<q>0.8</q>
+		<boost>1.1</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.000258698243544,-1.9961570517782372,0.9959090422110899,1.9961570517782372,-0.9961677404546337,</dec>
+		<hex>3f80087a,bfff8213,3f7ef3e5,3fff8213,bf7f04d9,</hex>
 	</filter>
 	<filter addr="8310" name="PEQ_1_7">
 		<freq>1000</freq>
@@ -893,57 +893,57 @@
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
 		<freq>10</freq>
-		<q>2.0</q>
-		<boost>-2.8</boost>
-		<type>PK</type>
+		<q>0.9</q>
+		<boost>-3.0</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>0.9999470351588097,-1.9996151613156723,0.9996685544427595,1.9996151613156723,-0.9996155896015689,</dec>
-		<hex>3f7ffc87,bffff364,3f7fea47,3ffff364,bf7fe6cf,</hex>
+		<dec>0.9999371164350229,-1.9992070750827862,0.9992703189318873,1.9992070007674225,-0.9992075096822741,</dec>
+		<hex>3f7ffbe1,bfffe604,3f7fd02e,3fffe604,bf7fcc10,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>10</freq>
+		<freq>21</freq>
 		<q>0.9</q>
-		<boost>5.0</boost>
+		<boost>7.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
-		<hex>3f800371,bfffeb5b,3f7fcfde,3fffeb5c,bf7fd6be,</hex>
+		<dec>1.0003369504271606,-1.9987715656643794,0.9984375393187747,1.9987724182251194,-0.9987736371851952,</dec>
+		<hex>3f800b0b,bfffd7bf,3f7f999a,3fffd7c6,bf7fafa1,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>23</freq>
+		<freq>21</freq>
 		<q>0.9</q>
-		<boost>4.3</boost>
+		<boost>7.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002076671749447,-1.9985208612369023,0.9983160944233275,1.998521427478952,-0.9985231953562226,</dec>
-		<hex>3f8006ce,bfffcf88,3f7f91a5,3fffcf8d,bf7f9f37,</hex>
+		<dec>1.0003369504271606,-1.9987715656643794,0.9984375393187747,1.9987724182251194,-0.9987736371851952,</dec>
+		<hex>3f800b0b,bfffd7bf,3f7f999a,3fffd7c6,bf7fafa1,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>23</freq>
+		<freq>21</freq>
 		<q>0.9</q>
-		<boost>4.3</boost>
+		<boost>7.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002076671749447,-1.9985208612369023,0.9983160944233275,1.998521427478952,-0.9985231953562226,</dec>
-		<hex>3f8006ce,bfffcf88,3f7f91a5,3fffcf8d,bf7f9f37,</hex>
+		<dec>1.0003369504271606,-1.9987715656643794,0.9984375393187747,1.9987724182251194,-0.9987736371851952,</dec>
+		<hex>3f800b0b,bfffd7bf,3f7f999a,3fffd7c6,bf7fafa1,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
-		<freq>52</freq>
-		<q>0.8</q>
-		<boost>0.4</boost>
-		<type>PK</type>
+		<freq>21</freq>
+		<q>0.9</q>
+		<boost>7.6</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000977627452565,-1.9958396712964386,0.9957534675896519,1.9958396712964386,-0.9958512303349086,</dec>
-		<hex>3f800334,bfff77ad,3f7ee9b3,3fff77ad,bf7ef01b,</hex>
+		<dec>1.0003369504271606,-1.9987715656643794,0.9984375393187747,1.9987724182251194,-0.9987736371851952,</dec>
+		<hex>3f800b0b,bfffd7bf,3f7f999a,3fffd7c6,bf7fafa1,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>50</freq>
+		<q>0.8</q>
+		<boost>1.1</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.000258698243544,-1.9961570517782372,0.9959090422110899,1.9961570517782372,-0.9961677404546337,</dec>
+		<hex>3f80087a,bfff8213,3f7ef3e5,3fff8213,bf7f04d9,</hex>
 	</filter>
 	<filter addr="8360" name="PEQ_2_7">
 		<freq>1000</freq>
@@ -1415,33 +1415,34 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Black Widow</beq_title>
+		<beq_title>The Boss Baby: Family Business</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>black widow</beq_sortTitle>
+		<beq_sortTitle>boss baby: family business</beq_sortTitle>
 		<beq_year>2021</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/ica8Uff.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/oAaeXcb.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/kjpJ9jm.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/aOiUPbI.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>-1.5</beq_gain>
+		<beq_gain>6.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.</beq_overview>
-		<beq_rating>PG-13</beq_rating>
+		<beq_overview>The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.</beq_overview>
+		<beq_rating>PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60867704</beq_avs>
-		<beq_theMovieDB>497698</beq_theMovieDB>
-		<beq_poster>/ppiL13JJx2LkyoNb8JM0h7nxYmk.jpg</beq_poster>
-		<beq_runtime>134</beq_runtime>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61036015</beq_avs>
+		<beq_theMovieDB>459151</beq_theMovieDB>
+		<beq_poster>/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg</beq_poster>
+		<beq_runtime>107</beq_runtime>
+		<beq_collection id="519457">The Boss Baby Collection</beq_collection>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="53">Thriller</genre>
-			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="16">Animation</genre>
+			<genre id="10751">Family</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
