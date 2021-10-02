@@ -802,49 +802,49 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>19</freq>
+		<freq>10</freq>
 		<q>0.9</q>
-		<boost>6.7</boost>
+		<boost>4.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002682601046629,-1.998859603991396,0.9985936167699772,1.99886021496398,-0.9988612659020558,</dec>
-		<hex>3f8008ca,bfffdaa2,3f7fa3d5,3fffdaa7,bf7fb55f,</hex>
+		<dec>1.0000965911638424,-1.999362720387486,0.9992666872811531,1.999362835111929,-0.9993631637205524,</dec>
+		<hex>3f80032a,bfffeb1e,3f7fcff1,3fffeb1f,bf7fd644,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>19</freq>
+		<freq>23</freq>
 		<q>0.9</q>
-		<boost>6.7</boost>
+		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002682601046629,-1.998859603991396,0.9985936167699772,1.99886021496398,-0.9988612659020558,</dec>
-		<hex>3f8008ca,bfffdaa2,3f7fa3d5,3fffdaa7,bf7fb55f,</hex>
+		<dec>1.0002125226998078,-1.9985250992790577,0.9983154936907864,1.998525678968066,-0.9985274367015862,</dec>
+		<hex>3f8006f7,bfffcfac,3f7f919b,3fffcfb0,bf7f9f7e,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>19</freq>
+		<freq>23</freq>
 		<q>0.9</q>
-		<boost>6.7</boost>
+		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002682601046629,-1.998859603991396,0.9985936167699772,1.99886021496398,-0.9988612659020558,</dec>
-		<hex>3f8008ca,bfffdaa2,3f7fa3d5,3fffdaa7,bf7fb55f,</hex>
+		<dec>1.0002125226998078,-1.9985250992790577,0.9983154936907864,1.998525678968066,-0.9985274367015862,</dec>
+		<hex>3f8006f7,bfffcfac,3f7f919b,3fffcfb0,bf7f9f7e,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>6.7</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0002682601046629,-1.998859603991396,0.9985936167699772,1.99886021496398,-0.9988612659020558,</dec>
-		<hex>3f8008ca,bfffdaa2,3f7fa3d5,3fffdaa7,bf7fb55f,</hex>
-	</filter>
-	<filter addr="8300" name="PEQ_1_5">
-		<freq>42</freq>
-		<q>0.8</q>
-		<boost>1.1</boost>
+		<freq>55</freq>
+		<q>1.0</q>
+		<boost>0.4</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0002173732810467,-1.9967723688314218,0.9965625397953363,1.9967723688314218,-0.9967799130763828,</dec>
-		<hex>3f80071f,bfff963d,3f7f1eb9,3fff963d,bf7f2cf8,</hex>
+		<dec>1.0000827487120882,-1.9964754473367672,0.9964056339981564,1.9964754473367672,-0.9964883827102446,</dec>
+		<hex>3f8002b6,bfff8c82,3f7f1471,3fff8c82,bf7f19dd,</hex>
+	</filter>
+	<filter addr="8300" name="PEQ_1_5">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>1000</freq>
@@ -892,49 +892,49 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>19</freq>
+		<freq>10</freq>
 		<q>0.9</q>
-		<boost>6.7</boost>
+		<boost>4.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002682601046629,-1.998859603991396,0.9985936167699772,1.99886021496398,-0.9988612659020558,</dec>
-		<hex>3f8008ca,bfffdaa2,3f7fa3d5,3fffdaa7,bf7fb55f,</hex>
+		<dec>1.0000965911638424,-1.999362720387486,0.9992666872811531,1.999362835111929,-0.9993631637205524,</dec>
+		<hex>3f80032a,bfffeb1e,3f7fcff1,3fffeb1f,bf7fd644,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>19</freq>
+		<freq>23</freq>
 		<q>0.9</q>
-		<boost>6.7</boost>
+		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002682601046629,-1.998859603991396,0.9985936167699772,1.99886021496398,-0.9988612659020558,</dec>
-		<hex>3f8008ca,bfffdaa2,3f7fa3d5,3fffdaa7,bf7fb55f,</hex>
+		<dec>1.0002125226998078,-1.9985250992790577,0.9983154936907864,1.998525678968066,-0.9985274367015862,</dec>
+		<hex>3f8006f7,bfffcfac,3f7f919b,3fffcfb0,bf7f9f7e,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>19</freq>
+		<freq>23</freq>
 		<q>0.9</q>
-		<boost>6.7</boost>
+		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002682601046629,-1.998859603991396,0.9985936167699772,1.99886021496398,-0.9988612659020558,</dec>
-		<hex>3f8008ca,bfffdaa2,3f7fa3d5,3fffdaa7,bf7fb55f,</hex>
+		<dec>1.0002125226998078,-1.9985250992790577,0.9983154936907864,1.998525678968066,-0.9985274367015862,</dec>
+		<hex>3f8006f7,bfffcfac,3f7f919b,3fffcfb0,bf7f9f7e,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>6.7</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0002682601046629,-1.998859603991396,0.9985936167699772,1.99886021496398,-0.9988612659020558,</dec>
-		<hex>3f8008ca,bfffdaa2,3f7fa3d5,3fffdaa7,bf7fb55f,</hex>
-	</filter>
-	<filter addr="8350" name="PEQ_2_5">
-		<freq>42</freq>
-		<q>0.8</q>
-		<boost>1.1</boost>
+		<freq>55</freq>
+		<q>1.0</q>
+		<boost>0.4</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0002173732810467,-1.9967723688314218,0.9965625397953363,1.9967723688314218,-0.9967799130763828,</dec>
-		<hex>3f80071f,bfff963d,3f7f1eb9,3fff963d,bf7f2cf8,</hex>
+		<dec>1.0000827487120882,-1.9964754473367672,0.9964056339981564,1.9964754473367672,-0.9964883827102446,</dec>
+		<hex>3f8002b6,bfff8c82,3f7f1471,3fff8c82,bf7f19dd,</hex>
+	</filter>
+	<filter addr="8350" name="PEQ_2_5">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>1000</freq>
@@ -1415,36 +1415,31 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Foundation</beq_title>
+		<beq_title>The Many Saints of Newark</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>foundation day 2020</beq_sortTitle>
+		<beq_sortTitle>many saints of newark</beq_sortTitle>
 		<beq_year>2021</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/lIFwahA.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/G4OYNip.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/RKESbqY.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>5.0</beq_gain>
+		<beq_gain>8.0</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Apple TV+</beq_source>
-		<beq_overview>Follow a band of exiles on their monumental journey to save humanity and rebuild civilization amid the fall of the Galactic Empire.</beq_overview>
-		<beq_rating>TV-14</beq_rating>
+		<beq_source>HBO Max</beq_source>
+		<beq_overview>Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark, N.J., history, becoming a man just as rival gangsters start to rise up and challenge the all-powerful DiMeo crime family. Caught up in the changing times is the uncle he idolizes, Dickie Moltisanti, whose influence over his nephew will help shape the impressionable teenager into the all-powerful mob boss, Tony Soprano.</beq_overview>
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61050523</beq_avs>
-		<beq_theMovieDB>93740</beq_theMovieDB>
-		<beq_poster>/A1fXGFxDifQzj08OlaGTVcnXHyd.jpg</beq_poster>
-		<beq_runtime>80</beq_runtime>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61068156</beq_avs>
+		<beq_theMovieDB>524369</beq_theMovieDB>
+		<beq_poster>/oK25ohM3qndhEoth3bP1CZeaVEN.jpg</beq_poster>
+		<beq_runtime>120</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
+			<genre id="80">Crime</genre>
 			<genre id="18">Drama</genre>
 		</beq_genres>
-		<beq_season id="93740">
-			<number>1</number>
-			<poster>/A1fXGFxDifQzj08OlaGTVcnXHyd.jpg</poster>
-			<episodes count="10">1,2,3</episodes>
-		</beq_season>
 	</beq_metadata>
 </setting>
