@@ -802,49 +802,49 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>10</freq>
+		<freq>16</freq>
 		<q>0.9</q>
-		<boost>5.0</boost>
+		<boost>6.2</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
-		<hex>3f800371,bfffeb5b,3f7fcfde,3fffeb5c,bf7fd6be,</hex>
+		<dec>1.0002088383865648,-1.9990259186970067,0.9988186465057368,1.999026318250013,-0.9990270853392952,</dec>
+		<hex>3f8006d8,bfffe015,3f7fb294,3fffe018,bf7fc03d,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>20</freq>
-		<q>0.8</q>
-		<boost>5.5</boost>
+		<freq>16</freq>
+		<q>0.9</q>
+		<boost>6.2</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002601994728462,-1.9986024905429933,0.998344641103738,1.99860304176165,-0.9986042893579269,</dec>
-		<hex>3f800887,bfffd235,3f7f9384,3fffd239,bf7fa488,</hex>
+		<dec>1.0002088383865648,-1.9990259186970067,0.9988186465057368,1.999026318250013,-0.9990270853392952,</dec>
+		<hex>3f8006d8,bfffe015,3f7fb294,3fffe018,bf7fc03d,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>20</freq>
-		<q>0.8</q>
-		<boost>5.5</boost>
+		<freq>16</freq>
+		<q>0.9</q>
+		<boost>6.2</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002601994728462,-1.9986024905429933,0.998344641103738,1.99860304176165,-0.9986042893579269,</dec>
-		<hex>3f800887,bfffd235,3f7f9384,3fffd239,bf7fa488,</hex>
+		<dec>1.0002088383865648,-1.9990259186970067,0.9988186465057368,1.999026318250013,-0.9990270853392952,</dec>
+		<hex>3f8006d8,bfffe015,3f7fb294,3fffe018,bf7fc03d,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>20</freq>
-		<q>0.8</q>
-		<boost>5.5</boost>
+		<freq>16</freq>
+		<q>0.9</q>
+		<boost>6.2</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002601994728462,-1.9986024905429933,0.998344641103738,1.99860304176165,-0.9986042893579269,</dec>
-		<hex>3f800887,bfffd235,3f7f9384,3fffd239,bf7fa488,</hex>
+		<dec>1.0002088383865648,-1.9990259186970067,0.9988186465057368,1.999026318250013,-0.9990270853392952,</dec>
+		<hex>3f8006d8,bfffe015,3f7fb294,3fffe018,bf7fc03d,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
-		<freq>57</freq>
-		<q>1.0</q>
-		<boost>0.3</boost>
+		<freq>37</freq>
+		<q>0.9</q>
+		<boost>1.0</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0000643110387564,-1.9963260580758566,0.9962756392356108,1.9963260580758566,-0.9963399502743673,</dec>
-		<hex>3f80021b,bfff879d,3f7f0bec,3fff879d,bf7f1023,</hex>
+		<dec>1.0001547788808676,-1.997457168132622,0.997308246171319,1.997457168132622,-0.9974630250521864,</dec>
+		<hex>3f800512,bfffacad,3f7f4f98,3fffacad,bf7f59bd,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>1000</freq>
@@ -892,49 +892,49 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>10</freq>
+		<freq>16</freq>
 		<q>0.9</q>
-		<boost>5.0</boost>
+		<boost>6.2</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
-		<hex>3f800371,bfffeb5b,3f7fcfde,3fffeb5c,bf7fd6be,</hex>
+		<dec>1.0002088383865648,-1.9990259186970067,0.9988186465057368,1.999026318250013,-0.9990270853392952,</dec>
+		<hex>3f8006d8,bfffe015,3f7fb294,3fffe018,bf7fc03d,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>20</freq>
-		<q>0.8</q>
-		<boost>5.5</boost>
+		<freq>16</freq>
+		<q>0.9</q>
+		<boost>6.2</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002601994728462,-1.9986024905429933,0.998344641103738,1.99860304176165,-0.9986042893579269,</dec>
-		<hex>3f800887,bfffd235,3f7f9384,3fffd239,bf7fa488,</hex>
+		<dec>1.0002088383865648,-1.9990259186970067,0.9988186465057368,1.999026318250013,-0.9990270853392952,</dec>
+		<hex>3f8006d8,bfffe015,3f7fb294,3fffe018,bf7fc03d,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>20</freq>
-		<q>0.8</q>
-		<boost>5.5</boost>
+		<freq>16</freq>
+		<q>0.9</q>
+		<boost>6.2</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002601994728462,-1.9986024905429933,0.998344641103738,1.99860304176165,-0.9986042893579269,</dec>
-		<hex>3f800887,bfffd235,3f7f9384,3fffd239,bf7fa488,</hex>
+		<dec>1.0002088383865648,-1.9990259186970067,0.9988186465057368,1.999026318250013,-0.9990270853392952,</dec>
+		<hex>3f8006d8,bfffe015,3f7fb294,3fffe018,bf7fc03d,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>20</freq>
-		<q>0.8</q>
-		<boost>5.5</boost>
+		<freq>16</freq>
+		<q>0.9</q>
+		<boost>6.2</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002601994728462,-1.9986024905429933,0.998344641103738,1.99860304176165,-0.9986042893579269,</dec>
-		<hex>3f800887,bfffd235,3f7f9384,3fffd239,bf7fa488,</hex>
+		<dec>1.0002088383865648,-1.9990259186970067,0.9988186465057368,1.999026318250013,-0.9990270853392952,</dec>
+		<hex>3f8006d8,bfffe015,3f7fb294,3fffe018,bf7fc03d,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
-		<freq>57</freq>
-		<q>1.0</q>
-		<boost>0.3</boost>
+		<freq>37</freq>
+		<q>0.9</q>
+		<boost>1.0</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0000643110387564,-1.9963260580758566,0.9962756392356108,1.9963260580758566,-0.9963399502743673,</dec>
-		<hex>3f80021b,bfff879d,3f7f0bec,3fff879d,bf7f1023,</hex>
+		<dec>1.0001547788808676,-1.997457168132622,0.997308246171319,1.997457168132622,-0.9974630250521864,</dec>
+		<hex>3f800512,bfffacad,3f7f4f98,3fffacad,bf7f59bd,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>1000</freq>
@@ -1415,33 +1415,34 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Jungle Cruise</beq_title>
+		<beq_title>Space Jam: A New Legacy</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>jungle cruise</beq_sortTitle>
+		<beq_sortTitle>space jam: a new legacy</beq_sortTitle>
 		<beq_year>2021</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/xMrXoTw.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/yWBUVEI.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/Z2IZQil.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/FgPzzLv.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+2.0</beq_gain>
+		<beq_gain />
 		<beq_language>English</beq_language>
-		<beq_source>Disney+</beq_source>
-		<beq_overview>Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal.</beq_overview>
-		<beq_rating>PG-13</beq_rating>
+		<beq_source>Disc</beq_source>
+		<beq_overview>When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&apos;s digitized champions on the court. It&apos;s Tunes versus Goons in the highest-stakes challenge of his life.</beq_overview>
+		<beq_rating>PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60915730</beq_avs>
-		<beq_theMovieDB>451048</beq_theMovieDB>
-		<beq_poster>/jFo94MnRCfkjFgvvT1vVbyudKGK.jpg</beq_poster>
-		<beq_runtime>127</beq_runtime>
+		<beq_avs>https://www.avsforum.com/goto/post?id=60885511</beq_avs>
+		<beq_theMovieDB>379686</beq_theMovieDB>
+		<beq_poster>/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg</beq_poster>
+		<beq_runtime>115</beq_runtime>
+		<beq_collection id="722961">Space Jam Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>Atmos</audioType>
-			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
 			<genre id="35">Comedy</genre>
-			<genre id="14">Fantasy</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="10751">Family</genre>
+			<genre id="16">Animation</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
