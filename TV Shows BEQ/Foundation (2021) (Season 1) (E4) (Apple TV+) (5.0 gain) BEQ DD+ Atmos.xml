@@ -1438,13 +1438,13 @@
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
 		<beq_season id="93740">
 			<number>1</number>
 			<poster>/A1fXGFxDifQzj08OlaGTVcnXHyd.jpg</poster>
-			<episodes count="10">4</episodes>
+			<episodes count="10">4,5</episodes>
 		</beq_season>
 	</beq_metadata>
 </setting>

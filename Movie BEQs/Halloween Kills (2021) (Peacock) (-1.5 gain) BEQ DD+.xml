@@ -802,58 +802,58 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>21</freq>
-		<q>0.8</q>
-		<boost>5.8</boost>
+		<freq>10</freq>
+		<q>1.1</q>
+		<boost>-4.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002882538942235,-1.9985451510921173,0.9982595331666108,1.9985457931331938,-0.9985471450197578,</dec>
-		<hex>3f800972,bfffd054,3f7f8df0,3fffd059,bf7fa0c9,</hex>
+		<dec>0.9999226899713622,-1.9993225102610486,0.9994001507887222,1.9993223980890114,-0.9993229529321217,</dec>
+		<hex>3f7ffaef,bfffe9cd,3f7fd8b0,3fffe9cc,bf7fd3a1,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>21</freq>
-		<q>0.8</q>
-		<boost>5.8</boost>
+		<freq>10</freq>
+		<q>1.1</q>
+		<boost>-4.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002882538942235,-1.9985451510921173,0.9982595331666108,1.9985457931331938,-0.9985471450197578,</dec>
-		<hex>3f800972,bfffd054,3f7f8df0,3fffd059,bf7fa0c9,</hex>
+		<dec>0.9999226899713622,-1.9993225102610486,0.9994001507887222,1.9993223980890114,-0.9993229529321217,</dec>
+		<hex>3f7ffaef,bfffe9cd,3f7fd8b0,3fffe9cc,bf7fd3a1,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>70</freq>
-		<q>1.0</q>
-		<boost>0.1</boost>
-		<type>PK</type>
+		<freq>16</freq>
+		<q>0.9</q>
+		<boost>5.0</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000263132948846,-1.995434232987458,0.9954288620019887,1.995434232987458,-0.9954551752968732,</dec>
-		<hex>3f8000dd,bfff6a64,3f7ed46d,3fff6a64,bf7ed626,</hex>
+		<dec>1.000168102600114,-1.9989917704550677,0.9988251294884413,1.9989920903033553,-0.9989929122402676,</dec>
+		<hex>3f800582,bfffdef6,3f7fb301,3fffdef9,bf7fbe00,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>1000</freq>
+		<freq>16</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>5.0</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.000168102600114,-1.9989917704550677,0.9988251294884413,1.9989920903033553,-0.9989929122402676,</dec>
+		<hex>3f800582,bfffdef6,3f7fb301,3fffdef9,bf7fbe00,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
-		<freq>1000</freq>
+		<freq>16</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>5.0</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.000168102600114,-1.9989917704550677,0.9988251294884413,1.9989920903033553,-0.9989929122402676,</dec>
+		<hex>3f800582,bfffdef6,3f7fb301,3fffdef9,bf7fbe00,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>45</freq>
+		<q>1.0</q>
+		<boost>0.3</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0000507914853605,-1.9971007089558452,0.9970585793838974,1.9971007089558452,-0.9971093708692579,</dec>
+		<hex>3f8001aa,bfffa0ff,3f7f3f3b,3fffa0ff,bf7f428f,</hex>
 	</filter>
 	<filter addr="8310" name="PEQ_1_7">
 		<freq>1000</freq>
@@ -892,58 +892,58 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>21</freq>
-		<q>0.8</q>
-		<boost>5.8</boost>
+		<freq>10</freq>
+		<q>1.1</q>
+		<boost>-4.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002882538942235,-1.9985451510921173,0.9982595331666108,1.9985457931331938,-0.9985471450197578,</dec>
-		<hex>3f800972,bfffd054,3f7f8df0,3fffd059,bf7fa0c9,</hex>
+		<dec>0.9999226899713622,-1.9993225102610486,0.9994001507887222,1.9993223980890114,-0.9993229529321217,</dec>
+		<hex>3f7ffaef,bfffe9cd,3f7fd8b0,3fffe9cc,bf7fd3a1,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>21</freq>
-		<q>0.8</q>
-		<boost>5.8</boost>
+		<freq>10</freq>
+		<q>1.1</q>
+		<boost>-4.5</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002882538942235,-1.9985451510921173,0.9982595331666108,1.9985457931331938,-0.9985471450197578,</dec>
-		<hex>3f800972,bfffd054,3f7f8df0,3fffd059,bf7fa0c9,</hex>
+		<dec>0.9999226899713622,-1.9993225102610486,0.9994001507887222,1.9993223980890114,-0.9993229529321217,</dec>
+		<hex>3f7ffaef,bfffe9cd,3f7fd8b0,3fffe9cc,bf7fd3a1,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>70</freq>
-		<q>1.0</q>
-		<boost>0.1</boost>
-		<type>PK</type>
+		<freq>16</freq>
+		<q>0.9</q>
+		<boost>5.0</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000263132948846,-1.995434232987458,0.9954288620019887,1.995434232987458,-0.9954551752968732,</dec>
-		<hex>3f8000dd,bfff6a64,3f7ed46d,3fff6a64,bf7ed626,</hex>
+		<dec>1.000168102600114,-1.9989917704550677,0.9988251294884413,1.9989920903033553,-0.9989929122402676,</dec>
+		<hex>3f800582,bfffdef6,3f7fb301,3fffdef9,bf7fbe00,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>1000</freq>
+		<freq>16</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>5.0</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.000168102600114,-1.9989917704550677,0.9988251294884413,1.9989920903033553,-0.9989929122402676,</dec>
+		<hex>3f800582,bfffdef6,3f7fb301,3fffdef9,bf7fbe00,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
-		<freq>1000</freq>
+		<freq>16</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>5.0</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.000168102600114,-1.9989917704550677,0.9988251294884413,1.9989920903033553,-0.9989929122402676,</dec>
+		<hex>3f800582,bfffdef6,3f7fb301,3fffdef9,bf7fbe00,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>45</freq>
+		<q>1.0</q>
+		<boost>0.3</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0000507914853605,-1.9971007089558452,0.9970585793838974,1.9971007089558452,-0.9971093708692579,</dec>
+		<hex>3f8001aa,bfffa0ff,3f7f3f3b,3fffa0ff,bf7f428f,</hex>
 	</filter>
 	<filter addr="8360" name="PEQ_2_7">
 		<freq>1000</freq>
@@ -1415,33 +1415,32 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>The Green Knight</beq_title>
+		<beq_title>Halloween Kills</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>green knight</beq_sortTitle>
+		<beq_sortTitle>halloween kills</beq_sortTitle>
 		<beq_year>2021</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/aF7ZuXg.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/fIl4pBZ.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/DevYZTH.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/dLVlbC3.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+4.0</beq_gain>
+		<beq_gain>-1.5</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Amazon</beq_source>
-		<beq_overview>An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&apos;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.</beq_overview>
+		<beq_source>Peacock</beq_source>
+		<beq_overview>Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left masked monster Michael Myers caged and burning in Laurie&apos;s basement, Laurie is rushed to the hospital with life-threatening injuries, believing she finally killed her lifelong tormentor. But when Michael manages to free himself from Laurie&apos;s trap, his ritual bloodbath resumes. As Laurie fights her pain and prepares to defend herself against him, she inspires all of Haddonfield to rise up against their unstoppable monster. The Strode women join a group of other survivors of Michael&apos;s first rampage who decide to take matters into their own hands, forming a vigilante mob that sets out to hunt Michael down, once and for all.</beq_overview>
 		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60961063</beq_avs>
-		<beq_theMovieDB>559907</beq_theMovieDB>
-		<beq_poster>/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg</beq_poster>
-		<beq_runtime>130</beq_runtime>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61102141</beq_avs>
+		<beq_theMovieDB>610253</beq_theMovieDB>
+		<beq_poster>/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg</beq_poster>
+		<beq_runtime>105</beq_runtime>
+		<beq_collection id="91361">Halloween Collection</beq_collection>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
-			<audioType>Atmos</audioType>
+			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
-			<genre id="18">Drama</genre>
-			<genre id="14">Fantasy</genre>
+			<genre id="27">Horror</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
