@@ -802,40 +802,40 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>19</freq>
-		<q>0.8</q>
-		<boost>5.4</boost>
+		<freq>23</freq>
+		<q>1.0</q>
+		<boost>5.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002426537283686,-1.9986685885475255,0.9984280436201872,1.998669076701438,-0.998670209194643,</dec>
-		<hex>3f8007f4,bfffd45f,3f7f98fb,3fffd463,bf7fa8da,</hex>
+		<dec>1.0002307285528684,-1.9987060952242253,0.9984784391748245,1.9987067969066954,-0.998708466045223,</dec>
+		<hex>3f80078f,bfffd59a,3f7f9c48,3fffd5a0,bf7fab5c,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>19</freq>
-		<q>0.8</q>
-		<boost>5.4</boost>
+		<freq>23</freq>
+		<q>1.0</q>
+		<boost>5.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002426537283686,-1.9986685885475255,0.9984280436201872,1.998669076701438,-0.998670209194643,</dec>
-		<hex>3f8007f4,bfffd45f,3f7f98fb,3fffd463,bf7fa8da,</hex>
+		<dec>1.0002307285528684,-1.9987060952242253,0.9984784391748245,1.9987067969066954,-0.998708466045223,</dec>
+		<hex>3f80078f,bfffd59a,3f7f9c48,3fffd5a0,bf7fab5c,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>60</freq>
+		<freq>23</freq>
 		<q>1.0</q>
-		<boost>0.1</boost>
-		<type>PK</type>
+		<boost>5.3</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000225615978298,-1.9960877761400253,0.9960806057322641,1.9960877761400253,-0.996103167330094,</dec>
-		<hex>3f8000bd,bfff7fce,3f7eff23,3fff7fce,bf7f009e,</hex>
+		<dec>1.0002307285528684,-1.9987060952242253,0.9984784391748245,1.9987067969066954,-0.998708466045223,</dec>
+		<hex>3f80078f,bfffd59a,3f7f9c48,3fffd5a0,bf7fab5c,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>1000</freq>
+		<freq>46</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
+		<boost>1.2</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0002309022620737,-1.99687388448401,0.9966520323602331,1.99687388448401,-0.996882934622307,</dec>
+		<hex>3f800791,bfff9990,3f7f2496,3fff9990,bf7f33b8,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
 		<freq>1000</freq>
@@ -892,40 +892,40 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>19</freq>
-		<q>0.8</q>
-		<boost>5.4</boost>
+		<freq>23</freq>
+		<q>1.0</q>
+		<boost>5.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002426537283686,-1.9986685885475255,0.9984280436201872,1.998669076701438,-0.998670209194643,</dec>
-		<hex>3f8007f4,bfffd45f,3f7f98fb,3fffd463,bf7fa8da,</hex>
+		<dec>1.0002307285528684,-1.9987060952242253,0.9984784391748245,1.9987067969066954,-0.998708466045223,</dec>
+		<hex>3f80078f,bfffd59a,3f7f9c48,3fffd5a0,bf7fab5c,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>19</freq>
-		<q>0.8</q>
-		<boost>5.4</boost>
+		<freq>23</freq>
+		<q>1.0</q>
+		<boost>5.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002426537283686,-1.9986685885475255,0.9984280436201872,1.998669076701438,-0.998670209194643,</dec>
-		<hex>3f8007f4,bfffd45f,3f7f98fb,3fffd463,bf7fa8da,</hex>
+		<dec>1.0002307285528684,-1.9987060952242253,0.9984784391748245,1.9987067969066954,-0.998708466045223,</dec>
+		<hex>3f80078f,bfffd59a,3f7f9c48,3fffd5a0,bf7fab5c,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>60</freq>
+		<freq>23</freq>
 		<q>1.0</q>
-		<boost>0.1</boost>
-		<type>PK</type>
+		<boost>5.3</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000225615978298,-1.9960877761400253,0.9960806057322641,1.9960877761400253,-0.996103167330094,</dec>
-		<hex>3f8000bd,bfff7fce,3f7eff23,3fff7fce,bf7f009e,</hex>
+		<dec>1.0002307285528684,-1.9987060952242253,0.9984784391748245,1.9987067969066954,-0.998708466045223,</dec>
+		<hex>3f80078f,bfffd59a,3f7f9c48,3fffd5a0,bf7fab5c,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>1000</freq>
+		<freq>46</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
+		<boost>1.2</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0002309022620737,-1.99687388448401,0.9966520323602331,1.99687388448401,-0.996882934622307,</dec>
+		<hex>3f800791,bfff9990,3f7f2496,3fff9990,bf7f33b8,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
 		<freq>1000</freq>
@@ -1415,35 +1415,36 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Just Beyond</beq_title>
+		<beq_title>Invasion</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>just beyond</beq_sortTitle>
+		<beq_sortTitle>invasion</beq_sortTitle>
 		<beq_year>2021</beq_year>
 		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/l7splLQ.jpg</beq_pvaURL>
+		<beq_pvaURL>https://i.imgur.com/7AA8XHv.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>2.0</beq_gain>
+		<beq_gain>2.5</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Disney+</beq_source>
-		<beq_overview>Middle school feels like the worst place imaginable, but for Jess, Josh, and Marco, their school may actually be the worst place in this world…or any other!</beq_overview>
-		<beq_rating>TV-PG</beq_rating>
+		<beq_source>Apple TV+</beq_source>
+		<beq_overview>Earth is visited by an alien species that threatens humanity’s existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle to make sense of the chaos unraveling around them.</beq_overview>
+		<beq_rating>TV-MA</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61114751</beq_avs>
-		<beq_theMovieDB>120734</beq_theMovieDB>
-		<beq_poster>/yByXllpVtTfDf2wT0qe1MSGdRFa.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61119982</beq_avs>
+		<beq_theMovieDB>127235</beq_theMovieDB>
+		<beq_poster>/7rpiHZx10Nm50AtzTUEO9eyaKdq.jpg</beq_poster>
+		<beq_runtime>99</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10751">Family</genre>
-			<genre id="35">Comedy</genre>
+			<genre id="18">Drama</genre>
+			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
 		</beq_genres>
-		<beq_season id="120734">
+		<beq_season id="127235">
 			<number>1</number>
-			<poster>/yByXllpVtTfDf2wT0qe1MSGdRFa.jpg</poster>
-			<episodes count="8">1,2,3,4,5,6,7,8</episodes>
+			<poster>/7rpiHZx10Nm50AtzTUEO9eyaKdq.jpg</poster>
+			<episodes count="10">1,2,3</episodes>
 		</beq_season>
 	</beq_metadata>
 </setting>

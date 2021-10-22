@@ -802,22 +802,22 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>19</freq>
+		<freq>16</freq>
 		<q>0.8</q>
-		<boost>5.4</boost>
+		<boost>4.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002426537283686,-1.9986685885475255,0.9984280436201872,1.998669076701438,-0.998670209194643,</dec>
-		<hex>3f8007f4,bfffd45f,3f7f98fb,3fffd463,bf7fa8da,</hex>
+		<dec>1.000162463675501,-1.9988429244015966,0.9986818645290086,1.9988431984682173,-0.9988440541378892,</dec>
+		<hex>3f800553,bfffda16,3f7fa99d,3fffda18,bf7fb43e,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>19</freq>
+		<freq>16</freq>
 		<q>0.8</q>
-		<boost>5.4</boost>
+		<boost>4.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002426537283686,-1.9986685885475255,0.9984280436201872,1.998669076701438,-0.998670209194643,</dec>
-		<hex>3f8007f4,bfffd45f,3f7f98fb,3fffd463,bf7fa8da,</hex>
+		<dec>1.000162463675501,-1.9988429244015966,0.9986818645290086,1.9988431984682173,-0.9988440541378892,</dec>
+		<hex>3f800553,bfffda16,3f7fa99d,3fffda18,bf7fb43e,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
 		<freq>60</freq>
@@ -892,22 +892,22 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>19</freq>
+		<freq>16</freq>
 		<q>0.8</q>
-		<boost>5.4</boost>
+		<boost>4.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002426537283686,-1.9986685885475255,0.9984280436201872,1.998669076701438,-0.998670209194643,</dec>
-		<hex>3f8007f4,bfffd45f,3f7f98fb,3fffd463,bf7fa8da,</hex>
+		<dec>1.000162463675501,-1.9988429244015966,0.9986818645290086,1.9988431984682173,-0.9988440541378892,</dec>
+		<hex>3f800553,bfffda16,3f7fa99d,3fffda18,bf7fb43e,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>19</freq>
+		<freq>16</freq>
 		<q>0.8</q>
-		<boost>5.4</boost>
+		<boost>4.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002426537283686,-1.9986685885475255,0.9984280436201872,1.998669076701438,-0.998670209194643,</dec>
-		<hex>3f8007f4,bfffd45f,3f7f98fb,3fffd463,bf7fa8da,</hex>
+		<dec>1.000162463675501,-1.9988429244015966,0.9986818645290086,1.9988431984682173,-0.9988440541378892,</dec>
+		<hex>3f800553,bfffda16,3f7fa99d,3fffda18,bf7fb43e,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
 		<freq>60</freq>
@@ -1415,35 +1415,35 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Just Beyond</beq_title>
+		<beq_title>Another Life</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>just beyond</beq_sortTitle>
-		<beq_year>2021</beq_year>
+		<beq_sortTitle>another life</beq_sortTitle>
+		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/l7splLQ.jpg</beq_pvaURL>
+		<beq_pvaURL>https://i.imgur.com/XlkLSmU.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>2.0</beq_gain>
+		<beq_gain>1.5</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Disney+</beq_source>
-		<beq_overview>Middle school feels like the worst place imaginable, but for Jess, Josh, and Marco, their school may actually be the worst place in this world…or any other!</beq_overview>
-		<beq_rating>TV-PG</beq_rating>
+		<beq_source>Netflix</beq_source>
+		<beq_overview>After a massive alien artifact lands on Earth, Niko Breckinridge leads an interstellar mission to track down its source and make first contact.</beq_overview>
+		<beq_rating>TV-MA</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61114751</beq_avs>
-		<beq_theMovieDB>120734</beq_theMovieDB>
-		<beq_poster>/yByXllpVtTfDf2wT0qe1MSGdRFa.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61119858</beq_avs>
+		<beq_theMovieDB>79130</beq_theMovieDB>
+		<beq_poster>/htazQ0cPoloL5SJ2bqOCKh9UTcc.jpg</beq_poster>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10751">Family</genre>
-			<genre id="35">Comedy</genre>
+			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
-		<beq_season id="120734">
-			<number>1</number>
-			<poster>/yByXllpVtTfDf2wT0qe1MSGdRFa.jpg</poster>
-			<episodes count="8">1,2,3,4,5,6,7,8</episodes>
+		<beq_season id="79130">
+			<number>2</number>
+			<poster>/gW3FJouZ3Ab57OR50Fy2jLaKAKH.jpg</poster>
+			<episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
 		</beq_season>
 	</beq_metadata>
 </setting>
