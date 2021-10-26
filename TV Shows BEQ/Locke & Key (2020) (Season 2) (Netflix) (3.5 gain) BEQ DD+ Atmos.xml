@@ -802,31 +802,31 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>15</freq>
-		<q>0.7</q>
-		<boost>6.4</boost>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>5.1</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002598429883287,-1.9988331047768064,0.9985746541324787,1.9988334677399382,-0.9988341341576755,</dec>
-		<hex>3f800884,bfffd9c3,3f7fa297,3fffd9c6,bf7fb398,</hex>
+		<dec>1.0001071624610192,-1.999371813221763,0.9992652251164412,1.9993719407562232,-0.9993722600430007,</dec>
+		<hex>3f800383,bfffeb6a,3f7fcfd9,3fffeb6b,bf7fd6dc,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>1000</freq>
+		<freq>10</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>5.1</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001071624610192,-1.999371813221763,0.9992652251164412,1.9993719407562232,-0.9993722600430007,</dec>
+		<hex>3f800383,bfffeb6a,3f7fcfd9,3fffeb6b,bf7fd6dc,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>23</freq>
+		<q>1.0</q>
+		<boost>0.4</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0000346394548225,-1.9985277367859835,0.9984953617331992,1.9985277367859835,-0.9985300011880217,</dec>
+		<hex>3f800123,bfffcfc2,3f7f9d64,3fffcfc2,bf7f9faa,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>1000</freq>
@@ -892,31 +892,31 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>15</freq>
-		<q>0.7</q>
-		<boost>6.4</boost>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>5.1</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002598429883287,-1.9988331047768064,0.9985746541324787,1.9988334677399382,-0.9988341341576755,</dec>
-		<hex>3f800884,bfffd9c3,3f7fa297,3fffd9c6,bf7fb398,</hex>
+		<dec>1.0001071624610192,-1.999371813221763,0.9992652251164412,1.9993719407562232,-0.9993722600430007,</dec>
+		<hex>3f800383,bfffeb6a,3f7fcfd9,3fffeb6b,bf7fd6dc,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>1000</freq>
+		<freq>10</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>5.1</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001071624610192,-1.999371813221763,0.9992652251164412,1.9993719407562232,-0.9993722600430007,</dec>
+		<hex>3f800383,bfffeb6a,3f7fcfd9,3fffeb6b,bf7fd6dc,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>23</freq>
+		<q>1.0</q>
+		<boost>0.4</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0000346394548225,-1.9985277367859835,0.9984953617331992,1.9985277367859835,-0.9985300011880217,</dec>
+		<hex>3f800123,bfffcfc2,3f7f9d64,3fffcfc2,bf7f9faa,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>1000</freq>
@@ -1415,36 +1415,36 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Squid Game</beq_title>
-		<beq_alt_title>오징어 게임</beq_alt_title>
-		<beq_sortTitle>squid game</beq_sortTitle>
-		<beq_year>2021</beq_year>
+		<beq_title>Locke &amp; Key</beq_title>
+		<beq_alt_title />
+		<beq_sortTitle>locke &amp; key</beq_sortTitle>
+		<beq_year>2020</beq_year>
 		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/YhtHDqS.jpg</beq_pvaURL>
+		<beq_pvaURL>https://i.imgur.com/00VztKs.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>6.0</beq_gain>
-		<beq_language>Korean</beq_language>
+		<beq_gain>3.5</beq_gain>
+		<beq_language>English</beq_language>
 		<beq_source>Netflix</beq_source>
-		<beq_overview>Hundreds of cash-strapped players accept a strange invitation to compete in children&apos;s games. Inside, a tempting prize awaits — with deadly high stakes.</beq_overview>
-		<beq_rating>TV-MA</beq_rating>
+		<beq_overview>Three siblings who move into their ancestral estate after their father&apos;s gruesome murder discover their new home&apos;s magical keys, which must be used in their stand against an evil creature who wants the keys and their powers.</beq_overview>
+		<beq_rating>TV-14</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61069036</beq_avs>
-		<beq_theMovieDB>93405</beq_theMovieDB>
-		<beq_poster>/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61128904</beq_avs>
+		<beq_theMovieDB>86423</beq_theMovieDB>
+		<beq_poster>/zuxGfRKziGHPogipnEXXykdDmyT.jpg</beq_poster>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10759">Action &amp; Adventure</genre>
-			<genre id="9648">Mystery</genre>
 			<genre id="18">Drama</genre>
+			<genre id="9648">Mystery</genre>
+			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
 		</beq_genres>
-		<beq_season id="93405">
-			<number>1</number>
-			<poster>/ertcijGyD6DS32UyeXZxSseqOzo.jpg</poster>
-			<episodes count="9">1,2,3,4,5,6,7,8,9</episodes>
+		<beq_season id="86423">
+			<number>2</number>
+			<poster>/zuxGfRKziGHPogipnEXXykdDmyT.jpg</poster>
+			<episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
 		</beq_season>
 	</beq_metadata>
 </setting>
