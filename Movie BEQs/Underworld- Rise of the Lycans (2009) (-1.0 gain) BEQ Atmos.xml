@@ -802,58 +802,58 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<freq>10</freq>
+		<q>0.7</q>
+		<boost>5.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.000156822901155,-1.9992086163532847,0.9990523913754417,1.999208761989052,-0.999209068640829,</dec>
+		<hex>3f800524,bfffe611,3f7fc1e6,3fffe613,bf7fcc2a,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<q>0.8</q>
+		<boost>5.1</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.0002290718464517,-1.9986570724333286,0.9984300732708948,1.9986575326684026,-0.9986586848822724,</dec>
+		<hex>3f800782,bfffd3ff,3f7f991d,3fffd403,bf7fa818,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
 		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<q>0.8</q>
+		<boost>5.1</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.0002290718464517,-1.9986570724333286,0.9984300732708948,1.9986575326684026,-0.9986586848822724,</dec>
+		<hex>3f800782,bfffd3ff,3f7f991d,3fffd403,bf7fa818,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>42</freq>
+		<freq>19</freq>
 		<q>0.8</q>
-		<boost>0.7</boost>
-		<type>PK</type>
+		<boost>5.1</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001382682821416,-1.9966974872248113,0.9965667629047114,1.9966974872248113,-0.9967050311868532,</dec>
-		<hex>3f800488,bfff93c9,3f7f1f00,3fff93c9,bf7f2810,</hex>
+		<dec>1.0002290718464517,-1.9986570724333286,0.9984300732708948,1.9986575326684026,-0.9986586848822724,</dec>
+		<hex>3f800782,bfffd3ff,3f7f991d,3fffd403,bf7fa818,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>19</freq>
+		<q>0.8</q>
+		<boost>5.1</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0002290718464517,-1.9986570724333286,0.9984300732708948,1.9986575326684026,-0.9986586848822724,</dec>
+		<hex>3f800782,bfffd3ff,3f7f991d,3fffd403,bf7fa818,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
-		<freq>1000</freq>
+		<freq>60</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
+		<boost>0.2</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.000050127485528,-1.995680528994678,0.9956457895590669,1.995680528994678,-0.9956959170445949,</dec>
+		<hex>3f8001a4,bfff7276,3f7ee2a4,3fff7276,bf7ee5ed,</hex>
 	</filter>
 	<filter addr="8310" name="PEQ_1_7">
 		<freq>1000</freq>
@@ -892,58 +892,58 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<freq>10</freq>
+		<q>0.7</q>
+		<boost>5.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.000156822901155,-1.9992086163532847,0.9990523913754417,1.999208761989052,-0.999209068640829,</dec>
+		<hex>3f800524,bfffe611,3f7fc1e6,3fffe613,bf7fcc2a,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<q>0.8</q>
+		<boost>5.1</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.0002290718464517,-1.9986570724333286,0.9984300732708948,1.9986575326684026,-0.9986586848822724,</dec>
+		<hex>3f800782,bfffd3ff,3f7f991d,3fffd403,bf7fa818,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
 		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<q>0.8</q>
+		<boost>5.1</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.0002290718464517,-1.9986570724333286,0.9984300732708948,1.9986575326684026,-0.9986586848822724,</dec>
+		<hex>3f800782,bfffd3ff,3f7f991d,3fffd403,bf7fa818,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>42</freq>
+		<freq>19</freq>
 		<q>0.8</q>
-		<boost>0.7</boost>
-		<type>PK</type>
+		<boost>5.1</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001382682821416,-1.9966974872248113,0.9965667629047114,1.9966974872248113,-0.9967050311868532,</dec>
-		<hex>3f800488,bfff93c9,3f7f1f00,3fff93c9,bf7f2810,</hex>
+		<dec>1.0002290718464517,-1.9986570724333286,0.9984300732708948,1.9986575326684026,-0.9986586848822724,</dec>
+		<hex>3f800782,bfffd3ff,3f7f991d,3fffd403,bf7fa818,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>19</freq>
+		<q>0.8</q>
+		<boost>5.1</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0002290718464517,-1.9986570724333286,0.9984300732708948,1.9986575326684026,-0.9986586848822724,</dec>
+		<hex>3f800782,bfffd3ff,3f7f991d,3fffd403,bf7fa818,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
-		<freq>1000</freq>
+		<freq>60</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
+		<boost>0.2</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.000050127485528,-1.995680528994678,0.9956457895590669,1.995680528994678,-0.9956959170445949,</dec>
+		<hex>3f8001a4,bfff7276,3f7ee2a4,3fff7276,bf7ee5ed,</hex>
 	</filter>
 	<filter addr="8360" name="PEQ_2_7">
 		<freq>1000</freq>
@@ -1415,36 +1415,33 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Foundation</beq_title>
+		<beq_title>Underworld: Rise of the Lycans</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>foundation</beq_sortTitle>
-		<beq_year>2021</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/gF8TIJl.jpg</beq_pvaURL>
+		<beq_sortTitle>underworld: rise of the lycans</beq_sortTitle>
+		<beq_year>2009</beq_year>
+		<beq_spectrumURL>https://i.imgur.com/Pry4uWq.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/ZNSSwlY.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>5.0</beq_gain>
+		<beq_gain>-1.0</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Apple TV+</beq_source>
-		<beq_overview>Follow a band of exiles on their monumental journey to save humanity and rebuild civilization amid the fall of the Galactic Empire.</beq_overview>
-		<beq_rating>TV-14</beq_rating>
+		<beq_source>Disc</beq_source>
+		<beq_overview>A prequel to the first two Underworld films, this fantasy explains the origins of the feud between the Vampires and the Lycans. Aided by his secret love, Sonja, courageous Lucian leads the Lycans in battle against brutal Vampire king Viktor. Determined to break the king&apos;s enslavement of his people, Lucian faces off against the Death Dealer army in a bid for Lycan independence.</beq_overview>
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/goto/post?id=61050523</beq_avs>
-		<beq_theMovieDB>93740</beq_theMovieDB>
-		<beq_poster>/A1fXGFxDifQzj08OlaGTVcnXHyd.jpg</beq_poster>
-		<beq_runtime>80</beq_runtime>
+		<beq_avs>https://www.avsforum.com/goto/post?id=58307078</beq_avs>
+		<beq_theMovieDB>12437</beq_theMovieDB>
+		<beq_poster>/6pLPWF7AXhljLJf8WTli9BuVfyv.jpg</beq_poster>
+		<beq_runtime>92</beq_runtime>
+		<beq_collection id="2326">Underworld Collection</beq_collection>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
-			<genre id="18">Drama</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
-		<beq_season id="93740">
-			<number>1</number>
-			<poster>/A1fXGFxDifQzj08OlaGTVcnXHyd.jpg</poster>
-			<episodes count="10">4,5,6,7</episodes>
-		</beq_season>
 	</beq_metadata>
 </setting>

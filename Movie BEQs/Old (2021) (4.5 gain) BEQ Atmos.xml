@@ -802,40 +802,40 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<freq>10</freq>
+		<q>0.8</q>
+		<boost>5.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.000132461690029,-1.9993034560451184,0.9991715854620685,1.999303596489932,-0.9993039067072844,</dec>
+		<hex>3f800457,bfffe92d,3f7fc9b6,3fffe92e,bf7fd261,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<freq>10</freq>
+		<q>0.8</q>
+		<boost>5.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.000132461690029,-1.9993034560451184,0.9991715854620685,1.999303596489932,-0.9993039067072844,</dec>
+		<hex>3f800457,bfffe92d,3f7fc9b6,3fffe92e,bf7fd261,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<freq>10</freq>
+		<q>0.8</q>
+		<boost>5.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.000132461690029,-1.9993034560451184,0.9991715854620685,1.999303596489932,-0.9993039067072844,</dec>
+		<hex>3f800457,bfffe92d,3f7fc9b6,3fffe92e,bf7fd261,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>42</freq>
-		<q>0.8</q>
-		<boost>0.7</boost>
+		<freq>27</freq>
+		<q>1.0</q>
+		<boost>0.3</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0001382682821416,-1.9966974872248113,0.9965667629047114,1.9966974872248113,-0.9967050311868532,</dec>
-		<hex>3f800488,bfff93c9,3f7f1f00,3fff93c9,bf7f2810,</hex>
+		<dec>1.0000304925479189,-1.998261497554738,0.9982341251008946,1.998261497554738,-0.9982646176488135,</dec>
+		<hex>3f800100,bfffc708,3f7f8c46,3fffc708,bf7f8e45,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
 		<freq>1000</freq>
@@ -892,40 +892,40 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<freq>10</freq>
+		<q>0.8</q>
+		<boost>5.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.000132461690029,-1.9993034560451184,0.9991715854620685,1.999303596489932,-0.9993039067072844,</dec>
+		<hex>3f800457,bfffe92d,3f7fc9b6,3fffe92e,bf7fd261,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<freq>10</freq>
+		<q>0.8</q>
+		<boost>5.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.000132461690029,-1.9993034560451184,0.9991715854620685,1.999303596489932,-0.9993039067072844,</dec>
+		<hex>3f800457,bfffe92d,3f7fc9b6,3fffe92e,bf7fd261,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<freq>10</freq>
+		<q>0.8</q>
+		<boost>5.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.000132461690029,-1.9993034560451184,0.9991715854620685,1.999303596489932,-0.9993039067072844,</dec>
+		<hex>3f800457,bfffe92d,3f7fc9b6,3fffe92e,bf7fd261,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>42</freq>
-		<q>0.8</q>
-		<boost>0.7</boost>
+		<freq>27</freq>
+		<q>1.0</q>
+		<boost>0.3</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0001382682821416,-1.9966974872248113,0.9965667629047114,1.9966974872248113,-0.9967050311868532,</dec>
-		<hex>3f800488,bfff93c9,3f7f1f00,3fff93c9,bf7f2810,</hex>
+		<dec>1.0000304925479189,-1.998261497554738,0.9982341251008946,1.998261497554738,-0.9982646176488135,</dec>
+		<hex>3f800100,bfffc708,3f7f8c46,3fffc708,bf7f8e45,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
 		<freq>1000</freq>
@@ -1415,36 +1415,31 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Foundation</beq_title>
+		<beq_title>Old</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>foundation</beq_sortTitle>
+		<beq_sortTitle>old</beq_sortTitle>
 		<beq_year>2021</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/gF8TIJl.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/0NEeiKd.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/baBUcPb.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>5.0</beq_gain>
+		<beq_gain>4.5</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Apple TV+</beq_source>
-		<beq_overview>Follow a band of exiles on their monumental journey to save humanity and rebuild civilization amid the fall of the Galactic Empire.</beq_overview>
-		<beq_rating>TV-14</beq_rating>
+		<beq_source>Disc</beq_source>
+		<beq_overview>A group of families on a tropical holiday discover that the secluded beach where they are staying is somehow causing them to age rapidly – reducing their entire lives into a single day.</beq_overview>
+		<beq_rating>PG-13</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/goto/post?id=61050523</beq_avs>
-		<beq_theMovieDB>93740</beq_theMovieDB>
-		<beq_poster>/A1fXGFxDifQzj08OlaGTVcnXHyd.jpg</beq_poster>
-		<beq_runtime>80</beq_runtime>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61140401</beq_avs>
+		<beq_theMovieDB>631843</beq_theMovieDB>
+		<beq_poster>/vclShucpUmPhdAOmKgf3B3Z4POD.jpg</beq_poster>
+		<beq_runtime>108</beq_runtime>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
-			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="9648">Mystery</genre>
 		</beq_genres>
-		<beq_season id="93740">
-			<number>1</number>
-			<poster>/A1fXGFxDifQzj08OlaGTVcnXHyd.jpg</poster>
-			<episodes count="10">4,5,6,7</episodes>
-		</beq_season>
 	</beq_metadata>
 </setting>
