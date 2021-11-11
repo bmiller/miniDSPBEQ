@@ -803,12 +803,12 @@
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
 		<freq>10</freq>
-		<q>9.0</q>
+		<q>0.9</q>
 		<boost>-0.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>0.999999157836769,-1.9999260101112997,0.9999272708765128,1.9999260002472479,-0.9999264385773334,</dec>
-		<hex>3f7ffff2,bffffd93,3f7ffb3c,3ffffd93,bf7ffb2e,</hex>
+		<dec>0.9999916255280938,-1.9992642008762367,0.9992729938116024,1.9992641910154492,-0.9992646292004838,</dec>
+		<hex>3f7fff73,bfffe7e4,3f7fd05b,3fffe7e4,bf7fcfcf,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>24</freq>
@@ -893,12 +893,12 @@
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
 		<freq>10</freq>
-		<q>9.0</q>
+		<q>0.9</q>
 		<boost>-0.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>0.999999157836769,-1.9999260101112997,0.9999272708765128,1.9999260002472479,-0.9999264385773334,</dec>
-		<hex>3f7ffff2,bffffd93,3f7ffb3c,3ffffd93,bf7ffb2e,</hex>
+		<dec>0.9999916255280938,-1.9992642008762367,0.9992729938116024,1.9992641910154492,-0.9992646292004838,</dec>
+		<hex>3f7fff73,bfffe7e4,3f7fd05b,3fffe7e4,bf7fcfcf,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>24</freq>
@@ -1438,9 +1438,9 @@
 			<audioType>DTS-HD MA 7.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
-			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="28">Action</genre>
+			<genre id="14">Fantasy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
