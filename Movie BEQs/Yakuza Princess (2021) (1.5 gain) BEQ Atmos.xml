@@ -802,40 +802,40 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<freq>21</freq>
+		<q>0.8</q>
+		<boost>4.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
+		<hex>3f80077a,bfffcea8,3f7f8e85,3fffceac,bf7f9d71,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<freq>21</freq>
+		<q>0.8</q>
+		<boost>4.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
+		<hex>3f80077a,bfffcea8,3f7f8e85,3fffceac,bf7f9d71,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
-	</filter>
-	<filter addr="8295" name="PEQ_1_4">
-		<freq>42</freq>
-		<q>0.8</q>
-		<boost>0.7</boost>
+		<freq>65</freq>
+		<q>1.0</q>
+		<boost>0.1</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0001382682821416,-1.9966974872248113,0.9965667629047114,1.9966974872248113,-0.9967050311868532,</dec>
-		<hex>3f800488,bfff93c9,3f7f1f00,3fff93c9,bf7f2810,</hex>
+		<dec>1.0000244377521892,-1.995761058154993,0.9957546807380474,1.995761058154993,-0.9957791184902367,</dec>
+		<hex>3f8000cd,bfff7519,3f7ee9c7,3fff7519,bf7eeb61,</hex>
+	</filter>
+	<filter addr="8295" name="PEQ_1_4">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
 		<freq>1000</freq>
@@ -892,40 +892,40 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<freq>21</freq>
+		<q>0.8</q>
+		<boost>4.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
+		<hex>3f80077a,bfffcea8,3f7f8e85,3fffceac,bf7f9d71,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
+		<freq>21</freq>
+		<q>0.8</q>
+		<boost>4.6</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
+		<dec>1.0002282150277122,-1.9984941727245458,0.9982684176631175,1.9984946784399187,-0.9984961269754572,</dec>
+		<hex>3f80077a,bfffcea8,3f7f8e85,3fffceac,bf7f9d71,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>19</freq>
-		<q>0.9</q>
-		<boost>5.4</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0002157352605874,-1.9988162556296551,0.9986026293259018,1.9988167438196338,-0.9988178763965104,</dec>
-		<hex>3f800712,bfffd936,3f7fa46c,3fffd93a,bf7fb287,</hex>
-	</filter>
-	<filter addr="8345" name="PEQ_2_4">
-		<freq>42</freq>
-		<q>0.8</q>
-		<boost>0.7</boost>
+		<freq>65</freq>
+		<q>1.0</q>
+		<boost>0.1</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0001382682821416,-1.9966974872248113,0.9965667629047114,1.9966974872248113,-0.9967050311868532,</dec>
-		<hex>3f800488,bfff93c9,3f7f1f00,3fff93c9,bf7f2810,</hex>
+		<dec>1.0000244377521892,-1.995761058154993,0.9957546807380474,1.995761058154993,-0.9957791184902367,</dec>
+		<hex>3f8000cd,bfff7519,3f7ee9c7,3fff7519,bf7eeb61,</hex>
+	</filter>
+	<filter addr="8345" name="PEQ_2_4">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
 		<freq>1000</freq>
@@ -1415,36 +1415,32 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Foundation</beq_title>
-		<beq_alt_title />
-		<beq_sortTitle>foundation</beq_sortTitle>
+		<beq_title>Yakuza Princess</beq_title>
+		<beq_alt_title>A Princesa da Yakuza</beq_alt_title>
+		<beq_sortTitle>yakuza princess</beq_sortTitle>
 		<beq_year>2021</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/gF8TIJl.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/OY2Z7Lm.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/2hB7kpx.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>5.0</beq_gain>
+		<beq_gain>1.5</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Apple TV+</beq_source>
-		<beq_overview>Follow a band of exiles on their monumental journey to save humanity and rebuild civilization amid the fall of the Galactic Empire.</beq_overview>
-		<beq_rating>TV-14</beq_rating>
+		<beq_source>Disc</beq_source>
+		<beq_overview>In Brazil, Akemi finds out that she&apos;s the heiress to the Yakuza empire. Just after that, her destiny enters a spiral of violence and mystery, where a gaijin (foreigner) who&apos;s been protecting her all this time, Shirô, may have been actually sent to kill her.</beq_overview>
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/goto/post?id=61050523</beq_avs>
-		<beq_theMovieDB>93740</beq_theMovieDB>
-		<beq_poster>/A1fXGFxDifQzj08OlaGTVcnXHyd.jpg</beq_poster>
-		<beq_runtime>80</beq_runtime>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61176223</beq_avs>
+		<beq_theMovieDB>661595</beq_theMovieDB>
+		<beq_poster>/1gTnopPJgauN46CYGobPyZCZQTn.jpg</beq_poster>
+		<beq_runtime>112</beq_runtime>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
-			<genre id="18">Drama</genre>
+			<genre id="53">Thriller</genre>
+			<genre id="80">Crime</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
-		<beq_season id="93740">
-			<number>1</number>
-			<poster>/A1fXGFxDifQzj08OlaGTVcnXHyd.jpg</poster>
-			<episodes count="10">4,5,6,7,9</episodes>
-		</beq_season>
 	</beq_metadata>
 </setting>
