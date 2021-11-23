@@ -1435,12 +1435,13 @@
 		<beq_poster>/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg</beq_poster>
 		<beq_runtime>132</beq_runtime>
 		<beq_audioTypes>
+			<audioType>DD+ Atmos</audioType>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
+			<genre id="28">Action</genre>
 			<genre id="12">Adventure</genre>
 			<genre id="14">Fantasy</genre>
-			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
