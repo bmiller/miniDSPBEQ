@@ -1443,7 +1443,7 @@
 		<beq_season id="88329">
 			<number>1</number>
 			<poster>/rp378be6RvDNGuPWn4eNCCCxXbE.jpg</poster>
-			<episodes count="6">1,2</episodes>
+			<episodes count="6">1,2,3</episodes>
 		</beq_season>
 	</beq_metadata>
 </setting>
