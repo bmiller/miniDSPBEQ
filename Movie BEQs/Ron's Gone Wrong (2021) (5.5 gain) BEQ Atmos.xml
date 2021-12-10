@@ -802,22 +802,22 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>11</freq>
+		<freq>18</freq>
 		<q>0.7</q>
-		<boost>6.1</boost>
+		<boost>5.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.0002577604046825,-1.9985547069385614,0.9982988282262789,1.9985551366697514,-0.9985561588997716,</dec>
+		<hex>3f800872,bfffd0a4,3f7f9083,3fffd0a8,bf7fa160,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>11</freq>
+		<freq>18</freq>
 		<q>0.7</q>
-		<boost>6.1</boost>
+		<boost>5.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.0002577604046825,-1.9985547069385614,0.9982988282262789,1.9985551366697514,-0.9985561588997716,</dec>
+		<hex>3f800872,bfffd0a4,3f7f9083,3fffd0a8,bf7fa160,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
 		<freq>1000</freq>
@@ -892,22 +892,22 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>11</freq>
+		<freq>18</freq>
 		<q>0.7</q>
-		<boost>6.1</boost>
+		<boost>5.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.0002577604046825,-1.9985547069385614,0.9982988282262789,1.9985551366697514,-0.9985561588997716,</dec>
+		<hex>3f800872,bfffd0a4,3f7f9083,3fffd0a8,bf7fa160,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>11</freq>
+		<freq>18</freq>
 		<q>0.7</q>
-		<boost>6.1</boost>
+		<boost>5.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.0002577604046825,-1.9985547069385614,0.9982988282262789,1.9985551366697514,-0.9985561588997716,</dec>
+		<hex>3f800872,bfffd0a4,3f7f9083,3fffd0a8,bf7fa160,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
 		<freq>1000</freq>
@@ -1415,35 +1415,33 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Hawkeye</beq_title>
+		<beq_title>Ron&apos;s Gone Wrong</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>hawkeye</beq_sortTitle>
+		<beq_sortTitle>ron&apos;s gone wrong</beq_sortTitle>
 		<beq_year>2021</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/VreJirC.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/MOKrZ9f.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/SD10Hp4.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>3.5</beq_gain>
+		<beq_gain>5.5</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Disney+</beq_source>
-		<beq_overview>Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.</beq_overview>
-		<beq_rating>TV-14</beq_rating>
+		<beq_source>Disc</beq_source>
+		<beq_overview>In a world where walking, talking, digitally connected bots have become children&apos;s best friends, an 11-year-old finds that his robot buddy doesn&apos;t quite work the same as the others do.</beq_overview>
+		<beq_rating>PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61211513</beq_avs>
-		<beq_theMovieDB>88329</beq_theMovieDB>
-		<beq_poster>/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61249077</beq_avs>
+		<beq_theMovieDB>482321</beq_theMovieDB>
+		<beq_poster>/gA9QxSravC2EVEkEKgyEmDrfL0e.jpg</beq_poster>
+		<beq_runtime>106</beq_runtime>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10759">Action &amp; Adventure</genre>
-			<genre id="18">Drama</genre>
+			<genre id="10751">Family</genre>
+			<genre id="16">Animation</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
-		<beq_season id="88329">
-			<number>1</number>
-			<poster>/rp378be6RvDNGuPWn4eNCCCxXbE.jpg</poster>
-			<episodes count="6">1,2,3,4</episodes>
-		</beq_season>
 	</beq_metadata>
 </setting>
