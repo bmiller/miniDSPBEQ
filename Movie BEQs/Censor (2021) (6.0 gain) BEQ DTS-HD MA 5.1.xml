@@ -802,31 +802,31 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>11</freq>
-		<q>0.7</q>
-		<boost>6.1</boost>
+		<freq>26</freq>
+		<q>0.9</q>
+		<boost>6.2</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.0003394620117092,-1.99841641473869,0.9980810872043396,1.9984174694876498,-0.9984194944670894,</dec>
+		<hex>3f800b20,bfffcc1c,3f7f823e,3fffcc25,bf7f986c,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>11</freq>
-		<q>0.7</q>
-		<boost>6.1</boost>
+		<freq>26</freq>
+		<q>0.9</q>
+		<boost>6.2</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.0003394620117092,-1.99841641473869,0.9980810872043396,1.9984174694876498,-0.9984194944670894,</dec>
+		<hex>3f800b20,bfffcc1c,3f7f823e,3fffcc25,bf7f986c,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>57</freq>
+		<q>1.0</q>
+		<boost>0.5</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.000107196781633,-1.9963678782324892,0.9962745739403884,1.9963678782324892,-0.9963817707220213,</dec>
+		<hex>3f800383,bfff88fc,3f7f0bda,3fff88fc,bf7f12e0,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>1000</freq>
@@ -892,31 +892,31 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>11</freq>
-		<q>0.7</q>
-		<boost>6.1</boost>
+		<freq>26</freq>
+		<q>0.9</q>
+		<boost>6.2</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.0003394620117092,-1.99841641473869,0.9980810872043396,1.9984174694876498,-0.9984194944670894,</dec>
+		<hex>3f800b20,bfffcc1c,3f7f823e,3fffcc25,bf7f986c,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>11</freq>
-		<q>0.7</q>
-		<boost>6.1</boost>
+		<freq>26</freq>
+		<q>0.9</q>
+		<boost>6.2</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.0003394620117092,-1.99841641473869,0.9980810872043396,1.9984174694876498,-0.9984194944670894,</dec>
+		<hex>3f800b20,bfffcc1c,3f7f823e,3fffcc25,bf7f986c,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>57</freq>
+		<q>1.0</q>
+		<boost>0.5</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.000107196781633,-1.9963678782324892,0.9962745739403884,1.9963678782324892,-0.9963817707220213,</dec>
+		<hex>3f800383,bfff88fc,3f7f0bda,3fff88fc,bf7f12e0,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>1000</freq>
@@ -1415,35 +1415,31 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Hawkeye</beq_title>
+		<beq_title>Censor</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>hawkeye</beq_sortTitle>
+		<beq_sortTitle>censor</beq_sortTitle>
 		<beq_year>2021</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/VreJirC.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/vE8WE0P.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/pwbBCHc.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>3.5</beq_gain>
+		<beq_gain>6.0</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Disney+</beq_source>
-		<beq_overview>Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.</beq_overview>
-		<beq_rating>TV-14</beq_rating>
+		<beq_source>Disc</beq_source>
+		<beq_overview>Film censor Enid takes pride in her meticulous work, guarding unsuspecting audiences from the deleterious effects of watching the gore-filled decapitations and eye gougings she pores over. Her sense of duty to protect is amplified by guilt over her inability to recall details of the long-ago disappearance of her sister, recently declared dead in absentia. When Enid is assigned to review a disturbing film from the archive that echoes her hazy childhood memories, she begins to unravel how this eerie work might be tied to her past.</beq_overview>
+		<beq_rating>NR</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61211513</beq_avs>
-		<beq_theMovieDB>88329</beq_theMovieDB>
-		<beq_poster>/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61266943</beq_avs>
+		<beq_theMovieDB>663866</beq_theMovieDB>
+		<beq_poster>/1FOEEtGFPp5cgpLfPQVMB0UNVpI.jpg</beq_poster>
+		<beq_runtime>84</beq_runtime>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
+			<audioType>DTS-HD MA 5.1</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
-			<genre id="10759">Action &amp; Adventure</genre>
+			<genre id="9648">Mystery</genre>
+			<genre id="27">Horror</genre>
 		</beq_genres>
-		<beq_season id="88329">
-			<number>1</number>
-			<poster>/rp378be6RvDNGuPWn4eNCCCxXbE.jpg</poster>
-			<episodes count="6">1,2,3,4,5</episodes>
-		</beq_season>
 	</beq_metadata>
 </setting>

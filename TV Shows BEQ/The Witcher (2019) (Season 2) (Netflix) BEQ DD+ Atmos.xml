@@ -802,40 +802,40 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>11</freq>
-		<q>0.7</q>
-		<boost>6.1</boost>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>1.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.0000377020307087,-1.999309303952143,0.9992720768927082,1.999309348402207,-0.9993097344733531,</dec>
+		<hex>3f80013c,bfffe95e,3f7fd04b,3fffe95e,bf7fd2c3,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>11</freq>
-		<q>0.7</q>
-		<boost>6.1</boost>
+		<freq>27</freq>
+		<q>0.8</q>
+		<boost>3.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.000216601551338,-1.9979958184033175,0.997783010962842,1.9979964328918685,-0.997998998025629,</dec>
+		<hex>3f800719,bfffbe54,3f7f6eb5,3fffbe59,bf7f7cdd,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>27</freq>
+		<q>0.8</q>
+		<boost>3.4</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.000216601551338,-1.9979958184033175,0.997783010962842,1.9979964328918685,-0.997998998025629,</dec>
+		<hex>3f800719,bfffbe54,3f7f6eb5,3fffbe59,bf7f7cdd,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>80</freq>
+		<q>1.0</q>
+		<boost>0.1</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.000030062545675,-1.9947802614526042,0.9947775432360203,1.9947802614526042,-0.9948076057816954,</dec>
+		<hex>3f8000fc,bfff54f6,3f7ea9be,3fff54f6,bf7eabb6,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
 		<freq>1000</freq>
@@ -892,40 +892,40 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>11</freq>
-		<q>0.7</q>
-		<boost>6.1</boost>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>1.8</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.0000377020307087,-1.999309303952143,0.9992720768927082,1.999309348402207,-0.9993097344733531,</dec>
+		<hex>3f80013c,bfffe95e,3f7fd04b,3fffe95e,bf7fd2c3,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>11</freq>
-		<q>0.7</q>
-		<boost>6.1</boost>
+		<freq>27</freq>
+		<q>0.8</q>
+		<boost>3.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.000216601551338,-1.9979958184033175,0.997783010962842,1.9979964328918685,-0.997998998025629,</dec>
+		<hex>3f800719,bfffbe54,3f7f6eb5,3fffbe59,bf7f7cdd,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>27</freq>
+		<q>0.8</q>
+		<boost>3.4</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.000216601551338,-1.9979958184033175,0.997783010962842,1.9979964328918685,-0.997998998025629,</dec>
+		<hex>3f800719,bfffbe54,3f7f6eb5,3fffbe59,bf7f7cdd,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>80</freq>
+		<q>1.0</q>
+		<boost>0.1</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.000030062545675,-1.9947802614526042,0.9947775432360203,1.9947802614526042,-0.9948076057816954,</dec>
+		<hex>3f8000fc,bfff54f6,3f7ea9be,3fff54f6,bf7eabb6,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
 		<freq>1000</freq>
@@ -1415,35 +1415,36 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Hawkeye</beq_title>
+		<beq_title>The Witcher</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>hawkeye</beq_sortTitle>
-		<beq_year>2021</beq_year>
+		<beq_sortTitle>witcher</beq_sortTitle>
+		<beq_year>2019</beq_year>
 		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/VreJirC.jpg</beq_pvaURL>
+		<beq_pvaURL>https://i.imgur.com/gi7HgOl.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>3.5</beq_gain>
+		<beq_gain />
 		<beq_language>English</beq_language>
-		<beq_source>Disney+</beq_source>
-		<beq_overview>Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.</beq_overview>
-		<beq_rating>TV-14</beq_rating>
+		<beq_source>Netflix</beq_source>
+		<beq_overview>Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.</beq_overview>
+		<beq_rating>TV-MA</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61211513</beq_avs>
-		<beq_theMovieDB>88329</beq_theMovieDB>
-		<beq_poster>/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61272853</beq_avs>
+		<beq_theMovieDB>71912</beq_theMovieDB>
+		<beq_poster>/7vjaCdMw15FEbXyLQTVa04URsPm.jpg</beq_poster>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
 			<genre id="10759">Action &amp; Adventure</genre>
+			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
+			<genre id="18">Drama</genre>
 		</beq_genres>
-		<beq_season id="88329">
-			<number>1</number>
-			<poster>/rp378be6RvDNGuPWn4eNCCCxXbE.jpg</poster>
-			<episodes count="6">1,2,3,4,5</episodes>
+		<beq_season id="71912">
+			<number>2</number>
+			<poster>/7vjaCdMw15FEbXyLQTVa04URsPm.jpg</poster>
+			<episodes count="8">1,2,3,4,5,6,7,8</episodes>
 		</beq_season>
 	</beq_metadata>
 </setting>

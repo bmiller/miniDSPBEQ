@@ -802,49 +802,49 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>11</freq>
+		<freq>14</freq>
 		<q>0.7</q>
-		<boost>6.1</boost>
+		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.000166229301556,-1.9988465083071598,0.9986813599988245,1.9988467231223566,-0.9988473744851842,</dec>
+		<hex>3f800572,bfffda34,3f7fa995,3fffda36,bf7fb476,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>11</freq>
+		<freq>14</freq>
 		<q>0.7</q>
-		<boost>6.1</boost>
+		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.000166229301556,-1.9988465083071598,0.9986813599988245,1.9988467231223566,-0.9988473744851842,</dec>
+		<hex>3f800572,bfffda34,3f7fa995,3fffda36,bf7fb476,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>14</freq>
+		<q>0.7</q>
+		<boost>4.4</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.000166229301556,-1.9988465083071598,0.9986813599988245,1.9988467231223566,-0.9988473744851842,</dec>
+		<hex>3f800572,bfffda34,3f7fa995,3fffda36,bf7fb476,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>14</freq>
+		<q>0.7</q>
+		<boost>4.4</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.000166229301556,-1.9988465083071598,0.9986813599988245,1.9988467231223566,-0.9988473744851842,</dec>
+		<hex>3f800572,bfffda34,3f7fa995,3fffda36,bf7fb476,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>35</freq>
+		<q>2.5</q>
+		<boost>-0.5</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>0.9999736356407297,-1.999052146016725,0.9990837554115468,1.999052146016725,-0.9990573910522765,</dec>
+		<hex>3f7ffe46,bfffe0f1,3f7fc3f4,3fffe0f1,bf7fc23a,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>1000</freq>
@@ -892,49 +892,49 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>11</freq>
+		<freq>14</freq>
 		<q>0.7</q>
-		<boost>6.1</boost>
+		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.000166229301556,-1.9988465083071598,0.9986813599988245,1.9988467231223566,-0.9988473744851842,</dec>
+		<hex>3f800572,bfffda34,3f7fa995,3fffda36,bf7fb476,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>11</freq>
+		<freq>14</freq>
 		<q>0.7</q>
-		<boost>6.1</boost>
+		<boost>4.4</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001815192122712,-1.9991369360763158,0.9989561529275848,1.9991371217666751,-0.9991374864494967,</dec>
-		<hex>3f8005f3,bfffe3b8,3f7fbb97,3fffe3ba,bf7fc779,</hex>
+		<dec>1.000166229301556,-1.9988465083071598,0.9986813599988245,1.9988467231223566,-0.9988473744851842,</dec>
+		<hex>3f800572,bfffda34,3f7fa995,3fffda36,bf7fb476,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>14</freq>
+		<q>0.7</q>
+		<boost>4.4</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.000166229301556,-1.9988465083071598,0.9986813599988245,1.9988467231223566,-0.9988473744851842,</dec>
+		<hex>3f800572,bfffda34,3f7fa995,3fffda36,bf7fb476,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>14</freq>
+		<q>0.7</q>
+		<boost>4.4</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.000166229301556,-1.9988465083071598,0.9986813599988245,1.9988467231223566,-0.9988473744851842,</dec>
+		<hex>3f800572,bfffda34,3f7fa995,3fffda36,bf7fb476,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>35</freq>
+		<q>2.5</q>
+		<boost>-0.5</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>0.9999736356407297,-1.999052146016725,0.9990837554115468,1.999052146016725,-0.9990573910522765,</dec>
+		<hex>3f7ffe46,bfffe0f1,3f7fc3f4,3fffe0f1,bf7fc23a,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>1000</freq>
@@ -1415,35 +1415,32 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Hawkeye</beq_title>
+		<beq_title>Rumble</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>hawkeye</beq_sortTitle>
+		<beq_sortTitle>rumble</beq_sortTitle>
 		<beq_year>2021</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/VreJirC.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/7YHFEEL.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/V9rasLt.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>3.5</beq_gain>
+		<beq_gain>4.0</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Disney+</beq_source>
-		<beq_overview>Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.</beq_overview>
-		<beq_rating>TV-14</beq_rating>
+		<beq_source>Paramount+</beq_source>
+		<beq_overview>In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father’s footsteps by coaching a loveable underdog monster into a champion.</beq_overview>
+		<beq_rating>PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61211513</beq_avs>
-		<beq_theMovieDB>88329</beq_theMovieDB>
-		<beq_poster>/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61266389</beq_avs>
+		<beq_theMovieDB>598331</beq_theMovieDB>
+		<beq_poster>/mVKfyo2YQ1Sf0fKzZfc5t9HM6eK.jpg</beq_poster>
+		<beq_runtime>0</beq_runtime>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
+			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
-			<genre id="10759">Action &amp; Adventure</genre>
+			<genre id="10751">Family</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="16">Animation</genre>
 		</beq_genres>
-		<beq_season id="88329">
-			<number>1</number>
-			<poster>/rp378be6RvDNGuPWn4eNCCCxXbE.jpg</poster>
-			<episodes count="6">1,2,3,4,5</episodes>
-		</beq_season>
 	</beq_metadata>
 </setting>
