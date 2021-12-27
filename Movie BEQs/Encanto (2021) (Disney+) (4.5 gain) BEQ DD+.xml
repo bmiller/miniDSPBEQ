@@ -803,39 +803,39 @@
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
 		<freq>17</freq>
-		<q>6.0</q>
-		<boost>-3.7</boost>
-		<type>PK</type>
+		<q>1.1</q>
+		<boost>4.9</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>0.99996020830439,-1.9997693288889187,0.9998103584266163,1.9997693288889187,-0.9997705667310062,</dec>
-		<hex>3f7ffd64,bffff871,3f7ff392,3ffff871,bf7ff0f7,</hex>
+		<dec>1.0001432422553571,-1.9991206531846115,0.9989790516111711,1.9991210068722112,-0.9991219401789281,</dec>
+		<hex>3f8004b2,bfffe330,3f7fbd17,3fffe332,bf7fc675,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.4</boost>
+		<freq>17</freq>
+		<q>1.1</q>
+		<boost>4.9</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.000333567527455,-1.9985018387811957,0.9981712658457699,1.9985026194262807,-0.9985040527281401,</dec>
-		<hex>3f800aee,bfffcee9,3f7f8827,3fffceef,bf7f9df6,</hex>
+		<dec>1.0001432422553571,-1.9991206531846115,0.9989790516111711,1.9991210068722112,-0.9991219401789281,</dec>
+		<hex>3f8004b2,bfffe330,3f7fbd17,3fffe332,bf7fc675,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.4</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.000333567527455,-1.9985018387811957,0.9981712658457699,1.9985026194262807,-0.9985040527281401,</dec>
-		<hex>3f800aee,bfffcee9,3f7f8827,3fffceef,bf7f9df6,</hex>
-	</filter>
-	<filter addr="8295" name="PEQ_1_4">
-		<freq>70</freq>
-		<q>1.0</q>
-		<boost>0.2</boost>
+		<freq>31</freq>
+		<q>0.9</q>
+		<boost>1.1</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0000526281481656,-1.9954602607311576,0.9954285751655713,1.9954602607311576,-0.9954812033137369,</dec>
-		<hex>3f8001b9,bfff6b3e,3f7ed468,3fff6b3e,bf7ed7db,</hex>
+		<dec>1.0001426943685456,-1.9978820664394386,0.9977434843374334,1.9978820664394386,-0.9978861787059791,</dec>
+		<hex>3f8004ad,bfffba99,3f7f6c1e,3fffba99,bf7f7578,</hex>
+	</filter>
+	<filter addr="8295" name="PEQ_1_4">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
 		<freq>1000</freq>
@@ -893,39 +893,39 @@
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
 		<freq>17</freq>
-		<q>6.0</q>
-		<boost>-3.7</boost>
-		<type>PK</type>
+		<q>1.1</q>
+		<boost>4.9</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>0.99996020830439,-1.9997693288889187,0.9998103584266163,1.9997693288889187,-0.9997705667310062,</dec>
-		<hex>3f7ffd64,bffff871,3f7ff392,3ffff871,bf7ff0f7,</hex>
+		<dec>1.0001432422553571,-1.9991206531846115,0.9989790516111711,1.9991210068722112,-0.9991219401789281,</dec>
+		<hex>3f8004b2,bfffe330,3f7fbd17,3fffe332,bf7fc675,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.4</boost>
+		<freq>17</freq>
+		<q>1.1</q>
+		<boost>4.9</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.000333567527455,-1.9985018387811957,0.9981712658457699,1.9985026194262807,-0.9985040527281401,</dec>
-		<hex>3f800aee,bfffcee9,3f7f8827,3fffceef,bf7f9df6,</hex>
+		<dec>1.0001432422553571,-1.9991206531846115,0.9989790516111711,1.9991210068722112,-0.9991219401789281,</dec>
+		<hex>3f8004b2,bfffe330,3f7fbd17,3fffe332,bf7fc675,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.4</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.000333567527455,-1.9985018387811957,0.9981712658457699,1.9985026194262807,-0.9985040527281401,</dec>
-		<hex>3f800aee,bfffcee9,3f7f8827,3fffceef,bf7f9df6,</hex>
-	</filter>
-	<filter addr="8345" name="PEQ_2_4">
-		<freq>70</freq>
-		<q>1.0</q>
-		<boost>0.2</boost>
+		<freq>31</freq>
+		<q>0.9</q>
+		<boost>1.1</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0000526281481656,-1.9954602607311576,0.9954285751655713,1.9954602607311576,-0.9954812033137369,</dec>
-		<hex>3f8001b9,bfff6b3e,3f7ed468,3fff6b3e,bf7ed7db,</hex>
+		<dec>1.0001426943685456,-1.9978820664394386,0.9977434843374334,1.9978820664394386,-0.9978861787059791,</dec>
+		<hex>3f8004ad,bfffba99,3f7f6c1e,3fffba99,bf7f7578,</hex>
+	</filter>
+	<filter addr="8345" name="PEQ_2_4">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
 		<freq>1000</freq>
@@ -1415,36 +1415,33 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>The Wheel of Time</beq_title>
+		<beq_title>Encanto</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>wheel of time</beq_sortTitle>
+		<beq_sortTitle>encanto</beq_sortTitle>
 		<beq_year>2021</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/8dw9Kmn.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/zrLi7ML.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/CiZNXrB.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>1.5</beq_gain>
+		<beq_gain>4.5</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Amazon</beq_source>
-		<beq_overview>Follow Moiraine, a member of the shadowy and influential all-female organization called the “Aes Sedai” as she embarks on a dangerous, world-spanning journey with five young men and women. Moiraine believes one of them might be the reincarnation of an incredibly powerful individual, whom prophecies say will either save humanity or destroy it.</beq_overview>
-		<beq_rating>TV-MA</beq_rating>
+		<beq_source>Disney+</beq_source>
+		<beq_overview>The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family&apos;s last hope.</beq_overview>
+		<beq_rating>PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61192342</beq_avs>
-		<beq_theMovieDB>71914</beq_theMovieDB>
-		<beq_poster>/mpgDeLhl8HbhI03XLB7iKO6M6JE.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61288340</beq_avs>
+		<beq_theMovieDB>568124</beq_theMovieDB>
+		<beq_poster>/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg</beq_poster>
+		<beq_runtime>102</beq_runtime>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
+			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10759">Action &amp; Adventure</genre>
-			<genre id="18">Drama</genre>
-			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
+			<genre id="16">Animation</genre>
+			<genre id="10751">Family</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
-		<beq_season id="71914">
-			<number>1</number>
-			<poster>/wsneC3WxHWShLp5MroTtR1HvaMf.jpg</poster>
-			<episodes count="8">1,2,3,4,5,6,7,8</episodes>
-		</beq_season>
 	</beq_metadata>
 </setting>
