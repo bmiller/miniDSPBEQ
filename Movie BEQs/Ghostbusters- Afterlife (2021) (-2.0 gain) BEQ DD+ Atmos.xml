@@ -840,11 +840,11 @@
 	<filter addr="8300" name="PEQ_1_5">
 		<freq>48</freq>
 		<q>1.0</q>
-		<boost>4.0</boost>
+		<boost>0.4</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0007288769002,-1.9974978008203514,0.9967787812172307,1.9974978008203514,-0.9975076581174308,</dec>
-		<hex>3f8017e2,bfffae02,3f7f2ce5,3fffae02,bf7f5ca9,</hex>
+		<dec>1.0000722332366523,-1.9969247747675611,0.9968623960002063,1.9969247747675611,-0.9969346292368586,</dec>
+		<hex>3f80025e,bfff9b3b,3f7f3260,3fff9b3b,bf7f371c,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>1000</freq>
@@ -930,11 +930,11 @@
 	<filter addr="8350" name="PEQ_2_5">
 		<freq>48</freq>
 		<q>1.0</q>
-		<boost>4.0</boost>
+		<boost>0.4</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.0007288769002,-1.9974978008203514,0.9967787812172307,1.9974978008203514,-0.9975076581174308,</dec>
-		<hex>3f8017e2,bfffae02,3f7f2ce5,3fffae02,bf7f5ca9,</hex>
+		<dec>1.0000722332366523,-1.9969247747675611,0.9968623960002063,1.9969247747675611,-0.9969346292368586,</dec>
+		<hex>3f80025e,bfff9b3b,3f7f3260,3fff9b3b,bf7f371c,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>1000</freq>
@@ -1439,10 +1439,10 @@
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="35">Comedy</genre>
 			<genre id="878">Science Fiction</genre>
-			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
+			<genre id="35">Comedy</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
