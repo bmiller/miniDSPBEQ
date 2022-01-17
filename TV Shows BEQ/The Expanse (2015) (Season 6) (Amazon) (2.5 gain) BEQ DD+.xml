@@ -1424,7 +1424,7 @@
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>2.5</beq_gain>
+		<beq_gain>3.5</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Amazon</beq_source>
 		<beq_overview>A thriller set two hundred years in the future following the case of a missing young woman who brings a hardened detective and a rogue ship&apos;s captain together in a race across the solar system to expose the greatest conspiracy in human history.</beq_overview>
@@ -1444,7 +1444,7 @@
 		<beq_season id="63639">
 			<number>6</number>
 			<poster>/lLidDKUYF5pcmH7zaM6J6nyRQGG.jpg</poster>
-			<episodes count="6">1,2,3,4</episodes>
+			<episodes count="6">1,2,3,4,5,6</episodes>
 		</beq_season>
 	</beq_metadata>
 </setting>
