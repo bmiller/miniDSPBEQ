@@ -1436,12 +1436,13 @@
 		<beq_runtime>131</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
-			<genre id="28">Action</genre>
-			<genre id="10752">War</genre>
 			<genre id="53">Thriller</genre>
+			<genre id="10752">War</genre>
+			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

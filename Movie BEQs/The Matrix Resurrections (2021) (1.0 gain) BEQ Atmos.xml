@@ -802,58 +802,58 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>17</freq>
-		<q>1.1</q>
-		<boost>4.9</boost>
+		<freq>19</freq>
+		<q>0.9</q>
+		<boost>6.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001432422553571,-1.9991206531846115,0.9989790516111711,1.9991210068722112,-0.9991219401789281,</dec>
-		<hex>3f8004b2,bfffe330,3f7fbd17,3fffe332,bf7fc675,</hex>
+		<dec>1.0002520616855615,-1.9988464393132566,0.9985965987591428,1.9988470121737447,-0.9988480875842162,</dec>
+		<hex>3f800842,bfffda33,3f7fa407,3fffda38,bf7fb482,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>17</freq>
-		<q>1.1</q>
-		<boost>4.9</boost>
+		<freq>19</freq>
+		<q>0.9</q>
+		<boost>6.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001432422553571,-1.9991206531846115,0.9989790516111711,1.9991210068722112,-0.9991219401789281,</dec>
-		<hex>3f8004b2,bfffe330,3f7fbd17,3fffe332,bf7fc675,</hex>
+		<dec>1.0002520616855615,-1.9988464393132566,0.9985965987591428,1.9988470121737447,-0.9988480875842162,</dec>
+		<hex>3f800842,bfffda33,3f7fa407,3fffda38,bf7fb482,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>31</freq>
+		<freq>19</freq>
 		<q>0.9</q>
-		<boost>1.1</boost>
-		<type>PK</type>
+		<boost>6.3</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001426943685456,-1.9978820664394386,0.9977434843374334,1.9978820664394386,-0.9978861787059791,</dec>
-		<hex>3f8004ad,bfffba99,3f7f6c1e,3fffba99,bf7f7578,</hex>
+		<dec>1.0002520616855615,-1.9988464393132566,0.9985965987591428,1.9988470121737447,-0.9988480875842162,</dec>
+		<hex>3f800842,bfffda33,3f7fa407,3fffda38,bf7fb482,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>1000</freq>
+		<freq>19</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>6.3</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0002520616855615,-1.9988464393132566,0.9985965987591428,1.9988470121737447,-0.9988480875842162,</dec>
+		<hex>3f800842,bfffda33,3f7fa407,3fffda38,bf7fb482,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
-		<freq>1000</freq>
+		<freq>19</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>6.3</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0002520616855615,-1.9988464393132566,0.9985965987591428,1.9988470121737447,-0.9988480875842162,</dec>
+		<hex>3f800842,bfffda33,3f7fa407,3fffda38,bf7fb482,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>44</freq>
+		<q>0.8</q>
+		<boost>1.2</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0002484414831396,-1.9966378845889399,0.9963977224022998,1.9966378845889399,-0.9966461638854394,</dec>
+		<hex>3f800824,bfff91d5,3f7f13ec,3fff91d5,bf7f2434,</hex>
 	</filter>
 	<filter addr="8310" name="PEQ_1_7">
 		<freq>1000</freq>
@@ -892,58 +892,58 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>17</freq>
-		<q>1.1</q>
-		<boost>4.9</boost>
+		<freq>19</freq>
+		<q>0.9</q>
+		<boost>6.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001432422553571,-1.9991206531846115,0.9989790516111711,1.9991210068722112,-0.9991219401789281,</dec>
-		<hex>3f8004b2,bfffe330,3f7fbd17,3fffe332,bf7fc675,</hex>
+		<dec>1.0002520616855615,-1.9988464393132566,0.9985965987591428,1.9988470121737447,-0.9988480875842162,</dec>
+		<hex>3f800842,bfffda33,3f7fa407,3fffda38,bf7fb482,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>17</freq>
-		<q>1.1</q>
-		<boost>4.9</boost>
+		<freq>19</freq>
+		<q>0.9</q>
+		<boost>6.3</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001432422553571,-1.9991206531846115,0.9989790516111711,1.9991210068722112,-0.9991219401789281,</dec>
-		<hex>3f8004b2,bfffe330,3f7fbd17,3fffe332,bf7fc675,</hex>
+		<dec>1.0002520616855615,-1.9988464393132566,0.9985965987591428,1.9988470121737447,-0.9988480875842162,</dec>
+		<hex>3f800842,bfffda33,3f7fa407,3fffda38,bf7fb482,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>31</freq>
+		<freq>19</freq>
 		<q>0.9</q>
-		<boost>1.1</boost>
-		<type>PK</type>
+		<boost>6.3</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0001426943685456,-1.9978820664394386,0.9977434843374334,1.9978820664394386,-0.9978861787059791,</dec>
-		<hex>3f8004ad,bfffba99,3f7f6c1e,3fffba99,bf7f7578,</hex>
+		<dec>1.0002520616855615,-1.9988464393132566,0.9985965987591428,1.9988470121737447,-0.9988480875842162,</dec>
+		<hex>3f800842,bfffda33,3f7fa407,3fffda38,bf7fb482,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>1000</freq>
+		<freq>19</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>6.3</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0002520616855615,-1.9988464393132566,0.9985965987591428,1.9988470121737447,-0.9988480875842162,</dec>
+		<hex>3f800842,bfffda33,3f7fa407,3fffda38,bf7fb482,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
-		<freq>1000</freq>
+		<freq>19</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>6.3</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0002520616855615,-1.9988464393132566,0.9985965987591428,1.9988470121737447,-0.9988480875842162,</dec>
+		<hex>3f800842,bfffda33,3f7fa407,3fffda38,bf7fb482,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>44</freq>
+		<q>0.8</q>
+		<boost>1.2</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0002484414831396,-1.9966378845889399,0.9963977224022998,1.9966378845889399,-0.9966461638854394,</dec>
+		<hex>3f800824,bfff91d5,3f7f13ec,3fff91d5,bf7f2434,</hex>
 	</filter>
 	<filter addr="8360" name="PEQ_2_7">
 		<freq>1000</freq>
@@ -1415,34 +1415,33 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Encanto</beq_title>
+		<beq_title>The Matrix Resurrections</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>encanto</beq_sortTitle>
+		<beq_sortTitle>matrix resurrections</beq_sortTitle>
 		<beq_year>2021</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/zrLi7ML.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/CiZNXrB.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/ycHCZ4H.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/hWKaBRJ.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>4.5</beq_gain>
+		<beq_gain>1.0</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Disney+</beq_source>
-		<beq_overview>The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family&apos;s last hope.</beq_overview>
-		<beq_rating>PG</beq_rating>
+		<beq_source>Disc</beq_source>
+		<beq_overview>Plagued by strange memories, Neo&apos;s life takes an unexpected turn when he finds himself back inside the Matrix.</beq_overview>
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61288340</beq_avs>
-		<beq_theMovieDB>568124</beq_theMovieDB>
-		<beq_poster>/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg</beq_poster>
-		<beq_runtime>102</beq_runtime>
+		<beq_avs>https://www.avsforum.com/goto/post?id=61284849</beq_avs>
+		<beq_theMovieDB>624860</beq_theMovieDB>
+		<beq_poster>/8c4a8kE7PizaGQQnditMmI1xbRp.jpg</beq_poster>
+		<beq_runtime>148</beq_runtime>
+		<beq_collection id="2344">The Matrix Collection</beq_collection>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="16">Animation</genre>
-			<genre id="10751">Family</genre>
-			<genre id="35">Comedy</genre>
-			<genre id="14">Fantasy</genre>
+			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="878">Science Fiction</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
