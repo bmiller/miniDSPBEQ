@@ -802,49 +802,49 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>20</freq>
-		<q>0.8</q>
-		<boost>5.5</boost>
+		<freq>16</freq>
+		<q>0.9</q>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002601994728462,-1.9986024905429933,0.998344641103738,1.99860304176165,-0.9986042893579269,</dec>
-		<hex>3f800887,bfffd235,3f7f9384,3fffd239,bf7fa488,</hex>
+		<dec>1.000168102600114,-1.9989917704550677,0.9988251294884413,1.9989920903033553,-0.9989929122402676,</dec>
+		<hex>3f800582,bfffdef6,3f7fb301,3fffdef9,bf7fbe00,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>20</freq>
 		<q>0.8</q>
-		<boost>5.5</boost>
+		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002601994728462,-1.9986024905429933,0.998344641103738,1.99860304176165,-0.9986042893579269,</dec>
-		<hex>3f800887,bfffd235,3f7f9384,3fffd239,bf7fa488,</hex>
+		<dec>1.0002840825472727,-1.9986224022340286,0.9983407383667043,1.9986230054682466,-0.9986242176797591,</dec>
+		<hex>3f80094f,bfffd2dc,3f7f9342,3fffd2e1,bf7fa5d6,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>65</freq>
-		<q>1.0</q>
-		<boost>0.1</boost>
-		<type>PK</type>
+		<freq>20</freq>
+		<q>0.8</q>
+		<boost>6.0</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000244377521892,-1.995761058154993,0.9957546807380474,1.995761058154993,-0.9957791184902367,</dec>
-		<hex>3f8000cd,bfff7519,3f7ee9c7,3fff7519,bf7eeb61,</hex>
+		<dec>1.0002840825472727,-1.9986224022340286,0.9983407383667043,1.9986230054682466,-0.9986242176797591,</dec>
+		<hex>3f80094f,bfffd2dc,3f7f9342,3fffd2e1,bf7fa5d6,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>20</freq>
+		<q>0.8</q>
+		<boost>6.0</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0002840825472727,-1.9986224022340286,0.9983407383667043,1.9986230054682466,-0.9986242176797591,</dec>
+		<hex>3f80094f,bfffd2dc,3f7f9342,3fffd2e1,bf7fa5d6,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>60</freq>
+		<q>1.0</q>
+		<boost>0.3</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0000676892937022,-1.9961322965520407,0.99607999879169,1.9961322965520407,-0.9961476880853919,</dec>
+		<hex>3f800238,bfff8143,3f7eff19,3fff8143,bf7f0389,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>1000</freq>
@@ -892,49 +892,49 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>20</freq>
-		<q>0.8</q>
-		<boost>5.5</boost>
+		<freq>16</freq>
+		<q>0.9</q>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002601994728462,-1.9986024905429933,0.998344641103738,1.99860304176165,-0.9986042893579269,</dec>
-		<hex>3f800887,bfffd235,3f7f9384,3fffd239,bf7fa488,</hex>
+		<dec>1.000168102600114,-1.9989917704550677,0.9988251294884413,1.9989920903033553,-0.9989929122402676,</dec>
+		<hex>3f800582,bfffdef6,3f7fb301,3fffdef9,bf7fbe00,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>20</freq>
 		<q>0.8</q>
-		<boost>5.5</boost>
+		<boost>6.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002601994728462,-1.9986024905429933,0.998344641103738,1.99860304176165,-0.9986042893579269,</dec>
-		<hex>3f800887,bfffd235,3f7f9384,3fffd239,bf7fa488,</hex>
+		<dec>1.0002840825472727,-1.9986224022340286,0.9983407383667043,1.9986230054682466,-0.9986242176797591,</dec>
+		<hex>3f80094f,bfffd2dc,3f7f9342,3fffd2e1,bf7fa5d6,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>65</freq>
-		<q>1.0</q>
-		<boost>0.1</boost>
-		<type>PK</type>
+		<freq>20</freq>
+		<q>0.8</q>
+		<boost>6.0</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000244377521892,-1.995761058154993,0.9957546807380474,1.995761058154993,-0.9957791184902367,</dec>
-		<hex>3f8000cd,bfff7519,3f7ee9c7,3fff7519,bf7eeb61,</hex>
+		<dec>1.0002840825472727,-1.9986224022340286,0.9983407383667043,1.9986230054682466,-0.9986242176797591,</dec>
+		<hex>3f80094f,bfffd2dc,3f7f9342,3fffd2e1,bf7fa5d6,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>20</freq>
+		<q>0.8</q>
+		<boost>6.0</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0002840825472727,-1.9986224022340286,0.9983407383667043,1.9986230054682466,-0.9986242176797591,</dec>
+		<hex>3f80094f,bfffd2dc,3f7f9342,3fffd2e1,bf7fa5d6,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
+		<freq>60</freq>
+		<q>1.0</q>
+		<boost>0.3</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0000676892937022,-1.9961322965520407,0.99607999879169,1.9961322965520407,-0.9961476880853919,</dec>
+		<hex>3f800238,bfff8143,3f7eff19,3fff8143,bf7f0389,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>1000</freq>
@@ -1415,36 +1415,32 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Obi-Wan Kenobi</beq_title>
+		<beq_title>Ambulance</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>obi-wan kenobi</beq_sortTitle>
+		<beq_sortTitle>ambulance</beq_sortTitle>
 		<beq_year>2022</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/bhCWbq9.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/lPdt7YB.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/TUfPeMk.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>+3.5</beq_gain>
+		<beq_gain>-2.0</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Disney+</beq_source>
-		<beq_overview>During the reign of the Galactic Empire, former Jedi Master, Obi-Wan Kenobi, embarks on a crucial mission to confront allies turned enemies and face the wrath of the Empire.</beq_overview>
-		<beq_rating>TV-14</beq_rating>
+		<beq_source>Disc</beq_source>
+		<beq_overview>Decorated veteran Will Sharp, desperate for money to cover his wife&apos;s medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.</beq_overview>
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61735465</beq_avs>
-		<beq_theMovieDB>92830</beq_theMovieDB>
-		<beq_poster>/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/goto/post?id=61619885</beq_avs>
+		<beq_theMovieDB>763285</beq_theMovieDB>
+		<beq_poster>/zT5ynZ0UR6HFfWQSRf2uKtqCyWD.jpg</beq_poster>
+		<beq_runtime>136</beq_runtime>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="18">Drama</genre>
-			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
-			<genre id="10759">Action &amp; Adventure</genre>
+			<genre id="80">Crime</genre>
+			<genre id="28">Action</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
-		<beq_season id="92830">
-			<number>1</number>
-			<poster>/oPkm7vwYCa1McT8jEIFWLj393s4.jpg</poster>
-			<episodes count="6">1,2,3,4,5,6</episodes>
-		</beq_season>
 	</beq_metadata>
 </setting>
