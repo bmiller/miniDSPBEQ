@@ -803,39 +803,39 @@
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
 		<freq>23</freq>
-		<q>9.0</q>
+		<q>0.9</q>
 		<boost>6.9</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000338960594253,-1.9998604287863764,0.9998299036059559,1.9998613526500206,-0.9998628758017366,</dec>
-		<hex>3f80011c,bffffb6d,3f7ff4da,3ffffb75,bf7ff703,</hex>
+		<dec>1.000334596741957,-1.998627158126291,0.9982959301845908,1.9986280814202086,-0.99862960363263,</dec>
+		<hex>3f800af7,bfffd304,3f7f9052,3fffd30c,bf7fa631,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
 		<freq>23</freq>
-		<q>9.0</q>
+		<q>0.9</q>
 		<boost>6.9</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000338960594253,-1.9998604287863764,0.9998299036059559,1.9998613526500206,-0.9998628758017366,</dec>
-		<hex>3f80011c,bffffb6d,3f7ff4da,3ffffb75,bf7ff703,</hex>
+		<dec>1.000334596741957,-1.998627158126291,0.9982959301845908,1.9986280814202086,-0.99862960363263,</dec>
+		<hex>3f800af7,bfffd304,3f7f9052,3fffd30c,bf7fa631,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
 		<freq>23</freq>
-		<q>9.0</q>
+		<q>0.9</q>
 		<boost>6.9</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000338960594253,-1.9998604287863764,0.9998299036059559,1.9998613526500206,-0.9998628758017366,</dec>
-		<hex>3f80011c,bffffb6d,3f7ff4da,3ffffb75,bf7ff703,</hex>
+		<dec>1.000334596741957,-1.998627158126291,0.9982959301845908,1.9986280814202086,-0.99862960363263,</dec>
+		<hex>3f800af7,bfffd304,3f7f9052,3fffd30c,bf7fa631,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
 		<freq>23</freq>
-		<q>9.0</q>
+		<q>0.9</q>
 		<boost>6.9</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000338960594253,-1.9998604287863764,0.9998299036059559,1.9998613526500206,-0.9998628758017366,</dec>
-		<hex>3f80011c,bffffb6d,3f7ff4da,3ffffb75,bf7ff703,</hex>
+		<dec>1.000334596741957,-1.998627158126291,0.9982959301845908,1.9986280814202086,-0.99862960363263,</dec>
+		<hex>3f800af7,bfffd304,3f7f9052,3fffd30c,bf7fa631,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
 		<freq>54</freq>
@@ -893,39 +893,39 @@
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
 		<freq>23</freq>
-		<q>9.0</q>
+		<q>0.9</q>
 		<boost>6.9</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000338960594253,-1.9998604287863764,0.9998299036059559,1.9998613526500206,-0.9998628758017366,</dec>
-		<hex>3f80011c,bffffb6d,3f7ff4da,3ffffb75,bf7ff703,</hex>
+		<dec>1.000334596741957,-1.998627158126291,0.9982959301845908,1.9986280814202086,-0.99862960363263,</dec>
+		<hex>3f800af7,bfffd304,3f7f9052,3fffd30c,bf7fa631,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
 		<freq>23</freq>
-		<q>9.0</q>
+		<q>0.9</q>
 		<boost>6.9</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000338960594253,-1.9998604287863764,0.9998299036059559,1.9998613526500206,-0.9998628758017366,</dec>
-		<hex>3f80011c,bffffb6d,3f7ff4da,3ffffb75,bf7ff703,</hex>
+		<dec>1.000334596741957,-1.998627158126291,0.9982959301845908,1.9986280814202086,-0.99862960363263,</dec>
+		<hex>3f800af7,bfffd304,3f7f9052,3fffd30c,bf7fa631,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
 		<freq>23</freq>
-		<q>9.0</q>
+		<q>0.9</q>
 		<boost>6.9</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000338960594253,-1.9998604287863764,0.9998299036059559,1.9998613526500206,-0.9998628758017366,</dec>
-		<hex>3f80011c,bffffb6d,3f7ff4da,3ffffb75,bf7ff703,</hex>
+		<dec>1.000334596741957,-1.998627158126291,0.9982959301845908,1.9986280814202086,-0.99862960363263,</dec>
+		<hex>3f800af7,bfffd304,3f7f9052,3fffd30c,bf7fa631,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
 		<freq>23</freq>
-		<q>9.0</q>
+		<q>0.9</q>
 		<boost>6.9</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000338960594253,-1.9998604287863764,0.9998299036059559,1.9998613526500206,-0.9998628758017366,</dec>
-		<hex>3f80011c,bffffb6d,3f7ff4da,3ffffb75,bf7ff703,</hex>
+		<dec>1.000334596741957,-1.998627158126291,0.9982959301845908,1.9986280814202086,-0.99862960363263,</dec>
+		<hex>3f800af7,bfffd304,3f7f9052,3fffd30c,bf7fa631,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
 		<freq>54</freq>
@@ -1439,8 +1439,8 @@
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="28">Action</genre>
 			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
