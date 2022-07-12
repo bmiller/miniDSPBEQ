@@ -1436,10 +1436,11 @@
 		<beq_runtime>156</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="14">Fantasy</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="14">Fantasy</genre>
 			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
 		</beq_genres>

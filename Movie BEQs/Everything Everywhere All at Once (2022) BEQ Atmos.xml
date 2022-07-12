@@ -802,49 +802,49 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>25</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
+		<freq>15</freq>
+		<q>1.1</q>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002733139059932,-1.9984330978276137,0.9981633926773971,1.9984339106261007,-0.9984358937849035,</dec>
-		<hex>3f8008f5,bfffcca8,3f7f87a3,3fffccaf,bf7f997f,</hex>
+		<dec>1.000128975355513,-1.9992264236360378,0.9990987330700457,1.999226704785677,-0.9992274272759188,</dec>
+		<hex>3f80043a,bfffe6a7,3f7fc4ef,3fffe6a9,bf7fcd5e,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>25</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
+		<freq>15</freq>
+		<q>1.1</q>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002733139059932,-1.9984330978276137,0.9981633926773971,1.9984339106261007,-0.9984358937849035,</dec>
-		<hex>3f8008f5,bfffcca8,3f7f87a3,3fffccaf,bf7f997f,</hex>
+		<dec>1.000128975355513,-1.9992264236360378,0.9990987330700457,1.999226704785677,-0.9992274272759188,</dec>
+		<hex>3f80043a,bfffe6a7,3f7fc4ef,3fffe6a9,bf7fcd5e,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>25</freq>
+		<freq>29</freq>
 		<q>0.9</q>
-		<boost>5.2</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0002733139059932,-1.9984330978276137,0.9981633926773971,1.9984339106261007,-0.9984358937849035,</dec>
-		<hex>3f8008f5,bfffcca8,3f7f87a3,3fffccaf,bf7f997f,</hex>
-	</filter>
-	<filter addr="8295" name="PEQ_1_4">
-		<freq>25</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0002733139059932,-1.9984330978276137,0.9981633926773971,1.9984339106261007,-0.9984358937849035,</dec>
-		<hex>3f8008f5,bfffcca8,3f7f87a3,3fffccaf,bf7f997f,</hex>
-	</filter>
-	<filter addr="8300" name="PEQ_1_5">
-		<freq>59</freq>
-		<q>0.9</q>
-		<boost>0.8</boost>
+		<boost>1.0</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.000197254713939,-1.9958960144877125,0.9957136407666072,1.9958960144877125,-0.9959108954805461,</dec>
-		<hex>3f800677,bfff7985,3f7ee717,3fff7985,bf7ef404,</hex>
+		<dec>1.000121346503991,-1.9980074149197125,0.9978896674088567,1.9980074149197125,-0.9980110139128479,</dec>
+		<hex>3f8003fa,bfffbeb5,3f7f75b2,3fffbeb5,bf7f7da6,</hex>
+	</filter>
+	<filter addr="8295" name="PEQ_1_4">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
+	</filter>
+	<filter addr="8300" name="PEQ_1_5">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>1000</freq>
@@ -892,49 +892,49 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>25</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
+		<freq>15</freq>
+		<q>1.1</q>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002733139059932,-1.9984330978276137,0.9981633926773971,1.9984339106261007,-0.9984358937849035,</dec>
-		<hex>3f8008f5,bfffcca8,3f7f87a3,3fffccaf,bf7f997f,</hex>
+		<dec>1.000128975355513,-1.9992264236360378,0.9990987330700457,1.999226704785677,-0.9992274272759188,</dec>
+		<hex>3f80043a,bfffe6a7,3f7fc4ef,3fffe6a9,bf7fcd5e,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>25</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
+		<freq>15</freq>
+		<q>1.1</q>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002733139059932,-1.9984330978276137,0.9981633926773971,1.9984339106261007,-0.9984358937849035,</dec>
-		<hex>3f8008f5,bfffcca8,3f7f87a3,3fffccaf,bf7f997f,</hex>
+		<dec>1.000128975355513,-1.9992264236360378,0.9990987330700457,1.999226704785677,-0.9992274272759188,</dec>
+		<hex>3f80043a,bfffe6a7,3f7fc4ef,3fffe6a9,bf7fcd5e,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>25</freq>
+		<freq>29</freq>
 		<q>0.9</q>
-		<boost>5.2</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0002733139059932,-1.9984330978276137,0.9981633926773971,1.9984339106261007,-0.9984358937849035,</dec>
-		<hex>3f8008f5,bfffcca8,3f7f87a3,3fffccaf,bf7f997f,</hex>
-	</filter>
-	<filter addr="8345" name="PEQ_2_4">
-		<freq>25</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0002733139059932,-1.9984330978276137,0.9981633926773971,1.9984339106261007,-0.9984358937849035,</dec>
-		<hex>3f8008f5,bfffcca8,3f7f87a3,3fffccaf,bf7f997f,</hex>
-	</filter>
-	<filter addr="8350" name="PEQ_2_5">
-		<freq>59</freq>
-		<q>0.9</q>
-		<boost>0.8</boost>
+		<boost>1.0</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.000197254713939,-1.9958960144877125,0.9957136407666072,1.9958960144877125,-0.9959108954805461,</dec>
-		<hex>3f800677,bfff7985,3f7ee717,3fff7985,bf7ef404,</hex>
+		<dec>1.000121346503991,-1.9980074149197125,0.9978896674088567,1.9980074149197125,-0.9980110139128479,</dec>
+		<hex>3f8003fa,bfffbeb5,3f7f75b2,3fffbeb5,bf7f7da6,</hex>
+	</filter>
+	<filter addr="8345" name="PEQ_2_4">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
+	</filter>
+	<filter addr="8350" name="PEQ_2_5">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>1000</freq>
@@ -1415,34 +1415,32 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Doctor Strange in the Multiverse of Madness</beq_title>
+		<beq_title>Everything Everywhere All at Once</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>doctor strange in the multiverse of madness</beq_sortTitle>
+		<beq_sortTitle>everything everywhere all at once</beq_sortTitle>
 		<beq_year>2022</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/fqNCvx7.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/NejqgHd.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/3yCbVlC.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/Moz0dyS.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
 		<beq_gain />
 		<beq_language>English</beq_language>
-		<beq_source>Disney+</beq_source>
-		<beq_overview>Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.</beq_overview>
-		<beq_rating>PG-13</beq_rating>
+		<beq_source>Disc</beq_source>
+		<beq_overview>An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what&apos;s important to her by connecting with the lives she could have led in other universes.</beq_overview>
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61767150</beq_avs>
-		<beq_theMovieDB>453395</beq_theMovieDB>
-		<beq_poster>/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg</beq_poster>
-		<beq_runtime>126</beq_runtime>
-		<beq_collection id="618529">Doctor Strange Collection</beq_collection>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61812757</beq_avs>
+		<beq_theMovieDB>545611</beq_theMovieDB>
+		<beq_poster>/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg</beq_poster>
+		<beq_runtime>140</beq_runtime>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
 			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="12">Adventure</genre>
+			<genre id="878">Science Fiction</genre>
 			<genre id="28">Action</genre>
-			<genre id="14">Fantasy</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
