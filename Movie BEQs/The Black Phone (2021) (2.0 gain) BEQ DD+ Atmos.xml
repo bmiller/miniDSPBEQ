@@ -802,49 +802,49 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>10</freq>
-		<q>0.9</q>
-		<boost>3.7</boost>
+		<freq>24</freq>
+		<q>1.1</q>
+		<boost>5.1</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000776120890318,-1.9993460190245353,0.9992689368128173,1.999346110923661,-0.9993464570027231,</dec>
-		<hex>3f80028b,bfffea92,3f7fd017,3fffea93,bf7fd52b,</hex>
+		<dec>1.0002106064453913,-1.9987651470515186,0.998557847894502,1.9987658814278622,-0.9987677199635496,</dec>
+		<hex>3f8006e7,bfffd789,3f7fa17d,3fffd78f,bf7faf3e,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.1</boost>
+		<freq>24</freq>
+		<q>1.1</q>
+		<boost>5.1</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0003177646987886,-1.9984888887689083,0.9981740673722485,1.9984896312901723,-0.9984910895497734,</dec>
-		<hex>3f800a6a,bfffce7c,3f7f8856,3fffce82,bf7f9d1d,</hex>
+		<dec>1.0002106064453913,-1.9987651470515186,0.998557847894502,1.9987658814278622,-0.9987677199635496,</dec>
+		<hex>3f8006e7,bfffd789,3f7fa17d,3fffd78f,bf7faf3e,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.1</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0003177646987886,-1.9984888887689083,0.9981740673722485,1.9984896312901723,-0.9984910895497734,</dec>
-		<hex>3f800a6a,bfffce7c,3f7f8856,3fffce82,bf7f9d1d,</hex>
-	</filter>
-	<filter addr="8295" name="PEQ_1_4">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.1</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0003177646987886,-1.9984888887689083,0.9981740673722485,1.9984896312901723,-0.9984910895497734,</dec>
-		<hex>3f800a6a,bfffce7c,3f7f8856,3fffce82,bf7f9d1d,</hex>
-	</filter>
-	<filter addr="8300" name="PEQ_1_5">
-		<freq>65</freq>
-		<q>0.8</q>
-		<boost>0.2</boost>
+		<freq>42</freq>
+		<q>0.9</q>
+		<boost>1.2</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.000061064099319,-1.9947388183992636,0.9946958053845854,1.9947388183992636,-0.9947568694839045,</dec>
-		<hex>3f800200,bfff539a,3f7ea462,3fff539a,bf7ea863,</hex>
+		<dec>1.0002108524330966,-1.9971460516570216,0.9969427448807417,1.9971460516570216,-0.9971535973138385,</dec>
+		<hex>3f8006e9,bfffa27b,3f7f37a4,3fffa27b,bf7f4575,</hex>
+	</filter>
+	<filter addr="8295" name="PEQ_1_4">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
+	</filter>
+	<filter addr="8300" name="PEQ_1_5">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>1000</freq>
@@ -892,49 +892,49 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>10</freq>
-		<q>0.9</q>
-		<boost>3.7</boost>
+		<freq>24</freq>
+		<q>1.1</q>
+		<boost>5.1</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000776120890318,-1.9993460190245353,0.9992689368128173,1.999346110923661,-0.9993464570027231,</dec>
-		<hex>3f80028b,bfffea92,3f7fd017,3fffea93,bf7fd52b,</hex>
+		<dec>1.0002106064453913,-1.9987651470515186,0.998557847894502,1.9987658814278622,-0.9987677199635496,</dec>
+		<hex>3f8006e7,bfffd789,3f7fa17d,3fffd78f,bf7faf3e,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.1</boost>
+		<freq>24</freq>
+		<q>1.1</q>
+		<boost>5.1</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0003177646987886,-1.9984888887689083,0.9981740673722485,1.9984896312901723,-0.9984910895497734,</dec>
-		<hex>3f800a6a,bfffce7c,3f7f8856,3fffce82,bf7f9d1d,</hex>
+		<dec>1.0002106064453913,-1.9987651470515186,0.998557847894502,1.9987658814278622,-0.9987677199635496,</dec>
+		<hex>3f8006e7,bfffd789,3f7fa17d,3fffd78f,bf7faf3e,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.1</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0003177646987886,-1.9984888887689083,0.9981740673722485,1.9984896312901723,-0.9984910895497734,</dec>
-		<hex>3f800a6a,bfffce7c,3f7f8856,3fffce82,bf7f9d1d,</hex>
-	</filter>
-	<filter addr="8345" name="PEQ_2_4">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.1</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0003177646987886,-1.9984888887689083,0.9981740673722485,1.9984896312901723,-0.9984910895497734,</dec>
-		<hex>3f800a6a,bfffce7c,3f7f8856,3fffce82,bf7f9d1d,</hex>
-	</filter>
-	<filter addr="8350" name="PEQ_2_5">
-		<freq>65</freq>
-		<q>0.8</q>
-		<boost>0.2</boost>
+		<freq>42</freq>
+		<q>0.9</q>
+		<boost>1.2</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.000061064099319,-1.9947388183992636,0.9946958053845854,1.9947388183992636,-0.9947568694839045,</dec>
-		<hex>3f800200,bfff539a,3f7ea462,3fff539a,bf7ea863,</hex>
+		<dec>1.0002108524330966,-1.9971460516570216,0.9969427448807417,1.9971460516570216,-0.9971535973138385,</dec>
+		<hex>3f8006e9,bfffa27b,3f7f37a4,3fffa27b,bf7f4575,</hex>
+	</filter>
+	<filter addr="8345" name="PEQ_2_4">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
+	</filter>
+	<filter addr="8350" name="PEQ_2_5">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>1000</freq>
@@ -1415,33 +1415,31 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>The Lost City</beq_title>
+		<beq_title>The Black Phone</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>lost city</beq_sortTitle>
-		<beq_year>2022</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/LBhpeUI.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/xKhQMSa.jpg</beq_pvaURL>
+		<beq_sortTitle>black phone</beq_sortTitle>
+		<beq_year>2021</beq_year>
+		<beq_spectrumURL>https://i.imgur.com/hoipNHS.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/bCQ6Qno.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>6.0</beq_gain>
+		<beq_gain>2.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>Follows a reclusive romance novelist who was sure nothing could be worse than getting stuck on a book tour with her cover model, until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions.</beq_overview>
-		<beq_rating>PG-13</beq_rating>
+		<beq_overview>Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.</beq_overview>
+		<beq_rating>R</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61663412</beq_avs>
-		<beq_theMovieDB>752623</beq_theMovieDB>
-		<beq_poster>/neMZH82Stu91d3iqvLdNQfqPPyl.jpg</beq_poster>
-		<beq_runtime>112</beq_runtime>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61816892</beq_avs>
+		<beq_theMovieDB>756999</beq_theMovieDB>
+		<beq_poster>/bxHZpV02OOu9vq3sb3MsOudEnYc.jpg</beq_poster>
+		<beq_runtime>103</beq_runtime>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
-			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10749">Romance</genre>
-			<genre id="35">Comedy</genre>
-			<genre id="12">Adventure</genre>
+			<genre id="27">Horror</genre>
+			<genre id="53">Thriller</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>

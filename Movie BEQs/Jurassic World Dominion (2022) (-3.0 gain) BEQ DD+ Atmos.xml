@@ -804,47 +804,47 @@
 	<filter addr="8280" name="PEQ_1_1">
 		<freq>10</freq>
 		<q>0.9</q>
-		<boost>3.7</boost>
+		<boost>-0.7</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000776120890318,-1.9993460190245353,0.9992689368128173,1.999346110923661,-0.9993464570027231,</dec>
-		<hex>3f80028b,bfffea92,3f7fd017,3fffea93,bf7fd52b,</hex>
+		<dec>0.999985344051998,-1.9992578258151343,0.9992728930607173,1.9992578085556656,-0.9992582543721835,</dec>
+		<hex>3f7fff0a,bfffe7ae,3f7fd059,3fffe7ae,bf7fcf64,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.1</boost>
+		<freq>25</freq>
+		<q>1.2</q>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0003177646987886,-1.9984888887689083,0.9981740673722485,1.9984896312901723,-0.9984910895497734,</dec>
-		<hex>3f800a6a,bfffce7c,3f7f8856,3fffce82,bf7f9d1d,</hex>
+		<dec>1.0001971811654555,-1.9988171340373215,0.9986235210040711,1.9988179148493277,-0.9988199213575206,</dec>
+		<hex>3f800676,bfffd93d,3f7fa5cb,3fffd944,bf7fb2aa,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.1</boost>
+		<freq>25</freq>
+		<q>1.2</q>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0003177646987886,-1.9984888887689083,0.9981740673722485,1.9984896312901723,-0.9984910895497734,</dec>
-		<hex>3f800a6a,bfffce7c,3f7f8856,3fffce82,bf7f9d1d,</hex>
+		<dec>1.0001971811654555,-1.9988171340373215,0.9986235210040711,1.9988179148493277,-0.9988199213575206,</dec>
+		<hex>3f800676,bfffd93d,3f7fa5cb,3fffd944,bf7fb2aa,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.1</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0003177646987886,-1.9984888887689083,0.9981740673722485,1.9984896312901723,-0.9984910895497734,</dec>
-		<hex>3f800a6a,bfffce7c,3f7f8856,3fffce82,bf7f9d1d,</hex>
-	</filter>
-	<filter addr="8300" name="PEQ_1_5">
-		<freq>65</freq>
-		<q>0.8</q>
-		<boost>0.2</boost>
+		<freq>42</freq>
+		<q>0.9</q>
+		<boost>1.5</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.000061064099319,-1.9947388183992636,0.9946958053845854,1.9947388183992636,-0.9947568694839045,</dec>
-		<hex>3f800200,bfff539a,3f7ea462,3fff539a,bf7ea863,</hex>
+		<dec>1.0002636898504047,-1.997194716923102,0.9969385729133821,1.997194716923102,-0.9972022627637869,</dec>
+		<hex>3f8008a4,bfffa414,3f7f375e,3fffa414,bf7f48a6,</hex>
+	</filter>
+	<filter addr="8300" name="PEQ_1_5">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
 		<freq>1000</freq>
@@ -894,47 +894,47 @@
 	<filter addr="8330" name="PEQ_2_1">
 		<freq>10</freq>
 		<q>0.9</q>
-		<boost>3.7</boost>
+		<boost>-0.7</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000776120890318,-1.9993460190245353,0.9992689368128173,1.999346110923661,-0.9993464570027231,</dec>
-		<hex>3f80028b,bfffea92,3f7fd017,3fffea93,bf7fd52b,</hex>
+		<dec>0.999985344051998,-1.9992578258151343,0.9992728930607173,1.9992578085556656,-0.9992582543721835,</dec>
+		<hex>3f7fff0a,bfffe7ae,3f7fd059,3fffe7ae,bf7fcf64,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.1</boost>
+		<freq>25</freq>
+		<q>1.2</q>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0003177646987886,-1.9984888887689083,0.9981740673722485,1.9984896312901723,-0.9984910895497734,</dec>
-		<hex>3f800a6a,bfffce7c,3f7f8856,3fffce82,bf7f9d1d,</hex>
+		<dec>1.0001971811654555,-1.9988171340373215,0.9986235210040711,1.9988179148493277,-0.9988199213575206,</dec>
+		<hex>3f800676,bfffd93d,3f7fa5cb,3fffd944,bf7fb2aa,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.1</boost>
+		<freq>25</freq>
+		<q>1.2</q>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0003177646987886,-1.9984888887689083,0.9981740673722485,1.9984896312901723,-0.9984910895497734,</dec>
-		<hex>3f800a6a,bfffce7c,3f7f8856,3fffce82,bf7f9d1d,</hex>
+		<dec>1.0001971811654555,-1.9988171340373215,0.9986235210040711,1.9988179148493277,-0.9988199213575206,</dec>
+		<hex>3f800676,bfffd93d,3f7fa5cb,3fffd944,bf7fb2aa,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>22</freq>
-		<q>0.8</q>
-		<boost>6.1</boost>
-		<type>SL</type>
-		<bypass>0</bypass>
-		<dec>1.0003177646987886,-1.9984888887689083,0.9981740673722485,1.9984896312901723,-0.9984910895497734,</dec>
-		<hex>3f800a6a,bfffce7c,3f7f8856,3fffce82,bf7f9d1d,</hex>
-	</filter>
-	<filter addr="8350" name="PEQ_2_5">
-		<freq>65</freq>
-		<q>0.8</q>
-		<boost>0.2</boost>
+		<freq>42</freq>
+		<q>0.9</q>
+		<boost>1.5</boost>
 		<type>PK</type>
 		<bypass>0</bypass>
-		<dec>1.000061064099319,-1.9947388183992636,0.9946958053845854,1.9947388183992636,-0.9947568694839045,</dec>
-		<hex>3f800200,bfff539a,3f7ea462,3fff539a,bf7ea863,</hex>
+		<dec>1.0002636898504047,-1.997194716923102,0.9969385729133821,1.997194716923102,-0.9972022627637869,</dec>
+		<hex>3f8008a4,bfffa414,3f7f375e,3fffa414,bf7f48a6,</hex>
+	</filter>
+	<filter addr="8350" name="PEQ_2_5">
+		<freq>1000</freq>
+		<q>0.9</q>
+		<boost>0.0</boost>
+		<type>PK</type>
+		<bypass>1</bypass>
+		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
 		<freq>1000</freq>
@@ -1415,33 +1415,33 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>The Lost City</beq_title>
+		<beq_title>Jurassic World Dominion</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>lost city</beq_sortTitle>
+		<beq_sortTitle>jurassic world dominion</beq_sortTitle>
 		<beq_year>2022</beq_year>
-		<beq_spectrumURL>https://i.imgur.com/LBhpeUI.png</beq_spectrumURL>
-		<beq_pvaURL>https://i.imgur.com/xKhQMSa.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/d4XdgFi.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/GUNmVxV.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
-		<beq_gain>6.0</beq_gain>
+		<beq_gain>-3.0</beq_gain>
 		<beq_language>English</beq_language>
 		<beq_source>Disc</beq_source>
-		<beq_overview>Follows a reclusive romance novelist who was sure nothing could be worse than getting stuck on a book tour with her cover model, until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions.</beq_overview>
+		<beq_overview>Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.</beq_overview>
 		<beq_rating>PG-13</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61663412</beq_avs>
-		<beq_theMovieDB>752623</beq_theMovieDB>
-		<beq_poster>/neMZH82Stu91d3iqvLdNQfqPPyl.jpg</beq_poster>
-		<beq_runtime>112</beq_runtime>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61816838</beq_avs>
+		<beq_theMovieDB>507086</beq_theMovieDB>
+		<beq_poster>/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg</beq_poster>
+		<beq_runtime>147</beq_runtime>
+		<beq_collection id="328">Jurassic Park Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
-			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10749">Romance</genre>
-			<genre id="35">Comedy</genre>
 			<genre id="12">Adventure</genre>
+			<genre id="878">Science Fiction</genre>
+			<genre id="28">Action</genre>
 		</beq_genres>
 	</beq_metadata>
 </setting>
