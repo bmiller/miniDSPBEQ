@@ -802,58 +802,58 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>28</freq>
-		<q>0.8</q>
-		<boost>5.2</boost>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0003443032133612,-1.9980261204134238,0.9976863431029819,1.998027139780561,-0.9980296269492065,</dec>
-		<hex>3f800b48,bfffbf52,3f7f685f,3fffbf5a,bf7f7edf,</hex>
+		<dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
+		<hex>3f800371,bfffeb5b,3f7fcfde,3fffeb5c,bf7fd6be,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>90</freq>
-		<q>1.0</q>
-		<boost>0.1</boost>
-		<type>PK</type>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>5.0</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.000033809350989,-1.994125862230346,0.9941266492975938,1.994125862230346,-0.9941604586485825,</dec>
-		<hex>3f80011c,bfff3f84,3f7e7f16,3fff3f84,bf7e814d,</hex>
+		<dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
+		<hex>3f800371,bfffeb5b,3f7fcfde,3fffeb5c,bf7fd6be,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>1000</freq>
+		<freq>10</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>5.0</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
+		<hex>3f800371,bfffeb5b,3f7fcfde,3fffeb5c,bf7fd6be,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>1000</freq>
+		<freq>20</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>4.7</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001974620418908,-1.9987286147712024,0.9985333971355348,1.9987290837362712,-0.9987303902123558,</dec>
+		<hex>3f800678,bfffd657,3f7f9fe2,3fffd65b,bf7faccb,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
-		<freq>1000</freq>
+		<freq>20</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>4.7</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001974620418908,-1.9987286147712024,0.9985333971355348,1.9987290837362712,-0.9987303902123558,</dec>
+		<hex>3f800678,bfffd657,3f7f9fe2,3fffd65b,bf7faccb,</hex>
 	</filter>
 	<filter addr="8305" name="PEQ_1_6">
-		<freq>1000</freq>
+		<freq>42</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
+		<boost>0.6</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0001053580954755,-1.997046170633329,0.9969483578172976,1.997046170633329,-0.9970537159127733,</dec>
+		<hex>3f800374,bfff9f35,3f7f3802,3fff9f35,bf7f3eea,</hex>
 	</filter>
 	<filter addr="8310" name="PEQ_1_7">
 		<freq>1000</freq>
@@ -892,58 +892,58 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>28</freq>
-		<q>0.8</q>
-		<boost>5.2</boost>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>5.0</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0003443032133612,-1.9980261204134238,0.9976863431029819,1.998027139780561,-0.9980296269492065,</dec>
-		<hex>3f800b48,bfffbf52,3f7f685f,3fffbf5a,bf7f7edf,</hex>
+		<dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
+		<hex>3f800371,bfffeb5b,3f7fcfde,3fffeb5c,bf7fd6be,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>90</freq>
-		<q>1.0</q>
-		<boost>0.1</boost>
-		<type>PK</type>
+		<freq>10</freq>
+		<q>0.9</q>
+		<boost>5.0</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.000033809350989,-1.994125862230346,0.9941266492975938,1.994125862230346,-0.9941604586485825,</dec>
-		<hex>3f80011c,bfff3f84,3f7e7f16,3fff3f84,bf7e814d,</hex>
+		<dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
+		<hex>3f800371,bfffeb5b,3f7fcfde,3fffeb5c,bf7fd6be,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>1000</freq>
+		<freq>10</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>5.0</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001050464859713,-1.999370005135256,0.9992655297077059,1.9993701300995919,-0.9993704512293412,</dec>
+		<hex>3f800371,bfffeb5b,3f7fcfde,3fffeb5c,bf7fd6be,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>1000</freq>
+		<freq>20</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>4.7</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001974620418908,-1.9987286147712024,0.9985333971355348,1.9987290837362712,-0.9987303902123558,</dec>
+		<hex>3f800678,bfffd657,3f7f9fe2,3fffd65b,bf7faccb,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
-		<freq>1000</freq>
+		<freq>20</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<boost>4.7</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.0001974620418908,-1.9987286147712024,0.9985333971355348,1.9987290837362712,-0.9987303902123558,</dec>
+		<hex>3f800678,bfffd657,3f7f9fe2,3fffd65b,bf7faccb,</hex>
 	</filter>
 	<filter addr="8355" name="PEQ_2_6">
-		<freq>1000</freq>
+		<freq>42</freq>
 		<q>0.9</q>
-		<boost>0.0</boost>
+		<boost>0.6</boost>
 		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<bypass>0</bypass>
+		<dec>1.0001053580954755,-1.997046170633329,0.9969483578172976,1.997046170633329,-0.9970537159127733,</dec>
+		<hex>3f800374,bfff9f35,3f7f3802,3fff9f35,bf7f3eea,</hex>
 	</filter>
 	<filter addr="8360" name="PEQ_2_7">
 		<freq>1000</freq>
@@ -1415,36 +1415,34 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>House of the Dragon</beq_title>
+		<beq_title>Sonic the Hedgehog 2</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>house of the dragon</beq_sortTitle>
+		<beq_sortTitle>sonic the hedgehog 2</beq_sortTitle>
 		<beq_year>2022</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/fKDkrFz.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/IY76cPu.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/Ihrf3g7.jpg</beq_pvaURL>
 		<beq_edition />
 		<beq_note />
 		<beq_warning />
 		<beq_gain>4.0</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>HBO Max</beq_source>
-		<beq_overview>The prequel series finds the Targaryen dynasty at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires—real and imagined—crumble from such heights. In the case of the Targaryens, their slow fall begins almost 193 years before the events of Game of Thrones, when King Viserys Targaryen breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.</beq_overview>
-		<beq_rating>TV-MA</beq_rating>
+		<beq_source>Disc</beq_source>
+		<beq_overview>After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.</beq_overview>
+		<beq_rating>PG</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61913165</beq_avs>
-		<beq_theMovieDB>94997</beq_theMovieDB>
-		<beq_poster>/z2yahl2uefxDCl0nogcRBstwruJ.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/goto/post?id=61696667</beq_avs>
+		<beq_theMovieDB>675353</beq_theMovieDB>
+		<beq_poster>/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg</beq_poster>
+		<beq_runtime>122</beq_runtime>
+		<beq_collection id="720879">Sonic the Hedgehog Collection</beq_collection>
 		<beq_audioTypes>
-			<audioType>DD+ Atmos</audioType>
+			<audioType>Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
-			<genre id="10759">Action &amp; Adventure</genre>
-			<genre id="18">Drama</genre>
+			<genre id="35">Comedy</genre>
+			<genre id="10751">Family</genre>
+			<genre id="28">Action</genre>
+			<genre id="12">Adventure</genre>
 		</beq_genres>
-		<beq_season id="94997">
-			<number>1</number>
-			<poster>/z2yahl2uefxDCl0nogcRBstwruJ.jpg</poster>
-			<episodes count="10">1,2,3</episodes>
-		</beq_season>
 	</beq_metadata>
 </setting>
