@@ -1438,13 +1438,13 @@
 		</beq_audioTypes>
 		<beq_genres>
 			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
-			<genre id="10759">Action &amp; Adventure</genre>
 			<genre id="18">Drama</genre>
+			<genre id="10759">Action &amp; Adventure</genre>
 		</beq_genres>
 		<beq_season id="94997">
 			<number>1</number>
 			<poster>/z2yahl2uefxDCl0nogcRBstwruJ.jpg</poster>
-			<episodes count="10">1,2,3</episodes>
+			<episodes count="10">1,2,3,4</episodes>
 		</beq_season>
 	</beq_metadata>
 </setting>
