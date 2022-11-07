@@ -802,40 +802,40 @@
 		</para>
 	</fir>
 	<filter addr="8280" name="PEQ_1_1">
-		<freq>22</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
+		<freq>11</freq>
+		<q>0.7</q>
+		<boost>4.9</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002404959059705,-1.9986212918698736,0.9983835908466973,1.9986219213601044,-0.9986234572624373,</dec>
-		<hex>3f8007e1,bfffd2d3,3f7f9611,3fffd2d8,bf7fa5c9,</hex>
+		<dec>1.000145542851225,-1.99910665054977,0.9989617946225943,1.9991067986324151,-0.9991071893911738,</dec>
+		<hex>3f8004c5,bfffe2ba,3f7fbbf6,3fffe2bb,bf7fc57d,</hex>
 	</filter>
 	<filter addr="8285" name="PEQ_1_2">
-		<freq>22</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
+		<freq>11</freq>
+		<q>0.7</q>
+		<boost>4.9</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002404959059705,-1.9986212918698736,0.9983835908466973,1.9986219213601044,-0.9986234572624373,</dec>
-		<hex>3f8007e1,bfffd2d3,3f7f9611,3fffd2d8,bf7fa5c9,</hex>
+		<dec>1.000145542851225,-1.99910665054977,0.9989617946225943,1.9991067986324151,-0.9991071893911738,</dec>
+		<hex>3f8004c5,bfffe2ba,3f7fbbf6,3fffe2bb,bf7fc57d,</hex>
 	</filter>
 	<filter addr="8290" name="PEQ_1_3">
-		<freq>50</freq>
-		<q>1.0</q>
-		<boost>0.4</boost>
-		<type>PK</type>
+		<freq>11</freq>
+		<q>0.7</q>
+		<boost>4.9</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000752381394842,-1.996796417705212,0.9967318716656904,1.996796417705212,-0.9968071098051745,</dec>
-		<hex>3f800277,bfff9706,3f7f29d2,3fff9706,bf7f2ec0,</hex>
+		<dec>1.000145542851225,-1.99910665054977,0.9989617946225943,1.9991067986324151,-0.9991071893911738,</dec>
+		<hex>3f8004c5,bfffe2ba,3f7fbbf6,3fffe2bb,bf7fc57d,</hex>
 	</filter>
 	<filter addr="8295" name="PEQ_1_4">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>11</freq>
+		<q>0.7</q>
+		<boost>4.9</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.000145542851225,-1.99910665054977,0.9989617946225943,1.9991067986324151,-0.9991071893911738,</dec>
+		<hex>3f8004c5,bfffe2ba,3f7fbbf6,3fffe2bb,bf7fc57d,</hex>
 	</filter>
 	<filter addr="8300" name="PEQ_1_5">
 		<freq>1000</freq>
@@ -892,40 +892,40 @@
 		<hex>3f800000,0,0,80000000,80000000,</hex>
 	</filter>
 	<filter addr="8330" name="PEQ_2_1">
-		<freq>22</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
+		<freq>11</freq>
+		<q>0.7</q>
+		<boost>4.9</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002404959059705,-1.9986212918698736,0.9983835908466973,1.9986219213601044,-0.9986234572624373,</dec>
-		<hex>3f8007e1,bfffd2d3,3f7f9611,3fffd2d8,bf7fa5c9,</hex>
+		<dec>1.000145542851225,-1.99910665054977,0.9989617946225943,1.9991067986324151,-0.9991071893911738,</dec>
+		<hex>3f8004c5,bfffe2ba,3f7fbbf6,3fffe2bb,bf7fc57d,</hex>
 	</filter>
 	<filter addr="8335" name="PEQ_2_2">
-		<freq>22</freq>
-		<q>0.9</q>
-		<boost>5.2</boost>
+		<freq>11</freq>
+		<q>0.7</q>
+		<boost>4.9</boost>
 		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0002404959059705,-1.9986212918698736,0.9983835908466973,1.9986219213601044,-0.9986234572624373,</dec>
-		<hex>3f8007e1,bfffd2d3,3f7f9611,3fffd2d8,bf7fa5c9,</hex>
+		<dec>1.000145542851225,-1.99910665054977,0.9989617946225943,1.9991067986324151,-0.9991071893911738,</dec>
+		<hex>3f8004c5,bfffe2ba,3f7fbbf6,3fffe2bb,bf7fc57d,</hex>
 	</filter>
 	<filter addr="8340" name="PEQ_2_3">
-		<freq>50</freq>
-		<q>1.0</q>
-		<boost>0.4</boost>
-		<type>PK</type>
+		<freq>11</freq>
+		<q>0.7</q>
+		<boost>4.9</boost>
+		<type>SL</type>
 		<bypass>0</bypass>
-		<dec>1.0000752381394842,-1.996796417705212,0.9967318716656904,1.996796417705212,-0.9968071098051745,</dec>
-		<hex>3f800277,bfff9706,3f7f29d2,3fff9706,bf7f2ec0,</hex>
+		<dec>1.000145542851225,-1.99910665054977,0.9989617946225943,1.9991067986324151,-0.9991071893911738,</dec>
+		<hex>3f8004c5,bfffe2ba,3f7fbbf6,3fffe2bb,bf7fc57d,</hex>
 	</filter>
 	<filter addr="8345" name="PEQ_2_4">
-		<freq>1000</freq>
-		<q>0.9</q>
-		<boost>0.0</boost>
-		<type>PK</type>
-		<bypass>1</bypass>
-		<dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-		<hex>3f800000,0,0,80000000,80000000,</hex>
+		<freq>11</freq>
+		<q>0.7</q>
+		<boost>4.9</boost>
+		<type>SL</type>
+		<bypass>0</bypass>
+		<dec>1.000145542851225,-1.99910665054977,0.9989617946225943,1.9991067986324151,-0.9991071893911738,</dec>
+		<hex>3f8004c5,bfffe2ba,3f7fbbf6,3fffe2bb,bf7fc57d,</hex>
 	</filter>
 	<filter addr="8350" name="PEQ_2_5">
 		<freq>1000</freq>
@@ -1415,36 +1415,33 @@
 	</filter>
 	<link>PEQ_1:PEQ_2,</link>
 	<beq_metadata>
-		<beq_title>Star Wars: Andor</beq_title>
+		<beq_title>Enola Holmes 2</beq_title>
 		<beq_alt_title />
-		<beq_sortTitle>star wars: andor</beq_sortTitle>
+		<beq_sortTitle>enola holmes 2</beq_sortTitle>
 		<beq_year>2022</beq_year>
-		<beq_spectrumURL />
-		<beq_pvaURL>https://i.imgur.com/wflxeyW.jpg</beq_pvaURL>
+		<beq_spectrumURL>https://i.imgur.com/lAiaMc0.png</beq_spectrumURL>
+		<beq_pvaURL>https://i.imgur.com/WuZc76a.jpg</beq_pvaURL>
 		<beq_edition />
-		<beq_note>4dB dialnorm compensation</beq_note>
+		<beq_note />
 		<beq_warning />
-		<beq_gain>4.5</beq_gain>
+		<beq_gain>5.0</beq_gain>
 		<beq_language>English</beq_language>
-		<beq_source>Disney+</beq_source>
-		<beq_overview>The tale of the burgeoning rebellion against the Empire and how people and planets became involved. In an era filled with danger, deception and intrigue, Cassian Andor embarks on the path that is destined to turn him into a rebel hero.</beq_overview>
-		<beq_rating>TV-14</beq_rating>
+		<beq_source>Netflix</beq_source>
+		<beq_overview>Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends — and Sherlock himself — to unravel.</beq_overview>
+		<beq_rating>PG-13</beq_rating>
 		<beq_author>aron7awol</beq_author>
-		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61986711</beq_avs>
-		<beq_theMovieDB>83867</beq_theMovieDB>
-		<beq_poster>/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg</beq_poster>
+		<beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62090276</beq_avs>
+		<beq_theMovieDB>829280</beq_theMovieDB>
+		<beq_poster>/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg</beq_poster>
+		<beq_runtime>129</beq_runtime>
+		<beq_collection id="829314">Enola Holmes Collection</beq_collection>
 		<beq_audioTypes>
 			<audioType>DD+ Atmos</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
-			<genre id="10759">Action &amp; Adventure</genre>
-			<genre id="10768">War &amp; Politics</genre>
+			<genre id="12">Adventure</genre>
+			<genre id="80">Crime</genre>
+			<genre id="9648">Mystery</genre>
 		</beq_genres>
-		<beq_season id="83867">
-			<number>1</number>
-			<poster>/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg</poster>
-			<episodes count="12">1,2,3,4,5,6,7</episodes>
-		</beq_season>
 	</beq_metadata>
 </setting>
