@@ -1437,13 +1437,13 @@
 			<audioType>DD+</audioType>
 		</beq_audioTypes>
 		<beq_genres>
-			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
 			<genre id="18">Drama</genre>
+			<genre id="10765">Sci-Fi &amp; Fantasy</genre>
 		</beq_genres>
 		<beq_season id="95403">
 			<number>1</number>
 			<poster>/qtuAjmUWY7xIEOg0yfpqLkHSeeu.jpg</poster>
-			<episodes count="8">1,2,3</episodes>
+			<episodes count="8">1,2,3,5</episodes>
 		</beq_season>
 	</beq_metadata>
 </setting>
