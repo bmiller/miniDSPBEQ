@@ -6,13 +6,13 @@ on:
       - 'main'
 jobs:
   build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: octokit/request-action@v2.x
         with:
           route: POST /repos/{owner}/{repo}/dispatches
           owner: 3ll3d00d
           repo: beqcatalogue
-          event_type: trigger
+          event_type: 'trigger'
         env:
           GITHUB_TOKEN: ${{ secrets.TRIGGER_BEQCATALOGUE }}	
